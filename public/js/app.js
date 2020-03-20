@@ -2783,27 +2783,47 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
   data: function data() {
     return {
       isVisible: true,
-      products: []
+      products: [],
+      imageId: 0,
+      countDown: 10
     };
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-  } //     blink() {
-  //     // Toggle the position.
-  //     if(this.isVisible == true) this.isVisible = false;
-  //     else                       this.isVisible = true;
-  //
-  //
-  //     setTimeout('this.blink', 2000);
-  // }
+  },
+  methods: {
+    showImage: function showImage(id) {
+      this.imageId = id;
+      this.countDownTimer();
+    },
+    countDownTimer: function countDownTimer() {
+      var _this = this;
 
+      if (this.countDown > 0) {
+        setTimeout(function () {
+          _this.countDown -= 1;
+
+          _this.countDownTimer();
+        }, 1000);
+      }
+    }
+  }
 });
 
 /***/ }),
@@ -7351,7 +7371,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#productImage[data-v-59ad00fa]{\n    height: 500px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n", ""]);
+exports.push([module.i, "\n#productImage[data-v-59ad00fa]{\n    height: 500px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
@@ -44179,20 +44199,37 @@ var render = function() {
               [_vm._v(_vm._s(product.title) + "t")]
             ),
             _vm._v(" "),
-            _c("div", { staticClass: "card-body" }, [
-              1 === product.id
-                ? _c("div", {
-                    staticClass: "circular",
-                    style: {
-                      backgroundImage:
-                        "url(http://f26.test/" + product.img_path + ")"
-                    },
-                    attrs: { id: "productImage" }
-                  })
-                : _vm._e()
-            ]),
+            _vm.countDown == 0
+              ? _c("div", { staticClass: "card-body" }, [
+                  _vm.imageId === product.id
+                    ? _c("div", {
+                        staticClass: "circular",
+                        style: {
+                          backgroundImage:
+                            "url(http://f26.test/" + product.img_path + ")"
+                        },
+                        attrs: { id: "productImage" }
+                      })
+                    : _vm._e()
+                ])
+              : _vm._e(),
             _vm._v(" "),
-            _vm._m(0, true)
+            _c(
+              "div",
+              { staticClass: "card-footer d-flex justify-content-center " },
+              [
+                _c("i", {
+                  staticClass: "fas fa-play-circle",
+                  on: {
+                    click: function($event) {
+                      return _vm.showImage(product.id)
+                    }
+                  }
+                }),
+                _vm._v(" "),
+                _c("p", [_vm._v(_vm._s(_vm.countDown))])
+              ]
+            )
           ])
         }),
         0
@@ -44200,23 +44237,7 @@ var render = function() {
     ])
   ])
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "card-footer d-flex justify-content-center " },
-      [
-        _c("i", {
-          staticClass: "fas fa-play-circle",
-          staticStyle: { "font-size": "40px" }
-        })
-      ]
-    )
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 
 
