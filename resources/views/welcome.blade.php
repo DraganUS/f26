@@ -9,6 +9,9 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+
         <!-- Fonts -->
         <link rel="dns-prefetch" href="//fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
@@ -78,10 +81,32 @@
     </head>
     <body>
     <div id="app">
-        <nav style="height: 80px; padding: 0 16px; border-bottom: 1px solid #DADDEC; position: sticky; top: 0; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
+        <nav style="height: 80px;z-index: 1200; padding: 0 16px; border-bottom: 1px solid #DADDEC; position: sticky; top: 0; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
             <div class="container">
                 <a class="navbar-brand" style="color: #2b6bde; font-size: 26px" href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
+                    <svg width="283px" height="33px" viewBox="0 0 253 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title> {{ config('app.name', 'Laravel') }}</title>
+                        <desc>Created by DraganUS</desc>
+                        <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="Desktop" transform="translate(-238.000000, -318.000000)">
+                                <g id="Group-3" transform="translate(238.000000, 312.000000)">
+                                    <polyline id="Path" stroke="#2B6BDE" stroke-width="5" points="20.340671 62 20.340671 13 -2.25826813e-15 13 41 13"></polyline>
+                                    <path d="M84,61 C84,53.2050338 77.6183694,36.8717004 64.8551083,12 C52.2850361,36.9117722 46,53.2451055 46,61" id="Path-2" stroke="#2B6BDE" stroke-width="5"></path>
+                                    <g id="Group-2" transform="translate(97.000000, 11.000000)" stroke="#2B6BDE" stroke-width="5">
+                                        <polyline id="Path-4" points="3.77777778 23.3118613 31.8559515 23.3118613 34 23.3118613 34 0.624739679 34 50.5622397"></polyline>
+                                        <polygon id="Path-4" points="1.25925926 23.3118613 1.25925926 0.624739679 1.25925926 50.5622397"></polygon>
+                                    </g>
+                                    <g id="Group" transform="translate(140.000000, 12.000000)" stroke="#2B6BDE" stroke-width="4">
+                                        <polyline id="Path-5" points="0 0.533333333 14.0029616 0.533333333 28.2525532 0.533333333"></polyline>
+                                        <polyline id="Path-6" points="14.1262766 1.06666667 14.1262766 47.4510256 28.2525532 47.4510256 0 47.4510256"></polyline>
+                                    </g>
+                                    <text id="26" font-family="BanglaSangamMN, Bangla Sangam MN" font-size="72" font-weight="normal" fill="#172745">
+                                        <tspan x="178.84375" y="59">26</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -129,7 +154,9 @@
             </div>
         </nav>
         <div class="mx-3 ">
-
+            <home-main-component></home-main-component>
+            <home-main-component></home-main-component>
+            <home-main-component></home-main-component>
         </div>
         <main class="py-4">
             @yield('content')

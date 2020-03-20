@@ -6,6 +6,11 @@
 
     <title>Laravel</title>
 
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
@@ -66,7 +71,7 @@
 </head>
 <body>
 <div id="app">
-    <nav style="height: 80px; padding: 0 16px; border-bottom: 1px solid #DADDEC; position: sticky; top: 0; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
+    <nav style="height: 80px; padding: 0 16px; border-bottom: 1px solid #DADDEC; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
         <div class="container">
             <a class="navbar-brand" style="color: #2b6bde; font-size: 26px" href="{{ url('/') }}">
                 {{ config('app.name', 'Laravel') }}
@@ -120,5 +125,6 @@
         @yield('content')
     </main>
 </div>
+<script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>

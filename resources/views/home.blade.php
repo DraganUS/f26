@@ -3,20 +3,13 @@
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">Dashboard</div>
-
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-                        <video id="video" width="720" height="560" autoplay muted></video>
-                </div>
+        <show-image-component products-db="{{json_encode($products)}}"></show-image-component>
+        @foreach($products as $product)
+            <div class="container alert-primary">
+                <div>{{ $product->title }}</div>
             </div>
-        </div>
+        @endforeach
+        <video id="video" width="720" height="560" autoplay muted></video>
     </div>
 </div>
 @endsection
