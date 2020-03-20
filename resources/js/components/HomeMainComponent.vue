@@ -11,7 +11,6 @@
                     </div>
                     <div class="col">
                         <svg width="582px" height="418px" viewBox="0 0 582 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                            <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
                             <title>Illustration</title>
                             <desc>Created with Sketch.</desc>
                             <defs>

@@ -2,13 +2,13 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8" >
-                <div class="card dark">
-                    <div class="card-header d-flex justify-content-center ">Image Component</div>
+                <div class="card dark"  v-for="product in products" :key="product.id">
+                    <div class="card-header d-flex justify-content-center ">{{product.title}}t</div>
                     <div class="card-body">
-
+                        <div  id="productImage"  v-if="1 === product.id" class="circular" v-bind:style="{ backgroundImage: 'url(http://f26.test/' + product.img_path + ')' }"></div>
                     </div>
                     <div class="card-footer d-flex justify-content-center ">
-                        <i class="fas fa-play-circle"></i>
+                        <i style="font-size: 40px" class="fas fa-play-circle"></i>
                     </div>
                 </div>
             </div>
@@ -41,5 +41,10 @@
 </script>
 
 <style scoped>
-
+    #productImage{
+        height: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 </style>
