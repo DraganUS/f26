@@ -2,29 +2,34 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8" >
-                <div class="card dark"  v-for="product in products" :key="product.id">
-                    <div class="card-header d-flex justify-content-center ">{{product.title}}t</div>
+                <h3>Testing instructions:</h3>
+                <div>
+                    <span>
+                        Stand straight for the duration of the test and look straight at the screen.
+                        <br>
+                        Press play, after countdown you will be shown a picture for a split second.
+                        <br>
+                        <h4>remaining tests: {{this.products.length}}</h4>
+                    </span>
+                </div>
+                <div class="card dark mb-5" v-if="isVisible">
+                    <div class="card-header d-flex justify-content-center">Product ID: {{products[0].id}}</div>
+                    <div style="min-height: 380px">
+                        <div class="d-flex justify-content-center align-items-center" v-if="imageId === products[0].id">
+                    </div>
                     <div class="card-body" v-if="countDown == 0">
-                        <div  id="productImage"  v-if="imageId === product.id" class="circular" v-bind:style="{ backgroundImage: 'url(http://f26.test/' + product.img_path + ')' }"></div>
+                        <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'url(http://f26.test/' + products[0].img_path + ')' }"></div>
+                    </div>
                     </div>
                     <div class="card-footer d-flex justify-content-center ">
-                        <i @click="showImage(product.id)" class="fas fa-play-circle"></i>
-                        <p>{{countDown}}</p>
+                        <i @click="showImage(products[0].id)" class="fas fa-play-circle"></i>
                     </div>
                 </div>
+                <h2 v-else>Test Finish </h2>
             </div>
         </div>
     </div>
 </template>
-var downloadTimer = setInterval(function(){
-if(timeleft <= 0){
-clearInterval(downloadTimer);
-document.getElementById("countdown").innerHTML = "Finished";
-} else {
-document.getElementById("countdown").innerHTML = timeleft + " seconds remaining";
-}
-timeleft -= 1;
-}, 1000);
 <script>
     export default {
         props: ['productsDb'],
@@ -33,7 +38,8 @@ timeleft -= 1;
             isVisible: true,
             products: [],
             imageId: 0,
-            countDown : 10
+            countDown : 5,
+            testedID: 0,
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
@@ -42,14 +48,33 @@ timeleft -= 1;
         methods: {
             showImage(id){
                 this.imageId = id;
+                this.testedID = id;
                 this.countDownTimer();
             },
             countDownTimer() {
-                if(this.countDown > 0) {
+                if(this.countDown > -2) {
                     setTimeout(() => {
-                        this.countDown -= 1
+                        this.countDown -= 1;
                         this.countDownTimer()
-                    }, 1000)
+                    }, 120)
+                }
+                if (this.countDown == -2){
+                    this.countDown = 5;
+                    this.removeTestedProduct();
+                }
+            },
+            removeTestedProduct(){
+                if (this.products.length == 1){
+                       this.isVisible = false;
+                       this.products = '';
+                }else {
+                    console.log(this.products.length);
+                    for(let i = 0; i < this.products.length; i++) {
+                        if(this.products[i].id == this.testedID) {
+                            this.products.splice(i, 1);
+                            break;
+                        }
+                    }
                 }
             }
         },
@@ -57,8 +82,11 @@ timeleft -= 1;
 </script>
 
 <style scoped>
+    .container{
+        font-family: 'Inconsolata', monospace;
+    }
     #productImage{
-        height: 500px;
+        height: 300px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;

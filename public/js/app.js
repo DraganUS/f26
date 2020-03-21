@@ -2792,6 +2792,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -2800,7 +2805,8 @@ __webpack_require__.r(__webpack_exports__);
       isVisible: true,
       products: [],
       imageId: 0,
-      countDown: 10
+      countDown: 5,
+      testedID: 0
     };
   },
   mounted: function mounted() {
@@ -2810,17 +2816,38 @@ __webpack_require__.r(__webpack_exports__);
   methods: {
     showImage: function showImage(id) {
       this.imageId = id;
+      this.testedID = id;
       this.countDownTimer();
     },
     countDownTimer: function countDownTimer() {
       var _this = this;
 
-      if (this.countDown > 0) {
+      if (this.countDown > -2) {
         setTimeout(function () {
           _this.countDown -= 1;
 
           _this.countDownTimer();
-        }, 1000);
+        }, 120);
+      }
+
+      if (this.countDown == -2) {
+        this.countDown = 5;
+        this.removeTestedProduct();
+      }
+    },
+    removeTestedProduct: function removeTestedProduct() {
+      if (this.products.length == 1) {
+        this.isVisible = false;
+        this.products = '';
+      } else {
+        console.log(this.products.length);
+
+        for (var i = 0; i < this.products.length; i++) {
+          if (this.products[i].id == this.testedID) {
+            this.products.splice(i, 1);
+            break;
+          }
+        }
       }
     }
   }
@@ -7371,7 +7398,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#productImage[data-v-59ad00fa]{\n    height: 500px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
+exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
@@ -44188,52 +44215,77 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "container" }, [
     _c("div", { staticClass: "row justify-content-center" }, [
-      _c(
-        "div",
-        { staticClass: "col-md-8" },
-        _vm._l(_vm.products, function(product) {
-          return _c("div", { key: product.id, staticClass: "card dark" }, [
-            _c(
-              "div",
-              { staticClass: "card-header d-flex justify-content-center " },
-              [_vm._v(_vm._s(product.title) + "t")]
+      _c("div", { staticClass: "col-md-8" }, [
+        _c("h3", [_vm._v("Testing instructions:")]),
+        _vm._v(" "),
+        _c("div", [
+          _c("span", [
+            _vm._v(
+              "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
             ),
+            _c("br"),
+            _vm._v(
+              "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
+            ),
+            _c("br"),
             _vm._v(" "),
-            _vm.countDown == 0
-              ? _c("div", { staticClass: "card-body" }, [
-                  _vm.imageId === product.id
-                    ? _c("div", {
-                        staticClass: "circular",
-                        style: {
-                          backgroundImage:
-                            "url(http://f26.test/" + product.img_path + ")"
-                        },
-                        attrs: { id: "productImage" }
-                      })
-                    : _vm._e()
-                ])
-              : _vm._e(),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "card-footer d-flex justify-content-center " },
-              [
-                _c("i", {
-                  staticClass: "fas fa-play-circle",
-                  on: {
-                    click: function($event) {
-                      return _vm.showImage(product.id)
-                    }
-                  }
-                }),
-                _vm._v(" "),
-                _c("p", [_vm._v(_vm._s(_vm.countDown))])
-              ]
-            )
+            _c("h4", [
+              _vm._v("remaining tests: " + _vm._s(this.products.length))
+            ])
           ])
-        }),
-        0
-      )
+        ]),
+        _vm._v(" "),
+        _vm.isVisible
+          ? _c("div", { staticClass: "card dark mb-5" }, [
+              _c(
+                "div",
+                { staticClass: "card-header d-flex justify-content-center" },
+                [_vm._v("Product ID: " + _vm._s(_vm.products[0].id))]
+              ),
+              _vm._v(" "),
+              _c("div", { staticStyle: { "min-height": "380px" } }, [
+                _vm.imageId === _vm.products[0].id
+                  ? _c("div", {
+                      staticClass:
+                        "d-flex justify-content-center align-items-center"
+                    })
+                  : _vm._e(),
+                _vm._v(" "),
+                _vm.countDown == 0
+                  ? _c("div", { staticClass: "card-body" }, [
+                      _vm.imageId === _vm.products[0].id
+                        ? _c("div", {
+                            staticClass: "circular",
+                            style: {
+                              backgroundImage:
+                                "url(http://f26.test/" +
+                                _vm.products[0].img_path +
+                                ")"
+                            },
+                            attrs: { id: "productImage" }
+                          })
+                        : _vm._e()
+                    ])
+                  : _vm._e()
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "card-footer d-flex justify-content-center " },
+                [
+                  _c("i", {
+                    staticClass: "fas fa-play-circle",
+                    on: {
+                      click: function($event) {
+                        return _vm.showImage(_vm.products[0].id)
+                      }
+                    }
+                  })
+                ]
+              )
+            ])
+          : _c("h2", [_vm._v("Test Finish ")])
+      ])
     ])
   ])
 }
