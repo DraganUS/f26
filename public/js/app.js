@@ -44258,7 +44258,7 @@ var render = function() {
                             staticClass: "circular",
                             style: {
                               backgroundImage:
-                                "url(http://f26.test/" +
+                                "url(http://142.93.168.134//" +
                                 _vm.products[0].img_path +
                                 ")"
                             },

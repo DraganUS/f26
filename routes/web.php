@@ -4,7 +4,7 @@
 
 Auth::routes();
 //
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/tachistoskop-facial', 'HomeController@index')->name('home');
 
 /*
 |--------------------------------------------------------------------------
