@@ -44267,7 +44267,7 @@ var render = function() {
             ),
             _c("br"),
             _vm._v(" "),
-            this.products.length > 1
+            this.products.length > 0
               ? _c("h4", [
                   _vm._v(
                     "remaining tests: " + _vm._s(this.products.length) + " "
