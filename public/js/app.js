@@ -2828,7 +2828,7 @@ __webpack_require__.r(__webpack_exports__);
           _this.countDown -= 1;
 
           _this.countDownTimer();
-        }, 120);
+        }, 220);
       }
 
       if (this.countDown == -2) {
