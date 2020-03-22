@@ -44296,8 +44296,7 @@ var render = function() {
                             style: {
                               backgroundImage:
                                 "http://142.93.168.134/storage/" +
-                                _vm.products[0].img_path +
-                                ")"
+                                _vm.products[0].img_path
                             },
                             attrs: { id: "productImage" }
                           })
