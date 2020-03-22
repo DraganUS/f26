@@ -45,8 +45,8 @@
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
-            console.log(this.products)
-        }
+            console.log(this.products);
+        },
         methods: {
             showImage(id){
                 this.imageId = id;

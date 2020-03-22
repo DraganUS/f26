@@ -2759,9 +2759,99 @@ __webpack_require__.r(__webpack_exports__);
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ShowImage.vue?vue&type=script&lang=js& ***!
   \********************************************************************************************************************************************************************/
 /*! exports provided: default */
-/***/ (function(module, exports) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/Maslina/Documents/laravel/f26/resources/js/components/ShowImage.vue: Unexpected token, expected \",\" (50:4)\n\n\u001b[0m \u001b[90m 48 | \u001b[39m        console\u001b[33m.\u001b[39mlog(\u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mproducts)\u001b[0m\n\u001b[0m \u001b[90m 49 | \u001b[39m    }\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 50 | \u001b[39m    methods\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[0m \u001b[90m    | \u001b[39m    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 51 | \u001b[39m        showImage(id){\u001b[0m\n\u001b[0m \u001b[90m 52 | \u001b[39m            \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mimageId \u001b[33m=\u001b[39m id\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 53 | \u001b[39m            \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mtestedID \u001b[33m=\u001b[39m id\u001b[33m;\u001b[39m\u001b[0m\n    at Parser.raise (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:7017:17)\n    at Parser.unexpected (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:8395:16)\n    at Parser.expect (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:8381:28)\n    at Parser.parseObj (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9982:14)\n    at Parser.parseExprAtom (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9616:28)\n    at Parser.parseExprSubscripts (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9259:23)\n    at Parser.parseMaybeUnary (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9239:21)\n    at Parser.parseExprOps (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9109:23)\n    at Parser.parseMaybeConditional (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9082:23)\n    at Parser.parseMaybeAssign (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:9037:21)\n    at Parser.parseExportDefaultExpression (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:11866:24)\n    at Parser.parseExport (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:11768:31)\n    at Parser.parseStatementContent (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:10794:27)\n    at Parser.parseStatement (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:10690:17)\n    at Parser.parseBlockOrModuleBlockBody (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:11264:25)\n    at Parser.parseBlockBody (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:11251:10)\n    at Parser.parseTopLevel (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:10621:10)\n    at Parser.parse (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:12222:10)\n    at parse (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/parser/lib/index.js:12273:38)\n    at parser (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/core/lib/parser/index.js:54:34)\n    at parser.next (<anonymous>)\n    at normalizeFile (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/core/lib/transformation/normalize-file.js:93:38)\n    at normalizeFile.next (<anonymous>)\n    at run (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/core/lib/transformation/index.js:31:50)\n    at run.next (<anonymous>)\n    at Function.transform (/Users/Maslina/Documents/laravel/f26/node_modules/@babel/core/lib/transform.js:27:41)\n    at transform.next (<anonymous>)\n    at step (/Users/Maslina/Documents/laravel/f26/node_modules/gensync/index.js:254:32)\n    at gen.next (/Users/Maslina/Documents/laravel/f26/node_modules/gensync/index.js:266:13)\n    at async.call.value (/Users/Maslina/Documents/laravel/f26/node_modules/gensync/index.js:216:11)");
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  props: ['productsDb'],
+  name: "ShowImage",
+  data: function data() {
+    return {
+      isVisible: true,
+      products: [],
+      imageId: 0,
+      countDown: 5,
+      testedID: 0
+    };
+  },
+  mounted: function mounted() {
+    this.products = JSON.parse(this.productsDb);
+    console.log(this.products);
+  },
+  methods: {
+    showImage: function showImage(id) {
+      this.imageId = id;
+      this.testedID = id;
+      this.countDownTimer();
+    },
+    countDownTimer: function countDownTimer() {
+      var _this = this;
+
+      if (this.countDown > -2) {
+        setTimeout(function () {
+          _this.countDown -= 1;
+
+          _this.countDownTimer();
+        }, 1000);
+      }
+
+      if (this.countDown == -2) {
+        this.countDown = 5;
+        this.removeTestedProduct();
+      }
+    },
+    removeTestedProduct: function removeTestedProduct() {
+      if (this.products.length == 1) {
+        this.isVisible = false;
+        this.products = '';
+      } else {
+        console.log(this.products.length);
+
+        for (var i = 0; i < this.products.length; i++) {
+          if (this.products[i].id == this.testedID) {
+            this.products.splice(i, 1);
+            break;
+          }
+        }
+      }
+    }
+  }
+});
 
 /***/ }),
 
