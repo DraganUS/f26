@@ -44256,25 +44256,23 @@ var render = function() {
       _c("div", { staticClass: "col-md-8" }, [
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
-        _vm.imageId === _vm.products[0].id
-          ? _c("div", {
-              staticClass: "circular",
-              style: {
-                backgroundImage:
-                  "http://142.93.168.134/storage/" + _vm.products[0].img_path
-              },
-              attrs: { id: "productImage" }
-            })
-          : _vm._e(),
+        _c("div", {
+          staticClass: "circular",
+          style: {
+            backgroundImage:
+              "http://142.93.168.134/storage/" + _vm.products[0].img_path
+          },
+          attrs: { id: "productImage" }
+        }),
         _vm._v(" "),
         _c("div", [
           _c("span", [
             _vm._v(
-              "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
+              "\n                        Stand straight for the duration of the test and look straight at the screen.\n                        "
             ),
             _c("br"),
             _vm._v(
-              "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
+              "\n                        Press play, after countdown you will be shown a picture for a split second.\n                        "
             ),
             _c("br"),
             _vm._v(" "),
@@ -44301,19 +44299,7 @@ var render = function() {
                   : _vm._e(),
                 _vm._v(" "),
                 _vm.countDown == 0
-                  ? _c("div", { staticClass: "card-body" }, [
-                      _vm.imageId === _vm.products[0].id
-                        ? _c("div", {
-                            staticClass: "circular",
-                            style: {
-                              backgroundImage:
-                                "http://142.93.168.134/storage/" +
-                                _vm.products[0].img_path
-                            },
-                            attrs: { id: "productImage" }
-                          })
-                        : _vm._e()
-                    ])
+                  ? _c("div", { staticClass: "card-body" })
                   : _vm._e()
               ]),
               _vm._v(" "),

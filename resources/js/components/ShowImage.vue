@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8" >
                 <h3>Testing instructions:</h3>
-                <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }"></div>
+                <div  id="productImage"  class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }"></div>
                 <div>
                     <span>
                         Stand straight for the duration of the test and look straight at the screen.
@@ -19,7 +19,7 @@
                         <div class="d-flex justify-content-center align-items-center" v-if="imageId === products[0].id">
                     </div>
                     <div class="card-body" v-if="countDown == 0">
-                        <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }"></div>
+<!--                        <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }"></div>-->
                     </div>
                     </div>
                     <div class="card-footer d-flex justify-content-center ">
