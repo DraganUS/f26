@@ -4,8 +4,6 @@
             <div class="col-md-8" >
                 <h3>Testing instructions:</h3>
                 <div>
-                    <h2>asdasad</h2>
-                    <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path + ')' }"></div>
                     <span>
                         Stand straight for the duration of the test and look straight at the screen.
                         <br>
@@ -46,6 +44,8 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             console.log(this.products)
+            console.log('http://142.93.168.134/storage/' + this.products[0].img_path)
+
         },
         methods: {
             showImage(id){

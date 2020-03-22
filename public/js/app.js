@@ -2795,8 +2795,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -2812,6 +2810,7 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
+    console.log('http://142.93.168.134/storage/' + this.products[0].img_path);
   },
   methods: {
     showImage: function showImage(id) {
@@ -44257,21 +44256,6 @@ var render = function() {
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
         _c("div", [
-          _c("h2", [_vm._v("asdasad")]),
-          _vm._v(" "),
-          _vm.imageId === _vm.products[0].id
-            ? _c("div", {
-                staticClass: "circular",
-                style: {
-                  backgroundImage:
-                    "http://142.93.168.134/storage/" +
-                    _vm.products[0].img_path +
-                    ")"
-                },
-                attrs: { id: "productImage" }
-              })
-            : _vm._e(),
-          _vm._v(" "),
           _c("span", [
             _vm._v(
               "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
