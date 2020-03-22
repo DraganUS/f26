@@ -2801,18 +2801,16 @@ __webpack_require__.r(__webpack_exports__);
   data: function data() {
     return {
       isVisible: true,
+      counter: true,
       products: [],
       imageId: 0,
       countDown: 5,
-      testedID: 0,
-      host: ''
+      testedID: 0
     };
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-    this.host = location.hostname;
-    console.log(this.host);
   },
   methods: {
     showImage: function showImage(id) {
@@ -2839,6 +2837,7 @@ __webpack_require__.r(__webpack_exports__);
     removeTestedProduct: function removeTestedProduct() {
       if (this.products.length == 1) {
         this.isVisible = false;
+        this.counter = false;
       } else {
         console.log(this.products.length);
 
@@ -44267,7 +44266,7 @@ var render = function() {
             ),
             _c("br"),
             _vm._v(" "),
-            !_vm.isVisible
+            _vm.counter
               ? _c("h4", [
                   _vm._v("remaining tests: " + _vm._s(this.products.length))
                 ])

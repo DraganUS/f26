@@ -9,7 +9,7 @@
                         <br>
                         Press play, after countdown you will be shown a picture for a split second.
                         <br>
-                        <h4 v-if="!isVisible">remaining tests: {{this.products.length}}</h4>
+                        <h4 v-if="counter">remaining tests: {{this.products.length}}</h4>
                     </span>
                 </div>
                 <div class="card dark mb-5" v-if="isVisible">
@@ -36,17 +36,15 @@
         name: "ShowImage",
         data: () => ({
             isVisible: true,
+            counter: true,
             products: [],
             imageId: 0,
             countDown : 5,
             testedID: 0,
-            host: ''
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
             console.log(this.products)
-            this.host = location.hostname;
-            console.log(this.host);
         },
         methods: {
             showImage(id){
@@ -69,6 +67,7 @@
             removeTestedProduct(){
                 if (this.products.length == 1){
                        this.isVisible = false;
+                       this.counter = false;
                 }else {
                     console.log(this.products.length);
                     for(let i = 0; i < this.products.length; i++) {
