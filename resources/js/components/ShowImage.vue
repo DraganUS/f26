@@ -46,8 +46,9 @@
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
-            console.log(this.products)
-            console.log('http://142.93.168.134/storage/' + this.products[0].img_path)
+            console.log(this.products[0])
+
+
 
         },
         methods: {
