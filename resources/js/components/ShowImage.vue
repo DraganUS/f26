@@ -56,7 +56,7 @@
                     setTimeout(() => {
                         this.countDown -= 1;
                         this.countDownTimer()
-                    }, 120)
+                    }, 1000)
                 }
                 if (this.countDown == -2){
                     this.countDown = 5;
