@@ -77,14 +77,31 @@
                 color: #2B6CDE;
                 text-decoration: none;
             }
+            svg{
+                height: 48px;
+                overflow: visible;
+            }
+            svg:not(:root) {
+                overflow: visible;
+            }
+            @media only screen and (max-width: 425px) {
+                svg{
+                    height: 26px;
+                }
+            }   @media only screen and (max-width: 325px) {
+                svg{
+                    width: 80%;
+                    height: 12px;
+                }
+            }
         </style>
     </head>
     <body>
     <div id="app">
         <nav style="height: 80px;z-index: 1200; padding: 0 16px; border-bottom: 1px solid #DADDEC; position: sticky; top: 0; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
             <div class="container">
-                <a class="navbar-brand" style="color: #2b6bde; font-size: 26px" href="{{ url('/') }}">
-                    <svg width="283px" height="33px" viewBox="0 0 253 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+                    <svg  viewBox="0 0 253 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title> {{ config('app.name', 'Laravel') }}</title>
                         <desc>Created by DraganUS</desc>
                         <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -107,7 +124,7 @@
                             </g>
                         </g>
                     </svg>
-                </a>
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>

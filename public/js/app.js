@@ -2741,8 +2741,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "HomeMainComponent",
   data: function data() {
@@ -7382,6 +7380,25 @@ __webpack_require__.r(__webpack_exports__);
 
 })));
 //# sourceMappingURL=bootstrap.js.map
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "\nsvg[data-v-6e28316c]{\n    height: auto;\n    width: auto;\n    min-width: 100px;\n}\n@media only screen and (max-width: 425px) {\nsvg[data-v-6e28316c]{\n        width: 90%;\n}\n}\n", ""]);
+
+// exports
 
 
 /***/ }),
@@ -38241,6 +38258,36 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&":
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader??ref--6-1!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--6-2!../../../node_modules/vue-loader/lib??vue-loader-options!./HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& */ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ShowImage.vue?vue&type=style&index=0&id=59ad00fa&scoped=true&lang=css&":
 /*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader!./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ShowImage.vue?vue&type=style&index=0&id=59ad00fa&scoped=true&lang=css& ***!
@@ -38923,3535 +38970,3355 @@ var render = function() {
         _c("div", { staticClass: "row mt-5" }, [
           _vm._m(0),
           _vm._v(" "),
-          _c("div", { staticClass: "col" }, [
-            _c(
-              "svg",
-              {
-                attrs: {
-                  width: "582px",
-                  height: "418px",
-                  viewBox: "0 0 582 418",
-                  version: "1.1",
-                  xmlns: "http://www.w3.org/2000/svg",
-                  "xmlns:xlink": "http://www.w3.org/1999/xlink"
-                }
-              },
-              [
-                _c("title", [_vm._v("Illustration")]),
-                _vm._v(" "),
-                _c("desc", [_vm._v("Created with Sketch.")]),
-                _vm._v(" "),
-                _c(
-                  "defs",
-                  [
-                    _c(
-                      "linearGradient",
-                      {
+          _c(
+            "svg",
+            {
+              attrs: {
+                viewBox: "0 0 582 418",
+                version: "1.1",
+                xmlns: "http://www.w3.org/2000/svg",
+                "xmlns:xlink": "http://www.w3.org/1999/xlink"
+              }
+            },
+            [
+              _c("title", [_vm._v("Illustration")]),
+              _vm._v(" "),
+              _c("desc", [_vm._v("Created with Sketch.")]),
+              _vm._v(" "),
+              _c(
+                "defs",
+                [
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "8.948561%",
+                        y1: "-12.311405%",
+                        x2: "91.028594%",
+                        y2: "112.305625%",
+                        id: "linearGradient-1"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#CFEFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
                         attrs: {
-                          x1: "8.948561%",
-                          y1: "-12.311405%",
-                          x2: "91.028594%",
-                          y2: "112.305625%",
-                          id: "linearGradient-1"
+                          "stop-color": "#4BB4FE",
+                          offset: "26.1515535%"
                         }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#CFEFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#00C2E0", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-1820.32164%",
+                        y1: "-0.008671%",
+                        x2: "-1820.32164%",
+                        y2: "99.979768%",
+                        id: "linearGradient-2"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#009BEC", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#0063A9",
+                          offset: "70.1960784%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#008EDC",
+                          offset: "98.4313725%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.231481%",
+                        y1: "49.107143%",
+                        x2: "99.768519%",
+                        y2: "49.107143%",
+                        id: "linearGradient-3"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "78.287873%",
+                        y1: "126.786477%",
+                        x2: "38.894219%",
+                        y2: "23.040703%",
+                        id: "linearGradient-4"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#C4ACE1", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFCECE", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.017775%",
+                        y1: "50%",
+                        x2: "99.982225%",
+                        y2: "50%",
+                        id: "linearGradient-5"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "99.97737%",
+                        y2: "50%",
+                        id: "linearGradient-6"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "99.97737%",
+                        y2: "50%",
+                        id: "linearGradient-7"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "100%",
+                        y2: "50%",
+                        id: "linearGradient-8"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "10.853659%",
+                        y1: "-17.639344%",
+                        x2: "89.065041%",
+                        y2: "108.52459%",
+                        id: "linearGradient-9"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFFFFF",
+                          offset: "43.1372549%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D6DFEF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50.096712%",
+                        x2: "98.039216%",
+                        y2: "50.096712%",
+                        id: "linearGradient-10"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F74", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D8549F", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "78.933291%",
+                        y1: "91.373874%",
+                        x2: "8.291378%",
+                        y2: "-9.752252%",
+                        id: "linearGradient-11"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#BAD4EB",
+                          "stop-opacity": "0.298039",
+                          offset: "1.96078431%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#4A77B4",
+                          "stop-opacity": "0.298039",
+                          offset: "100%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0.057604%",
+                        y1: "49.107143%",
+                        x2: "99.942396%",
+                        y2: "49.107143%",
+                        id: "linearGradient-12"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "7.599699%",
+                        y1: "-7.653997%",
+                        x2: "92.400301%",
+                        y2: "110.51114%",
+                        id: "linearGradient-13"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#B3BCD9", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#79A6CF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.044421%",
+                        y1: "50%",
+                        x2: "99.973348%",
+                        y2: "50%",
+                        id: "linearGradient-14"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "7.162921%",
+                        y1: "96.609149%",
+                        x2: "92.516051%",
+                        y2: "3.069823%",
+                        id: "linearGradient-15"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "99.970726%",
+                        y1: "49.923195%",
+                        x2: "0.029274%",
+                        y2: "49.923195%",
+                        id: "linearGradient-16"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA3A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#CD71E2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.034396%",
+                        y1: "49.479167%",
+                        x2: "99.965604%",
+                        y2: "49.479167%",
+                        id: "linearGradient-17"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.077882%",
+                        y1: "49.740933%",
+                        x2: "99.94437%",
+                        y2: "49.740933%",
+                        id: "linearGradient-18"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.025138%",
+                        y1: "50%",
+                        x2: "99.974862%",
+                        y2: "50%",
+                        id: "linearGradient-19"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "93.865531%",
+                        y1: "107.84522%",
+                        x2: "6.025734%",
+                        y2: "-8.057663%",
+                        id: "linearGradient-20"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#59A3FF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFEECA", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "55.702191%",
+                        y1: "100.447648%",
+                        x2: "44.098606%",
+                        y2: "-0.477997%",
+                        id: "linearGradient-21"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#7B8AB8",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#9CA9E1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "30.738861%",
+                        y1: "-19.215131%",
+                        x2: "68.640722%",
+                        y2: "75.991868%",
+                        id: "linearGradient-22"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#ADDBFF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#8594FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.462963%",
+                        y1: "49.107143%",
+                        x2: "99.537037%",
+                        y2: "49.107143%",
+                        id: "linearGradient-23"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.9906%",
+                        y1: "99.983596%",
+                        x2: "49.9906%",
+                        y2: "0.016404%",
+                        id: "linearGradient-24"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AEC4D5", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#7896AD", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-230.012442%",
+                        y1: "50%",
+                        x2: "-129.959118%",
+                        y2: "50%",
+                        id: "linearGradient-25"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.036765%",
+                        y1: "49.479167%",
+                        x2: "99.963235%",
+                        y2: "49.479167%",
+                        id: "linearGradient-26"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.026157%",
+                        y1: "50%",
+                        x2: "99.947685%",
+                        y2: "50%",
+                        id: "linearGradient-27"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.023652%",
+                        y1: "50%",
+                        x2: "99.976348%",
+                        y2: "50%",
+                        id: "linearGradient-28"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "99.976025%",
+                        y2: "50%",
+                        id: "linearGradient-29"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "100%",
+                        y2: "50%",
+                        id: "linearGradient-30"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFFFFF",
+                          "stop-opacity": "0.498039",
+                          offset: "0%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFFFFF",
+                          "stop-opacity": "0.2",
+                          offset: "100%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.231481%",
+                        y1: "49.107143%",
+                        x2: "99.768519%",
+                        y2: "49.107143%",
+                        id: "linearGradient-31"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0.005376%",
+                        y1: "49.851191%",
+                        x2: "99.994624%",
+                        y2: "49.851191%",
+                        id: "linearGradient-32"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "63.279606%",
+                        y1: "68.402807%",
+                        x2: "-18.840512%",
+                        y2: "-15.866703%",
+                        id: "linearGradient-33"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#5266B2", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC3C2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "100%",
+                        x2: "50%",
+                        y2: "3.271767%",
+                        id: "linearGradient-34"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#B4D2F5", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F6EACD", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "100%",
+                        x2: "50%",
+                        y2: "0%",
+                        id: "linearGradient-35"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#99B5F5", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#7694F8", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "100%",
+                        x2: "50%",
+                        y2: "0%",
+                        id: "linearGradient-36"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#6EDAF1",
+                          "stop-opacity": "0.934216",
+                          offset: "0%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#B0E7F6",
+                          "stop-opacity": "0.934216",
+                          offset: "100%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.044405%",
+                        y1: "50%",
+                        x2: "99.937833%",
+                        y2: "50%",
+                        id: "linearGradient-37"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AAC1D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BDD4E6", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "87.92305%",
+                        y1: "107.614659%",
+                        x2: "6.626291%",
+                        y2: "-0.783218%",
+                        id: "linearGradient-38"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "84.362097%",
+                        y1: "149.971823%",
+                        x2: "-1.179565%",
+                        y2: "-56.355351%",
+                        id: "linearGradient-39"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#4469D7",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC2D1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "105.362064%",
+                        y1: "410.248501%",
+                        x2: "-32.730599%",
+                        y2: "249.648293%",
+                        id: "linearGradient-40"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#5C85FF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC2D1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "49.854162%",
+                        x2: "99.995547%",
+                        y2: "49.854162%",
+                        id: "linearGradient-41"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E6EEF3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#F2F6F9",
+                          offset: "99.2156863%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "100.999813%",
+                        y1: "38.110211%",
+                        x2: "4.312111%",
+                        y2: "74.069964%",
+                        id: "linearGradient-42"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#ACD3F7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F9E5EE", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "96.196112%",
+                        y1: "32.209709%",
+                        x2: "3.037293%",
+                        y2: "67.918751%",
+                        id: "linearGradient-43"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#AED0EF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F7E4EE", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.921997%",
+                        y1: "99.867618%",
+                        x2: "49.921997%",
+                        y2: "-0.034003%",
+                        id: "linearGradient-44"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.930035%",
+                        y1: "99.621728%",
+                        x2: "49.930035%",
+                        y2: "0.0056%",
+                        id: "linearGradient-45"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FEE5EC", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BAE0FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "89.427923%",
+                        y1: "104.443014%",
+                        x2: "1.852405%",
+                        y2: "5.408886%",
+                        id: "linearGradient-46"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-47"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-48"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-49"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-50"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.813839%",
+                        y1: "99.902597%",
+                        x2: "49.813839%",
+                        y2: "-0.119048%",
+                        id: "linearGradient-51"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFEEEE",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-52"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#823590", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#DE5368", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.923195%",
+                        y1: "-0.166667%",
+                        x2: "49.923195%",
+                        y2: "99.833333%",
+                        id: "linearGradient-53"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#6779D6", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#39365F", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-54"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA897", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-55"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFBBAD", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF90A1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "96.308255%",
+                        id: "linearGradient-56"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFCBC4", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FD6F84", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-57"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "92.917847%",
+                        y1: "-3.16092%",
+                        x2: "11.331445%",
+                        y2: "104.310345%",
+                        id: "linearGradient-58"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#BE5674", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F35397", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "39.982362%",
+                        y1: "40.437159%",
+                        x2: "186.745175%",
+                        y2: "-55.737705%",
+                        id: "linearGradient-59"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#4D446E", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D641AD", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "29.076064%",
+                        y1: "2.433737%",
+                        x2: "63.346836%",
+                        y2: "108.901109%",
+                        id: "linearGradient-60"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#A54F7F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#3F2479", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.923195%",
+                        y1: "-0.166667%",
+                        x2: "49.923195%",
+                        y2: "99.833333%",
+                        id: "linearGradient-61"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#6779D6", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#39365F", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "4.454124%",
+                        y1: "28.51682%",
+                        x2: "92.805958%",
+                        y2: "97.477064%",
+                        id: "linearGradient-62"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#B6C6CF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "98.959689%",
+                        y1: "49.773756%",
+                        x2: "-0.612919%",
+                        y2: "49.773756%",
+                        id: "linearGradient-63"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#CED4DA", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#EEEEEE", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "33.412473%",
+                        y1: "38.002364%",
+                        x2: "106.247342%",
+                        y2: "84.929078%",
+                        id: "linearGradient-64"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#B6C6CF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "27.496671%",
+                        y1: "78.73606%",
+                        x2: "-2.463382%",
+                        y2: "131.672862%",
+                        id: "linearGradient-65"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#4D6072", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#94A5AF",
+                          offset: "58.8235294%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "91.600634%",
+                        y1: "51.518692%",
+                        x2: "-19.968304%",
+                        y2: "34.774143%",
+                        id: "linearGradient-66"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#C0C6CB", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.127066%",
+                        y1: "44.796692%",
+                        x2: "99.887319%",
+                        y2: "44.796692%",
+                        id: "linearGradient-67"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#009EF9",
+                          offset: "12.5490196%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#004988",
+                          offset: "64.7058824%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#00A1FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "14.006515%",
+                        y1: "15.025633%",
+                        x2: "61.237785%",
+                        y2: "117.529093%",
+                        id: "linearGradient-68"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#EDF0F2", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#6A7C8B", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-43.08066%",
+                        y1: "79.342181%",
+                        x2: "76.450652%",
+                        y2: "33.064051%",
+                        id: "linearGradient-69"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#4D6072", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#94A5AF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "55.71041%",
+                        y1: "34.694172%",
+                        x2: "-32.412174%",
+                        y2: "110.141373%",
+                        id: "linearGradient-70"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#94A5AF",
+                          offset: "58.8235294%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "62.067818%",
+                        y1: "94.639585%",
+                        x2: "14.215192%",
+                        y2: "3.833232%",
+                        id: "linearGradient-71"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#4D6072", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#94A5AF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "97.966681%",
+                        y1: "55.563872%",
+                        x2: "-1.762779%",
+                        y2: "42.040918%",
+                        id: "linearGradient-72"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#4D6072", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#94A5AF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "46.286053%",
+                        y1: "56.154784%",
+                        x2: "54.728643%",
+                        y2: "85.344302%",
+                        id: "linearGradient-73"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#E1E1E1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "35.46748%",
+                        y1: "49.685535%",
+                        x2: "18.191057%",
+                        y2: "92.45283%",
+                        id: "linearGradient-74"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#6D56BE", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D641AD", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "90.213471%",
+                        y1: "-24.344137%",
+                        x2: "12.771795%",
+                        y2: "83.666682%",
+                        id: "linearGradient-75"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#6D56BE", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#D641AD",
+                          offset: "63.1372549%"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50.218659%",
+                        y1: "98.972603%",
+                        x2: "47.376093%",
+                        y2: "-0.342466%",
+                        id: "linearGradient-76"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#002F4B", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#6FC2FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "17.850476%",
+                        y1: "99.358958%",
+                        x2: "80.079844%",
+                        y2: "-4.489924%",
+                        id: "linearGradient-77"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#002F4B", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#6FC2FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "94.550452%",
+                        y1: "-0.439094%",
+                        x2: "37.465863%",
+                        y2: "76.557802%",
+                        id: "linearGradient-78"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#EDF0F2", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#6A7C8B", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "89.419319%",
+                        y1: "80.393535%",
+                        x2: "3.378001%",
+                        y2: "36.96416%",
+                        id: "linearGradient-79"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFFFFF",
+                          "stop-opacity": "0",
+                          offset: "0%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0.074596%",
+                        y1: "44.871795%",
+                        x2: "99.645906%",
+                        y2: "44.871795%",
+                        id: "linearGradient-80"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E9DDAF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.309729%",
+                        y1: "49.350649%",
+                        x2: "99.528404%",
+                        y2: "49.350649%",
+                        id: "linearGradient-81"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E9DDAF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "100.047574%",
+                        y1: "50.119169%",
+                        x2: "0.047574%",
+                        y2: "50.119169%",
+                        id: "linearGradient-82"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E9DDAF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#EE9BFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.836066%",
+                        y1: "100.679823%",
+                        x2: "49.836066%",
+                        y2: "0.633206%",
+                        id: "linearGradient-83"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA3A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#7971E2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "33.421765%",
+                        y1: "52.789138%",
+                        x2: "79.646832%",
+                        y2: "16.651966%",
+                        id: "linearGradient-84"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#424274", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "100.408412%",
+                        x2: "50%",
+                        y2: "0.367796%",
+                        id: "linearGradient-85"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA3A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#7971E2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "100.094518%",
+                        y1: "50.479431%",
+                        x2: "0.094518%",
+                        y2: "50.479431%",
+                        id: "linearGradient-86"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#E9DDAF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#EE9BFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.176469%",
+                        y1: "49.747087%",
+                        x2: "99.834938%",
+                        y2: "49.747087%",
+                        id: "linearGradient-87"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#586582", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.480711%",
+                        y1: "50%",
+                        x2: "99.507271%",
+                        y2: "50%",
+                        id: "linearGradient-88"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA3A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#CD71E2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-89"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "23.261074%",
+                        y1: "-2.41758%",
+                        x2: "78.832417%",
+                        y2: "103.542036%",
+                        id: "linearGradient-90"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "44.803183%",
+                        y1: "36.873628%",
+                        x2: "166.98656%",
+                        y2: "159.610473%",
+                        id: "linearGradient-91"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#424274", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "99.835852%",
+                        y1: "49.66336%",
+                        x2: "0.099364%",
+                        y2: "49.66336%",
+                        id: "linearGradient-92"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-93"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "100%",
+                        x2: "50%",
+                        y2: "0%",
+                        id: "linearGradient-94"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#D95940", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FB7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "41.288115%",
+                        y1: "79.816632%",
+                        x2: "58.096522%",
+                        y2: "0.451963%",
+                        id: "linearGradient-95"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "96.078441%",
+                        y1: "-2.78964%",
+                        x2: "-3.575468%",
+                        y2: "73.629483%",
+                        id: "linearGradient-96"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "96.17674%",
+                        y1: "-1.952807%",
+                        x2: "2.549355%",
+                        y2: "95.606184%",
+                        id: "linearGradient-97"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "57.413028%",
+                        y1: "96.013654%",
+                        x2: "34.459021%",
+                        y2: "-7.526358%",
+                        id: "linearGradient-98"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#526388", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#636A99", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-99"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-100"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FDAF9F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "32.757741%",
+                        y1: "19.344099%",
+                        x2: "81.955131%",
+                        y2: "90.555094%",
+                        id: "linearGradient-101"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#253571", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#5366B2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-102"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "42.723975%",
+                        y1: "68.242743%",
+                        x2: "60.290954%",
+                        y2: "-0.020425%",
+                        id: "linearGradient-103"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#2D46A3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#BAF1FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "41.504364%",
+                        y1: "-3.807003%",
+                        x2: "48.255569%",
+                        y2: "42.406352%",
+                        id: "linearGradient-104"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#0088D3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#344CAE", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "3.690699%",
+                        y1: "-9.562212%",
+                        x2: "95.424148%",
+                        y2: "107.258065%",
+                        id: "linearGradient-105"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#5785A6",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#7896AD", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "45.284238%",
+                        y1: "53.508772%",
+                        x2: "75.129199%",
+                        y2: "124.269006%",
+                        id: "linearGradient-106"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#94AFFF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC2D1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "47.693267%",
+                        y1: "-31%",
+                        x2: "51.05985%",
+                        y2: "124.333333%",
+                        id: "linearGradient-107"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FCFCFF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#C3D4E0", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "99.209246%",
+                        y1: "48.734177%",
+                        x2: "-0.425791%",
+                        y2: "48.734177%",
+                        id: "linearGradient-108"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#5C85FF",
+                          offset: "0.392156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC2D1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "100%",
+                        y2: "50%",
+                        id: "linearGradient-109"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FEC2D2", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#C6ACE0", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0%",
+                        y1: "50%",
+                        x2: "99.561958%",
+                        y2: "50%",
+                        id: "linearGradient-110"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFC2D1", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#C5ACE1", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "47.481343%",
+                        y1: "-9.909619%",
+                        x2: "47.481343%",
+                        y2: "98.321232%",
+                        id: "linearGradient-111"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#414274", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#845292", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "77.955799%",
+                        y1: "49.794239%",
+                        x2: "-27.716276%",
+                        y2: "49.794239%",
+                        id: "linearGradient-112"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FFFFFF",
+                          offset: "45.0980392%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFDDB2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "30.665025%",
+                        y1: "99.892857%",
+                        x2: "30.665025%",
+                        y2: "-21.607143%",
+                        id: "linearGradient-113"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#72477F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#292443", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "69.399516%",
+                        y1: "99.805492%",
+                        x2: "32.600213%",
+                        y2: "-1.132723%",
+                        id: "linearGradient-114"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#C8CFE4", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-115"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "49.282297%",
+                        y1: "-0.465116%",
+                        x2: "49.282297%",
+                        y2: "99.534884%",
+                        id: "linearGradient-116"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#35425F", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#111219", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-117"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#DD634C", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "62.046998%",
+                        y1: "31.817181%",
+                        x2: "90.655586%",
+                        y2: "3.572402%",
+                        id: "linearGradient-118"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#DFE7F3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D0DDE2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-45.116923%",
+                        y1: "52.791878%",
+                        x2: "400.686154%",
+                        y2: "114.720812%",
+                        id: "linearGradient-119"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFA3A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F9B9FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "154.200957%",
+                        y1: "102.03666%",
+                        x2: "9.665072%",
+                        y2: "-5.227427%",
+                        id: "linearGradient-120"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF9AB8", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#FEC9CB",
+                          offset: "39.2156863%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFE8C2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "84.916324%",
+                        y1: "76.344202%",
+                        x2: "1.05471187e-13%",
+                        y2: "27.874718%",
+                        id: "linearGradient-121"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#D2D8FB", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: {
+                          "stop-color": "#BEE1FD",
+                          offset: "35.9600795%"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#CEE3F4", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-0.694346%",
+                        y1: "31.773399%",
+                        x2: "99.518209%",
+                        y2: "65.763547%",
+                        id: "linearGradient-122"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#DFE7F3", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#D0DDE2", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "-35.305344%",
+                        y1: "692.801046%",
+                        x2: "-34.351145%",
+                        y2: "550.62127%",
+                        id: "linearGradient-123"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#C8CFE4", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "50%",
+                        y1: "0%",
+                        x2: "50%",
+                        y2: "100%",
+                        id: "linearGradient-124"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7F67", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#FF7D90", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "22.153839%",
+                        y1: "2.773102%",
+                        x2: "71.472668%",
+                        y2: "110.736406%",
+                        id: "linearGradient-125"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FFFFFF", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#A1B6FF", offset: "100%" }
+                      })
+                    ],
+                    1
+                  )
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "g",
+                {
+                  attrs: {
+                    id: "Page-1",
+                    stroke: "none",
+                    "stroke-width": "1",
+                    fill: "none",
+                    "fill-rule": "evenodd"
+                  }
+                },
+                [
+                  _c(
+                    "g",
+                    {
+                      attrs: {
+                        id: "trello-hero-illustration",
+                        transform: "translate(-109.000000, -102.000000)",
+                        "fill-rule": "nonzero"
+                      }
+                    },
+                    [
+                      _c(
+                        "g",
+                        {
                           attrs: {
-                            "stop-color": "#4BB4FE",
-                            offset: "26.1515535%"
+                            id: "Illustration",
+                            transform: "translate(109.000000, 102.000000)"
                           }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#00C2E0", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-1820.32164%",
-                          y1: "-0.008671%",
-                          x2: "-1820.32164%",
-                          y2: "99.979768%",
-                          id: "linearGradient-2"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#009BEC", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#0063A9",
-                            offset: "70.1960784%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#008EDC",
-                            offset: "98.4313725%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.231481%",
-                          y1: "49.107143%",
-                          x2: "99.768519%",
-                          y2: "49.107143%",
-                          id: "linearGradient-3"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "78.287873%",
-                          y1: "126.786477%",
-                          x2: "38.894219%",
-                          y2: "23.040703%",
-                          id: "linearGradient-4"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#C4ACE1", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFCECE", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.017775%",
-                          y1: "50%",
-                          x2: "99.982225%",
-                          y2: "50%",
-                          id: "linearGradient-5"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "99.97737%",
-                          y2: "50%",
-                          id: "linearGradient-6"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "99.97737%",
-                          y2: "50%",
-                          id: "linearGradient-7"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "100%",
-                          y2: "50%",
-                          id: "linearGradient-8"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "10.853659%",
-                          y1: "-17.639344%",
-                          x2: "89.065041%",
-                          y2: "108.52459%",
-                          id: "linearGradient-9"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFFFFF",
-                            offset: "43.1372549%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D6DFEF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50.096712%",
-                          x2: "98.039216%",
-                          y2: "50.096712%",
-                          id: "linearGradient-10"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F74", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D8549F", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "78.933291%",
-                          y1: "91.373874%",
-                          x2: "8.291378%",
-                          y2: "-9.752252%",
-                          id: "linearGradient-11"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#BAD4EB",
-                            "stop-opacity": "0.298039",
-                            offset: "1.96078431%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#4A77B4",
-                            "stop-opacity": "0.298039",
-                            offset: "100%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0.057604%",
-                          y1: "49.107143%",
-                          x2: "99.942396%",
-                          y2: "49.107143%",
-                          id: "linearGradient-12"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "7.599699%",
-                          y1: "-7.653997%",
-                          x2: "92.400301%",
-                          y2: "110.51114%",
-                          id: "linearGradient-13"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#B3BCD9", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#79A6CF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.044421%",
-                          y1: "50%",
-                          x2: "99.973348%",
-                          y2: "50%",
-                          id: "linearGradient-14"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "7.162921%",
-                          y1: "96.609149%",
-                          x2: "92.516051%",
-                          y2: "3.069823%",
-                          id: "linearGradient-15"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "99.970726%",
-                          y1: "49.923195%",
-                          x2: "0.029274%",
-                          y2: "49.923195%",
-                          id: "linearGradient-16"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA3A7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#CD71E2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.034396%",
-                          y1: "49.479167%",
-                          x2: "99.965604%",
-                          y2: "49.479167%",
-                          id: "linearGradient-17"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.077882%",
-                          y1: "49.740933%",
-                          x2: "99.94437%",
-                          y2: "49.740933%",
-                          id: "linearGradient-18"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.025138%",
-                          y1: "50%",
-                          x2: "99.974862%",
-                          y2: "50%",
-                          id: "linearGradient-19"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "93.865531%",
-                          y1: "107.84522%",
-                          x2: "6.025734%",
-                          y2: "-8.057663%",
-                          id: "linearGradient-20"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#59A3FF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFEECA", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "55.702191%",
-                          y1: "100.447648%",
-                          x2: "44.098606%",
-                          y2: "-0.477997%",
-                          id: "linearGradient-21"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#7B8AB8",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#9CA9E1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "30.738861%",
-                          y1: "-19.215131%",
-                          x2: "68.640722%",
-                          y2: "75.991868%",
-                          id: "linearGradient-22"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#ADDBFF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#8594FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.462963%",
-                          y1: "49.107143%",
-                          x2: "99.537037%",
-                          y2: "49.107143%",
-                          id: "linearGradient-23"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.9906%",
-                          y1: "99.983596%",
-                          x2: "49.9906%",
-                          y2: "0.016404%",
-                          id: "linearGradient-24"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AEC4D5", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#7896AD", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-230.012442%",
-                          y1: "50%",
-                          x2: "-129.959118%",
-                          y2: "50%",
-                          id: "linearGradient-25"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.036765%",
-                          y1: "49.479167%",
-                          x2: "99.963235%",
-                          y2: "49.479167%",
-                          id: "linearGradient-26"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.026157%",
-                          y1: "50%",
-                          x2: "99.947685%",
-                          y2: "50%",
-                          id: "linearGradient-27"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.023652%",
-                          y1: "50%",
-                          x2: "99.976348%",
-                          y2: "50%",
-                          id: "linearGradient-28"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "99.976025%",
-                          y2: "50%",
-                          id: "linearGradient-29"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "100%",
-                          y2: "50%",
-                          id: "linearGradient-30"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFFFFF",
-                            "stop-opacity": "0.498039",
-                            offset: "0%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFFFFF",
-                            "stop-opacity": "0.2",
-                            offset: "100%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.231481%",
-                          y1: "49.107143%",
-                          x2: "99.768519%",
-                          y2: "49.107143%",
-                          id: "linearGradient-31"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0.005376%",
-                          y1: "49.851191%",
-                          x2: "99.994624%",
-                          y2: "49.851191%",
-                          id: "linearGradient-32"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "63.279606%",
-                          y1: "68.402807%",
-                          x2: "-18.840512%",
-                          y2: "-15.866703%",
-                          id: "linearGradient-33"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#5266B2", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC3C2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "100%",
-                          x2: "50%",
-                          y2: "3.271767%",
-                          id: "linearGradient-34"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#B4D2F5", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#F6EACD", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "100%",
-                          x2: "50%",
-                          y2: "0%",
-                          id: "linearGradient-35"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#99B5F5", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#7694F8", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "100%",
-                          x2: "50%",
-                          y2: "0%",
-                          id: "linearGradient-36"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#6EDAF1",
-                            "stop-opacity": "0.934216",
-                            offset: "0%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#B0E7F6",
-                            "stop-opacity": "0.934216",
-                            offset: "100%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.044405%",
-                          y1: "50%",
-                          x2: "99.937833%",
-                          y2: "50%",
-                          id: "linearGradient-37"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AAC1D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BDD4E6", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "87.92305%",
-                          y1: "107.614659%",
-                          x2: "6.626291%",
-                          y2: "-0.783218%",
-                          id: "linearGradient-38"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "84.362097%",
-                          y1: "149.971823%",
-                          x2: "-1.179565%",
-                          y2: "-56.355351%",
-                          id: "linearGradient-39"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#4469D7",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC2D1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "105.362064%",
-                          y1: "410.248501%",
-                          x2: "-32.730599%",
-                          y2: "249.648293%",
-                          id: "linearGradient-40"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#5C85FF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC2D1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "49.854162%",
-                          x2: "99.995547%",
-                          y2: "49.854162%",
-                          id: "linearGradient-41"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E6EEF3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#F2F6F9",
-                            offset: "99.2156863%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "100.999813%",
-                          y1: "38.110211%",
-                          x2: "4.312111%",
-                          y2: "74.069964%",
-                          id: "linearGradient-42"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#ACD3F7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#F9E5EE", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "96.196112%",
-                          y1: "32.209709%",
-                          x2: "3.037293%",
-                          y2: "67.918751%",
-                          id: "linearGradient-43"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#AED0EF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#F7E4EE", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.921997%",
-                          y1: "99.867618%",
-                          x2: "49.921997%",
-                          y2: "-0.034003%",
-                          id: "linearGradient-44"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.930035%",
-                          y1: "99.621728%",
-                          x2: "49.930035%",
-                          y2: "0.0056%",
-                          id: "linearGradient-45"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FEE5EC", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BAE0FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "89.427923%",
-                          y1: "104.443014%",
-                          x2: "1.852405%",
-                          y2: "5.408886%",
-                          id: "linearGradient-46"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-47"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-48"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-49"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-50"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.813839%",
-                          y1: "99.902597%",
-                          x2: "49.813839%",
-                          y2: "-0.119048%",
-                          id: "linearGradient-51"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFEEEE",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-52"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#823590", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#DE5368", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.923195%",
-                          y1: "-0.166667%",
-                          x2: "49.923195%",
-                          y2: "99.833333%",
-                          id: "linearGradient-53"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#6779D6", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#39365F", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-54"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA897", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-55"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFBBAD", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF90A1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "96.308255%",
-                          id: "linearGradient-56"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFCBC4", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FD6F84", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-57"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "92.917847%",
-                          y1: "-3.16092%",
-                          x2: "11.331445%",
-                          y2: "104.310345%",
-                          id: "linearGradient-58"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#BE5674", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#F35397", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "39.982362%",
-                          y1: "40.437159%",
-                          x2: "186.745175%",
-                          y2: "-55.737705%",
-                          id: "linearGradient-59"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#4D446E", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D641AD", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "29.076064%",
-                          y1: "2.433737%",
-                          x2: "63.346836%",
-                          y2: "108.901109%",
-                          id: "linearGradient-60"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#A54F7F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#3F2479", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.923195%",
-                          y1: "-0.166667%",
-                          x2: "49.923195%",
-                          y2: "99.833333%",
-                          id: "linearGradient-61"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#6779D6", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#39365F", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "4.454124%",
-                          y1: "28.51682%",
-                          x2: "92.805958%",
-                          y2: "97.477064%",
-                          id: "linearGradient-62"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#B6C6CF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "98.959689%",
-                          y1: "49.773756%",
-                          x2: "-0.612919%",
-                          y2: "49.773756%",
-                          id: "linearGradient-63"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#CED4DA", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#EEEEEE", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "33.412473%",
-                          y1: "38.002364%",
-                          x2: "106.247342%",
-                          y2: "84.929078%",
-                          id: "linearGradient-64"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#B6C6CF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "27.496671%",
-                          y1: "78.73606%",
-                          x2: "-2.463382%",
-                          y2: "131.672862%",
-                          id: "linearGradient-65"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#4D6072", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#94A5AF",
-                            offset: "58.8235294%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "91.600634%",
-                          y1: "51.518692%",
-                          x2: "-19.968304%",
-                          y2: "34.774143%",
-                          id: "linearGradient-66"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#C0C6CB", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.127066%",
-                          y1: "44.796692%",
-                          x2: "99.887319%",
-                          y2: "44.796692%",
-                          id: "linearGradient-67"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#009EF9",
-                            offset: "12.5490196%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#004988",
-                            offset: "64.7058824%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#00A1FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "14.006515%",
-                          y1: "15.025633%",
-                          x2: "61.237785%",
-                          y2: "117.529093%",
-                          id: "linearGradient-68"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#EDF0F2", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#6A7C8B", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-43.08066%",
-                          y1: "79.342181%",
-                          x2: "76.450652%",
-                          y2: "33.064051%",
-                          id: "linearGradient-69"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#4D6072", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#94A5AF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "55.71041%",
-                          y1: "34.694172%",
-                          x2: "-32.412174%",
-                          y2: "110.141373%",
-                          id: "linearGradient-70"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#94A5AF",
-                            offset: "58.8235294%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "62.067818%",
-                          y1: "94.639585%",
-                          x2: "14.215192%",
-                          y2: "3.833232%",
-                          id: "linearGradient-71"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#4D6072", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#94A5AF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "97.966681%",
-                          y1: "55.563872%",
-                          x2: "-1.762779%",
-                          y2: "42.040918%",
-                          id: "linearGradient-72"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#4D6072", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#94A5AF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "46.286053%",
-                          y1: "56.154784%",
-                          x2: "54.728643%",
-                          y2: "85.344302%",
-                          id: "linearGradient-73"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#E1E1E1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "35.46748%",
-                          y1: "49.685535%",
-                          x2: "18.191057%",
-                          y2: "92.45283%",
-                          id: "linearGradient-74"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#6D56BE", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D641AD", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "90.213471%",
-                          y1: "-24.344137%",
-                          x2: "12.771795%",
-                          y2: "83.666682%",
-                          id: "linearGradient-75"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#6D56BE", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#D641AD",
-                            offset: "63.1372549%"
-                          }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50.218659%",
-                          y1: "98.972603%",
-                          x2: "47.376093%",
-                          y2: "-0.342466%",
-                          id: "linearGradient-76"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#002F4B", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#6FC2FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "17.850476%",
-                          y1: "99.358958%",
-                          x2: "80.079844%",
-                          y2: "-4.489924%",
-                          id: "linearGradient-77"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#002F4B", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#6FC2FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "94.550452%",
-                          y1: "-0.439094%",
-                          x2: "37.465863%",
-                          y2: "76.557802%",
-                          id: "linearGradient-78"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#EDF0F2", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#6A7C8B", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "89.419319%",
-                          y1: "80.393535%",
-                          x2: "3.378001%",
-                          y2: "36.96416%",
-                          id: "linearGradient-79"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFFFFF",
-                            "stop-opacity": "0",
-                            offset: "0%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0.074596%",
-                          y1: "44.871795%",
-                          x2: "99.645906%",
-                          y2: "44.871795%",
-                          id: "linearGradient-80"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E9DDAF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.309729%",
-                          y1: "49.350649%",
-                          x2: "99.528404%",
-                          y2: "49.350649%",
-                          id: "linearGradient-81"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E9DDAF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "100.047574%",
-                          y1: "50.119169%",
-                          x2: "0.047574%",
-                          y2: "50.119169%",
-                          id: "linearGradient-82"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E9DDAF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#EE9BFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.836066%",
-                          y1: "100.679823%",
-                          x2: "49.836066%",
-                          y2: "0.633206%",
-                          id: "linearGradient-83"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA3A7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#7971E2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "33.421765%",
-                          y1: "52.789138%",
-                          x2: "79.646832%",
-                          y2: "16.651966%",
-                          id: "linearGradient-84"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#424274", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "100.408412%",
-                          x2: "50%",
-                          y2: "0.367796%",
-                          id: "linearGradient-85"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA3A7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#7971E2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "100.094518%",
-                          y1: "50.479431%",
-                          x2: "0.094518%",
-                          y2: "50.479431%",
-                          id: "linearGradient-86"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#E9DDAF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#EE9BFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.176469%",
-                          y1: "49.747087%",
-                          x2: "99.834938%",
-                          y2: "49.747087%",
-                          id: "linearGradient-87"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#586582", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.480711%",
-                          y1: "50%",
-                          x2: "99.507271%",
-                          y2: "50%",
-                          id: "linearGradient-88"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA3A7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#CD71E2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-89"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "23.261074%",
-                          y1: "-2.41758%",
-                          x2: "78.832417%",
-                          y2: "103.542036%",
-                          id: "linearGradient-90"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "44.803183%",
-                          y1: "36.873628%",
-                          x2: "166.98656%",
-                          y2: "159.610473%",
-                          id: "linearGradient-91"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#424274", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "99.835852%",
-                          y1: "49.66336%",
-                          x2: "0.099364%",
-                          y2: "49.66336%",
-                          id: "linearGradient-92"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-93"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "100%",
-                          x2: "50%",
-                          y2: "0%",
-                          id: "linearGradient-94"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#D95940", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FB7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "41.288115%",
-                          y1: "79.816632%",
-                          x2: "58.096522%",
-                          y2: "0.451963%",
-                          id: "linearGradient-95"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "96.078441%",
-                          y1: "-2.78964%",
-                          x2: "-3.575468%",
-                          y2: "73.629483%",
-                          id: "linearGradient-96"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "96.17674%",
-                          y1: "-1.952807%",
-                          x2: "2.549355%",
-                          y2: "95.606184%",
-                          id: "linearGradient-97"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "57.413028%",
-                          y1: "96.013654%",
-                          x2: "34.459021%",
-                          y2: "-7.526358%",
-                          id: "linearGradient-98"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#526388", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#636A99", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-99"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-100"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FDAF9F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "32.757741%",
-                          y1: "19.344099%",
-                          x2: "81.955131%",
-                          y2: "90.555094%",
-                          id: "linearGradient-101"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#253571", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#5366B2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-102"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "42.723975%",
-                          y1: "68.242743%",
-                          x2: "60.290954%",
-                          y2: "-0.020425%",
-                          id: "linearGradient-103"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#2D46A3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#BAF1FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "41.504364%",
-                          y1: "-3.807003%",
-                          x2: "48.255569%",
-                          y2: "42.406352%",
-                          id: "linearGradient-104"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#0088D3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#344CAE", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "3.690699%",
-                          y1: "-9.562212%",
-                          x2: "95.424148%",
-                          y2: "107.258065%",
-                          id: "linearGradient-105"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#5785A6",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#7896AD", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "45.284238%",
-                          y1: "53.508772%",
-                          x2: "75.129199%",
-                          y2: "124.269006%",
-                          id: "linearGradient-106"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#94AFFF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC2D1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "47.693267%",
-                          y1: "-31%",
-                          x2: "51.05985%",
-                          y2: "124.333333%",
-                          id: "linearGradient-107"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FCFCFF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#C3D4E0", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "99.209246%",
-                          y1: "48.734177%",
-                          x2: "-0.425791%",
-                          y2: "48.734177%",
-                          id: "linearGradient-108"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#5C85FF",
-                            offset: "0.392156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC2D1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "100%",
-                          y2: "50%",
-                          id: "linearGradient-109"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FEC2D2", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#C6ACE0", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "0%",
-                          y1: "50%",
-                          x2: "99.561958%",
-                          y2: "50%",
-                          id: "linearGradient-110"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFC2D1", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#C5ACE1", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "47.481343%",
-                          y1: "-9.909619%",
-                          x2: "47.481343%",
-                          y2: "98.321232%",
-                          id: "linearGradient-111"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#414274", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#845292", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "77.955799%",
-                          y1: "49.794239%",
-                          x2: "-27.716276%",
-                          y2: "49.794239%",
-                          id: "linearGradient-112"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FFFFFF",
-                            offset: "45.0980392%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFDDB2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "30.665025%",
-                          y1: "99.892857%",
-                          x2: "30.665025%",
-                          y2: "-21.607143%",
-                          id: "linearGradient-113"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#72477F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#292443", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "69.399516%",
-                          y1: "99.805492%",
-                          x2: "32.600213%",
-                          y2: "-1.132723%",
-                          id: "linearGradient-114"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#C8CFE4", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-115"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "49.282297%",
-                          y1: "-0.465116%",
-                          x2: "49.282297%",
-                          y2: "99.534884%",
-                          id: "linearGradient-116"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#35425F", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#111219", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-117"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#DD634C", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "62.046998%",
-                          y1: "31.817181%",
-                          x2: "90.655586%",
-                          y2: "3.572402%",
-                          id: "linearGradient-118"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#DFE7F3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D0DDE2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-45.116923%",
-                          y1: "52.791878%",
-                          x2: "400.686154%",
-                          y2: "114.720812%",
-                          id: "linearGradient-119"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFA3A7", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#F9B9FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "154.200957%",
-                          y1: "102.03666%",
-                          x2: "9.665072%",
-                          y2: "-5.227427%",
-                          id: "linearGradient-120"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF9AB8", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#FEC9CB",
-                            offset: "39.2156863%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFE8C2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "84.916324%",
-                          y1: "76.344202%",
-                          x2: "1.05471187e-13%",
-                          y2: "27.874718%",
-                          id: "linearGradient-121"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#D2D8FB", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: {
-                            "stop-color": "#BEE1FD",
-                            offset: "35.9600795%"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#CEE3F4", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-0.694346%",
-                          y1: "31.773399%",
-                          x2: "99.518209%",
-                          y2: "65.763547%",
-                          id: "linearGradient-122"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#DFE7F3", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#D0DDE2", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "-35.305344%",
-                          y1: "692.801046%",
-                          x2: "-34.351145%",
-                          y2: "550.62127%",
-                          id: "linearGradient-123"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#C8CFE4", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "50%",
-                          y1: "0%",
-                          x2: "50%",
-                          y2: "100%",
-                          id: "linearGradient-124"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7F67", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#FF7D90", offset: "100%" }
-                        })
-                      ],
-                      1
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "linearGradient",
-                      {
-                        attrs: {
-                          x1: "22.153839%",
-                          y1: "2.773102%",
-                          x2: "71.472668%",
-                          y2: "110.736406%",
-                          id: "linearGradient-125"
-                        }
-                      },
-                      [
-                        _c("stop", {
-                          attrs: { "stop-color": "#FFFFFF", offset: "0%" }
-                        }),
-                        _vm._v(" "),
-                        _c("stop", {
-                          attrs: { "stop-color": "#A1B6FF", offset: "100%" }
-                        })
-                      ],
-                      1
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "g",
-                  {
-                    attrs: {
-                      id: "Page-1",
-                      stroke: "none",
-                      "stroke-width": "1",
-                      fill: "none",
-                      "fill-rule": "evenodd"
-                    }
-                  },
-                  [
-                    _c(
-                      "g",
-                      {
-                        attrs: {
-                          id: "trello-hero-illustration",
-                          transform: "translate(-109.000000, -102.000000)",
-                          "fill-rule": "nonzero"
-                        }
-                      },
-                      [
-                        _c(
-                          "g",
-                          {
-                            attrs: {
-                              id: "Illustration",
-                              transform: "translate(109.000000, 102.000000)"
-                            }
-                          },
-                          [
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Window",
-                                  transform: "translate(5.642920, 19.649090)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M570.30387,9.70148152 C570.30387,3.3640484 567.214733,0.13022123 561.036459,0 L9.94022044,0 C3.50150414,0 0.282146,3.23382717 0.282146,9.70148152 L0.282146,365.791431 C0.282146,372.230147 3.50150414,375.449505 9.94022044,375.449505 L561.231791,375.449505 C567.279844,375.290346 570.30387,372.070988 570.30387,365.791431 L570.30387,9.70148152 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-1)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M566.245308,0 L561.036459,0 C567.214733,0.13022123 570.30387,3.3640484 570.30387,9.70148152 L570.30387,365.791431 C570.30387,372.070988 567.279844,375.290346 561.231791,375.449505 L566.245308,375.449505 C572.669556,375.449505 575.881679,372.230147 575.881679,365.791431 L575.881679,9.70148152 C575.881679,3.23382717 572.669556,0 566.245308,0 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-2)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("path", {
+                        },
+                        [
+                          _c(
+                            "g",
+                            {
                               attrs: {
-                                d:
-                                  "M146.043108,82.8280891 C146.043108,79.6449035 144.928993,77.5613639 142.700763,76.5774701 C141.789214,76.1723374 140.696803,75.9553021 139.423529,75.926364 L23.6568566,75.926364 C22.2388921,75.926364 21.037963,76.1433994 20.0540692,76.5774701 C18.6071667,77.2141073 17.6305075,78.3137532 17.1240916,79.8764079 C16.8491801,80.7156114 16.7117244,81.6995051 16.7117244,82.8280891 L16.7117244,247.427722 C16.7117244,247.789447 16.7261934,248.12947 16.7551315,248.447788 C17.087919,252.397832 19.3884941,254.372854 23.6568566,254.372854 L139.423529,254.372854 C143.836581,254.257102 146.043108,251.942058 146.043108,247.427722 L146.043108,82.8280891 Z M286.139446,267.785641 L286.139446,82.8280891 C286.139446,78.3571603 283.940154,76.0565852 279.54157,75.926364 L163.774898,75.926364 C159.130341,75.926364 156.808063,78.226939 156.808063,82.8280891 L156.808063,267.785641 C156.808063,272.444667 159.130341,274.77418 163.774898,274.77418 L279.54157,274.77418 C283.940154,274.643959 286.139446,272.314445 286.139446,267.785641 Z M304.175086,75.926364 C299.544998,75.926364 297.229954,78.226939 297.229954,82.8280891 L297.229954,331.919596 C297.229954,336.549684 299.544998,338.864728 304.175086,338.864728 L419.898351,338.864728 C424.296935,338.763445 426.496227,336.4484 426.496227,331.919596 L426.496227,82.8280891 C426.496227,78.3571603 424.296935,76.0565852 419.898351,75.926364 L304.175086,75.926364 Z M332.129243,255.718473 C332.129243,255.183119 332.324575,254.727345 332.715239,254.35115 C333.091433,253.960487 333.547208,253.765155 334.082562,253.765155 L377.120678,253.765155 C377.656032,253.765155 378.11904,253.960487 378.509704,254.35115 C378.885899,254.727345 379.073996,255.183119 379.073996,255.718473 L379.073996,277.248383 C379.073996,277.783737 378.885899,278.246746 378.509704,278.63741 C378.11904,279.013604 377.656032,279.201702 377.120678,279.201702 L334.082562,279.201702 C333.547208,279.201702 333.091433,279.013604 332.715239,278.63741 C332.324575,278.246746 332.129243,277.783737 332.129243,277.248383 L332.129243,255.718473 Z M566.961525,240.873253 L566.961525,82.8280891 C566.961525,78.3571603 564.754999,76.0565852 560.341946,75.926364 L444.575274,75.926364 C439.945186,75.926364 437.630142,78.226939 437.630142,82.8280891 L437.630142,240.873253 C437.630142,245.503341 439.945186,247.818386 444.575274,247.818386 L560.341946,247.818386 C564.754999,247.688164 566.961525,245.37312 566.961525,240.873253 Z",
-                                id: "Board-Shadows",
-                                "fill-opacity": "0.498039",
-                                fill: "#017FC9"
+                                id: "Window",
+                                transform: "translate(5.642920, 19.649090)"
                               }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
+                            },
+                            [
+                              _c("path", {
                                 attrs: {
-                                  id: "Board-A",
-                                  transform: "translate(0.000000, 68.699086)"
+                                  d:
+                                    "M570.30387,9.70148152 C570.30387,3.3640484 567.214733,0.13022123 561.036459,0 L9.94022044,0 C3.50150414,0 0.282146,3.23382717 0.282146,9.70148152 L0.282146,365.791431 C0.282146,372.230147 3.50150414,375.449505 9.94022044,375.449505 L561.231791,375.449505 C567.279844,375.290346 570.30387,372.070988 570.30387,365.791431 L570.30387,9.70148152 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-1)"
                                 }
-                              },
-                              [
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(0.000000, 0.000000)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M132.109436,7.31409233 C132.109436,4.11643772 130.995321,2.02566355 128.767091,1.04176983 C127.768729,0.60769907 126.560565,0.39066369 125.142601,0.39066369 L122.711804,0.39066369 C123.985078,0.41960174 125.07749,0.63663712 125.989038,1.04176983 C128.217268,2.02566355 129.331383,4.11643772 129.331383,7.31409233 L129.331383,172.195871 C129.331383,176.710207 127.124857,179.025251 122.711804,179.141003 L125.142601,179.141003 C126.951229,179.141003 128.4126,178.786512 129.526715,178.07753 C131.248529,176.992353 132.109436,175.0318 132.109436,172.195871 L132.109436,7.31409233 Z",
-                                        id: "Path",
-                                        fill: "#B2CBDF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M6.96683572,0.39066369 C5.54887123,0.39066369 4.34070761,0.60769907 3.34234486,1.04176983 C1.90991135,1.67840694 0.94048665,2.77805287 0.43407076,4.34070761 C0.14469025,5.17991109 0,6.17103932 0,7.31409233 L0,172.195871 C0,172.557597 0.01446903,172.904853 0.04340708,173.237641 C0.37619466,177.173216 2.68400421,179.141003 6.96683572,179.141003 L122.711804,179.141003 C127.124857,179.025251 129.331383,176.710207 129.331383,172.195871 L129.331383,7.31409233 C129.331383,4.11643772 128.217268,2.02566355 125.989038,1.04176983 C125.07749,0.63663712 123.985078,0.41960174 122.711804,0.39066369 L6.96683572,0.39066369 Z",
-                                        id: "Path",
-                                        fill: "#CEE3F4"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(6.511061, 7.813273)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M109.950124,1.80139366 C109.718619,2.03289807 109.602867,2.31504406 109.602867,2.64783164 L109.602867,2.69123872 C109.602867,2.99508825 109.718619,3.26999974 109.950124,3.51597317 C110.181628,3.74747757 110.45654,3.86322978 110.774858,3.86322978 L110.818265,3.86322978 C111.151053,3.86322978 111.433199,3.74747757 111.664703,3.51597317 C111.910677,3.26999974 112.033664,2.99508825 112.033664,2.69123872 L112.033664,2.64783164 C112.033664,2.31504406 111.910677,2.03289807 111.664703,1.80139366 C111.433199,1.55542023 111.151053,1.43243351 110.818265,1.43243351 L110.774858,1.43243351 C110.45654,1.43243351 110.181628,1.55542023 109.950124,1.80139366 Z M114.269128,1.43243351 L114.247424,1.43243351 C113.943575,1.43243351 113.661429,1.55542023 113.400986,1.80139366 C113.169482,2.03289807 113.05373,2.31504406 113.05373,2.64783164 L113.05373,2.69123872 C113.05373,2.99508825 113.169482,3.26999974 113.400986,3.51597317 C113.661429,3.74747757 113.943575,3.86322978 114.247424,3.86322978 L114.269128,3.86322978 C114.601916,3.86322978 114.884062,3.74747757 115.115566,3.51597317 C115.361539,3.26999974 115.484526,2.99508825 115.484526,2.69123872 L115.484526,2.64783164 C115.484526,2.31504406 115.361539,2.03289807 115.115566,1.80139366 C114.884062,1.55542023 114.601916,1.43243351 114.269128,1.43243351 Z M107.280589,1.43243351 C106.96227,1.43243351 106.687359,1.55542023 106.455854,1.80139366 C106.22435,2.03289807 106.108598,2.31504406 106.108598,2.64783164 L106.108598,2.69123872 C106.108598,2.99508825 106.22435,3.26999974 106.455854,3.51597317 C106.687359,3.74747757 106.96227,3.86322978 107.280589,3.86322978 L107.323996,3.86322978 C107.656783,3.86322978 107.938929,3.74747757 108.170434,3.51597317 C108.416407,3.26999974 108.539394,2.99508825 108.539394,2.69123872 L108.539394,2.64783164 C108.539394,2.31504406 108.416407,2.03289807 108.170434,1.80139366 C107.938929,1.55542023 107.656783,1.43243351 107.323996,1.43243351 L107.280589,1.43243351 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-3)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M115.766672,115.441119 L115.679858,115.441119 L0.36896015,115.441119 L0.36896015,159.607819 C0.36896015,162.848881 2.01119453,164.469411 5.29566329,164.469411 L110.818265,164.469411 C114.117203,164.469411 115.766672,162.848881 115.766672,159.607819 L115.766672,115.441119 Z M5.23055267,10.1572558 C1.94608391,10.1572558 0.30384953,11.7922557 0.30384953,15.0622554 L0.30384953,43.8411469 L0.30384953,43.9062575 L0.32555307,43.9062575 C0.4557743,46.8434697 2.09077417,48.3120757 5.23055267,48.3120757 L110.753155,48.3120757 C113.892933,48.3120757 115.535168,46.8434697 115.679858,43.9062575 C115.679858,43.8917885 115.679858,43.870085 115.679858,43.8411469 L115.679858,15.0622554 C115.679858,11.7922557 114.037624,10.1572558 110.753155,10.1572558 L49.6576951,10.1572558 L5.23055267,10.1572558 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M5.23055267,52.5008586 C1.94608391,52.5008586 0.30384953,54.1213894 0.30384953,57.3624511 L0.30384953,58.1437785 L0.30384953,64.980393 L0.30384953,68.0188883 L0.30384953,68.2142202 L0.30384953,77.4816309 L0.30384953,77.6769628 L0.30384953,82.9943296 L0.30384953,87.6171832 L0.30384953,101.550855 L0.30384953,115.441119 L0.36896015,115.441119 L115.679858,115.441119 L115.679858,101.550855 L115.679858,82.9943296 L115.679858,77.6769628 L115.679858,77.4816309 L115.679858,68.2142202 L115.679858,68.0188883 L115.679858,64.980393 L115.679858,57.3624511 C115.679858,54.1213894 114.037624,52.5008586 110.753155,52.5008586 L5.23055267,52.5008586 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-4)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M60.7482031,1.02006629 C60.2851942,0.55705748 59.7353713,0.32555307 59.0987342,0.32555307 L2.60442457,0.32555307 C1.98225648,0.32555307 1.45413705,0.55705748 1.02006629,1.02006629 C0.55705748,1.43966803 0.32555307,1.96778745 0.32555307,2.60442457 C0.32555307,3.24106169 0.55705748,3.78365014 1.02006629,4.23218992 C1.45413705,4.66626069 1.98225648,4.88329607 2.60442457,4.88329607 L59.0987342,4.88329607 C59.7353713,4.88329607 60.2851942,4.66626069 60.7482031,4.23218992 C61.1678048,3.78365014 61.3776057,3.24106169 61.3776057,2.60442457 C61.3776057,1.96778745 61.1678048,1.43966803 60.7482031,1.02006629 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-5)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(13.022123, 24.307962)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M94.2150588,110.188863 C94.7648817,110.188863 95.2568286,109.986296 95.6908994,109.581164 C96.067094,109.176031 96.2551913,108.684084 96.2551913,108.105323 C96.2551913,107.541031 96.067094,107.049084 95.6908994,106.629483 C95.2568286,106.22435 94.7648817,106.021783 94.2150588,106.021783 L2.43079626,106.021783 C1.85203525,106.021783 1.36008839,106.22435 0.95495568,106.629483 C0.54982296,107.049084 0.34725661,107.541031 0.34725661,108.105323 C0.34725661,108.684084 0.54982296,109.176031 0.95495568,109.581164 C1.36008839,109.986296 1.85203525,110.188863 2.43079626,110.188863 L94.2150588,110.188863 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-6)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M94.2150588,120.17249 C94.7648817,120.17249 95.2568286,119.969924 95.6908994,119.564791 C96.067094,119.159659 96.2551913,118.667712 96.2551913,118.088951 C96.2551913,117.524659 96.067094,117.032712 95.6908994,116.61311 C95.2568286,116.207977 94.7648817,116.005411 94.2150588,116.005411 L2.43079626,116.005411 C1.85203525,116.005411 1.36008839,116.207977 0.95495568,116.61311 C0.54982296,117.032712 0.34725661,117.524659 0.34725661,118.088951 C0.34725661,118.667712 0.54982296,119.159659 0.95495568,119.564791 C1.36008839,119.969924 1.85203525,120.17249 2.43079626,120.17249 L94.2150588,120.17249 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-7)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M84.6003914,130.611892 C85.1791524,130.611892 85.6710993,130.394857 86.076232,129.960786 C86.4813647,129.584591 86.6839311,129.107113 86.6839311,128.528352 C86.6839311,127.949591 86.4813647,127.457645 86.076232,127.052512 C85.6710993,126.647379 85.1791524,126.444813 84.6003914,126.444813 L2.43079626,126.444813 C1.85203525,126.444813 1.36008839,126.647379 0.95495568,127.052512 C0.54982296,127.457645 0.34725661,127.949591 0.34725661,128.528352 C0.34725661,129.107113 0.54982296,129.584591 0.95495568,129.960786 C1.36008839,130.394857 1.85203525,130.611892 2.43079626,130.611892 L84.6003914,130.611892 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-8)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M67.8886671,141.311736 C68.4818971,141.311736 68.988313,141.10917 69.4079147,140.704037 C69.7985784,140.298905 69.9939103,139.821427 69.9939103,139.271604 C69.9939103,138.692843 69.7985784,138.186427 69.4079147,137.752356 C68.988313,137.376161 68.4818971,137.188064 67.8886671,137.188064 C67.0060565,137.188064 55.7419203,137.188064 34.0962583,137.188064 L27.1511261,137.188064 C27.0353739,137.188064 26.8979182,137.188064 26.7387589,137.188064 C26.0587147,137.188064 25.3642015,137.188064 24.6552192,137.188064 C23.2806618,137.188064 21.8988699,137.188064 20.5098435,137.188064 C14.8379855,137.188064 8.81163646,137.188064 2.43079626,137.188064 C1.85203525,137.188064 1.36008839,137.376161 0.95495568,137.752356 C0.54982296,138.186427 0.34725661,138.692843 0.34725661,139.271604 C0.34725661,139.821427 0.54982296,140.298905 0.95495568,140.704037 C1.36008839,141.10917 1.85203525,141.311736 2.43079626,141.311736 L20.5098435,141.311736 L24.6552192,141.311736 L26.7387589,141.311736 L27.1511261,141.311736 L34.0962583,141.311736 L67.8886671,141.311736 Z",
-                                        id: "Path",
-                                        fill: "#E6EEF3"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.95495568,24.3730733 C1.36008839,24.778206 1.85203525,24.9807723 2.43079626,24.9807723 L94.2150588,24.9807723 C94.7648817,24.9807723 95.2568286,24.778206 95.6908994,24.3730733 C96.067094,23.9534715 96.2551913,23.4615247 96.2551913,22.8972327 C96.2551913,22.3184716 96.067094,21.8265248 95.6908994,21.4213921 C95.2568286,21.0162594 94.7648817,20.813693 94.2150588,20.813693 L2.43079626,20.813693 C1.85203525,20.813693 1.36008839,21.0162594 0.95495568,21.4213921 C0.54982296,21.8265248 0.34725661,22.3184716 0.34725661,22.8972327 C0.34725661,23.4615247 0.54982296,23.9534715 0.95495568,24.3730733 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-7)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.95495568,11.4377646 C0.54982296,11.8428973 0.34725661,12.3348441 0.34725661,12.9136052 C0.34725661,13.4778971 0.54982296,13.969844 0.95495568,14.3894457 C1.36008839,14.7945785 1.85203525,14.9971448 2.43079626,14.9971448 L94.2150588,14.9971448 C94.7648817,14.9971448 95.2568286,14.7945785 95.6908994,14.3894457 C96.067094,13.969844 96.2551913,13.4778971 96.2551913,12.9136052 C96.2551913,12.3348441 96.067094,11.8428973 95.6908994,11.4377646 C95.2568286,11.0326319 94.7648817,10.8300655 94.2150588,10.8300655 L2.43079626,10.8300655 C1.85203525,10.8300655 1.36008839,11.0326319 0.95495568,11.4377646 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-7)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.95495568,3.95004393 C1.36008839,4.35517664 1.85203525,4.55774299 2.43079626,4.55774299 L84.6003914,4.55774299 C85.1791524,4.55774299 85.6710993,4.35517664 86.076232,3.95004393 C86.4813647,3.54491122 86.6839311,3.05296436 86.6839311,2.47420334 C86.6839311,1.89544232 86.4813647,1.41796449 86.076232,1.04176983 C85.6710993,0.60769907 85.1791524,0.39066369 84.6003914,0.39066369 L2.43079626,0.39066369 C1.85203525,0.39066369 1.36008839,0.60769907 0.95495568,1.04176983 C0.54982296,1.41796449 0.34725661,1.89544232 0.34725661,2.47420334 C0.34725661,3.05296436 0.54982296,3.54491122 0.95495568,3.95004393 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-8)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(36.896015, 66.846897)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M53.6945532,14.2809281 L0.30384953,14.2809281 L0.30384953,41.5188683 C0.30384953,45.4255052 2.25716796,47.3788236 6.16380481,47.3788236 L47.7477838,47.3788236 C51.7122967,47.3788236 53.6945532,45.4255052 53.6945532,41.5188683 L53.6945532,14.2809281 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-9)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M45.295284,0.06511061 L43.3853726,0.06511061 C42.7197974,0.06511061 42.1482709,0.29661502 41.6707931,0.75962383 C41.2077843,1.23710167 40.9762799,1.8230972 40.9762799,2.51761042 L40.9762799,3.06019887 L40.9762799,7.42261002 C40.9762799,8.08818519 41.2077843,8.6669462 41.6707931,9.15889307 C42.1482709,9.66530895 42.7197974,9.9185169 43.3853726,9.9185169 L45.295284,9.9185169 C45.9897972,9.9185169 46.5830272,9.66530895 47.0749741,9.15889307 C47.5235139,8.6669462 47.7477838,8.08818519 47.7477838,7.42261002 L47.7477838,3.06019887 L47.7477838,2.51761042 C47.7477838,1.8230972 47.5235139,1.23710167 47.0749741,0.75962383 C46.5830272,0.29661502 45.9897972,0.06511061 45.295284,0.06511061 Z M10.4828089,0.06511061 L8.65971169,0.06511061 C7.99413652,0.06511061 7.38643746,0.29661502 6.83661449,0.75962383 C6.38807471,1.23710167 6.16380481,1.8230972 6.16380481,2.51761042 L6.16380481,3.06019887 L6.16380481,7.42261002 C6.16380481,8.08818519 6.38807471,8.6669462 6.83661449,9.15889307 C7.38643746,9.66530895 7.99413652,9.9185169 8.65971169,9.9185169 L10.4828089,9.9185169 C11.2351982,9.9185169 11.8356628,9.66530895 12.2842025,9.15889307 C12.7761494,8.6669462 13.0221228,8.08818519 13.0221228,7.42261002 L13.0221228,3.06019887 L13.0221228,2.51761042 C13.0221228,1.8230972 12.7761494,1.23710167 12.2842025,0.75962383 C11.8356628,0.29661502 11.2351982,0.06511061 10.4828089,0.06511061 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M6.83661449,9.15889307 C6.38807471,8.6669462 6.16380481,8.08818519 6.16380481,7.42261002 L6.16380481,3.06019887 C2.25716796,3.06019887 0.30384953,5.01351729 0.30384953,8.92015415 L0.30384953,14.2809281 L53.6945532,14.2809281 L53.6945532,8.92015415 C53.6945532,5.01351729 51.7122967,3.06019887 47.7477838,3.06019887 L47.7477838,7.42261002 C47.7477838,8.08818519 47.5235139,8.6669462 47.0749741,9.15889307 C46.5830272,9.66530895 45.9897972,9.9185169 45.295284,9.9185169 L43.3853726,9.9185169 C42.7197974,9.9185169 42.1482709,9.66530895 41.6707931,9.15889307 C41.2077843,8.6669462 40.9762799,8.08818519 40.9762799,7.42261002 L40.9762799,3.06019887 L13.0221228,3.06019887 L13.0221228,7.42261002 C13.0221228,8.08818519 12.7761494,8.6669462 12.2842025,9.15889307 C11.8356628,9.66530895 11.2351982,9.9185169 10.4828089,9.9185169 L8.65971169,9.9185169 C7.99413652,9.9185169 7.38643746,9.66530895 6.83661449,9.15889307 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-10)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M68.8436223,103.786319 C68.8436223,103.091806 68.4963657,102.744549 67.8018525,102.744549 L60.0319858,102.744549 C59.3374726,102.744549 58.990216,103.091806 58.990216,103.786319 L58.990216,108.192137 C58.990216,108.88665 59.3374726,109.233907 60.0319858,109.233907 L67.8018525,109.233907 C68.4963657,109.233907 68.8436223,108.88665 68.8436223,108.192137 L68.8436223,103.786319 Z M47.7260797,102.744549 C47.0170975,102.744549 46.6626064,103.091806 46.6626064,103.786319 L46.6626064,108.192137 C46.6626064,108.88665 47.0170975,109.233907 47.7260797,109.233907 L55.4742428,109.233907 C56.1832251,109.233907 56.5377162,108.88665 56.5377162,108.192137 L56.5377162,103.786319 C56.5377162,103.091806 56.1832251,102.744549 55.4742428,102.744549 L47.7260797,102.744549 Z M60.0319858,93.9546161 C59.3374726,93.9546161 58.990216,94.3018727 58.990216,94.9963859 L58.990216,99.4022041 C58.990216,100.096717 59.3374726,100.443974 60.0319858,100.443974 L67.8018525,100.443974 C68.4963657,100.443974 68.8436223,100.096717 68.8436223,99.4022041 L68.8436223,94.9963859 C68.8436223,94.3018727 68.4963657,93.9546161 67.8018525,93.9546161 L60.0319858,93.9546161 Z M55.4742428,100.443974 C56.1832251,100.443974 56.5377162,100.096717 56.5377162,99.4022041 L56.5377162,94.9963859 C56.5377162,94.3018727 56.1832251,93.9546161 55.4742428,93.9546161 L47.7260798,93.9546161 C47.0170975,93.9546161 46.6626064,94.3018727 46.6626064,94.9963859 L46.6626064,99.4022041 C46.6626064,100.096717 47.0170975,100.443974 47.7260798,100.443974 L55.4742428,100.443974 Z M55.4742428,91.654041 C56.1832251,91.654041 56.5377162,91.3067844 56.5377162,90.6122712 L56.5377162,86.206453 C56.5377162,85.4974707 56.1832251,85.1429796 55.4742428,85.1429796 L47.7260798,85.1429796 C47.0170975,85.1429796 46.6626064,85.4974707 46.6626064,86.206453 L46.6626064,90.6122712 C46.6626064,91.3067844 47.0170975,91.654041 47.7260798,91.654041 L55.4742428,91.654041 Z M68.8436223,86.206453 C68.8436223,85.4974707 68.4963657,85.1429796 67.8018525,85.1429796 L60.0319858,85.1429796 C59.3374726,85.1429796 58.990216,85.4974707 58.990216,86.206453 L58.990216,90.6122712 C58.990216,91.3067844 59.3374726,91.654041 60.0319858,91.654041 L67.8018525,91.654041 C68.4963657,91.654041 68.8436223,91.3067844 68.8436223,90.6122712 L68.8436223,86.206453 Z M72.3378919,93.9546161 C71.6433787,93.9546161 71.2961221,94.3018727 71.2961221,94.9963859 L71.2961221,99.4022041 C71.2961221,100.096717 71.6433787,100.443974 72.3378919,100.443974 L80.1077585,100.443974 C80.8022718,100.443974 81.1495284,100.096717 81.1495284,99.4022041 L81.1495284,94.9963859 C81.1495284,94.3018727 80.8022718,93.9546161 80.1077585,93.9546161 L72.3378919,93.9546161 Z M81.1495284,86.206453 C81.1495284,85.4974707 80.8022718,85.1429796 80.1077585,85.1429796 L72.3378919,85.1429796 C71.6433787,85.1429796 71.2961221,85.4974707 71.2961221,86.206453 L71.2961221,90.6122712 C71.2961221,91.3067844 71.6433787,91.654041 72.3378919,91.654041 L80.1077585,91.654041 C80.8022718,91.654041 81.1495284,91.3067844 81.1495284,90.6122712 L81.1495284,86.206453 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-11)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
                                 attrs: {
-                                  id: "Board-B",
-                                  transform: "translate(139.770785, 68.699086)"
+                                  d:
+                                    "M566.245308,0 L561.036459,0 C567.214733,0.13022123 570.30387,3.3640484 570.30387,9.70148152 L570.30387,365.791431 C570.30387,372.070988 567.279844,375.290346 561.231791,375.449505 L566.245308,375.449505 C572.669556,375.449505 575.881679,372.230147 575.881679,365.791431 L575.881679,9.70148152 C575.881679,3.23382717 572.669556,0 566.245308,0 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-2)"
                                 }
-                              },
-                              [
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(0.000000, 0.000000)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M129.656936,7.31409233 C129.656936,2.82869446 127.457645,0.52088491 123.059061,0.39066369 L7.29238879,0.39066369 C2.66230067,0.39066369 0.34725661,2.69847323 0.34725661,7.31409233 L0.34725661,192.24994 C0.34725661,196.908966 2.66230067,199.238479 7.29238879,199.238479 L123.059061,199.238479 C127.457645,199.108258 129.656936,196.778745 129.656936,192.24994 L129.656936,7.31409233 Z",
-                                        id: "Path",
-                                        fill: "#CEE3F4"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M132.434989,7.31409233 C132.434989,2.69847323 130.119945,0.39066369 125.489857,0.39066369 L123.059061,0.39066369 C127.457645,0.52088491 129.656936,2.82869446 129.656936,7.31409233 L129.656936,192.24994 C129.656936,196.778745 127.457645,199.108258 123.059061,199.238479 L125.489857,199.238479 C130.119945,199.238479 132.434989,196.908966 132.434989,192.24994 L132.434989,7.31409233 Z",
-                                        id: "Path",
-                                        fill: "#B2CBDF"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(6.945132, 7.813273)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M109.49435,2.69123872 C109.49435,2.99508825 109.610102,3.26999974 109.841606,3.51597317 C110.073111,3.74747757 110.355257,3.86322978 110.688044,3.86322978 L110.709748,3.86322978 C111.042535,3.86322978 111.324681,3.74747757 111.556186,3.51597317 C111.802159,3.26999974 111.925146,2.99508825 111.925146,2.69123872 L111.925146,2.64783164 C111.925146,2.31504406 111.802159,2.03289807 111.556186,1.80139366 C111.324681,1.55542023 111.042535,1.43243351 110.709748,1.43243351 L110.688044,1.43243351 C110.355257,1.43243351 110.073111,1.55542023 109.841606,1.80139366 C109.610102,2.03289807 109.49435,2.31504406 109.49435,2.64783164 L109.49435,2.69123872 Z M114.182314,1.43243351 C113.849526,1.43243351 113.56738,1.55542023 113.335876,1.80139366 C113.089902,2.03289807 112.966916,2.31504406 112.966916,2.64783164 L112.966916,2.69123872 C112.966916,2.99508825 113.089902,3.26999974 113.335876,3.51597317 C113.56738,3.74747757 113.849526,3.86322978 114.182314,3.86322978 C114.500632,3.86322978 114.775544,3.74747757 115.007048,3.51597317 C115.28196,3.26999974 115.419415,2.99508825 115.419415,2.69123872 L115.419415,2.64783164 C115.419415,2.31504406 115.28196,2.03289807 115.007048,1.80139366 C114.775544,1.55542023 114.500632,1.43243351 114.182314,1.43243351 L114.182314,1.43243351 Z M106.00008,2.69123872 C106.00008,2.99508825 106.115832,3.26999974 106.347337,3.51597317 C106.607779,3.74747757 106.889925,3.86322978 107.193775,3.86322978 L107.215478,3.86322978 C107.548266,3.86322978 107.830412,3.74747757 108.061916,3.51597317 C108.307889,3.26999974 108.430876,2.99508825 108.430876,2.69123872 L108.430876,2.64783164 C108.430876,2.31504406 108.307889,2.03289807 108.061916,1.80139366 C107.830412,1.55542023 107.548266,1.43243351 107.215478,1.43243351 L107.193775,1.43243351 C106.889925,1.43243351 106.607779,1.55542023 106.347337,1.80139366 C106.115832,2.03289807 106.00008,2.31504406 106.00008,2.64783164 L106.00008,2.69123872 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-12)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.19533184,179.878924 C0.19533184,183.119985 1.83756622,184.740516 5.12203498,184.740516 L110.644637,184.740516 C113.929106,184.740516 115.57134,183.119985 115.57134,179.878924 L115.57134,135.712224 L0.19533184,135.712224 L0.19533184,179.878924 Z M5.12203498,10.1572558 C1.83756622,10.1572558 0.19533184,11.7922557 0.19533184,15.0622554 L0.19533184,35.1814352 L0.19533184,36.8526076 L0.19533184,41.4537577 L0.19533184,43.4287797 C0.19533184,46.6843104 1.83756622,48.3120757 5.12203498,48.3120757 L26.0008386,48.3120757 L110.644637,48.3120757 C113.929106,48.3120757 115.57134,46.6843104 115.57134,43.4287797 L115.57134,36.8526076 L115.57134,35.1814352 L115.57134,20.9439142 L115.57134,15.0622554 C115.57134,11.7922557 113.929106,10.1572558 110.644637,10.1572558 L49.5925845,10.1572558 L5.12203498,10.1572558 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M5.12203498,52.9132258 C1.83756622,52.9132258 0.19533184,54.5337567 0.19533184,57.7748183 L0.19533184,135.712224 L115.57134,135.712224 L115.57134,57.7748183 C115.57134,54.5337567 113.929106,52.9132258 110.644637,52.9132258 L5.12203498,52.9132258 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-13)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M60.6830924,1.02006629 C60.2200836,0.55705748 59.6702607,0.32555307 59.0336236,0.32555307 L2.51761042,0.32555307 C1.8809733,0.32555307 1.34561936,0.55705748 0.9115486,1.02006629 C0.46300881,1.43966803 0.23873892,1.96778745 0.23873892,2.60442457 C0.23873892,3.24106169 0.46300881,3.78365014 0.9115486,4.23218992 C1.34561936,4.66626069 1.8809733,4.88329607 2.51761042,4.88329607 L59.0336236,4.88329607 C59.6702607,4.88329607 60.2200836,4.66626069 60.6830924,4.23218992 C61.1026942,3.78365014 61.312495,3.24106169 61.312495,2.60442457 C61.312495,1.96778745 61.1026942,1.43966803 60.6830924,1.02006629 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-14)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(13.456194, 158.869898)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M21.6167239,0 L5.70803051,0 C2.01842904,0 0.17362831,1.85926976 0.17362831,5.57780928 L0.17362831,21.4647992 C0.17362831,25.1833387 2.01842904,27.0426084 5.70803051,27.0426084 L21.6167239,27.0426084 C25.3497325,27.0426084 27.2162367,25.1833387 27.2162367,21.4647992 L27.2162367,5.57780928 C27.2162367,1.85926976 25.3497325,0 21.6167239,0 Z M19.3812595,7.09705695 C19.7574542,6.69192424 20.2421665,6.48935788 20.8353965,6.48935788 C21.3852195,6.48935788 21.8771664,6.69192424 22.3112371,7.09705695 C22.7163698,7.50218966 22.9189362,8.00137104 22.9189362,8.59460108 C22.9189362,9.17336209 22.7163698,9.66530895 22.3112371,10.0704417 L12.3276096,20.0106621 C11.9224769,20.4157948 11.4305301,20.6183612 10.851769,20.6183612 C10.258539,20.6183612 9.77382664,20.4157948 9.39763198,20.0106621 L5.03522083,15.691658 C4.60115007,15.2575873 4.38411469,14.7656404 4.38411469,14.2158174 C4.38411469,13.6225874 4.60115007,13.123406 5.03522083,12.7182733 C5.44035354,12.3131406 5.91783138,12.1105742 6.46765434,12.1105742 C7.06088439,12.1105742 7.56006576,12.3131406 7.96519847,12.7182733 L10.851769,15.6048439 L19.3812595,7.09705695 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-15)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M20.8353965,6.48935788 C20.2421665,6.48935788 19.7574542,6.69192424 19.3812595,7.09705695 L10.851769,15.6048439 L7.96519847,12.7182733 C7.56006576,12.3131406 7.06088439,12.1105742 6.46765434,12.1105742 C5.91783138,12.1105742 5.44035354,12.3131406 5.03522083,12.7182733 C4.60115007,13.123406 4.38411469,13.6225874 4.38411469,14.2158174 C4.38411469,14.7656404 4.60115007,15.2575873 5.03522083,15.691658 L9.39763198,20.0106621 C9.77382664,20.4157948 10.258539,20.6183612 10.851769,20.6183612 C11.4305301,20.6183612 11.9224769,20.4157948 12.3276096,20.0106621 L22.3112371,10.0704417 C22.7163698,9.66530895 22.9189362,9.17336209 22.9189362,8.59460108 C22.9189362,8.00137104 22.7163698,7.50218966 22.3112371,7.09705695 C21.8771664,6.69192424 21.3852195,6.48935788 20.8353965,6.48935788 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-16)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(13.456194, 24.307962)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M94.909572,127.660211 C94.909572,127.08145 94.7214747,126.596738 94.34528,126.206074 C93.9112092,125.786472 93.4120279,125.576671 92.8477359,125.576671 L2.34398211,125.576671 C1.75075207,125.576671 1.25880521,125.786472 0.86814152,126.206074 C0.46300881,126.596738 0.26044246,127.08145 0.26044246,127.660211 C0.26044246,128.238972 0.46300881,128.730919 0.86814152,129.136052 C1.25880521,129.541184 1.75075207,129.743751 2.34398211,129.743751 L92.8477359,129.743751 C93.4120279,129.743751 93.9112092,129.541184 94.34528,129.136052 C94.7214747,128.730919 94.909572,128.238972 94.909572,127.660211 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-17)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.99836275,24.9590688 C1.36008839,25.2629183 1.80862817,25.4148431 2.34398211,25.4148431 L19.4897772,25.4148431 L46.9447528,25.4148431 C47.5379829,25.4148431 48.0443988,25.2195112 48.4640005,24.8288476 C48.8401952,24.4092458 49.0282925,23.9028299 49.0282925,23.3095999 C49.0282925,22.7308389 48.8401952,22.253361 48.4640005,21.8771664 C48.0443988,21.4430956 47.5379829,21.2260602 46.9447528,21.2260602 C45.5557264,21.2260602 30.6888028,21.2260602 2.34398211,21.2260602 C1.75075207,21.2260602 1.25880521,21.4430956 0.86814152,21.8771664 C0.46300881,22.253361 0.26044246,22.7308389 0.26044246,23.3095999 C0.26044246,23.9028299 0.46300881,24.4092458 0.86814152,24.8288476 C0.9115486,24.8867237 0.95495568,24.9301307 0.99836275,24.9590688 L0.99836275,24.9590688 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-18)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.86814152,11.4377646 C0.46300881,11.8428973 0.26044246,12.3348441 0.26044246,12.9136052 C0.26044246,13.4778971 0.46300881,13.969844 0.86814152,14.3894457 C1.25880521,14.7945785 1.75075207,14.9971448 2.34398211,14.9971448 L94.1065411,14.9971448 C94.6708331,14.9971448 95.1627799,14.7945785 95.5823817,14.3894457 C95.9730453,13.969844 96.1683772,13.4778971 96.1683772,12.9136052 C96.1683772,12.3348441 95.9730453,11.8428973 95.5823817,11.4377646 C95.1627799,11.0326319 94.6708331,10.8300655 94.1065411,10.8300655 L2.34398211,10.8300655 C1.75075207,10.8300655 1.25880521,11.0326319 0.86814152,11.4377646 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-7)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.86814152,3.95004393 C1.25880521,4.35517664 1.75075207,4.55774299 2.34398211,4.55774299 L84.4918737,4.55774299 C85.0851037,4.55774299 85.5842851,4.35517664 85.9894178,3.95004393 C86.3945505,3.54491122 86.5971169,3.05296436 86.5971169,2.47420334 C86.5971169,1.89544232 86.3945505,1.41796449 85.9894178,1.04176983 C85.5842851,0.60769907 85.0851037,0.39066369 84.4918737,0.39066369 L2.34398211,0.39066369 C1.75075207,0.39066369 1.25880521,0.60769907 0.86814152,1.04176983 C0.46300881,1.41796449 0.26044246,1.89544232 0.26044246,2.47420334 C0.26044246,3.05296436 0.46300881,3.54491122 0.86814152,3.95004393 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-19)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M146.043108,82.8280891 C146.043108,79.6449035 144.928993,77.5613639 142.700763,76.5774701 C141.789214,76.1723374 140.696803,75.9553021 139.423529,75.926364 L23.6568566,75.926364 C22.2388921,75.926364 21.037963,76.1433994 20.0540692,76.5774701 C18.6071667,77.2141073 17.6305075,78.3137532 17.1240916,79.8764079 C16.8491801,80.7156114 16.7117244,81.6995051 16.7117244,82.8280891 L16.7117244,247.427722 C16.7117244,247.789447 16.7261934,248.12947 16.7551315,248.447788 C17.087919,252.397832 19.3884941,254.372854 23.6568566,254.372854 L139.423529,254.372854 C143.836581,254.257102 146.043108,251.942058 146.043108,247.427722 L146.043108,82.8280891 Z M286.139446,267.785641 L286.139446,82.8280891 C286.139446,78.3571603 283.940154,76.0565852 279.54157,75.926364 L163.774898,75.926364 C159.130341,75.926364 156.808063,78.226939 156.808063,82.8280891 L156.808063,267.785641 C156.808063,272.444667 159.130341,274.77418 163.774898,274.77418 L279.54157,274.77418 C283.940154,274.643959 286.139446,272.314445 286.139446,267.785641 Z M304.175086,75.926364 C299.544998,75.926364 297.229954,78.226939 297.229954,82.8280891 L297.229954,331.919596 C297.229954,336.549684 299.544998,338.864728 304.175086,338.864728 L419.898351,338.864728 C424.296935,338.763445 426.496227,336.4484 426.496227,331.919596 L426.496227,82.8280891 C426.496227,78.3571603 424.296935,76.0565852 419.898351,75.926364 L304.175086,75.926364 Z M332.129243,255.718473 C332.129243,255.183119 332.324575,254.727345 332.715239,254.35115 C333.091433,253.960487 333.547208,253.765155 334.082562,253.765155 L377.120678,253.765155 C377.656032,253.765155 378.11904,253.960487 378.509704,254.35115 C378.885899,254.727345 379.073996,255.183119 379.073996,255.718473 L379.073996,277.248383 C379.073996,277.783737 378.885899,278.246746 378.509704,278.63741 C378.11904,279.013604 377.656032,279.201702 377.120678,279.201702 L334.082562,279.201702 C333.547208,279.201702 333.091433,279.013604 332.715239,278.63741 C332.324575,278.246746 332.129243,277.783737 332.129243,277.248383 L332.129243,255.718473 Z M566.961525,240.873253 L566.961525,82.8280891 C566.961525,78.3571603 564.754999,76.0565852 560.341946,75.926364 L444.575274,75.926364 C439.945186,75.926364 437.630142,78.226939 437.630142,82.8280891 L437.630142,240.873253 C437.630142,245.503341 439.945186,247.818386 444.575274,247.818386 L560.341946,247.818386 C564.754999,247.688164 566.961525,245.37312 566.961525,240.873253 Z",
+                              id: "Board-Shadows",
+                              "fill-opacity": "0.498039",
+                              fill: "#017FC9"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Board-A",
+                                transform: "translate(0.000000, 68.699086)"
+                              }
+                            },
+                            [
+                              _c(
+                                "g",
+                                {
                                   attrs: {
-                                    d:
-                                      "M27.4332723,128.463241 C27.5490245,127.898949 27.527321,127.37083 27.3681617,126.878883 C27.2668785,126.575033 27.1149538,126.271184 26.9123874,125.967334 C26.4783167,125.301759 25.8778521,124.867688 25.1109938,124.665122 C24.9952416,124.607246 24.8939584,124.571073 24.8071442,124.556604 C23.9100646,124.368507 23.0780957,124.527666 22.3112373,125.034082 C21.52991,125.554967 21.0524321,126.256715 20.8788038,127.139325 C20.6907065,128.036405 20.8571003,128.875608 21.3779852,129.656936 C21.8844011,130.423794 22.5861488,130.901272 23.4832284,131.089369 C24.380308,131.262998 25.2122769,131.096604 25.9791353,130.590188 C26.7604626,130.069303 27.245175,129.360321 27.4332723,128.463241 L27.4332723,128.463241 Z M55.3874294,100.856341 C55.4742435,100.827403 55.5610577,100.776761 55.6478718,100.704416 C56.4436682,100.183531 56.9283806,99.4673143 57.1020089,98.5557657 C57.1309469,98.4689515 57.1526505,98.3676683 57.1671195,98.2519161 C57.2249956,97.4705888 57.0296638,96.739903 56.581124,96.0598588 C56.0891771,95.3074695 55.3946639,94.8444607 54.4975843,94.6708324 C53.5860357,94.482735 52.7540668,94.6346598 52.0016774,95.1266067 C51.2203501,95.6619606 50.7356377,96.3637083 50.5475404,97.2318498 C50.4317882,97.8250799 50.4534917,98.3821374 50.612651,98.9030223 C50.7284032,99.2068718 50.880328,99.4962523 51.0684253,99.7711638 C51.5169651,100.451208 52.1174296,100.899748 52.869819,101.116783 C52.9566331,101.131252 53.0579163,101.152956 53.1736685,101.181894 C53.9549959,101.341053 54.6929162,101.232535 55.3874294,100.856341 L55.3874294,100.856341 Z M77.394817,111.33915 C76.9028701,110.644636 76.2734675,110.196097 75.5066092,109.99353 C75.405326,109.964592 75.3112773,109.942889 75.2244632,109.92842 C74.4431358,109.76926 73.7052155,109.885013 73.0107023,110.275676 C72.9094191,110.319083 72.822605,110.355256 72.7502598,110.384194 C71.9834015,110.919548 71.5131582,111.62853 71.3395299,112.511141 C71.3105918,112.641362 71.2888883,112.778818 71.2744192,112.923508 C71.1731361,113.646959 71.3467644,114.348707 71.7953042,115.028751 C72.3161891,115.795609 73.0179368,116.265853 73.9005473,116.439481 C74.7976269,116.627578 75.6440649,116.475654 76.4398613,115.983707 C77.1922506,115.448353 77.6624939,114.732136 77.8505913,113.835056 C77.9663435,113.270764 77.9374054,112.728176 77.7637771,112.207291 C77.676963,111.917911 77.5539763,111.62853 77.394817,111.33915 L77.394817,111.33915 Z M106.282226,74.204396 C105.399616,74.0307677 104.567647,74.204396 103.786319,74.7252809 C103.019461,75.2316968 102.541983,75.9189755 102.353886,76.787117 C102.209195,77.5395063 102.303244,78.2484886 102.636032,78.9140637 C102.679439,79.0442849 102.759018,79.1817407 102.874771,79.3264309 C103.381187,80.0788203 104.0757,80.5418291 104.95831,80.7154574 C105.016186,80.7299264 105.088532,80.7516299 105.175346,80.780568 C105.985611,80.9252582 106.752469,80.7516299 107.475921,80.2596831 C108.22831,79.7532672 108.698553,79.0370504 108.886651,78.1110328 C109.074748,77.2428913 108.908354,76.4253914 108.387469,75.658533 C107.895522,74.8772056 107.193775,74.3924933 106.282226,74.204396 L106.282226,74.204396 Z",
-                                    id: "Shape",
-                                    fill: "#FFE2C9"
+                                    id: "Group",
+                                    transform: "translate(0.000000, 0.000000)"
                                   }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M51.0684253,99.7711638 C50.880328,99.4962523 50.7284032,99.2068718 50.612651,98.9030223 L25.1109938,124.665122 C25.8778521,124.867688 26.4783167,125.301759 26.9123874,125.967334 C27.1149538,126.271184 27.2668785,126.575033 27.3681617,126.878883 L52.869819,101.116783 C52.1174296,100.899748 51.5169651,100.451208 51.0684253,99.7711638 L51.0684253,99.7711638 Z M71.2744192,112.923508 C71.2888883,112.778818 71.3105918,112.641362 71.3395299,112.511141 C71.5131582,111.62853 71.9834015,110.919548 72.7502598,110.384194 C72.822605,110.355256 72.9094191,110.319083 73.0107023,110.275676 L57.1671195,98.2519161 C57.1526505,98.3676683 57.1309469,98.4689515 57.1020089,98.5557657 C56.9283806,99.4673143 56.4436682,100.183531 55.6478718,100.704416 C55.5610577,100.776761 55.4742435,100.827403 55.3874294,100.856341 L71.2744192,112.923508 Z M102.874771,79.3264309 C102.759018,79.1817407 102.679439,79.0442849 102.636032,78.9140637 L75.5066092,109.99353 C76.2734675,110.196097 76.9028701,110.644636 77.394817,111.33915 C77.5539763,111.62853 77.676963,111.917911 77.7637771,112.207291 L105.175346,80.780568 C105.088532,80.7516299 105.016186,80.7299264 104.95831,80.7154574 C104.0757,80.5418291 103.381187,80.0788203 102.874771,79.3264309 L102.874771,79.3264309 Z",
-                                    id: "Shape",
-                                    fill: "#BBCBFF"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Board-C",
-                                  transform: "translate(280.409712, 68.699086)"
-                                }
-                              },
-                              [
-                                _c("g", { attrs: { id: "Group" } }, [
+                                },
+                                [
                                   _c("path", {
                                     attrs: {
                                       d:
-                                        "M129.396494,7.31409233 C129.396494,2.82869446 127.189968,0.52088491 122.776915,0.39066369 L7.05364987,0.39066369 C2.42356175,0.39066369 0.10851769,2.69847323 0.10851769,7.31409233 L0.10851769,256.383895 C0.10851769,261.013983 2.42356175,263.329027 7.05364987,263.329027 L122.776915,263.329027 C127.189968,263.227744 129.396494,260.9127 129.396494,256.383895 L129.396494,7.31409233 Z",
+                                        "M132.109436,7.31409233 C132.109436,4.11643772 130.995321,2.02566355 128.767091,1.04176983 C127.768729,0.60769907 126.560565,0.39066369 125.142601,0.39066369 L122.711804,0.39066369 C123.985078,0.41960174 125.07749,0.63663712 125.989038,1.04176983 C128.217268,2.02566355 129.331383,4.11643772 129.331383,7.31409233 L129.331383,172.195871 C129.331383,176.710207 127.124857,179.025251 122.711804,179.141003 L125.142601,179.141003 C126.951229,179.141003 128.4126,178.786512 129.526715,178.07753 C131.248529,176.992353 132.109436,175.0318 132.109436,172.195871 L132.109436,7.31409233 Z",
+                                      id: "Path",
+                                      fill: "#B2CBDF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M6.96683572,0.39066369 C5.54887123,0.39066369 4.34070761,0.60769907 3.34234486,1.04176983 C1.90991135,1.67840694 0.94048665,2.77805287 0.43407076,4.34070761 C0.14469025,5.17991109 0,6.17103932 0,7.31409233 L0,172.195871 C0,172.557597 0.01446903,172.904853 0.04340708,173.237641 C0.37619466,177.173216 2.68400421,179.141003 6.96683572,179.141003 L122.711804,179.141003 C127.124857,179.025251 129.331383,176.710207 129.331383,172.195871 L129.331383,7.31409233 C129.331383,4.11643772 128.217268,2.02566355 125.989038,1.04176983 C125.07749,0.63663712 123.985078,0.41960174 122.711804,0.39066369 L6.96683572,0.39066369 Z",
+                                      id: "Path",
+                                      fill: "#CEE3F4"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(6.511061, 7.813273)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M109.950124,1.80139366 C109.718619,2.03289807 109.602867,2.31504406 109.602867,2.64783164 L109.602867,2.69123872 C109.602867,2.99508825 109.718619,3.26999974 109.950124,3.51597317 C110.181628,3.74747757 110.45654,3.86322978 110.774858,3.86322978 L110.818265,3.86322978 C111.151053,3.86322978 111.433199,3.74747757 111.664703,3.51597317 C111.910677,3.26999974 112.033664,2.99508825 112.033664,2.69123872 L112.033664,2.64783164 C112.033664,2.31504406 111.910677,2.03289807 111.664703,1.80139366 C111.433199,1.55542023 111.151053,1.43243351 110.818265,1.43243351 L110.774858,1.43243351 C110.45654,1.43243351 110.181628,1.55542023 109.950124,1.80139366 Z M114.269128,1.43243351 L114.247424,1.43243351 C113.943575,1.43243351 113.661429,1.55542023 113.400986,1.80139366 C113.169482,2.03289807 113.05373,2.31504406 113.05373,2.64783164 L113.05373,2.69123872 C113.05373,2.99508825 113.169482,3.26999974 113.400986,3.51597317 C113.661429,3.74747757 113.943575,3.86322978 114.247424,3.86322978 L114.269128,3.86322978 C114.601916,3.86322978 114.884062,3.74747757 115.115566,3.51597317 C115.361539,3.26999974 115.484526,2.99508825 115.484526,2.69123872 L115.484526,2.64783164 C115.484526,2.31504406 115.361539,2.03289807 115.115566,1.80139366 C114.884062,1.55542023 114.601916,1.43243351 114.269128,1.43243351 Z M107.280589,1.43243351 C106.96227,1.43243351 106.687359,1.55542023 106.455854,1.80139366 C106.22435,2.03289807 106.108598,2.31504406 106.108598,2.64783164 L106.108598,2.69123872 C106.108598,2.99508825 106.22435,3.26999974 106.455854,3.51597317 C106.687359,3.74747757 106.96227,3.86322978 107.280589,3.86322978 L107.323996,3.86322978 C107.656783,3.86322978 107.938929,3.74747757 108.170434,3.51597317 C108.416407,3.26999974 108.539394,2.99508825 108.539394,2.69123872 L108.539394,2.64783164 C108.539394,2.31504406 108.416407,2.03289807 108.170434,1.80139366 C107.938929,1.55542023 107.656783,1.43243351 107.323996,1.43243351 L107.280589,1.43243351 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-3)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M115.766672,115.441119 L115.679858,115.441119 L0.36896015,115.441119 L0.36896015,159.607819 C0.36896015,162.848881 2.01119453,164.469411 5.29566329,164.469411 L110.818265,164.469411 C114.117203,164.469411 115.766672,162.848881 115.766672,159.607819 L115.766672,115.441119 Z M5.23055267,10.1572558 C1.94608391,10.1572558 0.30384953,11.7922557 0.30384953,15.0622554 L0.30384953,43.8411469 L0.30384953,43.9062575 L0.32555307,43.9062575 C0.4557743,46.8434697 2.09077417,48.3120757 5.23055267,48.3120757 L110.753155,48.3120757 C113.892933,48.3120757 115.535168,46.8434697 115.679858,43.9062575 C115.679858,43.8917885 115.679858,43.870085 115.679858,43.8411469 L115.679858,15.0622554 C115.679858,11.7922557 114.037624,10.1572558 110.753155,10.1572558 L49.6576951,10.1572558 L5.23055267,10.1572558 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M5.23055267,52.5008586 C1.94608391,52.5008586 0.30384953,54.1213894 0.30384953,57.3624511 L0.30384953,58.1437785 L0.30384953,64.980393 L0.30384953,68.0188883 L0.30384953,68.2142202 L0.30384953,77.4816309 L0.30384953,77.6769628 L0.30384953,82.9943296 L0.30384953,87.6171832 L0.30384953,101.550855 L0.30384953,115.441119 L0.36896015,115.441119 L115.679858,115.441119 L115.679858,101.550855 L115.679858,82.9943296 L115.679858,77.6769628 L115.679858,77.4816309 L115.679858,68.2142202 L115.679858,68.0188883 L115.679858,64.980393 L115.679858,57.3624511 C115.679858,54.1213894 114.037624,52.5008586 110.753155,52.5008586 L5.23055267,52.5008586 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-4)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M60.7482031,1.02006629 C60.2851942,0.55705748 59.7353713,0.32555307 59.0987342,0.32555307 L2.60442457,0.32555307 C1.98225648,0.32555307 1.45413705,0.55705748 1.02006629,1.02006629 C0.55705748,1.43966803 0.32555307,1.96778745 0.32555307,2.60442457 C0.32555307,3.24106169 0.55705748,3.78365014 1.02006629,4.23218992 C1.45413705,4.66626069 1.98225648,4.88329607 2.60442457,4.88329607 L59.0987342,4.88329607 C59.7353713,4.88329607 60.2851942,4.66626069 60.7482031,4.23218992 C61.1678048,3.78365014 61.3776057,3.24106169 61.3776057,2.60442457 C61.3776057,1.96778745 61.1678048,1.43966803 60.7482031,1.02006629 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-5)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(13.022123, 24.307962)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M94.2150588,110.188863 C94.7648817,110.188863 95.2568286,109.986296 95.6908994,109.581164 C96.067094,109.176031 96.2551913,108.684084 96.2551913,108.105323 C96.2551913,107.541031 96.067094,107.049084 95.6908994,106.629483 C95.2568286,106.22435 94.7648817,106.021783 94.2150588,106.021783 L2.43079626,106.021783 C1.85203525,106.021783 1.36008839,106.22435 0.95495568,106.629483 C0.54982296,107.049084 0.34725661,107.541031 0.34725661,108.105323 C0.34725661,108.684084 0.54982296,109.176031 0.95495568,109.581164 C1.36008839,109.986296 1.85203525,110.188863 2.43079626,110.188863 L94.2150588,110.188863 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-6)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M94.2150588,120.17249 C94.7648817,120.17249 95.2568286,119.969924 95.6908994,119.564791 C96.067094,119.159659 96.2551913,118.667712 96.2551913,118.088951 C96.2551913,117.524659 96.067094,117.032712 95.6908994,116.61311 C95.2568286,116.207977 94.7648817,116.005411 94.2150588,116.005411 L2.43079626,116.005411 C1.85203525,116.005411 1.36008839,116.207977 0.95495568,116.61311 C0.54982296,117.032712 0.34725661,117.524659 0.34725661,118.088951 C0.34725661,118.667712 0.54982296,119.159659 0.95495568,119.564791 C1.36008839,119.969924 1.85203525,120.17249 2.43079626,120.17249 L94.2150588,120.17249 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-7)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M84.6003914,130.611892 C85.1791524,130.611892 85.6710993,130.394857 86.076232,129.960786 C86.4813647,129.584591 86.6839311,129.107113 86.6839311,128.528352 C86.6839311,127.949591 86.4813647,127.457645 86.076232,127.052512 C85.6710993,126.647379 85.1791524,126.444813 84.6003914,126.444813 L2.43079626,126.444813 C1.85203525,126.444813 1.36008839,126.647379 0.95495568,127.052512 C0.54982296,127.457645 0.34725661,127.949591 0.34725661,128.528352 C0.34725661,129.107113 0.54982296,129.584591 0.95495568,129.960786 C1.36008839,130.394857 1.85203525,130.611892 2.43079626,130.611892 L84.6003914,130.611892 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-8)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M67.8886671,141.311736 C68.4818971,141.311736 68.988313,141.10917 69.4079147,140.704037 C69.7985784,140.298905 69.9939103,139.821427 69.9939103,139.271604 C69.9939103,138.692843 69.7985784,138.186427 69.4079147,137.752356 C68.988313,137.376161 68.4818971,137.188064 67.8886671,137.188064 C67.0060565,137.188064 55.7419203,137.188064 34.0962583,137.188064 L27.1511261,137.188064 C27.0353739,137.188064 26.8979182,137.188064 26.7387589,137.188064 C26.0587147,137.188064 25.3642015,137.188064 24.6552192,137.188064 C23.2806618,137.188064 21.8988699,137.188064 20.5098435,137.188064 C14.8379855,137.188064 8.81163646,137.188064 2.43079626,137.188064 C1.85203525,137.188064 1.36008839,137.376161 0.95495568,137.752356 C0.54982296,138.186427 0.34725661,138.692843 0.34725661,139.271604 C0.34725661,139.821427 0.54982296,140.298905 0.95495568,140.704037 C1.36008839,141.10917 1.85203525,141.311736 2.43079626,141.311736 L20.5098435,141.311736 L24.6552192,141.311736 L26.7387589,141.311736 L27.1511261,141.311736 L34.0962583,141.311736 L67.8886671,141.311736 Z",
+                                      id: "Path",
+                                      fill: "#E6EEF3"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.95495568,24.3730733 C1.36008839,24.778206 1.85203525,24.9807723 2.43079626,24.9807723 L94.2150588,24.9807723 C94.7648817,24.9807723 95.2568286,24.778206 95.6908994,24.3730733 C96.067094,23.9534715 96.2551913,23.4615247 96.2551913,22.8972327 C96.2551913,22.3184716 96.067094,21.8265248 95.6908994,21.4213921 C95.2568286,21.0162594 94.7648817,20.813693 94.2150588,20.813693 L2.43079626,20.813693 C1.85203525,20.813693 1.36008839,21.0162594 0.95495568,21.4213921 C0.54982296,21.8265248 0.34725661,22.3184716 0.34725661,22.8972327 C0.34725661,23.4615247 0.54982296,23.9534715 0.95495568,24.3730733 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-7)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.95495568,11.4377646 C0.54982296,11.8428973 0.34725661,12.3348441 0.34725661,12.9136052 C0.34725661,13.4778971 0.54982296,13.969844 0.95495568,14.3894457 C1.36008839,14.7945785 1.85203525,14.9971448 2.43079626,14.9971448 L94.2150588,14.9971448 C94.7648817,14.9971448 95.2568286,14.7945785 95.6908994,14.3894457 C96.067094,13.969844 96.2551913,13.4778971 96.2551913,12.9136052 C96.2551913,12.3348441 96.067094,11.8428973 95.6908994,11.4377646 C95.2568286,11.0326319 94.7648817,10.8300655 94.2150588,10.8300655 L2.43079626,10.8300655 C1.85203525,10.8300655 1.36008839,11.0326319 0.95495568,11.4377646 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-7)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.95495568,3.95004393 C1.36008839,4.35517664 1.85203525,4.55774299 2.43079626,4.55774299 L84.6003914,4.55774299 C85.1791524,4.55774299 85.6710993,4.35517664 86.076232,3.95004393 C86.4813647,3.54491122 86.6839311,3.05296436 86.6839311,2.47420334 C86.6839311,1.89544232 86.4813647,1.41796449 86.076232,1.04176983 C85.6710993,0.60769907 85.1791524,0.39066369 84.6003914,0.39066369 L2.43079626,0.39066369 C1.85203525,0.39066369 1.36008839,0.60769907 0.95495568,1.04176983 C0.54982296,1.41796449 0.34725661,1.89544232 0.34725661,2.47420334 C0.34725661,3.05296436 0.54982296,3.54491122 0.95495568,3.95004393 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-8)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(36.896015, 66.846897)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M53.6945532,14.2809281 L0.30384953,14.2809281 L0.30384953,41.5188683 C0.30384953,45.4255052 2.25716796,47.3788236 6.16380481,47.3788236 L47.7477838,47.3788236 C51.7122967,47.3788236 53.6945532,45.4255052 53.6945532,41.5188683 L53.6945532,14.2809281 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-9)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M45.295284,0.06511061 L43.3853726,0.06511061 C42.7197974,0.06511061 42.1482709,0.29661502 41.6707931,0.75962383 C41.2077843,1.23710167 40.9762799,1.8230972 40.9762799,2.51761042 L40.9762799,3.06019887 L40.9762799,7.42261002 C40.9762799,8.08818519 41.2077843,8.6669462 41.6707931,9.15889307 C42.1482709,9.66530895 42.7197974,9.9185169 43.3853726,9.9185169 L45.295284,9.9185169 C45.9897972,9.9185169 46.5830272,9.66530895 47.0749741,9.15889307 C47.5235139,8.6669462 47.7477838,8.08818519 47.7477838,7.42261002 L47.7477838,3.06019887 L47.7477838,2.51761042 C47.7477838,1.8230972 47.5235139,1.23710167 47.0749741,0.75962383 C46.5830272,0.29661502 45.9897972,0.06511061 45.295284,0.06511061 Z M10.4828089,0.06511061 L8.65971169,0.06511061 C7.99413652,0.06511061 7.38643746,0.29661502 6.83661449,0.75962383 C6.38807471,1.23710167 6.16380481,1.8230972 6.16380481,2.51761042 L6.16380481,3.06019887 L6.16380481,7.42261002 C6.16380481,8.08818519 6.38807471,8.6669462 6.83661449,9.15889307 C7.38643746,9.66530895 7.99413652,9.9185169 8.65971169,9.9185169 L10.4828089,9.9185169 C11.2351982,9.9185169 11.8356628,9.66530895 12.2842025,9.15889307 C12.7761494,8.6669462 13.0221228,8.08818519 13.0221228,7.42261002 L13.0221228,3.06019887 L13.0221228,2.51761042 C13.0221228,1.8230972 12.7761494,1.23710167 12.2842025,0.75962383 C11.8356628,0.29661502 11.2351982,0.06511061 10.4828089,0.06511061 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M6.83661449,9.15889307 C6.38807471,8.6669462 6.16380481,8.08818519 6.16380481,7.42261002 L6.16380481,3.06019887 C2.25716796,3.06019887 0.30384953,5.01351729 0.30384953,8.92015415 L0.30384953,14.2809281 L53.6945532,14.2809281 L53.6945532,8.92015415 C53.6945532,5.01351729 51.7122967,3.06019887 47.7477838,3.06019887 L47.7477838,7.42261002 C47.7477838,8.08818519 47.5235139,8.6669462 47.0749741,9.15889307 C46.5830272,9.66530895 45.9897972,9.9185169 45.295284,9.9185169 L43.3853726,9.9185169 C42.7197974,9.9185169 42.1482709,9.66530895 41.6707931,9.15889307 C41.2077843,8.6669462 40.9762799,8.08818519 40.9762799,7.42261002 L40.9762799,3.06019887 L13.0221228,3.06019887 L13.0221228,7.42261002 C13.0221228,8.08818519 12.7761494,8.6669462 12.2842025,9.15889307 C11.8356628,9.66530895 11.2351982,9.9185169 10.4828089,9.9185169 L8.65971169,9.9185169 C7.99413652,9.9185169 7.38643746,9.66530895 6.83661449,9.15889307 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-10)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M68.8436223,103.786319 C68.8436223,103.091806 68.4963657,102.744549 67.8018525,102.744549 L60.0319858,102.744549 C59.3374726,102.744549 58.990216,103.091806 58.990216,103.786319 L58.990216,108.192137 C58.990216,108.88665 59.3374726,109.233907 60.0319858,109.233907 L67.8018525,109.233907 C68.4963657,109.233907 68.8436223,108.88665 68.8436223,108.192137 L68.8436223,103.786319 Z M47.7260797,102.744549 C47.0170975,102.744549 46.6626064,103.091806 46.6626064,103.786319 L46.6626064,108.192137 C46.6626064,108.88665 47.0170975,109.233907 47.7260797,109.233907 L55.4742428,109.233907 C56.1832251,109.233907 56.5377162,108.88665 56.5377162,108.192137 L56.5377162,103.786319 C56.5377162,103.091806 56.1832251,102.744549 55.4742428,102.744549 L47.7260797,102.744549 Z M60.0319858,93.9546161 C59.3374726,93.9546161 58.990216,94.3018727 58.990216,94.9963859 L58.990216,99.4022041 C58.990216,100.096717 59.3374726,100.443974 60.0319858,100.443974 L67.8018525,100.443974 C68.4963657,100.443974 68.8436223,100.096717 68.8436223,99.4022041 L68.8436223,94.9963859 C68.8436223,94.3018727 68.4963657,93.9546161 67.8018525,93.9546161 L60.0319858,93.9546161 Z M55.4742428,100.443974 C56.1832251,100.443974 56.5377162,100.096717 56.5377162,99.4022041 L56.5377162,94.9963859 C56.5377162,94.3018727 56.1832251,93.9546161 55.4742428,93.9546161 L47.7260798,93.9546161 C47.0170975,93.9546161 46.6626064,94.3018727 46.6626064,94.9963859 L46.6626064,99.4022041 C46.6626064,100.096717 47.0170975,100.443974 47.7260798,100.443974 L55.4742428,100.443974 Z M55.4742428,91.654041 C56.1832251,91.654041 56.5377162,91.3067844 56.5377162,90.6122712 L56.5377162,86.206453 C56.5377162,85.4974707 56.1832251,85.1429796 55.4742428,85.1429796 L47.7260798,85.1429796 C47.0170975,85.1429796 46.6626064,85.4974707 46.6626064,86.206453 L46.6626064,90.6122712 C46.6626064,91.3067844 47.0170975,91.654041 47.7260798,91.654041 L55.4742428,91.654041 Z M68.8436223,86.206453 C68.8436223,85.4974707 68.4963657,85.1429796 67.8018525,85.1429796 L60.0319858,85.1429796 C59.3374726,85.1429796 58.990216,85.4974707 58.990216,86.206453 L58.990216,90.6122712 C58.990216,91.3067844 59.3374726,91.654041 60.0319858,91.654041 L67.8018525,91.654041 C68.4963657,91.654041 68.8436223,91.3067844 68.8436223,90.6122712 L68.8436223,86.206453 Z M72.3378919,93.9546161 C71.6433787,93.9546161 71.2961221,94.3018727 71.2961221,94.9963859 L71.2961221,99.4022041 C71.2961221,100.096717 71.6433787,100.443974 72.3378919,100.443974 L80.1077585,100.443974 C80.8022718,100.443974 81.1495284,100.096717 81.1495284,99.4022041 L81.1495284,94.9963859 C81.1495284,94.3018727 80.8022718,93.9546161 80.1077585,93.9546161 L72.3378919,93.9546161 Z M81.1495284,86.206453 C81.1495284,85.4974707 80.8022718,85.1429796 80.1077585,85.1429796 L72.3378919,85.1429796 C71.6433787,85.1429796 71.2961221,85.4974707 71.2961221,86.206453 L71.2961221,90.6122712 C71.2961221,91.3067844 71.6433787,91.654041 72.3378919,91.654041 L80.1077585,91.654041 C80.8022718,91.654041 81.1495284,91.3067844 81.1495284,90.6122712 L81.1495284,86.206453 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-11)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Board-B",
+                                transform: "translate(139.770785, 68.699086)"
+                              }
+                            },
+                            [
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(0.000000, 0.000000)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M129.656936,7.31409233 C129.656936,2.82869446 127.457645,0.52088491 123.059061,0.39066369 L7.29238879,0.39066369 C2.66230067,0.39066369 0.34725661,2.69847323 0.34725661,7.31409233 L0.34725661,192.24994 C0.34725661,196.908966 2.66230067,199.238479 7.29238879,199.238479 L123.059061,199.238479 C127.457645,199.108258 129.656936,196.778745 129.656936,192.24994 L129.656936,7.31409233 Z",
                                       id: "Path",
                                       fill: "#CEE3F4"
                                     }
@@ -42460,1713 +42327,1878 @@ var render = function() {
                                   _c("path", {
                                     attrs: {
                                       d:
-                                        "M132.152843,7.31409233 C132.152843,2.69847323 129.837799,0.39066369 125.207711,0.39066369 L122.776915,0.39066369 C127.189968,0.52088491 129.396494,2.82869446 129.396494,7.31409233 L129.396494,256.383895 C129.396494,260.9127 127.189968,263.227744 122.776915,263.329027 L125.207711,263.329027 C129.837799,263.329027 132.152843,261.013983 132.152843,256.383895 L132.152843,7.31409233 Z",
+                                        "M132.434989,7.31409233 C132.434989,2.69847323 130.119945,0.39066369 125.489857,0.39066369 L123.059061,0.39066369 C127.457645,0.52088491 129.656936,2.82869446 129.656936,7.31409233 L129.656936,192.24994 C129.656936,196.778745 127.457645,199.108258 123.059061,199.238479 L125.489857,199.238479 C130.119945,199.238479 132.434989,196.908966 132.434989,192.24994 L132.434989,7.31409233 Z",
                                       id: "Path",
                                       fill: "#B2CBDF"
                                     }
                                   })
-                                ]),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(6.945132, 7.813273)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
                                     attrs: {
-                                      id: "Group",
-                                      transform: "translate(6.762399, 7.813273)"
+                                      d:
+                                        "M109.49435,2.69123872 C109.49435,2.99508825 109.610102,3.26999974 109.841606,3.51597317 C110.073111,3.74747757 110.355257,3.86322978 110.688044,3.86322978 L110.709748,3.86322978 C111.042535,3.86322978 111.324681,3.74747757 111.556186,3.51597317 C111.802159,3.26999974 111.925146,2.99508825 111.925146,2.69123872 L111.925146,2.64783164 C111.925146,2.31504406 111.802159,2.03289807 111.556186,1.80139366 C111.324681,1.55542023 111.042535,1.43243351 110.709748,1.43243351 L110.688044,1.43243351 C110.355257,1.43243351 110.073111,1.55542023 109.841606,1.80139366 C109.610102,2.03289807 109.49435,2.31504406 109.49435,2.64783164 L109.49435,2.69123872 Z M114.182314,1.43243351 C113.849526,1.43243351 113.56738,1.55542023 113.335876,1.80139366 C113.089902,2.03289807 112.966916,2.31504406 112.966916,2.64783164 L112.966916,2.69123872 C112.966916,2.99508825 113.089902,3.26999974 113.335876,3.51597317 C113.56738,3.74747757 113.849526,3.86322978 114.182314,3.86322978 C114.500632,3.86322978 114.775544,3.74747757 115.007048,3.51597317 C115.28196,3.26999974 115.419415,2.99508825 115.419415,2.69123872 L115.419415,2.64783164 C115.419415,2.31504406 115.28196,2.03289807 115.007048,1.80139366 C114.775544,1.55542023 114.500632,1.43243351 114.182314,1.43243351 L114.182314,1.43243351 Z M106.00008,2.69123872 C106.00008,2.99508825 106.115832,3.26999974 106.347337,3.51597317 C106.607779,3.74747757 106.889925,3.86322978 107.193775,3.86322978 L107.215478,3.86322978 C107.548266,3.86322978 107.830412,3.74747757 108.061916,3.51597317 C108.307889,3.26999974 108.430876,2.99508825 108.430876,2.69123872 L108.430876,2.64783164 C108.430876,2.31504406 108.307889,2.03289807 108.061916,1.80139366 C107.830412,1.55542023 107.548266,1.43243351 107.215478,1.43243351 L107.193775,1.43243351 C106.889925,1.43243351 106.607779,1.55542023 106.347337,1.80139366 C106.115832,2.03289807 106.00008,2.31504406 106.00008,2.64783164 L106.00008,2.69123872 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-12)"
                                     }
-                                  },
-                                  [
-                                    _c("polygon", {
-                                      attrs: {
-                                        id: "Path",
-                                        fill: "url(#linearGradient-20)",
-                                        points:
-                                          "98.564871 200.063214 98.564871 128.593463 38.68481 128.593463 38.68481 200.106621"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M16.894457,200.063214 L0.095919,200.106621 L0.095919,230.903942 L0.095919,231.186088 L0.095919,237.436706 L0.095919,244.056286 C0.095919,247.282878 1.745388,248.896175 5.044326,248.896175 L110.588631,248.896175 C113.887569,248.896175 115.537038,247.282878 115.537038,244.056286 L115.537038,237.436706 L115.537038,230.903942 L115.537038,200.106621 L98.564871,200.063214 L38.68481,200.106621 L16.894457,200.063214 Z M5.044326,10.1572558 C1.745388,10.1572558 0.095919,11.7922557 0.095919,15.0622554 L0.095919,32.2514576 C0.095919,35.5214573 1.745388,37.1564572 5.044326,37.1564572 L7.323197,37.1564572 L23.340408,37.1564572 L23.492333,37.1564572 L28.462443,37.1564572 L46.281048,37.1564572 L46.454676,37.1564572 L49.493172,37.1564572 L69.199984,37.1564572 L92.140624,37.1564572 L110.588631,37.1564572 C113.887569,37.1564572 115.537038,35.5214573 115.537038,32.2514576 L115.537038,15.0622554 C115.537038,11.7922557 113.887569,10.1572558 110.588631,10.1572558 L49.493172,10.1572558 L5.044326,10.1572558 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("polygon", {
-                                      attrs: {
-                                        id: "Path",
-                                        fill: "url(#linearGradient-21)",
-                                        points:
-                                          "38.68481 128.593463 16.894457 128.593463 16.894457 200.063214 38.68481 200.106621"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M115.537038,116.895256 C115.537038,113.654194 113.887569,112.033664 110.588631,112.033664 L4.848994,112.033664 C2.693109,112.077071 1.275145,112.851163 0.5951,114.355942 C0.262313,115.035986 0.095919,115.882424 0.095919,116.895256 L0.095919,200.106621 L16.894457,200.063214 L16.894457,128.593463 L38.68481,128.593463 L98.564871,128.593463 L98.564871,200.063214 L115.537038,200.106621 L115.537038,116.895256 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-22)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M109.41664,2.69123872 C109.41664,2.99508825 109.539627,3.26999974 109.7856,3.51597317 C110.017105,3.74747757 110.299251,3.86322978 110.632038,3.86322978 C110.964826,3.86322978 111.239737,3.74747757 111.456773,3.51597317 C111.717215,3.26999974 111.847436,2.99508825 111.847436,2.69123872 L111.847436,2.64783164 C111.847436,2.31504406 111.717215,2.03289807 111.456773,1.80139366 C111.239737,1.55542023 110.964826,1.43243351 110.632038,1.43243351 C110.299251,1.43243351 110.017105,1.55542023 109.7856,1.80139366 C109.539627,2.03289807 109.41664,2.31504406 109.41664,2.64783164 L109.41664,2.69123872 Z M114.951042,1.80139366 C114.734007,1.55542023 114.459096,1.43243351 114.126308,1.43243351 L114.082901,1.43243351 C113.750113,1.43243351 113.475202,1.55542023 113.258166,1.80139366 C113.026662,2.03289807 112.91091,2.31504406 112.91091,2.64783164 L112.91091,2.69123872 C112.91091,2.99508825 113.026662,3.26999974 113.258166,3.51597317 C113.475202,3.74747757 113.750113,3.86322978 114.082901,3.86322978 L114.126308,3.86322978 C114.459096,3.86322978 114.734007,3.74747757 114.951042,3.51597317 C115.211485,3.26999974 115.341706,2.99508825 115.341706,2.69123872 L115.341706,2.64783164 C115.341706,2.31504406 115.211485,2.03289807 114.951042,1.80139366 Z M105.965778,2.69123872 C105.965778,2.99508825 106.08153,3.26999974 106.313034,3.51597317 C106.53007,3.74747757 106.804981,3.86322978 107.137769,3.86322978 L107.181176,3.86322978 C107.499494,3.86322978 107.774406,3.74747757 108.00591,3.51597317 C108.266353,3.26999974 108.396574,2.99508825 108.396574,2.69123872 L108.396574,2.64783164 C108.396574,2.31504406 108.266353,2.03289807 108.00591,1.80139366 C107.774406,1.55542023 107.499494,1.43243351 107.181176,1.43243351 L107.137769,1.43243351 C106.804981,1.43243351 106.53007,1.55542023 106.313034,1.80139366 C106.08153,2.03289807 105.965778,2.31504406 105.965778,2.64783164 L105.965778,2.69123872 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-23)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M5.044326,41.4754613 C1.745388,41.4754613 0.095919,43.0959921 0.095919,46.3370538 L0.095919,102.766253 C0.095919,106.007314 1.745388,107.627845 5.044326,107.627845 L110.849074,107.627845 C113.974383,107.5555 115.537038,105.934969 115.537038,102.766253 L115.537038,46.3370538 C115.537038,43.1828062 113.974383,41.5622754 110.849074,41.4754613 L5.044326,41.4754613 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-24)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M60.58368,1.02006629 C60.13514,0.55705748 59.592551,0.32555307 58.955914,0.32555307 L2.461605,0.32555307 C1.824967,0.32555307 1.289614,0.55705748 0.855543,1.02006629 C0.407003,1.43966803 0.182733,1.96778745 0.182733,2.60442457 C0.182733,3.24106169 0.407003,3.78365014 0.855543,4.23218992 C1.289614,4.66626069 1.824967,4.88329607 2.461605,4.88329607 L58.955914,4.88329607 C59.592551,4.88329607 60.13514,4.66626069 60.58368,4.23218992 C61.01775,3.78365014 61.234786,3.24106169 61.234786,2.60442457 C61.234786,1.96778745 61.01775,1.43966803 60.58368,1.02006629 L60.58368,1.02006629 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-25)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
                                     attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(13.022123, 24.307962)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.99836275,215.016952 C1.38902644,215.422084 1.8809733,215.624651 2.47420334,215.624651 L94.2367623,215.624651 C94.8010543,215.624651 95.2930012,215.422084 95.7126029,215.016952 C96.1032666,214.59735 96.2985984,214.105403 96.2985984,213.541111 C96.2985984,212.96235 96.1032666,212.470403 95.7126029,212.06527 C95.2930012,211.660138 94.8010543,211.457571 94.2367623,211.457571 L2.47420334,211.457571 C1.8809733,211.457571 1.38902644,211.660138 0.99836275,212.06527 C0.59323004,212.470403 0.39066369,212.96235 0.39066369,213.541111 C0.39066369,214.105403 0.59323004,214.59735 0.99836275,215.016952 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-6)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M1.06347337,225.608278 C1.43966803,226.013411 1.91714586,226.215977 2.49590688,226.215977 L19.402963,226.215977 L20.6834718,226.215977 L20.9222107,226.215977 L22.0507947,226.215977 L24.5901086,226.215977 L28.6703738,226.215977 L31.057763,226.215977 L39.7825853,226.215977 L57.3624511,226.215977 C57.9412121,226.215977 58.433159,226.013411 58.8382917,225.608278 C59.2434244,225.203146 59.4459908,224.711199 59.4459908,224.132438 C59.4459908,223.553677 59.2434244,223.06173 58.8382917,222.656597 C58.433159,222.251464 57.9412121,222.048898 57.3624511,222.048898 C56.725814,222.048898 50.8658587,222.048898 39.7825853,222.048898 C36.7006829,222.048898 33.7924088,222.048898 31.057763,222.048898 L22.0507947,222.048898 C21.6746,222.048898 21.2984054,222.048898 20.9222107,222.048898 L20.6834718,222.048898 C20.5821886,222.048898 20.4953745,222.048898 20.4230293,222.048898 C20.0757727,222.048898 19.7357506,222.048898 19.402963,222.048898 C14.1072997,222.048898 8.47161436,222.048898 2.49590688,222.048898 C1.91714586,222.048898 1.43966803,222.251464 1.06347337,222.656597 C0.6294026,223.06173 0.41236722,223.553677 0.41236722,224.132438 C0.41236722,224.711199 0.6294026,225.203146 1.06347337,225.608278 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-26)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.99836275,204.57755 C1.38902644,204.982683 1.8809733,205.185249 2.47420334,205.185249 L84.6220949,205.185249 C85.215325,205.185249 85.7145064,204.982683 86.1196391,204.57755 C86.5247718,204.172417 86.7273381,203.68047 86.7273381,203.101709 C86.7273381,202.522948 86.5247718,202.04547 86.1196391,201.669276 C85.7145064,201.235205 85.215325,201.01817 84.6220949,201.01817 L2.47420334,201.01817 C1.8809733,201.01817 1.38902644,201.235205 0.99836275,201.669276 C0.59323004,202.04547 0.39066369,202.522948 0.39066369,203.101709 C0.39066369,203.68047 0.59323004,204.172417 0.99836275,204.57755 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-19)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M1.06347337,193.487042 C1.43966803,193.892175 1.91714586,194.094741 2.49590688,194.094741 L20.5749541,194.094741 L24.7420334,194.094741 L26.8472766,194.094741 L27.2596438,194.094741 L34.204776,194.094741 L63.6998842,194.094741 L81.2797501,194.094741 C81.8729801,194.094741 82.3721615,193.892175 82.7772942,193.487042 C83.1824269,193.081909 83.3849933,192.589962 83.3849933,192.011201 C83.3849933,191.43244 83.1824269,190.940493 82.7772942,190.535361 C82.3721615,190.130228 81.8729801,189.927662 81.2797501,189.927662 C80.657582,189.927662 74.7976267,189.927662 63.6998842,189.927662 C50.3160358,189.927662 40.484333,189.927662 34.204776,189.927662 L27.2596438,189.927662 C27.1294226,189.927662 26.9919668,189.927662 26.8472766,189.927662 C26.1527634,189.927662 25.4510156,189.927662 24.7420334,189.927662 C23.381945,189.927662 21.9929186,189.927662 20.5749541,189.927662 C14.9320342,189.927662 8.90568512,189.927662 2.49590688,189.927662 C1.91714586,189.927662 1.43966803,190.130228 1.06347337,190.535361 C0.6294026,190.940493 0.41236722,191.43244 0.41236722,192.011201 C0.41236722,192.589962 0.6294026,193.081909 1.06347337,193.487042 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-27)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M1.06347337,11.4377646 C0.6294026,11.8428973 0.41236722,12.3348441 0.41236722,12.9136052 C0.41236722,13.4778971 0.6294026,13.969844 1.06347337,14.3894457 C1.43966803,14.7945785 1.91714586,14.9971448 2.49590688,14.9971448 L90.0913865,14.9971448 C90.6701475,14.9971448 91.1765634,14.7945785 91.6106342,14.3894457 C91.9868289,13.969844 92.1749262,13.4778971 92.1749262,12.9136052 C92.1749262,12.3348441 91.9868289,11.8428973 91.6106342,11.4377646 C91.1765634,11.0326319 90.6701475,10.8300655 90.0913865,10.8300655 L2.49590688,10.8300655 C1.91714586,10.8300655 1.43966803,11.0326319 1.06347337,11.4377646 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-28)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M1.06347337,3.95004393 C1.43966803,4.35517664 1.91714586,4.55774299 2.49590688,4.55774299 L88.8325813,4.55774299 C89.4258114,4.55774299 89.9322273,4.35517664 90.351829,3.95004393 C90.7424927,3.54491122 90.9378245,3.05296436 90.9378245,2.47420334 C90.9378245,1.89544232 90.7424927,1.41796449 90.351829,1.04176983 C89.9322273,0.60769907 89.4258114,0.39066369 88.8325813,0.39066369 L2.49590688,0.39066369 C1.91714586,0.39066369 1.43966803,0.60769907 1.06347337,1.04176983 C0.6294026,1.41796449 0.41236722,1.89544232 0.41236722,2.47420334 C0.41236722,3.05296436 0.6294026,3.54491122 1.06347337,3.95004393 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-29)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M98.0999922,184.783922 C97.7093285,184.393259 97.2463197,184.197927 96.7109658,184.197927 L78.4148832,184.197927 C77.8795293,184.197927 77.423755,184.393259 77.0475603,184.783922 C76.6568966,185.160117 76.4615648,185.615892 76.4615648,186.151245 L76.4615648,198.99974 C76.4615648,199.535094 76.6568966,199.998103 77.0475603,200.388766 C77.423755,200.764961 77.8795293,200.953058 78.4148832,200.953058 L96.7109658,200.953058 C97.2463197,200.953058 97.7093285,200.764961 98.0999922,200.388766 C98.4761869,199.998103 98.6642842,199.535094 98.6642842,198.99974 L98.6642842,186.151245 C98.6642842,185.615892 98.4761869,185.160117 98.0999922,184.783922 Z M52.3055269,184.783922 C51.9148632,185.160117 51.7195314,185.615892 51.7195314,186.151245 L51.7195314,198.99974 C51.7195314,199.535094 51.9148632,199.998103 52.3055269,200.388766 C52.6817216,200.764961 53.1374959,200.953058 53.6728498,200.953058 L71.9689324,200.953058 C72.5042863,200.953058 72.9672951,200.764961 73.3579588,200.388766 C73.7341535,199.998103 73.9222508,199.535094 73.9222508,198.99974 L73.9222508,186.151245 C73.9222508,185.615892 73.7341535,185.160117 73.3579588,184.783922 C72.9672951,184.393259 72.5042863,184.197927 71.9689324,184.197927 L53.6728498,184.197927 C53.1374959,184.197927 52.6817216,184.393259 52.3055269,184.783922 Z M98.0999922,154.83304 C97.7093285,154.442376 97.2463197,154.247044 96.7109658,154.247044 L53.6728498,154.247044 C53.1374959,154.247044 52.6817216,154.442376 52.3055269,154.83304 C51.9148632,155.209235 51.7195314,155.665009 51.7195314,156.200363 L51.7195314,177.730273 C51.7195314,178.265627 51.9148632,178.728635 52.3055269,179.119299 C52.6817216,179.495494 53.1374959,179.683591 53.6728498,179.683591 L96.7109658,179.683591 C97.2463197,179.683591 97.7093285,179.495494 98.0999922,179.119299 C98.4761869,178.728635 98.6642842,178.265627 98.6642842,177.730273 L98.6642842,156.200363 C98.6642842,155.665009 98.4761869,155.209235 98.0999922,154.83304 Z M98.534063,147.019766 C98.1433993,146.629103 97.6803905,146.433771 97.1450366,146.433771 L53.2604826,146.433771 C52.7251286,146.433771 52.2693543,146.629103 51.8931597,147.019766 C51.502496,147.395961 51.3071641,147.851735 51.3071641,148.387089 C51.3071641,148.922443 51.502496,149.385452 51.8931597,149.776116 C52.2693543,150.15231 52.7251286,150.340408 53.2604826,150.340408 L97.1450366,150.340408 C97.6803905,150.340408 98.1433993,150.15231 98.534063,149.776116 C98.9102577,149.385452 99.098355,148.922443 99.098355,148.387089 C99.098355,147.851735 98.9102577,147.395961 98.534063,147.019766 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-30)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Board-D",
-                                  transform: "translate(420.614568, 68.699086)"
-                                }
-                              },
-                              [
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(0.000000, 0.000000)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M129.635233,7.31409233 C129.635233,2.82869446 127.428707,0.52088491 123.015654,0.39066369 L7.24898172,0.39066369 C2.61889359,0.39066369 0.30384953,2.69847323 0.30384953,7.31409233 L0.30384953,165.337553 C0.30384953,169.967641 2.61889359,172.282685 7.24898172,172.282685 L123.015654,172.282685 C127.428707,172.152464 129.635233,169.83742 129.635233,165.337553 L129.635233,7.31409233 Z",
-                                        id: "Path",
-                                        fill: "#CEE3F4"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M132.391582,7.31409233 C132.391582,2.69847323 130.076538,0.39066369 125.44645,0.39066369 L123.015654,0.39066369 C127.428707,0.52088491 129.635233,2.82869446 129.635233,7.31409233 L129.635233,165.337553 C129.635233,169.83742 127.428707,172.152464 123.015654,172.282685 L125.44645,172.282685 C130.076538,172.282685 132.391582,169.967641 132.391582,165.337553 L132.391582,7.31409233 Z",
-                                        id: "Path",
-                                        fill: "#B2CBDF"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform: "translate(6.945132, 7.813273)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M110.644637,1.43243351 C110.311849,1.43243351 110.036938,1.55542023 109.819903,1.80139366 C109.588398,2.03289807 109.472646,2.31504406 109.472646,2.64783164 L109.472646,2.69123872 C109.472646,2.99508825 109.588398,3.26999974 109.819903,3.51597317 C110.036938,3.74747757 110.311849,3.86322978 110.644637,3.86322978 L110.688044,3.86322978 C111.020832,3.86322978 111.295743,3.74747757 111.512779,3.51597317 C111.773221,3.26999974 111.903442,2.99508825 111.903442,2.69123872 L111.903442,2.64783164 C111.903442,2.31504406 111.773221,2.03289807 111.512779,1.80139366 C111.295743,1.55542023 111.020832,1.43243351 110.688044,1.43243351 L110.644637,1.43243351 Z M114.0955,1.43243351 C113.79165,1.43243351 113.531208,1.55542023 113.314172,1.80139366 C113.05373,2.03289807 112.923509,2.31504406 112.923509,2.64783164 L112.923509,2.69123872 C112.923509,2.99508825 113.05373,3.26999974 113.314172,3.51597317 C113.531208,3.74747757 113.79165,3.86322978 114.0955,3.86322978 L114.138907,3.86322978 C114.471694,3.86322978 114.75384,3.74747757 114.985345,3.51597317 C115.231318,3.26999974 115.354305,2.99508825 115.354305,2.69123872 L115.354305,2.64783164 C115.354305,2.31504406 115.231318,2.03289807 114.985345,1.80139366 C114.75384,1.55542023 114.471694,1.43243351 114.138907,1.43243351 L114.0955,1.43243351 Z M105.978376,2.69123872 C105.978376,2.99508825 106.094129,3.26999974 106.325633,3.51597317 C106.571606,3.74747757 106.846518,3.86322978 107.150367,3.86322978 L107.193775,3.86322978 C107.526562,3.86322978 107.808708,3.74747757 108.040213,3.51597317 C108.286186,3.26999974 108.409173,2.99508825 108.409173,2.69123872 L108.409173,2.64783164 C108.409173,2.31504406 108.286186,2.03289807 108.040213,1.80139366 C107.808708,1.55542023 107.526562,1.43243351 107.193775,1.43243351 L107.150367,1.43243351 C106.846518,1.43243351 106.571606,1.55542023 106.325633,1.80139366 C106.094129,2.03289807 105.978376,2.31504406 105.978376,2.64783164 L105.978376,2.69123872 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-31)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M110.60123,157.58939 C113.900168,157.58939 115.549637,155.968859 115.549637,152.727797 L115.549637,146.129922 L115.549637,128.810498 L0.15192477,128.810498 L0.15192477,146.129922 L0.15192477,152.727797 C0.15192477,155.968859 1.80139366,157.58939 5.10033145,157.58939 L110.60123,157.58939 Z M82.7338871,146.998063 C83.1245508,147.374258 83.3198827,147.85897 83.3198827,148.4522 C83.3198827,149.030961 83.1245508,149.530143 82.7338871,149.949745 C82.3142854,150.340408 81.8078695,150.53574 81.2146395,150.53574 C80.404374,150.53574 70.3339324,150.53574 51.0033145,150.53574 C45.2012353,150.53574 41.7069657,150.53574 40.5205056,150.53574 L33.5319663,150.53574 C33.4017451,150.53574 33.2642893,150.53574 33.1195991,150.53574 C32.4395549,150.53574 31.7522762,150.53574 31.057763,150.53574 C29.6976746,150.53574 28.3086482,150.53574 26.8906837,150.53574 C21.2188257,150.53574 15.1924766,150.53574 8.81163646,150.53574 C8.23287544,150.53574 7.74092858,150.340408 7.33579587,149.949745 C6.93066316,149.530143 6.7280968,149.030961 6.7280968,148.4522 C6.7280968,147.85897 6.93066316,147.374258 7.33579587,146.998063 C7.74092858,146.563993 8.23287544,146.346957 8.81163646,146.346957 L26.8906837,146.346957 L31.057763,146.346957 L33.1195991,146.346957 L33.5319663,146.346957 L40.5205056,146.346957 L51.0033145,146.346957 L81.2146395,146.346957 C81.8078695,146.346957 82.3142854,146.563993 82.7338871,146.998063 Z M105.566009,135.950962 C106.14477,135.950962 106.651186,136.153529 107.085257,136.558662 C107.461451,136.963794 107.649549,137.455741 107.649549,138.034502 C107.649549,138.598794 107.461451,139.090741 107.085257,139.510343 C106.651186,139.915475 106.14477,140.118042 105.566009,140.118042 C104.755744,140.118042 95.2640631,140.118042 77.0909672,140.118042 C54.5337567,140.118042 42.3436028,140.118042 40.5205056,140.118042 L33.5319663,140.118042 C33.4017451,140.118042 33.2642893,140.118042 33.1195991,140.118042 C32.4395549,140.118042 31.7522762,140.118042 31.057763,140.118042 C29.6976746,140.118042 28.3086482,140.118042 26.8906837,140.118042 C21.2188257,140.118042 15.1924766,140.118042 8.81163646,140.118042 C8.23287544,140.118042 7.74092858,139.915475 7.33579587,139.510343 C6.93066316,139.090741 6.7280968,138.598794 6.7280968,138.034502 C6.7280968,137.455741 6.93066316,136.963794 7.33579587,136.558662 C7.74092858,136.153529 8.23287544,135.950962 8.81163646,135.950962 L26.8906837,135.950962 L31.057763,135.950962 L33.1195991,135.950962 L33.5319663,135.950962 L40.5205056,135.950962 L77.0909672,135.950962 L105.566009,135.950962 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M107.085257,136.558662 C106.651186,136.153529 106.14477,135.950962 105.566009,135.950962 C104.755744,135.950962 95.2640631,135.950962 77.0909672,135.950962 C54.5337567,135.950962 42.3436028,135.950962 40.5205056,135.950962 L33.5319663,135.950962 C33.4017451,135.950962 33.2642893,135.950962 33.1195991,135.950962 C32.4395549,135.950962 31.7522762,135.950962 31.057763,135.950962 C29.6976746,135.950962 28.3086482,135.950962 26.8906837,135.950962 C21.2188257,135.950962 15.1924766,135.950962 8.81163646,135.950962 C8.23287544,135.950962 7.74092858,136.153529 7.33579587,136.558662 C6.93066316,136.963794 6.7280968,137.455741 6.7280968,138.034502 C6.7280968,138.598794 6.93066316,139.090741 7.33579587,139.510343 C7.74092858,139.915475 8.23287544,140.118042 8.81163646,140.118042 L26.8906837,140.118042 L31.057763,140.118042 L33.1195991,140.118042 L33.5319663,140.118042 L40.5205056,140.118042 L77.0909672,140.118042 L105.566009,140.118042 C106.14477,140.118042 106.651186,139.915475 107.085257,139.510343 C107.461451,139.090741 107.649549,138.598794 107.649549,138.034502 C107.649549,137.455741 107.461451,136.963794 107.085257,136.558662 Z M83.3198827,148.4522 C83.3198827,147.85897 83.1245508,147.374258 82.7338871,146.998063 C82.3142854,146.563993 81.8078695,146.346957 81.2146395,146.346957 C80.404374,146.346957 70.3339324,146.346957 51.0033145,146.346957 C45.2012353,146.346957 41.7069657,146.346957 40.5205056,146.346957 L33.5319663,146.346957 C33.4017451,146.346957 33.2642893,146.346957 33.1195991,146.346957 C32.4395549,146.346957 31.7522762,146.346957 31.057763,146.346957 C29.6976746,146.346957 28.3086482,146.346957 26.8906837,146.346957 C21.2188257,146.346957 15.1924766,146.346957 8.81163646,146.346957 C8.23287544,146.346957 7.74092858,146.563993 7.33579587,146.998063 C6.93066316,147.374258 6.7280968,147.85897 6.7280968,148.4522 C6.7280968,149.030961 6.93066316,149.530143 7.33579587,149.949745 C7.74092858,150.340408 8.23287544,150.53574 8.81163646,150.53574 L26.8906837,150.53574 L31.057763,150.53574 L33.1195991,150.53574 L33.5319663,150.53574 L40.5205056,150.53574 L51.0033145,150.53574 L81.2146395,150.53574 C81.8078695,150.53574 82.3142854,150.340408 82.7338871,149.949745 C83.1245508,149.530143 83.3198827,149.030961 83.3198827,148.4522 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-32)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M5.10033145,10.1138487 C1.80139366,10.1138487 0.15192477,11.7343796 0.15192477,14.9754413 L0.15192477,30.1245108 L0.15192477,79.7170953 L0.15192477,79.9124272 L0.15192477,85.229794 L0.15192477,103.786319 L0.15192477,117.264216 L0.15192477,120.085676 L0.15192477,128.810498 L115.549637,128.810498 L115.549637,120.085676 L115.549637,117.264216 L115.549637,103.786319 L115.549637,96.928001 L115.549637,85.229794 L115.549637,83.3198827 L115.549637,79.9124272 L115.549637,79.7170953 L115.549637,30.1245108 L115.549637,14.9754413 C115.549637,11.7343796 113.900168,10.1138487 110.60123,10.1138487 L5.10033145,10.1138487 Z M19.1642241,70.102428 C19.1642241,69.4223838 19.1786931,68.7495741 19.2076312,68.0839989 C19.656171,58.3752829 23.3602415,50.0266553 30.3198427,43.038116 C30.4066568,42.9802399 30.4500639,42.9295983 30.4500639,42.8861912 L30.5151745,42.8861912 C37.9811916,35.4201741 47.0098635,31.6871656 57.60119,31.6871656 L57.7097077,31.6871656 C62.6002383,31.6871656 67.1579813,32.468493 71.3829367,34.0311477 C76.3024053,35.912121 80.7660997,38.8638022 84.7740197,42.8861912 C88.2031787,46.3298193 90.8582449,50.0845314 92.7392182,54.1503275 C94.6346605,58.462097 95.7126029,63.1428268 95.9730453,68.1925166 C96.0019834,68.8291537 96.016828,69.4657909 96.016828,70.102428 C96.0598595,80.7082236 92.34132,89.7441299 84.8608339,97.210147 L84.7740197,97.210147 C77.3080026,104.748509 68.2503927,108.51769 57.60119,108.51769 C52.7540665,108.474283 48.2469651,107.692956 44.0798858,106.173708 C39.0880721,104.292735 34.5447981,101.304881 30.4500639,97.210147 C26.9774978,93.7375809 24.3079626,89.9394618 22.4414584,85.8157895 C20.2132285,81.0265421 19.120817,75.7887549 19.1642241,70.102428 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-33)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M57.7097077,31.6871656 L57.7097077,70.102428 L44.0798858,106.173708 C48.2469651,107.692956 52.7540665,108.474283 57.60119,108.51769 C68.2503927,108.51769 77.3080026,104.748509 84.7740197,97.210147 L84.8608339,97.210147 C92.34132,89.7441299 96.0598595,80.7082236 96.016828,70.102428 C96.016828,69.4657909 96.0019834,68.8291537 95.9730453,68.1925166 C95.7126029,63.1428268 94.6346605,58.462097 92.7392182,54.1503275 C90.8582449,50.0845314 88.2031787,46.3298193 84.7740197,42.8861912 C80.7660997,38.8638022 76.3024053,35.912121 71.3829367,34.0311477 C67.1579813,32.468493 62.6002383,31.6871656 57.7097077,31.6871656 L57.7097077,31.6871656 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-34)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M57.7097077,70.102428 L57.60119,70.0156138 L22.4414584,85.8157895 C24.3079626,89.9394618 26.9774978,93.7375809 30.4500639,97.210147 C34.5447981,101.304881 39.0880721,104.292735 44.0798858,106.173708 L57.7097077,70.102428 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-35)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M19.2076312,68.0839989 C19.1786931,68.7495741 19.1642241,69.4223838 19.1642241,70.102428 C19.120817,75.7887549 20.2132285,81.0265421 22.4414584,85.8157895 L57.60119,70.0156138 L57.7097077,70.102428 L57.7097077,31.6871656 C57.6807697,31.6871656 57.6445971,31.6871656 57.60119,31.6871656 C47.0098635,31.6871656 37.9811916,35.4201741 30.5151745,42.8861912 L30.4500639,42.8861912 C30.4500639,42.9295983 30.4066568,42.9802399 30.3198427,43.038116 C23.3602415,50.0266553 19.656171,58.3752829 19.2076312,68.0839989 L19.2076312,68.0839989 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-36)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M60.6396854,1.02006629 C60.1911456,0.55705748 59.6485571,0.32555307 59.01192,0.32555307 L2.47420334,0.32555307 C1.83756622,0.32555307 1.3094468,0.55705748 0.88984506,1.02006629 C0.42683625,1.43966803 0.19533184,1.96778745 0.19533184,2.60442457 C0.19533184,3.24106169 0.42683625,3.78365014 0.88984506,4.23218992 C1.3094468,4.66626069 1.83756622,4.88329607 2.47420334,4.88329607 L59.01192,4.88329607 C59.6485571,4.88329607 60.1911456,4.66626069 60.6396854,4.23218992 C61.0737561,3.78365014 61.2907915,3.24106169 61.2907915,2.60442457 C61.2907915,1.96778745 61.0737561,1.43966803 60.6396854,1.02006629 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-37)"
-                                      }
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Robot-Move-Toggle",
-                                  transform: "translate(218.568723, 17.097374)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M89.4912967,15.8776883 C89.9543055,12.6655647 88.5869826,10.8424675 85.389328,10.4083967 L37.8585796,3.98414949 C37.7862345,3.95521144 37.7211239,3.94074242 37.6632478,3.94074242 L9.01457751,0.0775126354 C5.78798485,-0.356558125 3.95041862,1.03246832 3.50187884,4.24459195 L0.0727198209,29.659435 C-0.346881909,32.8715586 1.04937904,34.6946558 4.26150267,35.1287266 L21.8413685,37.5161158 C22.6226959,39.8166908 23.838094,42.0449207 25.4875629,44.2008055 C25.6322532,44.4033718 25.798647,44.6059382 25.9867443,44.8085046 C25.7841779,45.3438585 25.6394877,45.8864469 25.5526735,46.4362699 C25.3501072,48.0857388 25.7335363,49.5760484 26.702961,50.9071988 C27.0357486,51.3412695 27.4047088,51.7102297 27.8098415,52.0140792 L49.0576053,52.0140792 L49.6653043,52.8605172 C50.1283131,52.7302959 50.5696184,52.6000747 50.9892201,52.4698535 C51.2207246,53.1064906 51.5535121,53.7286587 51.9875829,54.3363578 C53.0004147,55.6530391 54.331565,56.4271319 55.9810339,56.6586363 C56.053379,56.6586363 56.1401932,56.6658709 56.2414764,56.6803399 C56.6900161,57.5195433 57.181963,58.3298088 57.7173169,59.1111361 C57.6160338,59.2992335 57.5292196,59.5017998 57.4568745,59.7188352 L61.9712104,58.9375078 L61.9712104,123.201684 L165.388569,126.782768 L165.931157,126.782768 L169.186688,126.891286 C172.485626,126.992569 174.200205,125.42268 174.330427,122.181618 L176.262042,65.7958259 C176.377794,62.5547642 174.793436,60.8835918 171.508967,60.7823086 L66.029772,57.1361142 C65.8272057,57.1361142 65.6246393,57.1361142 65.422073,57.1361142 L64.4020067,57.1144106 C63.5483342,56.0726408 62.7670068,54.9295878 62.0580246,53.6852516 C62.4342192,53.0341455 62.6729581,52.2889907 62.7742413,51.4497872 C63.0057457,49.7858493 62.615082,48.3027742 61.6022503,47.0005619 C61.3996839,46.7545885 61.1971176,46.5013805 60.9945512,46.2409381 C61.9495069,45.2859824 62.8031794,44.2514471 63.5555687,43.1373321 L80.6579567,45.4596107 C83.8411423,45.8792124 85.6497704,44.4829515 86.0838412,41.2708278 L89.4912967,15.8776883 Z",
-                                    id: "Path",
-                                    "fill-opacity": "0.498039",
-                                    fill: "#017FC9"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(46.214441, 32.958372)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M30.5585816,18.6433392 C30.4138913,18.2816136 30.211325,17.977764 29.9508825,17.7317906 C29.6036259,17.3555959 29.2129622,17.087919 28.7788915,16.9287597 C28.4461039,16.7840694 28.1060818,16.6972553 27.7588252,16.6683172 C17.4858172,16.2342465 10.4466363,11.4522336 6.64128265,2.32227857 C6.29402604,1.45413705 5.700796,0.86090701 4.86159253,0.54258845 C4.05132711,0.23873892 3.22659266,0.24597343 2.38738919,0.56429199 C1.54818572,0.86814152 0.95495568,1.45413705 0.60769907,2.32227857 C0.27491148,3.14701302 0.27491148,3.96451295 0.60769907,4.77477838 C5.46929159,16.4223438 14.4183838,22.5499761 27.4549757,23.1576751 C28.3375862,23.2155512 29.1189136,22.9406397 29.7989578,22.3329407 C29.7989578,22.3040026 29.7989578,22.2750646 29.7989578,22.2461265 C30.3921878,21.6963036 30.7249754,21.0234939 30.7973205,20.2276975 C30.8262586,20.1553524 30.8262586,20.0830072 30.7973205,20.0106621 C30.8262586,19.5042462 30.7466789,19.0484719 30.5585816,18.6433392 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-38)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M35.5286918,20.1191798 C35.7891343,19.9166134 35.9193555,19.6778745 35.9193555,19.402963 C35.8904175,19.0991135 35.8036033,18.8459056 35.658913,18.6433392 C33.8068778,16.6755518 31.5786479,16.0823217 28.9742233,16.8636491 C28.9163472,16.8636491 28.8512366,16.8853526 28.7788915,16.9287597 C29.2129622,17.087919 29.6036259,17.3555959 29.9508825,17.7317906 C30.211325,17.977764 30.4138913,18.2816136 30.5585816,18.6433392 C31.904201,18.513118 33.0834265,18.9833613 34.0962583,20.0540692 C34.3277627,20.2566355 34.5665016,20.3579187 34.8124751,20.3579187 C35.1452626,20.3723877 35.3840016,20.2928081 35.5286918,20.1191798 L35.5286918,20.1191798 Z M34.6605503,23.0057504 C34.7184264,22.7019008 34.6460813,22.4486929 34.4435149,22.2461265 C33.372807,21.1320116 32.1574089,20.4592019 30.7973205,20.2276975 C30.7249754,21.0234939 30.3921878,21.6963036 29.7989578,22.2461265 C30.9998869,22.2750646 32.0416567,22.7597769 32.9242673,23.7002636 C33.0689575,23.9028299 33.3076964,24.0113476 33.640484,24.0258166 C33.9153955,24.0113476 34.1686034,23.9100644 34.4001078,23.7219671 C34.5737361,23.5194008 34.6605503,23.2806618 34.6605503,23.0057504 Z",
-                                        id: "Shape",
-                                        fill: "#32CCFF"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(50.989220, 41.639788)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M116.200743,52.2187126 L117.676583,8.96356122 C117.806805,5.73696856 116.222446,4.07303064 112.923509,3.97174747 L7.44431356,0.32555307 C4.1598448,0.19533184 2.4524998,1.75075207 2.32227857,4.99181376 L0.84643799,48.2252616 L116.200743,52.2187126 Z M65.2842425,14.8235165 C66.3404814,13.1740476 67.7584459,12.1756849 69.538136,11.8284282 L68.4963662,41.4754613 C67.4690653,41.4465232 66.6081583,41.0558595 65.9136451,40.3034702 C65.2336009,39.5366119 64.9080479,38.6467668 64.9369859,37.633935 L65.6966097,29.5819224 C64.9586894,29.4082941 64.401632,29.0465685 64.0254373,28.4967455 C63.6203046,27.9035154 63.4394418,27.2162367 63.4828489,26.4349094 L63.6781807,19.9889586 C63.7505258,18.0067021 64.2858798,16.2848881 65.2842425,14.8235165 L65.2842425,14.8235165 Z M59.2506589,11.4811716 L61.6597517,11.5462823 L61.3993092,19.07741 C61.3703712,20.1915249 60.9652384,21.1898877 60.1839111,22.0724982 C59.4749288,22.9117017 58.5778493,23.4687592 57.4926723,23.7436706 L57.3841547,38.8927402 C57.3552166,39.5004393 57.1381812,40.0213242 56.7330485,40.455395 C56.2989778,40.8605277 55.7925619,41.048625 55.2138009,41.019687 C54.6639779,41.019687 54.1937346,40.7881825 53.8030709,40.3251737 C53.3979382,39.8766339 53.2098408,39.3485145 53.2387789,38.7408155 L54.1937346,23.5917459 C53.1230267,23.1866132 52.2982922,22.5572106 51.7195312,21.7035381 C51.0828941,20.7630514 50.7790446,19.7719232 50.8079826,18.7301534 L51.0467215,11.2207292 L53.282186,11.2858398 L53.043447,18.230972 C53.028978,18.5203525 53.0940886,18.7518569 53.2387789,18.9254852 C53.4413452,19.0991135 53.6728496,19.1859277 53.9332921,19.1859277 C54.1792655,19.2148657 54.3818319,19.1425206 54.5409912,18.9688923 C54.7435575,18.7807949 54.8520752,18.5492905 54.8665442,18.2743791 L55.1052832,11.3292469 L57.4275617,11.3943575 L57.1888228,18.3611932 C57.1598848,18.6361047 57.2466989,18.8748436 57.4492653,19.07741 C57.6084246,19.2510383 57.8109909,19.3378524 58.0569643,19.3378524 C58.3463448,19.3667905 58.5633802,19.2944453 58.7080705,19.120817 C58.8816988,18.9327197 58.982982,18.7012153 59.01192,18.4263038 L59.2506589,11.4811716 Z",
-                                        id: "Shape",
-                                        fill: "url(#linearGradient-39)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M61.6597517,11.5462823 L59.2506589,11.4811716 L59.01192,18.4263038 C58.982982,18.7012153 58.8816988,18.9327197 58.7080705,19.120817 C58.5633802,19.2944453 58.3463448,19.3667905 58.0569643,19.3378524 C57.8109909,19.3378524 57.6084246,19.2510383 57.4492653,19.07741 C57.2466989,18.8748436 57.1598848,18.6361047 57.1888228,18.3611932 L57.4275617,11.3943575 L55.1052832,11.3292469 L54.8665442,18.2743791 C54.8520752,18.5492905 54.7435575,18.7807949 54.5409912,18.9688923 C54.3818319,19.1425206 54.1792655,19.2148657 53.9332921,19.1859277 C53.6728496,19.1859277 53.4413452,19.0991135 53.2387789,18.9254852 C53.0940886,18.7518569 53.028978,18.5203525 53.043447,18.230972 L53.282186,11.2858398 L51.0467215,11.2207292 L50.8079826,18.7301534 C50.7790446,19.7719232 51.0828941,20.7630514 51.7195312,21.7035381 C52.2982922,22.5572106 53.1230267,23.1866132 54.1937346,23.5917459 L53.2387789,38.7408155 C53.2098408,39.3485145 53.3979382,39.8766339 53.8030709,40.3251737 C54.1937346,40.7881825 54.6639779,41.019687 55.2138009,41.019687 C55.7925619,41.048625 56.2989778,40.8605277 56.7330485,40.455395 C57.1381812,40.0213242 57.3552166,39.5004393 57.3841547,38.8927402 L57.4926723,23.7436706 C58.5778493,23.4687592 59.4749288,22.9117017 60.1839111,22.0724982 C60.9652384,21.1898877 61.3703712,20.1915249 61.3993092,19.07741 L61.6597517,11.5462823 Z M69.538136,11.8284282 C67.7584459,12.1756849 66.3404814,13.1740476 65.2842425,14.8235165 C64.2858798,16.2848881 63.7505258,18.0067021 63.6781807,19.9889586 L63.4828489,26.4349094 C63.4394418,27.2162367 63.6203046,27.9035154 64.0254373,28.4967455 C64.401632,29.0465685 64.9586894,29.4082941 65.6966097,29.5819224 L64.9369859,37.633935 C64.9080479,38.6467668 65.2336009,39.5366119 65.9136451,40.3034702 C66.6081583,41.0558595 67.4690653,41.4465232 68.4963662,41.4754613 L69.538136,11.8284282 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M115.744969,65.3493531 L115.962004,58.7514776 L116.200743,52.2187126 L0.84643799,48.2252616 L0.60769907,54.7580266 L0.39066369,61.3776057 C0.26044246,64.6186673 1.84480074,66.2970743 5.14373852,66.4128265 L110.60123,70.0590209 C113.900168,70.1603041 115.614747,68.5904148 115.744969,65.3493531 Z M33.4234486,60.6179818 C32.7434044,60.5890438 32.0488912,60.5601057 31.339909,60.5311677 C29.9653516,60.4877606 28.5690906,60.437119 27.1511261,60.3792429 C21.5082062,60.2056146 15.4890917,60.0030483 9.09378245,59.7715438 C8.50055241,59.7426058 8.03030909,59.5255704 7.68305248,59.1204377 C7.27791977,58.700836 7.07535341,58.1944201 7.07535341,57.60119 C7.10429146,57.022429 7.34303038,56.5449512 7.79157017,56.1687565 C8.1532958,55.7636238 8.62353913,55.5755265 9.20230014,55.6044645 C15.5976094,55.8214999 21.6239584,56.0240663 27.2813474,56.2121636 C28.6848428,56.2555707 30.0738693,56.3062123 31.4484267,56.3640884 C32.1574089,56.3785574 32.8519221,56.4002609 33.5319663,56.429199 C33.6911256,56.429199 33.8285813,56.443668 33.9443335,56.4726061 L40.9111693,56.6896414 C62.5278932,57.4275617 73.7775604,57.8254599 74.660171,57.883336 C75.238932,57.883336 75.7308788,58.0931369 76.1360116,58.5127386 C76.5122062,58.9178713 76.6858345,59.4170527 76.6568965,60.0102828 C76.6568965,60.5890438 76.4470956,61.0809906 76.0274939,61.4861234 C75.6223611,61.862318 75.1304143,62.0504153 74.5516533,62.0504153 C73.6545737,62.0070083 62.397672,61.6163446 40.780948,60.8784243 L33.8358159,60.6396854 C33.7055946,60.6252163 33.5681389,60.6179818 33.4234486,60.6179818 L33.4234486,60.6179818 Z",
-                                        id: "Shape",
-                                        fill: "#C3D4E0"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M31.339909,60.5311677 C32.0488912,60.5601057 32.7434044,60.5890438 33.4234486,60.6179818 C33.5681389,60.6179818 33.7055946,60.6252163 33.8358159,60.6396854 L40.780948,60.8784243 C62.397672,61.6163446 73.6545737,62.0070083 74.5516533,62.0504153 C75.1304143,62.0504153 75.6223611,61.862318 76.0274939,61.4861234 C76.4470956,61.0809906 76.6568965,60.5890438 76.6568965,60.0102828 C76.6858345,59.4170527 76.5122062,58.9178713 76.1360116,58.5127386 C75.7308788,58.0931369 75.238932,57.883336 74.660171,57.883336 C73.7775604,57.8254599 62.5278932,57.4275617 40.9111693,56.6896414 L33.9443335,56.4726061 C33.8285813,56.443668 33.6911256,56.429199 33.5319663,56.429199 C32.8519221,56.4002609 32.1574089,56.3785574 31.4484267,56.3640884 C30.0738693,56.3062123 28.6848428,56.2555707 27.2813474,56.2121636 C21.6239584,56.0240663 15.5976094,55.8214999 9.20230014,55.6044645 C8.62353913,55.5755265 8.1532958,55.7636238 7.79157017,56.1687565 C7.34303038,56.5449512 7.10429146,57.022429 7.07535341,57.60119 C7.07535341,58.1944201 7.27791977,58.700836 7.68305248,59.1204377 C8.03030909,59.5255704 8.50055241,59.7426058 9.09378245,59.7715438 C15.4890917,60.0030483 21.5082062,60.2056146 27.1511261,60.3792429 C28.5690906,60.437119 29.9653516,60.4877606 31.339909,60.5311677 L31.339909,60.5311677 Z",
-                                        id: "Path",
-                                        fill: "#C4D4E0"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(47.516654, 41.639788)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M115.87519,52.1101949 L117.35103,8.85504353 C117.481252,5.61398185 115.896893,3.94280942 112.597956,3.84152624 L7.11876049,0.19533184 C3.83429173,0.07957964 2.12694673,1.64223438 1.9967255,4.88329607 L0.52088491,48.1167439 L115.87519,52.1101949 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-40)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M115.419415,65.2408354 L115.636451,58.6429599 L115.87519,52.1101949 L0.52088491,48.1167439 L0.282146,54.6495089 L0.06511061,61.2473844 C-0.06511061,64.4884461 1.51924766,66.1740876 4.81818545,66.3043088 L110.29738,69.9505032 C113.581849,70.0517864 115.289194,68.4818971 115.419415,65.2408354 Z M40.455395,60.7699066 L33.5536699,60.5311677 C33.4234486,60.5022296 33.2859929,60.4877606 33.1413026,60.4877606 C32.4467894,60.4732916 31.7522762,60.451588 31.057763,60.42265 C29.6832056,60.3647739 28.2869446,60.3141323 26.8689801,60.2707252 C21.2260602,60.0970969 15.1997112,59.8945306 8.78993292,59.6630262 C8.2111719,59.6340881 7.73369407,59.4170527 7.35749941,59.01192 C6.9523667,58.5778493 6.74980034,58.0714334 6.74980034,57.4926723 C6.77873839,56.9139113 7.01747731,56.4364335 7.4660171,56.0602388 C7.84221176,55.6551061 8.32692411,55.4670088 8.92015415,55.4959468 C15.3154634,55.7129822 21.3345779,55.9083141 26.9774978,56.0819424 C28.3954623,56.1398185 29.7917233,56.1904601 31.1662807,56.2338671 C31.8752629,56.2628052 32.5697761,56.2917432 33.2498203,56.3206813 C33.3945106,56.3206813 33.5319663,56.3351503 33.6621875,56.3640884 L40.5856162,56.5811237 C62.2168091,57.319044 73.4809454,57.7097077 74.378025,57.7531148 C74.956786,57.7531148 75.4487328,57.9701502 75.8538656,58.4042209 C76.2300602,58.8093537 76.4036885,59.3013005 76.3747505,59.8800615 C76.3747505,60.4732916 76.1649496,60.972473 75.7453479,61.3776057 C75.3402152,61.7538003 74.8410338,61.9418977 74.2478037,61.9418977 C73.3651932,61.8840216 62.1010569,61.4933579 40.455395,60.7699066 L40.455395,60.7699066 Z",
-                                        id: "Shape",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M33.5536699,60.5311677 L40.455395,60.7699066 C62.1010569,61.4933579 73.3651932,61.8840216 74.2478037,61.9418977 C74.8410338,61.9418977 75.3402152,61.7538003 75.7453479,61.3776057 C76.1649496,60.972473 76.3747505,60.4732916 76.3747505,59.8800615 C76.4036885,59.3013005 76.2300602,58.8093537 75.8538656,58.4042209 C75.4487328,57.9701502 74.956786,57.7531148 74.378025,57.7531148 C73.4809454,57.7097077 62.2168091,57.319044 40.5856162,56.5811237 L33.6621875,56.3640884 C33.5319663,56.3351503 33.3945106,56.3206813 33.2498203,56.3206813 C32.5697761,56.2917432 31.8752629,56.2628052 31.1662807,56.2338671 C29.7917233,56.1904601 28.3954623,56.1398185 26.9774978,56.0819424 C21.3345779,55.9083141 15.3154634,55.7129822 8.92015415,55.4959468 C8.32692411,55.4670088 7.84221176,55.6551061 7.4660171,56.0602388 C7.01747731,56.4364335 6.77873839,56.9139113 6.74980034,57.4926723 C6.74980034,58.0714334 6.9523667,58.5778493 7.35749941,59.01192 C7.73369407,59.4170527 8.2111719,59.6340881 8.78993292,59.6630262 C15.1997112,59.8945306 21.2260602,60.0970969 26.8689801,60.2707252 C28.2869446,60.3141323 29.6832056,60.3647739 31.057763,60.42265 C31.7522762,60.451588 32.4467894,60.4732916 33.1413026,60.4877606 C33.2859929,60.4877606 33.4234486,60.5022296 33.5536699,60.5311677 L33.5536699,60.5311677 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-41)"
-                                      }
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Robot",
-                                  transform: "translate(210.958390, 0.000000)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M51.025018,53.3747505 C51.2420534,54.0113876 51.5676065,54.6335557 52.0016772,55.2412547 C53.014509,56.5579361 54.3456593,57.3320289 55.9951282,57.5635333 C57.6590661,57.7950377 59.1493758,57.404374 60.4660571,56.3915423 C61.8116764,55.3497724 62.5857693,54.0041531 62.7883356,52.3546842 C63.01984,50.6907463 62.6291764,49.2149057 61.6163446,47.9271624 C61.4137782,47.66672 61.2112119,47.413512 61.0086455,47.1675386 C60.169442,47.992273 59.2578934,48.7880694 58.2739997,49.5549278 C55.9734247,51.2912108 53.5570974,52.564485 51.025018,53.3747505 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-42)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M25.5667678,47.3411669 C25.3642015,48.9906358 25.7476307,50.4881799 26.7170554,51.8337993 C27.7588252,53.1504806 29.09721,53.9173389 30.7322099,54.1343743 C32.3816788,54.3658787 33.8792229,53.975215 35.2248423,52.9623832 C35.2971874,52.9189762 35.3840016,52.846631 35.4852847,52.7453479 C36.6572758,51.7469851 37.3445545,50.4809454 37.5471209,48.9472287 C37.7641562,47.2688218 37.366258,45.7857467 36.3534263,44.4980034 C35.3405945,43.152384 34.0166787,42.3710567 32.3816788,42.1540213 C30.7322099,41.9225169 29.2201968,42.3276496 27.8456393,43.3694194 C26.9919668,44.0205256 26.3770333,44.8018529 26.0008386,45.7134015 C25.7982723,46.2487555 25.653582,46.7913439 25.5667678,47.3411669 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-43)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M32.9459708,39.8968533 L21.8554628,38.4210127 C22.6367902,40.7215878 23.8521883,42.9498177 25.5016572,45.1057025 C25.6463475,45.3082688 25.8127413,45.5108352 26.0008386,45.7134015 C26.3770333,44.8018529 26.9919668,44.0205256 27.8456393,43.3694194 C29.2201968,42.3276496 30.7322099,41.9225169 32.3816788,42.1540213 C34.0166787,42.3710567 35.3405945,43.152384 36.3534263,44.4980034 C37.366258,45.7857467 37.7641562,47.2688218 37.5471209,48.9472287 C37.3445545,50.4809454 36.6572758,51.7469851 35.4852847,52.7453479 C37.2070988,53.396454 39.044665,53.8594628 40.9979834,54.1343743 C44.5139566,54.6263212 47.8563014,54.3731132 51.025018,53.3747505 C53.5570974,52.564485 55.9734247,51.2912108 58.2739997,49.5549278 C59.2578934,48.7880694 60.169442,47.992273 61.0086455,47.1675386 C61.9636012,46.1981139 62.8245082,45.1563441 63.5913665,44.0422291 L33.1413026,39.9402604 C33.0544885,39.9113224 32.9893779,39.8968533 32.9459708,39.8968533 L32.9459708,39.8968533 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-44)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M9.02867184,0.9824096 C5.8165482,0.5628078 3.97898198,1.9590688 3.51597317,5.1711924 L0.10851769,30.564332 C-0.32555307,33.7764556 1.06347337,35.5995528 4.275597,36.0336236 L21.8554628,38.4210127 L32.9459708,39.8968533 C32.5119,39.8245082 32.1067673,39.723225 31.7305727,39.5930038 C29.5457498,38.8695525 28.6342012,37.1622075 28.9959269,34.4709688 L32.4033823,9.0778293 C32.8374531,5.9380508 34.6026742,4.5345553 37.6990456,4.8673429 L9.02867184,0.9824096 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-45)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M89.505391,16.7825853 C89.9683998,13.5704616 88.6083114,11.7473645 85.4251258,11.3132937 L37.8726739,4.8890464 C37.8003288,4.8745774 37.7424527,4.8673429 37.6990456,4.8673429 C34.6026742,4.5345553 32.8374531,5.9380508 32.4033823,9.0778293 L28.9959269,34.4709688 C28.6342012,37.1622075 29.5457498,38.8695525 31.7305727,39.5930038 C32.1067673,39.723225 32.5119,39.8245082 32.9459708,39.8968533 C32.9893779,39.8968533 33.0544885,39.9113224 33.1413026,39.9402604 L63.5913665,44.0422291 L80.672051,46.3645077 C83.8552366,46.7985784 85.6638648,45.4023175 86.0979355,42.1757248 L89.505391,16.7825853 Z M76.6351929,22.620837 C77.3297061,22.7076512 77.8795291,23.0259697 78.2846618,23.5757927 C78.7042636,24.1111466 78.8634228,24.7043767 78.7621397,25.3554828 L78.1327371,30.1953718 C78.0314539,30.9043541 77.7131353,31.468646 77.1777814,31.8882478 C76.6134894,32.2933805 75.9913213,32.4597743 75.3112771,32.3874292 C74.6312329,32.286146 74.1031135,31.9605929 73.7269188,31.4107699 C73.26391,30.875416 73.0830472,30.2532479 73.1843304,29.5442657 L73.8354365,24.7260802 C73.9367197,24.060505 74.2622728,23.5106821 74.8120957,23.0766113 C75.3474497,22.6714786 75.9551487,22.5195538 76.6351929,22.620837 L76.6351929,22.620837 Z M44.4054389,18.2584259 C45.0854831,18.330771 45.6280715,18.6490896 46.0332042,19.2133815 C46.467275,19.7632045 46.6336688,20.3709036 46.5323856,21.0364787 L45.8812795,25.8546642 C45.7799963,26.5636464 45.4689123,27.1207039 44.9480273,27.5258366 C44.3837354,27.9309693 43.7615673,28.0973631 43.0815231,28.025018 C42.4014789,27.9237348 41.8588904,27.6054163 41.4537577,27.0700623 C41.019687,26.5202394 40.8532932,25.8908368 40.9545763,25.1818545 L41.6056825,20.3419655 C41.7069657,19.6908594 42.0180497,19.16274 42.5389346,18.7576072 C43.1032266,18.3235365 43.7253947,18.1571427 44.4054389,18.2584259 L44.4054389,18.2584259 Z M58.2305926,38.5078269 C57.0151945,38.3052605 55.9517211,37.9507694 55.0401725,37.4443535 C54.0996859,36.9524067 53.607739,36.4459908 53.564332,35.9251059 C53.5353939,35.433159 53.7886019,35.2161236 54.3239558,35.2739997 L62.8968533,36.4025837 C63.4032692,36.5038669 63.555194,36.7860129 63.3526276,37.2490217 C63.2224064,37.7554376 62.6436454,38.1243977 61.6163446,38.3559021 C60.6035128,38.5729375 59.4749288,38.6235791 58.2305926,38.5078269 L58.2305926,38.5078269 Z",
-                                    id: "Shape",
-                                    fill: "#FFFFFF"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M55.0401725,37.4443535 C55.9517211,37.9507694 57.0151945,38.3052605 58.2305926,38.5078269 C59.4749288,38.6235791 60.6035128,38.5729375 61.6163446,38.3559021 C62.6436454,38.1243977 63.2224064,37.7554376 63.3526276,37.2490217 C63.555194,36.7860129 63.4032692,36.5038669 62.8968533,36.4025837 L54.3239558,35.2739997 C53.7886019,35.2161236 53.5353939,35.433159 53.564332,35.9251059 C53.607739,36.4459908 54.0996859,36.9524067 55.0401725,37.4443535 L55.0401725,37.4443535 Z",
-                                    id: "Path",
-                                    fill: "#F16780"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M46.0332042,19.2133815 C45.6280715,18.6490896 45.0854831,18.330771 44.4054389,18.2584259 C43.7253947,18.1571427 43.1032266,18.3235365 42.5389346,18.7576072 C42.0180497,19.16274 41.7069657,19.6908594 41.6056825,20.3419655 L40.9545763,25.1818545 C40.8532932,25.8908368 41.019687,26.5202394 41.4537577,27.0700623 C41.8588904,27.6054163 42.4014789,27.9237348 43.0815231,28.025018 C43.7615673,28.0973631 44.3837354,27.9309693 44.9480273,27.5258366 C45.4689123,27.1207039 45.7799963,26.5636464 45.8812795,25.8546642 L46.5323856,21.0364787 C46.6336688,20.3709036 46.467275,19.7632045 46.0332042,19.2133815 L46.0332042,19.2133815 Z M78.2846618,23.5757927 C77.8795291,23.0259697 77.3297061,22.7076512 76.6351929,22.620837 C75.9551487,22.5195538 75.3474497,22.6714786 74.8120957,23.0766113 C74.2622728,23.5106821 73.9367197,24.060505 73.8354365,24.7260802 L73.1843304,29.5442657 C73.0830472,30.2532479 73.26391,30.875416 73.7269188,31.4107699 C74.1031135,31.9605929 74.6312329,32.286146 75.3112771,32.3874292 C75.9913213,32.4597743 76.6134894,32.2933805 77.1777814,31.8882478 C77.7131353,31.468646 78.0314539,30.9043541 78.1327371,30.1953718 L78.7621397,25.3554828 C78.8634228,24.7043767 78.7042636,24.1111466 78.2846618,23.5757927 L78.2846618,23.5757927 Z",
-                                    id: "Shape",
-                                    fill: "#839FB6"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Robot-Hand",
-                                  transform: "translate(240.041131, 50.489817)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M31.8824974,26.6085377 C31.8535594,26.3191572 31.7233381,26.0659492 31.4918337,25.8489138 C31.2892674,25.6608165 31.0505285,25.5667678 30.775617,25.5667678 C29.618095,25.6246439 28.5835596,25.371436 27.672011,24.807144 C27.5417898,24.7347989 27.4260376,24.6479847 27.3247544,24.5467016 C27.064312,24.4020113 26.796635,24.3369007 26.5217235,24.3513697 C26.217874,24.4092458 25.9936041,24.5539361 25.8489138,24.7854405 C25.6897546,24.9880068 25.6246439,25.2267458 25.653582,25.5016572 C25.6246439,25.5305953 25.6246439,25.5522988 25.653582,25.5667678 C25.7114581,25.8272103 25.8489138,26.0587147 26.0659492,26.2612811 C27.4549757,27.2741128 29.053803,27.7443562 30.8624311,27.672011 C31.1373426,27.643073 31.3760815,27.5273208 31.5786479,27.3247544 C31.7522762,27.1221881 31.8535594,26.8834492 31.8824974,26.6085377 L31.8824974,26.6085377 Z M26.5651306,21.2477638 C26.3915023,21.4792682 26.3263917,21.7469451 26.3697988,22.0507947 C26.4276749,22.3257062 26.5651306,22.535507 26.782166,22.6801973 C27.346458,23.1432061 27.9469225,23.4759937 28.5835596,23.67856 C29.5095773,24.0113476 30.50794,24.1632724 31.5786479,24.1343343 C31.8535594,24.1053963 32.1067673,23.9896441 32.3382717,23.7870777 C32.5119,23.5845114 32.5842452,23.3457725 32.5553071,23.070861 C32.5553071,22.7959495 32.4540239,22.5572106 32.2514576,22.3546442 C32.0488912,22.1520779 31.7956833,22.0580292 31.4918337,22.0724982 C30.5368781,22.1014363 29.6687365,21.927808 28.8874092,21.5516133 C28.5835596,21.4213921 28.2869446,21.2549983 27.9975641,21.0524319 C27.7805287,20.8788036 27.5273208,20.813693 27.2379403,20.8571001 C26.9340907,20.9149762 26.7098209,21.0451974 26.5651306,21.2477638 L26.5651306,21.2477638 Z",
-                                    id: "Shape",
-                                    fill: "#293147"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M0.71621676,1.90991135 C0.282146,2.72017677 0.18809733,3.55938024 0.43407076,4.42752177 C4.08026516,16.4946889 12.3493132,23.4904627 25.2412148,25.4148431 C25.385905,25.4437811 25.5233608,25.4727192 25.653582,25.5016572 C25.6246439,25.2267458 25.6897546,24.9880068 25.8489138,24.7854405 C25.9936041,24.5539361 26.217874,24.4092458 26.5217235,24.3513697 C26.796635,24.3369007 27.064312,24.4020113 27.3247544,24.5467016 C27.4260376,24.6479847 27.5417898,24.7347989 27.672011,24.807144 C28.0771438,24.4888255 28.3809933,24.1126308 28.5835596,23.67856 C27.9469225,23.4759937 27.346458,23.1432061 26.782166,22.6801973 C26.5651306,22.535507 26.4276749,22.3257062 26.3697988,22.0507947 C26.3263917,21.7469451 26.3915023,21.4792682 26.5651306,21.2477638 C26.7098209,21.0451974 26.9340907,20.9149762 27.2379403,20.8571001 C27.5273208,20.813693 27.7805287,20.8788036 27.9975641,21.0524319 C28.2869446,21.2549983 28.5835596,21.4213921 28.8874092,21.5516133 C28.786126,21.0886045 28.5907942,20.6690028 28.3014136,20.2928081 C27.7515907,19.5548878 27.0353739,19.1280516 26.1527634,19.0122993 C15.9955076,17.5075207 9.49891516,12.0237601 6.66298619,2.56101749 C6.41701276,1.70734499 5.90336236,1.06347337 5.12203498,0.6294026 C4.31176956,0.19533184 3.47256609,0.10851769 2.60442457,0.36896015 C1.7652211,0.61493358 1.13581849,1.12858398 0.71621676,1.90991135 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-46)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Toggle",
-                                  transform: "translate(291.695552, 70.023001)",
-                                  fill: "#FFFFFF"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M4.94840668,4.05856162 C1.95331843,6.83661449 0.37619466,10.2657735 0.21703538,14.3460387 C0.0578761,18.4263038 1.3673229,21.971215 4.14537577,24.9807723 C6.92342864,27.9903296 10.3598222,29.5746879 14.4545564,29.7338472 L50.3522083,31.1228736 C54.4324735,31.2820329 57.9701502,29.9725861 60.9652384,27.1945332 C63.9603267,24.4164803 65.5374505,20.9873213 65.6966097,16.9070562 C65.855769,12.826791 64.5535567,9.28187978 61.7899729,6.2723225 C59.01192,3.27723425 55.582761,1.70011048 51.5024958,1.5409512 L15.6048439,0.15192477 C11.5101097,-0.00723451 7.96519847,1.28774326 4.97011022,4.03685808 L4.94840668,4.05856162 Z M51.3722746,5.07862791 C54.4831151,5.20884914 57.0875396,6.40977824 59.1855483,8.68141523 C61.298026,10.9675212 62.2891543,13.6659945 62.158933,16.7768349 C62.0431808,19.8732064 60.8422517,22.4776309 58.5561457,24.5901086 L58.5561457,24.6118122 C56.2700397,26.7098209 53.578801,27.6937146 50.4824296,27.5634933 L14.5847776,26.1744669 C11.4739371,26.0442457 8.86227805,24.8505511 6.74980034,22.5933831 C4.63732263,20.3072771 3.63895988,17.6088039 3.75471209,14.4979634 C3.88493331,11.401592 5.09309693,8.78993292 7.37920294,6.66298619 C9.66530895,4.55050848 12.3637822,3.55938024 15.4746226,3.68960147 L51.3722746,5.07862791 Z",
-                                    id: "Shape",
-                                    "fill-opacity": "0.298039"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M51.4373852,7.27068525 C49.006589,7.16940208 46.8941113,7.94349493 45.0999521,9.59296383 C43.320262,11.2424327 42.3870099,13.2753308 42.3001957,15.691658 C42.1989125,18.1224543 42.9730054,20.2276975 44.6224743,22.0073876 C46.2719432,23.7870777 48.3120757,24.7275644 50.742872,24.8288476 C53.1736683,24.9156617 55.2789115,24.1343343 57.0586016,22.4848654 C58.8382917,20.8498656 59.7787784,18.8169675 59.8800615,16.3861712 C59.9668757,13.969844 59.1855483,11.8646008 57.5360794,10.0704417 C55.9010796,8.29075154 53.8681815,7.35749941 51.4373852,7.27068525 Z",
-                                    id: "Path"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M273.008805,407.426204 C267.336947,406.74616 260.485864,406.406138 252.455554,406.406138 C244.454183,406.406138 237.610334,406.74616 231.924007,407.426204 C226.281088,408.106248 223.459628,408.967155 223.459628,410.008925 C223.459628,410.992819 226.281088,411.839257 231.924007,412.548239 C237.610334,413.257222 244.454183,413.611713 252.455554,413.611713 C260.485864,413.611713 267.336947,413.257222 273.008805,412.548239 C278.651725,411.839257 281.473185,410.992819 281.473185,410.008925 C281.473185,408.967155 278.651725,408.106248 273.008805,407.426204 Z",
-                                id: "Shadow",
-                                "fill-opacity": "0.298039",
-                                fill: "#000000"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M208.028412,319.526875 C207.91266,319.657096 207.789673,319.801786 207.659452,319.960946 C206.183611,321.595946 204.548612,325.632804 202.754452,332.07152 L202.711045,332.028113 C202.161222,332.259617 201.633103,332.527294 201.126687,332.831144 C197.784342,334.654241 195.353546,337.880834 193.834298,342.510922 C193.689608,343.017338 193.016798,343.928886 191.815869,345.245567 C191.917152,345.245567 192.011201,345.252802 192.098015,345.267271 C191.909918,345.252802 191.757993,345.245567 191.642241,345.245567 C191.584365,345.245567 191.540958,345.245567 191.51202,345.245567 C190.991135,345.216629 190.629409,345.404727 190.426843,345.809859 C190.340029,345.911143 190.289387,346.026895 190.274918,346.157116 L190.188104,346.721408 C188.567573,348.790479 187.619852,350.497824 187.34494,351.843443 C187.070029,353.160124 188.234786,355.807956 190.83921,359.786938 C193.443635,363.751451 195.114807,366.638021 195.852727,368.44665 C195.51994,368.461119 195.368015,368.634747 195.396953,368.967535 L195.548878,371.919216 C195.577816,372.252003 195.751444,372.403928 196.069763,372.37499 C196.098701,372.664371 196.11317,372.932048 196.11317,373.178021 L196.221688,374.805786 C196.250626,374.863662 196.265095,374.928773 196.265095,375.001118 L196.351909,376.455255 C196.366378,376.672291 196.388081,376.89656 196.417019,377.128065 C196.894497,383.8851 197.415382,388.565829 197.979674,391.170254 C198.254586,392.385652 198.507793,393.695099 198.739298,395.098594 L257.469072,395.098594 C257.845267,393.0874 257.657169,391.300475 256.90478,389.737821 C255.617037,387.032113 254.654846,385.7299 254.018209,385.831184 C253.048785,386.988706 252.202347,386.974237 251.478895,385.787777 C250.191152,383.733175 247.78206,381.034702 244.251617,377.692357 C242.819184,376.30333 241.401219,375.232623 239.997724,374.480233 C241.140777,379.558861 241.068432,383.103772 239.780688,385.114967 C238.796795,384.304701 237.632038,383.566781 236.286419,382.901206 C228.892747,379.312888 224.161375,375.290499 222.092305,370.834039 C222.410623,370.805101 222.562548,370.624238 222.548079,370.29145 L222.396154,367.339769 C226.490889,367.267424 230.346884,366.13884 233.96414,363.954017 L230.817127,363.150986 C231.829959,363.006296 232.878963,362.49988 233.96414,361.631739 C233.747105,361.414703 233.537304,361.175964 233.334738,360.915522 C231.858897,359.049018 231.309074,356.63269 231.685269,353.66654 C231.916773,351.134461 232.032525,349.767138 232.032525,349.564572 C233.479428,340.752935 234.202879,333.286918 234.202879,327.16652 C234.217348,325.647273 233.710932,324.721255 232.683631,324.388467 C232.582348,324.34506 232.481065,324.323357 232.379782,324.323357 C232.206154,324.265481 232.018056,324.236543 231.81549,324.236543 C226.548765,324.091852 221.998256,326.153689 218.163964,330.422051 C217.715425,330.986343 217.266885,331.557869 216.818345,332.13663 C216.557903,332.093223 216.311929,332.042582 216.080425,331.984706 C215.429319,328.975148 214.054761,325.53152 211.956753,321.653822 C210.611133,319.208556 209.301686,318.499574 208.028412,319.526875 L208.028412,319.526875 Z",
-                                id: "Dog-Shadow",
-                                "fill-opacity": "0.498039",
-                                fill: "#017FC9"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M218.815071,267.937565 L220.486244,271.583759 C222.077836,275.027388 224.190314,276.669622 226.823677,276.510463 C227.590535,276.467056 228.292283,276.3296 228.92892,276.098095 C232.965778,274.506503 236.503455,271.974423 239.54195,268.501857 C239.730047,268.371636 239.874737,268.248649 239.976021,268.132897 C240.019428,268.046083 240.077304,267.980972 240.149649,267.937565 L218.815071,267.937565 Z M296.578848,271.27991 C295.971149,269.355529 294.755751,267.583074 292.932654,265.962543 C288.751105,262.547853 284.612964,259.371902 280.51823,256.43469 L280.51823,253.287677 C279.809248,252.79573 279.100265,252.339956 278.391283,251.920354 C277.10354,251.052212 275.801328,250.227478 274.484646,249.446151 C273.341593,248.780575 271.279757,247.514536 268.299138,245.648031 C265.30405,243.767058 262.641749,241.842678 260.312236,239.87489 C259.892634,239.527634 259.530909,239.223784 259.227059,238.963342 C259.834758,240.251085 258.930444,242.450377 256.514117,245.561217 L246.66071,247.579646 L246.573896,247.579646 C246.472613,247.637522 246.356861,247.673695 246.22664,247.688164 C246.081949,247.74604 245.944494,247.796682 245.814272,247.840089 L243.426883,263.336415 C243.499228,263.191725 243.586042,263.0398 243.687326,262.880641 C243.846485,262.649136 243.983941,262.424866 244.099693,262.207831 L244.533764,261.448207 C244.504826,263.48834 244.758034,265.651459 245.293387,267.937565 C245.495954,268.820176 245.734693,269.717255 246.009604,270.628804 C246.747525,274.274998 246.899449,276.61898 246.465379,277.66075 C246.161529,278.485485 245.618941,279.556192 244.837613,280.872874 C244.635047,281.278006 244.418011,281.675905 244.186507,282.066568 C244.128631,282.081037 244.099693,282.11721 244.099693,282.175086 C243.578808,283.028759 243.072392,283.911369 242.580445,284.822918 C240.656065,288.64274 239.353853,293.012386 238.673808,297.931855 C238.427835,314.658048 239.60706,330.892294 242.211485,346.634594 C244.642281,364.301274 245.792569,380.455941 245.662348,395.098595 L254.539095,395.098595 C254.1629,392.277135 254.256949,387.683219 254.821241,381.316848 C255.472347,373.315477 255.320422,367.224017 254.365466,363.042469 C253.352635,358.788575 253.656484,353.319284 255.277015,346.634594 L263.784802,346.634594 C265.419802,353.319284 265.730886,358.788575 264.718054,363.042469 C263.763098,367.224017 263.603939,373.315477 264.240576,381.316848 C264.790399,387.683219 264.891682,392.277135 264.544426,395.098595 L273.421173,395.098595 C273.262014,380.455941 274.390598,364.301274 276.806925,346.634594 L276.763518,346.634594 C278.760243,331.051454 278.507035,315.338092 276.003894,299.494509 L275.743451,297.845041 C276.220929,297.830571 276.785221,297.743757 277.436327,297.584598 C278.88323,296.947961 279.33177,295.935129 278.781947,294.546103 C279.433053,294.068625 280.011814,293.612851 280.51823,293.17878 L280.51823,289.120218 L293.345021,278.572299 C296.282233,276.242786 297.360175,273.811989 296.578848,271.27991 L296.578848,271.27991 Z M287.007588,273.558781 C287.166747,274.036259 285.965818,275.222719 283.4048,277.118162 L275.960487,282.891303 L275.960487,285.560838 C275.584292,285.734466 275.193628,285.958736 274.788496,286.233648 C273.876947,286.79794 273.001571,287.369466 272.162368,287.948227 L269.992014,284.41055 C269.514536,283.658161 269.15281,282.884068 268.906837,282.088272 C268.342545,280.496679 268.277434,278.905086 268.711505,277.313493 L273.225841,261.166061 C274.166328,261.672477 275.077876,262.171658 275.960487,262.663605 L275.960487,265.116105 C277.682301,266.08553 279.201549,266.989844 280.51823,267.829047 C284.844468,270.505817 287.007588,272.415728 287.007588,273.558781 L287.007588,273.558781 Z",
-                                id: "Female-Shadow",
-                                "fill-opacity": "0.498039",
-                                fill: "#017FC9"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Female",
-                                  transform: "translate(201.408833, 204.997305)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M55.9083141,191.88098 C55.1993318,194.659033 55.286146,197.111533 56.1687565,199.238479 L58.8816988,205.25036 L62.397672,205.25036 L62.397672,202.12505 C62.7883356,202.052705 63.5624285,202.588059 64.7199505,203.731112 C65.8340655,204.845227 67.7439768,205.351643 70.4496846,205.25036 L76.2228257,205.25036 C76.381985,205.062262 76.4832682,204.64266 76.5266752,203.991554 C76.5845513,203.383855 74.6963435,201.951422 70.8620518,199.694254 C67.4473618,197.654121 65.5663885,195.049697 65.2191319,191.88098 L55.9083141,191.88098 Z M37.3734926,191.88098 C36.9972979,195.049697 35.0873865,197.654121 31.6437585,199.694254 C27.8818119,201.951422 26.0225421,203.383855 26.0659492,203.991554 C26.0948873,204.64266 26.1961705,205.062262 26.3697988,205.25036 L32.1429399,205.25036 C34.8486476,205.351643 36.758559,204.845227 37.8726739,203.731112 C39.044665,202.588059 39.8187578,202.052705 40.1949525,202.12505 L40.1949525,205.25036 L43.7326292,205.25036 L46.4238679,199.238479 C47.2775404,197.111533 47.3643546,194.659033 46.6843104,191.88098 L37.3734926,191.88098 Z",
-                                    id: "Shape",
-                                    fill: "#FFFFFF"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(33.000000, 80.000000)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M22.5393539,61.637289 C24.1743538,68.321979 24.4854378,73.791271 23.4726061,78.045164 C22.5176504,82.226713 22.3584911,88.318172 22.9951282,96.319543 C23.7041105,104.306445 23.6751724,109.493591 22.9083141,111.88098 L32.2191319,111.88098 C32.1901939,111.577131 32.1757248,111.244343 32.1757248,110.882617 C31.9731585,96.051866 33.1017424,79.636757 35.5614768,61.637289 L35.5180697,61.637289 L22.5393539,61.637289 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-48)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M13.1200184,78.045164 C12.1071866,73.791271 12.4110362,68.321979 14.031567,61.637289 L0.9660371,61.637289 C3.4402404,79.636757 4.5905279,96.051866 4.4168996,110.882617 C4.4168996,111.244343 4.4024306,111.577131 4.3734926,111.88098 L13.6843104,111.88098 C12.9319211,109.493591 12.8957485,104.306445 13.5757927,96.319543 C14.2268988,88.318172 14.0749741,82.226713 13.1200184,78.045164 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-49)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M38.0139766,0.2162767 C36.6828262,-0.2612011 35.1925166,0.078821 33.5430477,1.236343 C32.6314991,1.800635 31.7561231,2.3721615 30.9169196,2.9509225 C30.3960347,3.3560552 29.9040878,3.7828915 29.441079,4.2314313 L29.397672,4.3182454 C28.4427163,5.6349267 28.3197296,6.937139 29.0287118,8.2248823 C28.9563667,9.1653689 29.3759684,9.8960547 30.287517,10.4169396 C30.2296409,11.0101696 30.7939329,11.5961652 31.980393,12.1749262 C32.1395523,12.6813421 32.6821407,12.93455 33.6081583,12.93455 C33.8975388,12.93455 34.1941539,12.905612 34.4980034,12.8477359 C34.9754812,12.8332668 35.5397732,12.7464527 36.1908794,12.5872934 C37.6377819,11.9506563 38.0863217,10.9378245 37.5364987,9.5487981 C40.517118,7.3205682 41.8916754,5.6783338 41.660171,4.6220949 L38.0139766,0.2162767 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-50)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M46.9881599,41.3669436 L46.9881599,41.4537577 C45.7727618,45.3459255 44.9118548,50.9382039 44.4054389,58.2305926 C44.0003062,65.4506363 44.1160584,72.6489764 44.7526955,79.825613 C44.7961026,80.3175599 44.8467442,80.7878032 44.9046203,81.236343 C45.6425406,88.9049264 40.8171206,92.8043288 30.4283604,92.93455 C30.1823869,109.660743 31.3616125,125.89499 33.9660371,141.637289 L47.031567,141.637289 L55.5393539,141.637289 L68.5180697,141.637289 C70.5147952,126.054149 70.2615872,110.340788 67.7584459,94.4972048 C63.7649949,94.3380455 60.5384022,94.0052579 58.0786679,93.498842 C51.4229162,92.1532226 48.4350625,87.5954797 49.1151067,79.825613 C49.1151067,79.7532679 49.1151067,79.7026263 49.1151067,79.6736883 C49.9253721,71.8314765 51.2565224,64.6186673 53.1085577,58.0352608 C54.8448407,52.1174294 56.161522,47.0026289 57.0586016,42.6908594 C57.1020087,42.473824 57.1381812,42.2495541 57.1671193,42.0180497 C57.1381812,42.0903948 57.0730706,42.1555054 56.9717874,42.2133815 C54.8448407,44.1377619 52.5949073,44.9046203 50.2219871,44.5139566 C48.3988899,44.2390451 47.3354165,43.2189788 47.031567,41.4537577 C47.0035333,41.425724 46.9890642,41.3967859 46.9881599,41.3669436 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-51)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M53.6728496,37.4168996 C53.6728496,37.2143333 53.6873187,37.0045324 53.7162567,36.787497 C51.9076286,37.4386032 49.7806818,37.916081 47.3354165,38.2199305 C47.5090448,38.6684703 47.6320316,39.1097756 47.7043767,39.5438464 C47.7622528,39.920041 47.6899077,40.2383596 47.4873413,40.498802 C47.4149962,40.6724303 47.299244,40.7881825 47.1400847,40.8460586 C47.0677396,40.9907489 47.017098,41.1643772 46.9881599,41.3669436 C46.9890642,41.3967859 47.0035333,41.425724 47.031567,41.4537577 C47.3354165,43.2189788 48.3988899,44.2390451 50.2219871,44.5139566 C52.5949073,44.9046203 54.8448407,44.1377619 56.9717874,42.2133815 C57.0730706,42.1555054 57.1381812,42.0903948 57.1671193,42.0180497 C57.1960573,41.8588904 57.2322299,41.6707931 57.275637,41.4537577 L57.275637,41.4103506 L57.2322299,40.9111693 C57.1598848,40.9111693 57.0875396,40.9111693 57.0151945,40.9111693 C56.9139113,40.9111693 56.8270972,40.9111693 56.7547521,40.9111693 C56.5521857,40.8822312 56.3568539,40.8605277 56.1687565,40.8460586 C56.0530043,40.8460586 55.9300176,40.8315896 55.7997964,40.8026516 C55.7708583,40.7737135 55.7419203,40.7592445 55.7129822,40.7592445 C55.6406371,40.7303064 55.582761,40.7158374 55.5393539,40.7158374 C55.3512566,40.6724303 55.2065663,40.6217888 55.1052832,40.5639127 C54.6856814,40.3179392 54.3601284,40.0140897 54.1286239,39.6523641 C54.0996859,39.5800189 54.0635133,39.5221428 54.0201063,39.4787358 C53.889885,39.1748862 53.7886019,38.8276296 53.7162567,38.4369659 C53.6873187,38.1620544 53.6728496,37.8220323 53.6728496,37.4168996 L53.6728496,37.4168996 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-52)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M5.10033145,49.3755491 C4.69519874,49.6070535 4.64455715,50.0411243 4.94840668,50.6777614 L12.2407955,66.5864548 C13.8468573,70.0300828 15.959335,71.6723172 18.5782286,71.5131579 C19.3450869,71.4697509 20.0468347,71.3322951 20.6834718,71.1007907 C24.7347989,69.5091979 28.2797101,66.9771185 31.3182054,63.5045524 C31.4918337,63.3743312 31.6292895,63.2513444 31.7305727,63.1355922 C32.0054841,62.8317427 32.2586921,62.5351277 32.4901965,62.2457472 C33.5174973,60.8856588 34.501391,59.4315217 35.4418777,57.883336 C35.6010369,57.6518316 35.7384927,57.4275617 35.8542449,57.2105264 L36.2883157,56.4509025 C36.2593776,59.3013005 36.7513245,62.3614994 37.7641562,65.6314991 C38.5020765,69.2776935 38.6540013,71.6216756 38.2199305,72.6634455 C37.916081,73.4881799 37.3734926,74.5588878 36.5921652,75.8755691 C36.3895988,76.2807018 36.1725635,76.6786 35.941059,77.0692637 C35.33336,78.0314539 34.8269441,78.9140644 34.3349972,79.825613 C32.4250859,83.6454357 31.1228736,88.0150814 30.4283604,92.93455 C40.8171206,92.8043288 45.6425406,88.9049264 44.9046203,81.236343 C44.8467442,80.7878032 44.7961026,80.3175599 44.7526955,79.825613 C44.1160584,72.6489764 44.0003062,65.4506363 44.4054389,58.2305926 C44.9118548,50.9382039 45.7727618,45.3459255 46.9881599,41.4537577 C47.017098,41.1643772 47.0677396,40.9907489 47.1400847,40.8460586 L38.4152624,42.5823417 C38.2271651,42.6402178 38.1114129,42.6763904 37.9811916,42.6908594 C37.1564572,42.9513018 36.2883157,43.3998416 35.3767671,44.0364787 C33.9588026,45.0927176 32.5046655,46.6626069 31.0143559,48.7461465 C30.9130727,48.9197748 29.3938251,51.321633 26.4566129,55.9517211 C23.5194008,60.5818093 20.9728523,62.4772516 18.8169675,61.6380481 C18.2382065,61.6380481 17.3628305,60.1622075 16.1908394,57.2105264 L11.9152424,47.3354165 C11.7271451,46.8579387 11.4449991,46.6264343 11.0688044,46.6409033 C10.9675212,46.6409033 10.8807071,46.6553723 10.808362,46.6843104 L10.569623,46.8362352 L7.61794186,48.2035581 L5.85995528,48.9631819 L5.29566329,49.2236243 L5.10033145,49.3755491 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-53)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M8.87674707,36.0929838 L8.83333999,36.0929838 C8.47161436,36.223205 8.40650375,36.6645103 8.63800815,37.4168996 L9.05037538,39.044665 C9.23847271,39.7825853 9.18783112,40.4047534 8.89845061,40.9111693 C7.17663659,43.7181602 6.74980034,46.1489565 7.61794186,48.2035581 L10.569623,46.8362352 L10.808362,46.6843104 C10.8807071,46.6553723 10.9675212,46.6409033 11.0688044,46.6409033 C11.3003088,46.2213016 11.4884062,45.6931822 11.6330964,45.056545 C11.6620345,44.9841999 11.6909725,44.9190893 11.7199106,44.8612132 C12.0237601,43.4721868 12.0092911,42.0903948 11.6765035,40.7158374 L10.6130301,36.787497 C10.3670567,35.9772316 9.78829567,35.7457272 8.87674707,36.0929838 L8.87674707,36.0929838 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-54)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M6.05528712,35.3767671 C5.80931369,35.2465458 5.54163672,35.2176078 5.25225621,35.2899529 C4.94840668,35.3767671 4.72413679,35.5431608 4.57944653,35.7891343 C4.4492253,36.0495767 4.41305274,36.3172537 4.47092884,36.5921652 C4.38411469,36.3172537 4.2177209,36.1002183 3.97174747,35.941059 C3.71130501,35.8108378 3.42915902,35.7891343 3.12530948,35.8759484 C2.850398,35.9482936 2.64059713,36.1074528 2.49590688,36.3534263 C2.3367476,36.6138687 2.28610601,36.8815457 2.34398211,37.1564572 C2.25716796,36.8815457 2.09077417,36.6789793 1.84480074,36.5487581 C1.58435828,36.4040679 1.31668131,36.3678953 1.04176983,36.4402404 C0.73792029,36.5125855 0.5136504,36.6789793 0.36896015,36.9394218 C0.20980087,37.1853952 0.17362831,37.4458377 0.26044246,37.7207492 L0.6294026,38.9795544 L0.6294026,39.044665 L1.34561936,41.627386 L1.34561936,41.6707931 L1.3673229,41.6924966 C1.43966803,41.9384701 1.5988273,42.1338019 1.84480074,42.2784922 C2.09077417,42.4376514 2.36568565,42.473824 2.66953518,42.3870099 C2.95891569,42.3146647 3.17595107,42.1555054 3.32064132,41.909532 C3.4798006,41.6201515 3.51597317,41.3380055 3.42915902,41.063094 C3.53044219,41.3380055 3.71130501,41.5550409 3.97174747,41.7142002 C4.2177209,41.8588904 4.48539787,41.895063 4.77477838,41.8227179 C5.07862791,41.7503727 5.3028978,41.5767444 5.44758806,41.3018329 C5.57780928,41.0703285 5.62845087,40.8243551 5.59951282,40.5639127 C5.65738892,40.8243551 5.80931369,41.019687 6.05528712,41.1499082 C6.31572958,41.2945984 6.59787557,41.330771 6.90172511,41.2584259 C7.17663659,41.1860807 7.38643746,41.0052179 7.53112771,40.7158374 C7.66134894,40.469864 7.70475601,40.216656 7.66134894,39.9562136 L7.61794186,39.93451 L6.59787557,36.0278732 C6.51106142,35.7384927 6.3301986,35.5214573 6.05528712,35.3767671 L6.05528712,35.3767671 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-55)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M5.03522083,29.1912587 C4.87606155,29.4082941 4.83988899,29.661502 4.92670314,29.9508825 L6.59787557,36.0278732 L7.61794186,39.93451 L7.66134894,39.9562136 C7.70475601,40.216656 7.66134894,40.469864 7.53112771,40.7158374 C7.38643746,41.0052179 7.17663659,41.1860807 6.90172511,41.2584259 C6.59787557,41.330771 6.31572958,41.2945984 6.05528712,41.1499082 C5.80931369,41.019687 5.65738892,40.8243551 5.59951282,40.5639127 C5.62845087,40.8243551 5.57780928,41.0703285 5.44758806,41.3018329 C5.3028978,41.5767444 5.07862791,41.7503727 4.77477838,41.8227179 C4.48539787,41.895063 4.2177209,41.8588904 3.97174747,41.7142002 C3.71130501,41.5550409 3.53044219,41.3380055 3.42915902,41.063094 C3.51597317,41.3380055 3.4798006,41.6201515 3.32064132,41.909532 C3.17595107,42.1555054 2.95891569,42.3146647 2.66953518,42.3870099 C2.36568565,42.473824 2.09077417,42.4376514 1.84480074,42.2784922 C1.5988273,42.1338019 1.43966803,41.9384701 1.3673229,41.6924966 L2.04013258,44.2969212 C2.9661502,47.6392661 4.20325187,49.2091553 5.75143759,49.006589 L5.85995528,48.9631819 L7.61794186,48.2035581 C6.74980034,46.1489565 7.17663659,43.7181602 8.89845061,40.9111693 C9.18783112,40.4047534 9.23847271,39.7825853 9.05037538,39.044665 L8.63800815,37.4168996 C8.40650375,36.6645103 8.47161436,36.223205 8.83333999,36.0929838 L8.87674707,36.0929838 L7.05364987,29.4082941 C6.96683572,29.1333826 6.7859729,28.9163472 6.51106142,28.7571879 C6.26508799,28.6124977 5.99741102,28.5763251 5.70803051,28.6486703 C5.40418098,28.7210154 5.17991109,28.9018782 5.03522083,29.1912587 L5.03522083,29.1912587 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-56)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M42.7342665,12.2407955 C41.6201515,11.9369459 40.737541,12.4071893 40.0864348,13.6515254 C39.4932048,14.9247997 38.465904,15.3588704 37.0045324,14.9537377 C35.7891343,14.4183838 35.051214,15.0333174 34.7907715,16.7985385 L35.7891343,29.1478516 C36.1653289,33.1702407 37.8220323,35.8614794 40.7592445,37.2215678 C42.4810585,38.0173642 44.6369433,38.3501518 47.2268988,38.2199305 L47.3354165,38.2199305 C49.7806818,37.916081 51.9076286,37.4386032 53.7162567,36.787497 L53.889885,36.1363909 C54.2950177,34.9209928 55.300615,33.640484 56.9066768,32.2948646 C56.9211458,32.2514576 56.9428494,32.215285 56.9717874,32.186347 C57.9412121,31.043294 57.8037564,29.6108604 56.5594202,27.8890464 C55.2138009,26.4276749 55.0618761,25.1254626 56.1036459,23.9824096 C56.9573184,22.7380734 57.3624511,21.0307284 57.319044,18.8603746 C57.319044,17.6160384 56.6751724,16.270419 55.3874292,14.8235165 C52.8553497,12.4216583 52.8625842,10.1717248 55.4091327,8.07371616 C53.1664338,9.21676917 51.4735578,9.55679126 50.3305048,9.09378245 C49.5202394,8.76099487 48.3916554,9.35422491 46.9447528,10.8734726 C45.5267884,12.4216583 44.1232929,12.8774326 42.7342665,12.2407955 L42.7342665,12.2407955 Z M37.5254173,22.3546442 C37.7569217,22.1520779 38.0245987,22.0507947 38.3284482,22.0507947 C38.6322978,22.0218566 38.8855057,22.1086708 39.0880721,22.3112371 C39.2906384,22.5138035 39.4063906,22.7670114 39.4353287,23.070861 L39.5438464,25.3931395 C39.5727844,25.6969891 39.4859703,25.950197 39.2834039,26.1527634 C39.0808376,26.3553297 38.8276296,26.4783164 38.5237801,26.5217235 C38.2199305,26.5217235 37.9667226,26.4204403 37.7641562,26.217874 C37.5615899,26.0442457 37.4313687,25.8055068 37.3734926,25.5016572 L37.3083819,23.1359716 C37.2505058,22.8321221 37.322851,22.5716796 37.5254173,22.3546442 L37.5254173,22.3546442 Z M41.1716117,30.7322099 C41.2584259,30.6309267 41.4031161,30.5585816 41.6056825,30.5151745 L45.5340229,30.3198427 L49.4840668,30.1028073 C49.9470756,30.1462144 50.193049,30.4066568 50.2219871,30.8841347 C50.2219871,30.9854179 50.2075181,31.1156391 50.17858,31.2747984 L50.17858,31.383316 C50.1062349,31.6582275 50.0194207,31.9259045 49.9181376,32.186347 C49.7300402,32.5914797 49.614288,32.8446876 49.570881,32.9459708 C49.035527,34.233714 47.7984253,34.9426963 45.8595759,35.0729175 C45.1216556,35.1018556 44.4705495,35.051214 43.9062575,34.9209928 C43.5300629,34.8486476 43.1900408,34.7111919 42.8861912,34.5086255 C42.770439,34.4362804 42.6619213,34.3639353 42.5606382,34.2915902 C42.3291337,34.1034928 42.1338019,33.893692 41.9746426,33.6621875 C41.9022975,33.5609044 41.7648418,33.3221655 41.5622754,32.9459708 C41.359709,32.5408381 41.2077843,32.1574089 41.1065011,31.7956833 L41.063094,31.7739797 C40.9328728,31.2820329 40.9690454,30.9347763 41.1716117,30.7322099 L41.1716117,30.7322099 Z M50.8296862,21.4430956 C51.0322525,21.2115912 51.2854605,21.095839 51.58931,21.095839 C51.8931595,21.095839 52.1463675,21.1826532 52.3489338,21.3562815 C52.5515002,21.5588478 52.6600179,21.8120558 52.6744869,22.1159053 L52.8047081,24.4381839 C52.8191772,24.7420334 52.7251285,24.9952413 52.5225621,25.1978077 C52.3199958,25.4293121 52.0667878,25.5450643 51.7629383,25.5450643 C51.4590888,25.5450643 51.2058808,25.4654847 51.0033145,25.3063254 C50.8007481,25.103759 50.6922304,24.8505511 50.6777614,24.5467016 L50.5475402,22.2027194 C50.5330711,21.8988699 50.6271198,21.645662 50.8296862,21.4430956 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-57)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M51.58931,21.095839 C51.2854605,21.095839 51.0322525,21.2115912 50.8296862,21.4430956 C50.6271198,21.645662 50.5330711,21.8988699 50.5475402,22.2027194 L50.6777614,24.5467016 C50.6922304,24.8505511 50.8007481,25.103759 51.0033145,25.3063254 C51.2058808,25.4654847 51.4590888,25.5450643 51.7629383,25.5450643 C52.0667878,25.5450643 52.3199958,25.4293121 52.5225621,25.1978077 C52.7251285,24.9952413 52.8191772,24.7420334 52.8047081,24.4381839 L52.6744869,22.1159053 C52.6600179,21.8120558 52.5515002,21.5588478 52.3489338,21.3562815 C52.1463675,21.1826532 51.8931595,21.095839 51.58931,21.095839 Z M38.3284482,22.0507947 C38.0245987,22.0507947 37.7569217,22.1520779 37.5254173,22.3546442 C37.322851,22.5716796 37.2505058,22.8321221 37.3083819,23.1359716 L37.3734926,25.5016572 C37.4313687,25.8055068 37.5615899,26.0442457 37.7641562,26.217874 C37.9667226,26.4204403 38.2199305,26.5217235 38.5237801,26.5217235 C38.8276296,26.4783164 39.0808376,26.3553297 39.2834039,26.1527634 C39.4859703,25.950197 39.5727844,25.6969891 39.5438464,25.3931395 L39.4353287,23.070861 C39.4063906,22.7670114 39.2906384,22.5138035 39.0880721,22.3112371 C38.8855057,22.1086708 38.6322978,22.0218566 38.3284482,22.0507947 L38.3284482,22.0507947 Z",
-                                    id: "Shape",
-                                    fill: "#4D4875"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M49.4840668,30.1028073 L45.5340229,30.3198427 C43.8556159,31.2892674 42.8644877,32.6131832 42.5606382,34.2915902 C42.6619213,34.3639353 42.770439,34.4362804 42.8861912,34.5086255 C43.1900408,34.7111919 43.5300629,34.8486476 43.9062575,34.9209928 C44.4705495,35.051214 45.1216556,35.1018556 45.8595759,35.0729175 C47.7984253,34.9426963 49.035527,34.233714 49.570881,32.9459708 C49.614288,32.8446876 49.7300402,32.5914797 49.9181376,32.186347 C50.0194207,31.9259045 50.1062349,31.6582275 50.17858,31.383316 C50.17858,31.354378 50.17858,31.3182054 50.17858,31.2747984 C50.2075181,31.1156391 50.2219871,30.9854179 50.2219871,30.8841347 C50.193049,30.4066568 49.9470756,30.1462144 49.4840668,30.1028073 L49.4840668,30.1028073 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-58)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M41.6056825,30.5151745 C41.4031161,30.5585816 41.2584259,30.6309267 41.1716117,30.7322099 C40.9690454,30.9347763 40.9328728,31.2820329 41.063094,31.7739797 L41.1065011,31.7956833 C41.2077843,32.1574089 41.359709,32.5408381 41.5622754,32.9459708 C41.7648418,33.3221655 41.9022975,33.5609044 41.9746426,33.6621875 C42.1338019,33.893692 42.3291337,34.1034928 42.5606382,34.2915902 C42.8644877,32.6131832 43.8556159,31.2892674 45.5340229,30.3198427 L41.6056825,30.5151745 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-59)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M40.9979834,2.4524998 C40.4336914,3.43639353 38.9361473,4.17431382 36.505351,4.66626069 C33.2932274,5.62121636 31.7016346,7.28515428 31.7305727,9.65807444 C31.7305727,11.1628531 30.9564798,12.1684503 29.4082941,12.6748662 C28.5690906,12.8919016 27.9903296,13.3042688 27.672011,13.9119679 C27.1655952,14.8235165 27.1655952,16.0823217 27.672011,17.6883835 C27.7154181,17.8330738 27.7515907,17.9560605 27.7805287,18.0573437 C28.2145995,19.5042462 28.1784269,20.8426311 27.672011,22.0724982 C27.5707279,22.3618787 27.4405066,22.6150867 27.2813474,22.8321221 C26.3408607,24.4526529 26.4710819,26.3191572 27.672011,28.4316349 C28.3592897,29.4082941 28.6414357,31.1156391 28.5401526,33.6187805 C28.4388694,36.1219219 29.4517012,37.5760589 31.5786479,37.9811916 C32.5336036,38.169289 33.3511035,38.3646208 34.0311477,38.5671872 C34.8414131,38.8131606 35.4418777,39.0880721 35.8325414,39.3919216 C36.5415236,39.9272755 37.351789,40.3468773 38.2633376,40.6507268 C39.1893552,40.9545763 40.187718,40.7158374 41.2584259,39.93451 C41.4320542,39.8042888 41.5839789,39.7030056 41.7142002,39.6306678 C42.5534036,39.1242446 43.1972753,39.0084924 43.6458151,39.2834039 C45.0927176,40.0647313 46.4455715,40.1515454 47.7043767,39.5438464 C47.6320316,39.1097756 47.5090448,38.6684703 47.3354165,38.2199305 C44.6369433,38.3501518 42.4810585,38.0173642 40.7592445,37.2215678 C37.8220323,35.8614794 36.1653289,33.1702407 35.7891343,29.1478516 L34.7907715,16.7985385 C35.051214,15.0333174 35.7891343,14.4183838 37.0045324,14.9537377 C38.465904,15.3588704 39.4932048,14.9247997 40.0864348,13.6515254 C40.737541,12.4071893 41.6201515,11.9369459 42.7342665,12.2407955 C44.1232929,12.8774326 45.5267884,12.4216583 46.9447528,10.8734726 C48.3916554,9.35422491 49.5202394,8.76099487 50.3305048,9.09378245 C51.4735578,9.55679126 53.1664338,9.21676917 55.4091327,8.07371616 C52.8625842,10.1717248 52.8553497,12.4216583 55.3874292,14.8235165 C56.6751724,16.270419 57.319044,17.6160384 57.319044,18.8603746 C57.3624511,21.0307284 56.9573184,22.7380734 56.1036459,23.9824096 C55.0618761,25.1254626 55.2138009,26.4276749 56.5594202,27.8890464 C57.8037564,29.6108604 57.9412121,31.043294 56.9717874,32.186347 C55.300615,33.640484 54.2950177,34.9209928 53.889885,36.1363909 L53.7162567,36.787497 C53.6873187,37.0045324 53.6728496,37.2143333 53.6728496,37.4168996 C53.6728496,37.8220323 53.6873187,38.1620544 53.7162567,38.4369659 C53.7886019,38.8276296 53.889885,39.1748862 54.0201063,39.4787358 C54.0635133,39.5221428 54.0996859,39.5800189 54.1286239,39.6523641 C54.3601284,40.0140897 54.6856814,40.3179392 55.1052832,40.5639127 C55.2065663,40.6217888 55.3512566,40.6724303 55.5393539,40.7158374 C55.582761,40.7158374 55.6406371,40.7303064 55.7129822,40.7592445 C55.9300176,40.8315896 56.0530043,40.8460586 56.1687565,40.8460586 C56.3568539,40.8605277 56.5521857,40.8822312 56.7547521,40.9111693 L57.0151945,40.9111693 L57.2322299,40.9111693 C57.5360794,40.9111693 57.868867,40.8894657 58.2305926,40.8460586 C58.5633802,40.7881825 58.8889333,40.7230719 59.2072519,40.6507268 C59.7426058,40.5494436 60.3430703,40.3975189 61.0086455,40.1949525 C61.8261454,39.9634481 62.990902,39.9851516 64.5246187,40.2600631 C66.0438663,40.5494436 67.548645,40.3468773 69.0389546,39.6523641 C70.5437332,38.9433818 71.8748836,38.6322978 73.0324056,38.7191119 C74.2188657,38.791457 75.0797727,38.1041783 75.6151266,36.6572758 C76.1215425,35.2248423 76.693069,33.9515681 77.3297061,32.8374531 C78.3135999,31.1301081 78.0820955,29.3287144 76.6351929,27.4332721 C75.2027594,25.5088917 74.8410338,23.8738919 75.550016,22.5282725 C76.2589983,21.1681841 76.0057903,19.7791577 74.7903922,18.3611932 C73.5894631,16.9432287 73.0034676,15.3516359 73.0324056,13.5864148 C73.1047507,11.9369459 72.3089543,10.7938929 70.6450164,10.1572558 C68.9955475,9.65083993 67.7946184,8.51502144 67.0422291,6.74980034 C66.2753708,4.95564119 65.5374505,3.85599526 64.8284682,3.45086255 C64.148424,2.98785374 63.3888002,2.7346458 62.5495967,2.69123872 C61.7248623,2.60442457 60.8784243,2.70570775 60.0102828,2.99508825 C59.7353713,3.00955728 59.5111014,2.9661502 59.3374731,2.86486703 C59.2072519,2.74188031 59.1059687,2.66230067 59.0336236,2.56101749 C58.8455262,2.34398211 58.6646634,2.13418124 58.4910351,1.93161489 C56.5377167,-0.12298672 54.6495089,-0.41960174 52.8264117,1.04176983 C51.9148631,1.80862817 50.5475402,1.80139366 48.724443,1.02006629 C45.1650627,-0.52811943 42.5895762,-0.05064159 40.9979834,2.4524998 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-60)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M92.8911429,66.2826053 C92.2834439,64.3582249 91.0680457,62.5857693 89.2449485,60.9652384 C83.7322499,56.4364335 78.2629583,52.3344648 72.8370738,48.6593324 C71.9255252,48.0226952 71.0284456,47.4439342 70.145835,46.9230493 C68.8580918,46.0549078 67.5558795,45.2301733 66.2391982,44.448846 C65.0961452,43.7832708 63.9820302,43.2406823 62.8968533,42.8210806 C61.4788888,42.2133815 60.0898624,41.8082488 58.729774,41.6056825 C58.5706147,41.5767444 58.41869,41.5333374 58.2739997,41.4754613 C58.1727165,41.4609922 58.0714334,41.4537577 57.9701502,41.4537577 C57.7097077,41.4248197 57.4782033,41.4103506 57.275637,41.4103506 C57.2322299,41.6707931 57.1960573,41.8588904 57.1671193,42.0180497 C57.1381812,42.2495541 57.1020087,42.473824 57.0586016,42.6908594 C56.161522,47.0026289 54.8448407,52.1174294 53.1085577,58.0352608 C51.2565224,64.6186673 49.9253721,71.8314765 49.1151067,79.6736883 C48.4350625,87.5954797 51.4229162,92.1532226 58.0786679,93.498842 C60.5384022,94.0052579 63.7649949,94.3380455 67.7584459,94.4972048 L67.4980034,92.8477359 C67.1941539,92.905612 66.8975388,92.93455 66.6081583,92.93455 C65.6821407,92.93455 65.1395523,92.6813421 64.980393,92.1749262 C63.7939329,91.5961652 63.2296409,91.0101696 63.287517,90.4169396 C62.3759684,89.8960547 61.9563667,89.1653689 62.0287118,88.2248823 C61.3197296,86.937139 61.4427163,85.6349267 62.397672,84.3182454 C62.9040878,83.7828915 63.3960347,83.3560552 63.9169196,82.9509225 L61.7682693,79.4132458 C61.2763225,78.6608565 60.9073623,77.8867636 60.6613889,77.0909672 C60.0970969,75.4993744 60.0319863,73.9077816 60.4660571,72.3161889 L64.980393,56.1687565 C66.9771185,57.2394644 68.8291537,58.2305926 70.5364987,59.1421412 C70.9126934,59.3881147 71.3033571,59.6051501 71.7084898,59.7932474 C79.4494184,64.119486 83.3198827,67.0422291 83.3198827,68.5614768 C83.4790419,69.0389546 82.2781128,70.2254147 79.7170953,72.120857 L71.1659013,78.7404361 C70.7173615,79.0876927 70.5943748,79.4494184 70.7969412,79.825613 C70.7969412,79.8834891 70.8114102,79.9341307 70.8403483,79.9775378 L71.0139766,80.2162767 L74.660171,84.6220949 L74.7903922,84.8391303 C75.1376488,85.1140418 75.5789541,85.0634002 76.114308,84.6872056 L89.6573158,73.5749941 C92.5945279,71.245481 93.6724703,68.8146847 92.8911429,66.2826053 L92.8911429,66.2826053 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-61)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M184.82733,416.693615 C191.439675,417.402597 199.390404,417.757088 208.679519,417.757088 C218.01204,417.757088 225.970004,417.402597 232.553411,416.693615 C239.107879,415.984632 242.385113,415.138194 242.385113,414.154301 C242.385113,413.112531 239.107879,412.251624 232.553411,411.57158 C225.970004,410.891535 218.01204,410.551513 208.679519,410.551513 C199.390404,410.551513 191.439675,410.891535 184.82733,411.57158 C178.243924,412.251624 174.952221,413.112531 174.952221,414.154301 C174.952221,415.138194 178.243924,415.984632 184.82733,416.693615 Z",
-                                id: "Shadow",
-                                "fill-opacity": "0.298039",
-                                fill: "#000000"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Dog",
-                                  transform: "translate(151.760163, 319.915902)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M54.6621875,92.2183333 C54.5898424,91.2199705 54.8068778,90.3084219 55.3132937,89.4836875 C53.3889133,89.0930238 51.4500639,88.2538203 49.4967455,86.966077 C49.3809933,87.6750593 49.2724756,88.362338 49.1711924,89.0279132 C49.1133163,89.2738866 49.0771438,89.5270945 49.0626747,89.787537 C49.0337367,89.9322273 49.0047986,90.084152 48.9758606,90.2433113 C48.7009491,91.9072492 48.0715465,92.8766739 47.0876528,93.1515854 L54.8575194,93.1515854 C54.7851743,92.8332668 54.7200636,92.5221828 54.6621875,92.2183333 Z",
-                                    id: "Path",
-                                    fill: "#949DA4"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M55.3132937,89.4836875 C54.8068778,90.3084219 54.5898424,91.2199705 54.6621875,92.2183333 C54.7200636,92.5221828 54.7851743,92.8332668 54.8575194,93.1515854 L71.1568765,93.1515854 C71.9092658,92.93455 72.603779,92.0230014 73.2404161,90.4169396 C73.2838232,90.3156564 73.3344648,90.2143732 73.3923409,90.1130901 C73.5949073,89.5922052 73.7830046,89.0134441 73.9566329,88.376807 L72.8497525,89.3534662 L71.17858,87.3784443 L69.2903722,88.8325813 L66.9246866,86.966077 L63.7125629,88.4419176 L61.9979834,86.358378 L58.4386032,87.6171832 L58.4386032,86.0545284 C58.3083819,86.4307231 58.0768775,86.7996833 57.74409,87.1614089 C57.6717448,87.233754 57.5993997,87.3060991 57.5270546,87.3784443 C57.3244882,87.5665416 57.0929838,87.7618734 56.8325414,87.9644398 C56.1814352,88.4129796 55.6750193,88.9193955 55.3132937,89.4836875 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-62)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M58.4386032,86.0545284 C58.6845766,85.3455462 58.5905279,84.5497498 58.1564572,83.6671393 C55.5086255,82.8134668 53.0416567,81.1278253 50.7555507,78.6102149 L49.8874092,84.6872056 C49.7571879,85.4685329 49.6269667,86.2281568 49.4967455,86.966077 C51.4500639,88.2538203 53.3889133,89.0930238 55.3132937,89.4836875 C55.6750193,88.9193955 56.1814352,88.4129796 56.8325414,87.9644398 C57.0929838,87.7618734 57.3244882,87.5665416 57.5270546,87.3784443 C57.5993997,87.3060991 57.6717448,87.233754 57.74409,87.1614089 C58.0768775,86.7996833 58.3083819,86.4307231 58.4386032,86.0545284 L58.4386032,86.0545284 Z",
-                                    id: "Path",
-                                    fill: "#C0C6CB"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M37.6249102,86.0979355 L36.4529191,84.1880242 L34.3259724,87.3784443 L33.1539813,83.5586216 C33.1539813,85.526409 32.9369459,87.6895283 32.5028752,90.0479795 C31.822831,92.0012979 32.2496672,93.0358332 33.7833839,93.1515854 L39.4914144,93.1515854 C36.1490696,93.0503022 34.984313,92.1025811 35.9971448,90.3084219 C36.677189,88.9193955 37.2197775,87.5159 37.6249102,86.0979355 L37.6249102,86.0979355 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-63)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M41.4664364,84.2748383 L39.0573437,86.7707452 L38.0372774,83.9709888 C37.9359942,84.679971 37.7985385,85.3889533 37.6249102,86.0979355 C37.2197775,87.5159 36.677189,88.9193955 35.9971448,90.3084219 C34.984313,92.1025811 36.1490696,93.0503022 39.4914144,93.1515854 L40.0122993,93.1515854 L47.0876528,93.1515854 C48.0715465,92.8766739 48.7009491,91.9072492 48.9758606,90.2433113 C49.0047986,90.084152 49.0337367,89.9322273 49.0626747,89.787537 C49.0771438,89.5270945 49.1133163,89.2738866 49.1711924,89.0279132 C49.2724756,88.362338 49.3809933,87.6750593 49.4967455,86.966077 C49.6269667,86.2281568 49.7571879,85.4685329 49.8874092,84.6872056 L47.50002,87.4218513 L45.4815909,84.4701702 L42.8554628,86.966077 L41.4664364,84.2748383 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-64)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M38.2760163,81.236343 C38.2904853,80.9903696 38.2904853,80.7371616 38.2760163,80.4767192 C33.7472114,74.8337993 31.0342691,67.4039547 30.1371895,58.1871856 C30.6291364,64.9442204 31.1500213,69.6249501 31.6998443,72.2293747 C32.4377646,75.3980913 32.9224769,79.1745069 33.1539813,83.5586216 L34.3259724,87.3784443 L36.4529191,84.1880242 L37.6249102,86.0979355 C37.7985385,85.3889533 37.9359942,84.679971 38.0372774,83.9709888 C38.1096225,83.536918 38.1747331,83.0956128 38.2326092,82.647073 C38.2326092,82.4734447 38.2470783,82.2853473 38.2760163,82.082781 C38.2760163,81.7934005 38.2760163,81.5112545 38.2760163,81.236343 L38.2760163,81.236343 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-65)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M29.8116365,53.4341107 C29.8261055,53.7234912 29.83334,53.9911682 29.83334,54.2371416 L29.9635612,55.864907 C29.9780302,55.9227831 29.9852648,55.9878937 29.9852648,56.0602388 L30.0720789,57.5143759 C30.101017,57.7314113 30.1227205,57.9556812 30.1371895,58.1871856 C31.0342691,67.4039547 33.7472114,74.8337993 38.2760163,80.4767192 C38.2470783,79.4928254 38.1457951,78.5089317 37.9721668,77.525038 C37.8708836,76.8594628 37.7189588,76.1866531 37.5163925,75.5066089 C37.25595,74.5950603 37.0606182,73.6835117 36.9303969,72.7719631 C36.1201315,67.7801494 36.5903748,63.6564772 38.3411269,60.4009464 C40.120817,57.1020087 41.8426311,54.5048186 43.506569,52.6093763 L29.8116365,53.4341107 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-66)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M43.506569,52.6093763 L55.8124751,51.8931595 C56.1452626,51.8642215 56.2971874,51.6833587 56.2682494,51.3505711 L56.1163246,48.3988899 L29.5728975,49.5057703 C29.2401099,49.5202394 29.0881852,49.6938677 29.1171232,50.0266553 L29.269048,52.9783364 C29.2979861,53.311124 29.4788489,53.4630488 29.8116365,53.4341107 L43.506569,52.6093763 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-67)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M25.2538935,26.3046881 C24.7185395,26.2757501 24.3495794,26.4638474 24.147013,26.8689801 C24.0746679,26.9702633 24.0240263,27.0860155 23.9950883,27.2162367 L23.9082741,27.7805287 L23.9082741,27.8890464 L23.9082741,27.9758606 L23.9082741,28.1494889 C23.9372122,28.3375862 23.9806192,28.532918 24.0384953,28.7354844 C24.2410617,29.7193781 24.7474776,30.2764356 25.557743,30.4066568 C26.9178314,30.6815683 28.0536499,30.3632498 28.9651985,29.4517012 C29.847809,28.5690906 29.7248223,27.8239358 28.5962383,27.2162367 C28.4370791,27.1294226 28.2851543,27.0498429 28.140464,26.9774978 C28.0825879,26.9485598 28.0319463,26.9340907 27.9885393,26.9340907 C27.250619,26.6302412 26.5271677,26.4276749 25.8181855,26.3263917 C25.6445572,26.3119227 25.4926324,26.3046881 25.3624112,26.3046881 C25.3045351,26.3046881 25.2683625,26.3046881 25.2538935,26.3046881 L25.2538935,26.3046881 Z M24.7981192,35.5938024 C26.1148005,36.3027847 27.8944906,36.7368554 30.1371895,36.8960147 C30.976393,36.9104837 31.8807071,36.9104837 32.8501318,36.8960147 C36.366105,36.7657935 37.5887376,37.2432713 36.5180297,38.3284482 C36.3444014,38.5599526 36.0188483,38.8276296 35.5413705,39.1314791 C39.7373879,36.74409 40.4825427,35.7529617 37.7768349,36.1580944 C35.0421891,36.5632271 31.9385832,36.476413 28.4660171,35.897652 C24.978982,35.318891 23.2209954,34.233714 23.1920574,32.6421213 C22.989491,33.9588026 23.5248449,34.9426963 24.7981192,35.5938024 L24.7981192,35.5938024 Z",
-                                    id: "Shape",
-                                    fill: "#292C36"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M42.4865027,12.0671672 C43.2678301,7.45154807 43.3329407,4.02962357 42.6818345,1.80139366 C42.2911708,0.67280968 41.5821886,1.34561936 40.5548878,3.8198227 C39.2816136,6.82937998 38.3266579,9.78829567 37.6900208,12.6965698 C37.9215252,12.6242246 38.1674986,12.5663485 38.4279411,12.5229415 C39.6578082,12.233561 41.0106621,12.0816362 42.4865027,12.0671672 Z M42.7035381,27.064312 C42.7614142,26.8617456 42.8048212,26.6591793 42.8337593,26.4566129 C41.8643346,26.0514802 41.3072771,25.8995554 41.1625869,26.0008386 C40.7719232,26.1744669 41.0757727,26.8328076 42.0741355,27.9758606 C42.392454,27.7732942 42.6022549,27.4694447 42.7035381,27.064312 L42.7035381,27.064312 Z M29.8116365,23.070861 L29.4209728,24.5467016 C29.6524772,24.3151972 29.8405745,24.0258166 29.9852648,23.67856 C30.144424,23.4036486 30.2746453,23.1215026 30.3759284,22.8321221 C30.144424,22.5138035 29.9563267,22.5933831 29.8116365,23.070861 Z M64.8194434,7.87838432 C64.8194434,7.14046403 64.334731,6.85108352 63.3653063,7.0102428 C60.0518995,7.44431356 56.3912361,9.80999921 52.383316,14.1072997 C51.6598648,14.9465032 52.650993,15.5686713 55.3567008,15.973804 C57.9321873,16.3789367 59.5020765,17.8186048 60.0663685,20.2928081 C60.6451295,22.7814805 61.3685808,22.9623433 62.2367223,20.8353965 C64.334731,15.8146447 65.195638,11.4956407 64.8194434,7.87838432 Z",
-                                    id: "Shape",
-                                    fill: "#FFFFFF"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M47.6953518,12.5880521 C48.4188031,12.7182733 49.1205508,12.8701981 49.800595,13.0438264 C49.1494889,10.0342691 47.7749315,6.59064106 45.6769228,2.71294226 C44.3313034,0.26767697 43.0290911,-0.44130527 41.7702859,0.58599553 C41.6400647,0.71621676 41.5098435,0.86090701 41.3796222,1.02006629 C39.9182507,2.65506616 38.2832508,6.69192424 36.4746226,13.1306405 C36.8074102,12.9714813 37.1546668,12.8557291 37.5163925,12.7833839 C37.5887376,12.7255078 37.6466137,12.6965698 37.6900208,12.6965698 C38.3266579,9.78829567 39.2816136,6.82937998 40.5548878,3.8198227 C41.5821886,1.34561936 42.2911708,0.67280968 42.6818345,1.80139366 C43.3329407,4.02962357 43.2678301,7.45154807 42.4865027,12.0671672 C43.3980513,12.0816362 44.3313034,12.1395123 45.2862591,12.2407955 C46.0965245,12.3420786 46.8995554,12.4578309 47.6953518,12.5880521 L47.6953518,12.5880521 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-68)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M84.6347736,72.3812995 C83.3180923,73.1481578 81.6830924,71.0139766 79.729774,65.9787557 C77.5015441,60.8422517 75.5048186,57.3624511 73.7395975,55.5393539 C74.8681815,60.6179818 74.7886019,64.162893 73.5008586,66.1740876 C76.568292,68.677229 78.0513671,71.9399942 77.9500839,75.9623832 C77.8488007,79.5072945 76.5176504,83.6454357 73.9566329,88.376807 C73.7830046,89.0134441 73.5949073,89.5922052 73.3923409,90.1130901 C73.3344648,90.2143732 73.2838232,90.3156564 73.2404161,90.4169396 C72.603779,92.0230014 71.9092658,92.93455 71.1568765,93.1515854 L73.1318984,93.1515854 C72.3650401,92.370258 73.8698187,91.2850811 77.6462344,89.8960547 C79.8021191,89.3607007 82.2184464,87.3205682 84.8952161,83.775657 C87.6009238,80.2307457 88.1290433,78.8127812 86.4795744,79.5217635 C84.0777161,80.5345953 83.4989551,79.4132458 84.7432913,76.1577151 C85.9876275,72.8877154 85.9514549,71.6289101 84.6347736,72.3812995 L84.6347736,72.3812995 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-69)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M90.6249501,70.7969412 C89.3372069,68.0912334 88.3750167,66.7890212 87.7383796,66.8903043 C86.7834239,68.0478264 85.9369859,68.0333573 85.1990656,66.8468973 C83.9113224,64.7922957 81.5094641,62.0938224 77.993491,58.7514776 C76.5465884,57.3624511 75.1286239,56.2917432 73.7395975,55.5393539 C75.5048186,57.3624511 77.5015441,60.8422517 79.729774,65.9787557 C81.6830924,71.0139766 83.3180923,73.1481578 84.6347736,72.3812995 C85.9514549,71.6289101 85.9876275,72.8877154 84.7432913,76.1577151 C83.4989551,79.4132458 84.0777161,80.5345953 86.4795744,79.5217635 C88.1290433,78.8127812 87.6009238,80.2307457 84.8952161,83.775657 C82.2184464,87.3205682 79.8021191,89.3607007 77.6462344,89.8960547 C73.8698187,91.2850811 72.3650401,92.370258 73.1318984,93.1515854 L74.3472966,93.1515854 C78.3696856,93.0503022 80.1783138,92.3919616 79.7731811,91.1765634 C79.5416767,90.1637317 80.4242872,89.4330459 82.4210127,88.9845061 C87.6587999,87.8993292 90.002782,86.5826479 89.4529591,85.0344622 C88.8741981,83.5152145 88.8886671,82.0755465 89.4963662,80.7154581 C91.5364987,76.8088212 91.9126934,73.5026489 90.6249501,70.7969412 L90.6249501,70.7969412 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-70)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M64.2768549,67.6065211 C67.0404388,67.6065211 69.442297,68.2142202 71.4824296,69.4296183 C74.014509,70.948866 76.1703938,73.1264543 77.9500839,75.9623832 C78.0513671,71.9399942 76.568292,68.677229 73.5008586,66.1740876 C72.5169649,65.3638222 71.3522083,64.6259019 70.006589,63.9603267 C62.612917,60.3720084 57.8815457,56.3496193 55.8124751,51.8931595 L43.506569,52.6093763 C41.8426311,54.5048186 40.120817,57.1020087 38.3411269,60.4009464 C36.5903748,63.6564772 36.1201315,67.7801494 36.9303969,72.7719631 C37.0606182,73.6835117 37.25595,74.5950603 37.5163925,75.5066089 C37.7189588,76.1866531 37.8708836,76.8594628 37.9721668,77.525038 C38.1457951,78.5089317 38.2470783,79.4928254 38.2760163,80.4767192 C38.2904853,80.7371616 38.2904853,80.9903696 38.2760163,81.236343 L38.2760163,82.082781 C38.2470783,82.2853473 38.2326092,82.4734447 38.2326092,82.647073 C38.1747331,83.0956128 38.1096225,83.536918 38.0372774,83.9709888 L39.0573437,86.7707452 L41.4664364,84.2748383 L42.8554628,86.966077 L45.4815909,84.4701702 L47.50002,87.4218513 L49.8874092,84.6872056 L50.7555507,78.6102149 C53.0416567,81.1278253 55.5086255,82.8134668 58.1564572,83.6671393 C54.9443335,76.8811664 54.6838911,72.2366092 57.3751298,69.7334678 C58.8075633,68.3878485 61.1081384,67.6788662 64.2768549,67.6065211 L64.2768549,67.6065211 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-71)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M71.4824296,69.4296183 C69.442297,68.2142202 67.0404388,67.6065211 64.2768549,67.6065211 C61.1081384,67.6788662 58.8075633,68.3878485 57.3751298,69.7334678 C54.6838911,72.2366092 54.9443335,76.8811664 58.1564572,83.6671393 C58.5905279,84.5497498 58.6845766,85.3455462 58.4386032,86.0545284 L58.4386032,87.6171832 L61.9979834,86.358378 L63.7125629,88.4419176 L66.9246866,86.966077 L69.2903722,88.8325813 L71.17858,87.3784443 L72.8497525,89.3534662 L73.9566329,88.376807 C76.5176504,83.6454357 77.8488007,79.5072945 77.9500839,75.9623832 C76.1703938,73.1264543 74.014509,70.948866 71.4824296,69.4296183 L71.4824296,69.4296183 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-72)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M67.6843104,42.6908594 C67.467275,42.473824 67.2574741,42.2350851 67.0549078,41.9746426 C65.2318106,40.3541118 61.9111693,39.0374305 57.0929838,38.0245987 C52.2313913,37.040705 50.2201968,36.0278732 51.0594002,34.9861034 C54.8647539,26.7098209 54.5247318,20.8932726 50.0393339,17.5364588 C45.1777414,14.7728749 40.7719232,15.0333174 36.8218793,18.3177861 C37.1980739,15.7857067 36.5397333,14.3098661 34.8468573,13.8902644 C31.5045124,15.7133616 29.0737162,18.9399542 27.5544685,23.5700423 C27.4097782,24.0764582 26.7442031,24.9880068 25.557743,26.3046881 C25.6590262,26.3046881 25.7458403,26.3119227 25.8181855,26.3263917 C26.5271677,26.4276749 27.250619,26.6302412 27.9885393,26.9340907 C28.0319463,26.9340907 28.0825879,26.9485598 28.140464,26.9774978 C28.2851543,27.0498429 28.4370791,27.1294226 28.5962383,27.2162367 C29.7248223,27.8239358 29.847809,28.5690906 28.9651985,29.4517012 C28.0536499,30.3632498 26.9178314,30.6815683 25.557743,30.4066568 C24.7474776,30.2764356 24.2410617,29.7193781 24.0384953,28.7354844 C23.9806192,28.532918 23.9372122,28.3375862 23.9082741,28.1494889 C23.9082741,28.0771438 23.9082741,28.0192676 23.9082741,27.9758606 C23.9082741,27.9469225 23.9082741,27.9179845 23.9082741,27.8890464 C23.9082741,27.8601084 23.9082741,27.8239358 23.9082741,27.7805287 C22.2877433,29.8495994 21.3400221,31.5569444 21.0651106,32.9025637 C20.7901991,34.219245 21.9549557,36.8670767 24.5593802,40.8460586 C27.1638048,44.8105716 28.8349772,47.6971422 29.5728975,49.5057703 L56.1163246,48.3988899 C60.2110588,48.3265448 64.067054,47.1979608 67.6843104,45.013138 L64.5372974,44.210107 C65.5501291,44.0654168 66.5991335,43.5590009 67.6843104,42.6908594 Z M29.4643799,21.5516133 C29.9129196,21.0162594 30.3035833,20.7268789 30.6363709,20.6834718 C30.9112824,20.6255957 30.947455,20.9656178 30.7448886,21.7035381 C30.6291364,22.1086708 30.5061497,22.4848654 30.3759285,22.8321221 C30.2746453,23.1215026 30.144424,23.4036486 29.9852648,23.67856 C29.8405745,24.0258166 29.6524772,24.3151972 29.4209728,24.5467016 C29.2907515,24.6479847 29.1749993,24.7347989 29.0737162,24.807144 C28.6975215,25.0965245 28.393672,25.1905732 28.1621676,25.08929 C27.9451322,24.9880068 27.843849,24.7854405 27.858318,24.4815909 C27.8872561,24.1777414 28.0391809,23.7581397 28.3140923,23.2227857 C28.6034728,22.6440247 28.986902,22.0869672 29.4643799,21.5516133 L29.4643799,21.5516133 Z M38.3411269,25.8706174 C38.5002862,25.2629183 38.8837154,24.7347989 39.4914144,24.2862591 C40.0701755,23.8087813 40.6995781,23.5700423 41.3796222,23.5700423 C41.9873213,23.5845114 42.392454,24.0258166 42.5950204,24.8939582 C42.7686487,25.5016572 42.8482283,26.0225421 42.8337593,26.4566129 C42.8048212,26.6591793 42.7614142,26.8617456 42.7035381,27.064312 C42.6022549,27.4694447 42.392454,27.7732942 42.0741355,27.9758606 C41.9149762,28.0482057 41.7485824,28.1205508 41.5749541,28.192896 C40.967255,28.3665243 40.359556,28.3665243 39.7518569,28.192896 C39.1441578,27.9903296 38.7100871,27.7009491 38.4496446,27.3247544 C38.2326092,26.9485598 38.1964367,26.4638474 38.3411269,25.8706174 L38.3411269,25.8706174 Z M30.7882957,41.063094 C28.5311277,41.7720763 26.997411,41.0992666 26.1871456,39.044665 L24.7981192,35.5938024 C23.5248449,34.9426963 22.989491,33.9588026 23.1920574,32.6421213 C23.2209954,34.233714 24.978982,35.318891 28.4660171,35.897652 C31.9385832,36.476413 35.0421891,36.5632271 37.7768349,36.1580944 C40.4825427,35.7529617 39.7373879,36.74409 35.5413705,39.1314791 C35.5124325,39.1314791 35.4834944,39.1459482 35.4545564,39.1748862 C35.4111493,39.1893552 35.3605077,39.2110588 35.3026316,39.2399968 C35.2013484,39.312342 35.0855962,39.3774526 34.955375,39.4353287 C33.9280742,39.9417446 32.5390477,40.484333 30.7882957,41.063094 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-73)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M24.7981192,35.5938024 L26.1871456,39.044665 C26.3463049,37.9884261 27.6629862,37.2722094 30.1371895,36.8960147 C27.8944906,36.7368554 26.1148005,36.3027847 24.7981192,35.5938024 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-74)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M26.1871456,39.044665 C26.997411,41.0992666 28.5311277,41.7720763 30.7882957,41.063094 C32.5390477,40.484333 33.9280742,39.9417446 34.955375,39.4353287 C35.0855962,39.3774526 35.2013484,39.312342 35.3026316,39.2399968 C35.3605077,39.2110588 35.4111493,39.1893552 35.4545564,39.1748862 C35.4834944,39.1459482 35.5124325,39.1314791 35.5413705,39.1314791 C36.0188483,38.8276296 36.3444014,38.5599526 36.5180297,38.3284482 C37.5887376,37.2432713 36.366105,36.7657935 32.8501318,36.8960147 C31.8807071,36.9104837 30.976393,36.9104837 30.1371895,36.8960147 C27.6629862,37.2722094 26.3463049,37.9884261 26.1871456,39.044665 L26.1871456,39.044665 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-75)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M39.4914144,24.2862591 C38.8837154,24.7347989 38.5002862,25.2629183 38.3411269,25.8706174 C38.1964367,26.4638474 38.2326092,26.9485598 38.4496446,27.3247544 C38.7100871,27.7009491 39.1441578,27.9903296 39.7518569,28.192896 C40.359556,28.3665243 40.967255,28.3665243 41.5749541,28.192896 C41.7485824,28.1205508 41.9149762,28.0482057 42.0741355,27.9758606 C41.0757727,26.8328076 40.7719232,26.1744669 41.1625869,26.0008386 C41.3072771,25.8995554 41.8643346,26.0514802 42.8337593,26.4566129 C42.8482283,26.0225421 42.7686487,25.5016572 42.5950204,24.8939582 C42.392454,24.0258166 41.9873213,23.5845114 41.3796222,23.5700423 C40.6995781,23.5700423 40.0701755,23.8087813 39.4914144,24.2862591 L39.4914144,24.2862591 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-76)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M30.6363709,20.6834718 C30.3035833,20.7268789 29.9129196,21.0162594 29.4643798,21.5516133 C28.986902,22.0869672 28.6034728,22.6440247 28.3140923,23.2227857 C28.0391808,23.7581397 27.8872561,24.1777414 27.858318,24.4815909 C27.843849,24.7854405 27.9451322,24.9880068 28.1621676,25.08929 C28.393672,25.1905732 28.6975215,25.0965245 29.0737162,24.807144 C29.1749993,24.7347989 29.2907515,24.6479847 29.4209728,24.5467016 L29.8116365,23.070861 C29.9563267,22.5933831 30.144424,22.5138035 30.3759284,22.8321221 C30.5061497,22.4848654 30.6291364,22.1086708 30.7448886,21.7035381 C30.9474549,20.9656178 30.9112824,20.6255957 30.6363709,20.6834718 L30.6363709,20.6834718 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-77)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M66.0999521,5.38247744 C65.9263238,5.32460134 65.7382265,5.29566329 65.5356601,5.29566329 C60.2689349,5.15097304 55.7256609,7.21280915 51.9058382,11.4811716 C51.4428294,12.0454636 50.9870551,12.6169901 50.5385153,13.1957511 C50.2780729,13.1523441 50.0320994,13.1017025 49.800595,13.0438264 C49.1205508,12.8701981 48.4188031,12.7182733 47.6953518,12.5880521 C46.8995554,12.4578309 46.0965245,12.3420786 45.2862591,12.2407955 C44.3313034,12.1395123 43.3980513,12.0816362 42.4865027,12.0671672 C41.0106621,12.0816362 39.6578082,12.233561 38.4279411,12.5229415 C38.1674986,12.5663485 37.9215252,12.6242246 37.6900208,12.6965698 C37.6466137,12.6965698 37.5887376,12.7255078 37.5163925,12.7833839 C37.1546668,12.8557291 36.8074102,12.9714813 36.4746226,13.1306405 L36.4529191,13.0872335 C35.8886271,13.3187379 35.3532732,13.5864148 34.8468573,13.8902644 C36.5397333,14.3098661 37.1980739,15.7857067 36.8218793,18.3177861 C40.7719232,15.0333174 45.1777414,14.7728749 50.0393339,17.5364588 C54.5247318,20.8932726 54.8647539,26.7098209 51.0594002,34.9861034 C50.2201968,36.0278732 52.2313913,37.040705 57.0929838,38.0245987 C61.9111693,39.0374305 65.2318106,40.3541118 67.0549078,41.9746426 C65.5790672,40.1081384 65.0364787,37.6918111 65.4271424,34.7256609 C65.6441778,32.1935815 65.7526955,30.8262586 65.7526955,30.6236922 C67.199598,21.8120558 67.9230493,14.3460387 67.9230493,8.22564093 C67.9519874,6.70639326 67.4455715,5.78037564 66.4038016,5.44758806 C66.3025185,5.40418098 66.2012353,5.38247744 66.0999521,5.38247744 L66.0999521,5.38247744 Z M63.3653063,7.0102428 C64.334731,6.85108352 64.8194434,7.14046403 64.8194434,7.87838432 C65.195638,11.4956407 64.334731,15.8146447 62.2367223,20.8353965 C61.3685808,22.9623433 60.6451295,22.7814805 60.0663685,20.2928081 C59.5020765,17.8186048 57.9321873,16.3789367 55.3567008,15.973804 C52.650993,15.5686713 51.6598648,14.9465032 52.383316,14.1072997 C56.3912361,9.80999921 60.0518995,7.44431356 63.3653063,7.0102428 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-78)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M2.46517804,35.2248419 C2.1613285,35.2248419 1.92258958,35.3333596 1.74896128,35.550395 C1.57533297,35.7529613 1.48851882,36.0061693 1.48851882,36.3100188 C1.48851882,36.5704613 1.58256749,36.8019657 1.77066482,37.004532 C1.97323117,37.1781603 2.22643912,37.2649745 2.53028865,37.2649745 L14.8361947,36.8526073 C15.1255752,36.8526073 15.3715487,36.7513241 15.574115,36.5487577 C15.7477433,36.3172533 15.8345575,36.0640454 15.8345575,35.7891339 C15.8345575,35.5142224 15.7332743,35.2754835 15.530708,35.0729172 C15.2992035,34.8992889 15.0459956,34.8124747 14.7710841,34.8124747 L2.46517804,35.2248419 Z M1.90088605,23.0274535 C1.59703651,22.9261704 1.31489052,22.9261704 1.05444806,23.0274535 C0.80847463,23.1866128 0.63484633,23.3891792 0.53356315,23.6351526 C0.43227997,23.8955951 0.43227997,24.148803 0.53356315,24.3947764 C0.6782534,24.6696879 0.88081976,24.8577852 1.14126221,24.9590684 L12.6007303,29.4517008 C12.8756418,29.5240459 13.1433188,29.5095769 13.4037612,29.4082937 C13.6497347,29.2780725 13.837832,29.0899752 13.9680532,28.8440017 C14.0403983,28.5835593 14.0186948,28.3158823 13.9029426,28.0409708 C13.8016594,27.7660593 13.6207966,27.592431 13.3603541,27.5200859 L1.90088605,23.0274535 Z M10.5605977,14.3677418 C10.3290933,14.1651755 10.0758854,14.0783613 9.8009739,14.1072994 C9.5115934,14.1072994 9.28008899,14.2085826 9.10646068,14.4111489 C8.87495628,14.6137153 8.7736731,14.8669232 8.80261115,15.1707728 C8.8315492,15.4456842 8.94730141,15.6844232 9.14986776,15.8869895 L18.1351325,24.2862587 C18.3376989,24.459887 18.5909068,24.5467012 18.8947564,24.5467012 C19.1841369,24.5177631 19.4301103,24.4020109 19.6326766,24.1994446 C19.806305,23.9968782 19.8931191,23.7581393 19.8931191,23.4832278 C19.8641811,23.2083163 19.7484289,22.9695774 19.5458625,22.7670111 L10.5605977,14.3677418 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-79)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M67.3243751,406.102289 C54.2588452,406.102289 43.1321646,406.507421 33.9443335,407.317687 C24.6552192,408.15689 20.0106621,409.155253 20.0106621,410.312775 C20.0106621,411.499235 24.6552192,412.526536 33.9443335,413.394677 C43.1321646,414.176005 54.2588452,414.566669 67.3243751,414.566669 C80.3609669,414.566669 91.509351,414.176005 100.769527,413.394677 C109.942889,412.526536 114.52957,411.499235 114.52957,410.312775 C114.52957,409.155253 109.942889,408.15689 100.769527,407.317687 C91.509351,406.507421 80.3609669,406.102289 67.3243751,406.102289 Z",
-                                id: "Shadow",
-                                "fill-opacity": "0.298039",
-                                fill: "#000000"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Male-Shadow",
-                                  transform: "translate(29.082741, 229.326971)",
-                                  fill: "#017FC9"
-                                }
-                              },
-                              [
-                                _c("polygon", {
-                                  attrs: {
-                                    id: "Path",
-                                    "fill-opacity": "0.298039",
-                                    points:
-                                      "111.035301 7.55283125 111.035301 15.5614368 111.035301 31.622055 125.337932 12.9353087 111.035301 6.53276496"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M36.0712803,24.7854405 C34.3060592,26.3046881 33.343869,27.1945332 33.1847097,27.4549757 L15.3444014,43.5372974 C11.7560831,47.1111466 8.02307457,55.9444866 4.14537577,70.0373174 C3.3640484,72.2510782 3.37851743,73.4954144 4.18878285,73.7703259 L3.73300855,76.0491974 C3.60278732,76.6279584 3.71853952,77.0692637 4.08026516,77.3731132 C3.34234486,78.0820955 2.74188031,79.261321 2.2788715,80.9107899 L0.49918138,86.3800815 C0.16639379,87.3350372 0.48471235,87.9789088 1.45413705,88.3116964 L7.42261002,90.2433113 C8.3775657,90.5760989 9.02143732,90.2577803 9.35422491,89.2883556 L9.50614967,88.8759884 C10.4466363,88.8036433 11.0760389,88.1091301 11.3943575,86.7924487 L12.0454636,83.2981791 C12.4071893,81.5763651 12.2914371,80.3971395 11.698207,79.7605024 C12.0309946,79.6302812 12.276968,79.261321 12.4361273,78.653622 L12.9136052,76.396454 C14.1868794,76.2662328 15.0767244,74.2912108 15.5831403,70.4713881 C16.0895562,66.5936893 18.5709941,60.5890438 23.0274539,52.4574515 L34.2264795,44.448846 C34.0239132,45.1578282 33.8285813,45.8668105 33.640484,46.5757927 C32.8157496,49.614288 31.9693116,52.6383143 31.1011701,55.6478716 C28.192896,65.6314991 28.3737588,71.6578482 31.6437585,73.7269188 C31.354378,75.2751045 30.9203072,76.8160557 30.3415462,78.3497724 C29.9653516,79.261321 30.1317454,79.9124272 30.8407276,80.3030909 C30.9709488,80.3464979 31.1084046,80.3971395 31.2530948,80.4550156 C30.5007055,83.6960773 29.9725861,87.3639752 29.6687365,91.4587094 C29.6108604,91.9361873 29.5674534,92.3774925 29.5385153,92.7826253 C28.9597543,102.476872 27.3826305,111.86727 24.807144,120.953818 C23.4181176,125.786472 21.8844009,130.49614 20.2059939,135.082821 C17.5002862,142.751404 14.4545564,150.101669 11.0688044,157.133616 C10.4611053,158.40689 9.80999921,159.651226 9.11548599,160.866624 C9.11548599,160.938969 9.09378245,161.011314 9.05037538,161.08366 C8.68864974,161.749235 8.34862764,162.400341 8.03030909,163.036978 C7.53836222,163.948527 7.03918085,164.860075 6.53276496,165.771624 L18.9905958,165.771624 C19.5259498,164.860075 20.0468347,163.948527 20.5532506,163.036978 C20.9005072,162.400341 21.2694673,161.749235 21.660131,161.08366 C21.7035381,161.011314 21.7397106,160.938969 21.7686487,160.866624 C22.4486929,159.651226 23.1287371,158.40689 23.8087813,157.133616 C26.2685156,152.503528 28.7282499,148.293041 31.1879842,144.502156 C31.5641789,143.894457 31.9403735,143.286758 32.3165682,142.679059 C32.4178514,142.476493 32.5336036,142.288396 32.6638248,142.114767 L52.1318984,113.249062 L65.3059461,125.511561 C68.5759458,128.882844 69.9939103,132.782246 69.5598395,137.209768 C68.8074502,145.138794 67.7078043,151.780076 66.2609017,157.133616 C65.9281141,158.40689 65.573623,159.651226 65.1974284,160.866624 L65.1974284,161.08366 C64.994862,161.749235 64.7922957,162.400341 64.5897293,163.036978 C64.3148178,163.948527 64.0399063,164.860075 63.7649949,165.771624 L75.1159453,165.771624 C75.4197948,164.860075 75.7381134,163.948527 76.0709009,163.036978 C76.2734673,162.400341 76.4832682,161.749235 76.7003035,161.08366 C76.7581796,161.011314 76.7871177,160.938969 76.7871177,160.866624 C77.2067194,159.651226 77.6118521,158.40689 78.0025158,157.133616 C79.7387989,151.591979 81.3810333,145.891183 82.929219,140.031228 C83.3054136,138.555387 83.6599047,137.057843 83.9926923,135.538595 C84.0505684,135.393905 84.086741,135.24198 84.10121,135.082821 C84.8680684,132.102202 84.8318958,129.382025 83.9926923,126.922291 C83.240303,124.99791 82.393865,123.008419 81.4533784,120.953818 C76.8232903,110.68081 70.0807244,99.2068725 61.2256809,86.5320063 L61.2256809,85.8809001 C62.0793534,85.7217409 62.5423622,85.215325 62.6147073,84.3616525 C62.9185569,82.8134668 63.1066542,80.9903696 63.1789993,78.8923609 C66.2464327,77.0692637 68.2214547,74.2116312 69.1040652,70.3194633 C70.0011448,66.3838884 70.5075607,62.397672 70.6233129,58.3608139 C70.7245961,54.2805487 70.9561005,50.5692437 71.3178261,47.2268988 C71.4480473,45.9825627 71.6723172,44.9986689 71.9906358,44.2752177 C72.5259897,42.9730054 73.3651932,42.4014789 74.5082462,42.5606382 L92.9996606,45.9246866 C98.2374478,47.0388015 102.07174,45.9680936 104.502536,42.7125629 L111.252336,33.7055946 L111.035301,32.2948646 L111.035301,31.622055 L111.035301,15.5614368 C110.803796,17.2109057 110.45654,18.5492905 109.993531,19.5765913 C109.400301,19.3016799 108.872181,19.4825427 108.409173,20.1191798 L107.237182,22.0942018 C106.36904,21.9205735 105.479195,22.4631619 104.567646,23.7219671 L97.5139966,32.6855283 C96.3998816,34.0745548 95.0832003,34.5809707 93.5639526,34.204776 L69.9939103,27.8673429 C70.2109457,25.9140245 69.863689,24.213914 68.9521404,22.7670114 C69.2125829,22.8248875 69.4802599,22.8899982 69.7551714,22.9623433 C72.8660118,23.5700423 74.7180471,22.0869672 75.3112771,18.513118 L42.4304169,18.513118 C42.4014789,18.5709941 42.3725408,18.6361047 42.3436028,18.7084498 C42.2423196,19.2438038 42.1410364,19.7646887 42.0397532,20.2711046 L42.0397532,20.3145116 C41.909532,21.2694673 41.8588904,22.1810159 41.8878285,23.0491574 C39.2544659,23.1504406 37.3156165,23.7292016 36.0712803,24.7854405 L36.0712803,24.7854405 Z M103.634394,3.95004393 C103.938244,4.63008812 104.430191,5.09309693 105.110235,5.33907037 L111.035301,7.55283125 L111.035301,6.53276496 L111.035301,1.88820781 L106.976739,0.36896015 C106.282226,0.12298672 105.594947,0.15192477 104.914903,0.4557743 C104.263797,0.75962383 103.808023,1.2515707 103.54758,1.93161489 C103.301607,2.61165908 103.330545,3.28446876 103.634394,3.95004393 L103.634394,3.95004393 Z",
-                                    id: "Shape",
-                                    "fill-opacity": "0.498039"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Male",
-                                  transform: "translate(21.703538, 206.755291)"
-                                }
-                              },
-                              [
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M86.4668957,201.842904 L86.4668957,201.821201 C85.7579134,202.240802 84.4050596,202.450603 82.4083341,202.450603 L66.4996406,202.450603 C64.7778266,202.479541 63.7794639,202.276975 63.5045524,201.842904 C63.4756143,202.94255 64.1701276,203.499607 65.588092,203.514076 L84.3182454,203.514076 C85.9098382,203.412793 86.626055,202.855736 86.4668957,201.842904 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-80)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M25.3497325,203.514076 C26.9992014,203.412793 27.7081836,202.855736 27.4766792,201.842904 C26.767697,202.276975 25.4220776,202.479541 23.4398211,202.450603 L7.53112771,202.450603 C5.79484466,202.479541 4.83988899,202.276975 4.66626069,201.842904 C4.53603946,202.94255 5.20161462,203.499607 6.66298619,203.514076 L25.3497325,203.514076 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-81)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M13.2825653,195.093104 L12.5229415,196.981312 C11.5535168,198.558435 10.6636717,198.956333 9.85340628,198.175006 C8.79716743,197.07536 7.73369407,196.489365 6.66298619,196.41702 C5.85272077,196.880028 5.22331816,198.312462 4.77477838,200.71432 C4.77477838,200.85901 4.74584032,201.025404 4.68796422,201.213501 C4.6734952,201.459475 4.66626069,201.669276 4.66626069,201.842904 C4.83988899,202.276975 5.79484466,202.479541 7.53112771,202.450603 L23.4398211,202.450603 C25.4220776,202.479541 26.767697,202.276975 27.4766792,201.842904 C27.346458,201.090515 27.0570775,200.446643 26.6085377,199.911289 C26.3191572,199.665316 25.964666,199.44828 25.5450643,199.260183 C24.4020113,198.883988 23.2444893,198.457152 22.0724982,197.979674 C19.656171,197.01025 17.3411269,195.845493 15.127366,194.485405 C14.8235165,195.194387 14.2085829,195.396953 13.2825653,195.093104 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-82)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M12.5229415,196.981312 L13.2825653,195.093104 C11.1556186,194.586688 9.12995501,194.02963 7.20557464,193.421931 L6.66298619,196.41702 C7.73369407,196.489365 8.79716743,197.07536 9.85340628,198.175006 C10.6636717,198.956333 11.5535168,198.558435 12.5229415,196.981312 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-83)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M24.5901086,143.525497 C23.2010822,148.358152 21.6673655,153.067819 19.9889586,157.654501 C17.2832508,165.323084 14.237521,172.673349 10.851769,179.705295 C10.24407,180.978569 9.59296383,182.222906 8.89845061,183.438304 C8.89845061,183.510649 8.87674707,183.582994 8.83333999,183.655339 C8.47161436,184.320914 8.13159226,184.97202 7.81327371,185.608658 C7.10429146,186.997684 6.3301986,188.365007 5.49099513,189.710626 L4.57944653,191.186467 C4.43475628,191.417971 4.36241115,191.635007 4.36241115,191.837573 C4.30453505,192.18483 4.46369433,192.438038 4.83988899,192.597197 C5.60674733,192.84317 6.39530922,193.118082 7.20557464,193.421931 C9.12995501,194.02963 11.1556186,194.586688 13.2825653,195.093104 C14.2085829,195.396953 14.8235165,195.194387 15.127366,194.485405 C16.9070562,191.548192 18.6433392,188.589277 20.3362152,185.608658 C20.6979408,184.97202 21.066901,184.320914 21.4430956,183.655339 C21.4865027,183.582994 21.5226753,183.510649 21.5516133,183.438304 C22.2316575,182.222906 22.9117017,180.978569 23.5917459,179.705295 C26.0514802,175.075207 28.5112145,170.864721 30.9709488,167.073836 C31.3471435,166.466137 31.7233381,165.858438 32.0995328,165.250739 C32.200816,165.048173 32.3165682,164.860075 32.4467894,164.686447 L51.9365666,135.820741 C46.6843104,130.915742 40.9979834,126.842711 34.8775857,123.601649 C30.9998869,121.474703 29.1912587,118.284282 29.4517012,114.030389 C29.3938251,114.507867 29.3576525,114.949172 29.3431835,115.354305 C28.7499534,125.048552 27.1655952,134.438949 24.5901086,143.525497 L24.5901086,143.525497 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-84)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M71.4480473,196.981312 L72.7719631,193.682374 C72.5404587,193.841533 72.2366092,193.88494 71.8604146,193.812595 L66.2391982,192.662307 L65.5663885,196.41702 C66.5792203,196.489365 67.6499282,197.07536 68.7785121,198.175006 C69.5887776,198.956333 70.4786226,198.558435 71.4480473,196.981312 L71.4480473,196.981312 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-85)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M65.5663885,196.41702 C64.7995302,196.822152 64.2135346,197.986909 63.8084019,199.911289 C63.7360568,200.316422 63.6492426,200.750493 63.5479595,201.213501 C63.5190214,201.459475 63.5045524,201.669276 63.5045524,201.842904 C63.7794639,202.276975 64.7778266,202.479541 66.4996406,202.450603 L82.4083341,202.450603 C84.4050596,202.450603 85.7579134,202.240802 86.4668957,201.821201 C86.3656125,201.459475 86.2426258,201.141156 86.0979355,200.866245 C85.7651479,200.099386 85.2225595,199.564033 84.4701702,199.260183 C83.2981791,198.883988 82.1334226,198.457152 80.9759005,197.979674 C78.0820955,196.807683 75.3474497,195.37525 72.7719631,193.682374 L71.4480473,196.981312 C70.4786226,198.558435 69.5887776,198.956333 68.7785121,198.175006 C67.6499282,197.07536 66.5792203,196.489365 65.5663885,196.41702 L65.5663885,196.41702 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-86)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M128.246206,36.0061697 C129.259038,34.8197096 129.67864,33.4885592 129.505012,32.0127187 L128.919016,31.5352408 C128.644105,31.2458603 128.333021,31.0288249 127.985764,30.8841347 L121.452999,28.4533384 C121.424061,28.6993118 121.322778,28.9235817 121.14915,29.1261481 C121.062335,29.2274313 121.011694,29.3214799 120.997225,29.4082941 L121.409592,29.4082941 C121.481937,29.4806392 121.597689,29.5819224 121.756849,29.7121436 C122.075167,29.91471 122.263264,30.240263 122.321141,30.6888028 C122.422424,31.0649975 122.342844,31.4339576 122.082402,31.7956833 C121.966649,31.9693116 121.843663,32.1212363 121.713441,32.2514576 C121.554282,32.2803956 121.43853,32.3455062 121.366185,32.4467894 C121.843663,32.6638248 122.096871,33.0400195 122.125809,33.5753734 C122.154747,33.8502849 122.104105,34.0890238 121.973884,34.2915902 L126.11926,35.8542449 C126.466516,35.9989351 126.842711,36.0495767 127.247844,36.0061697 L128.246206,36.0061697 Z M103.417359,26.5217235 C103.721208,27.2017677 104.213155,27.6647765 104.893199,27.91075 L111.621296,30.4283604 C111.621296,30.3270772 111.628531,30.225794 111.643,30.1245108 C111.93238,28.9380508 112.489438,28.0988473 113.314172,27.6069004 L117.611473,26.9992014 L106.759704,22.9406397 C106.065191,22.6946663 105.377912,22.7236044 104.697868,23.0274539 C104.046762,23.3313034 103.590987,23.8232503 103.330545,24.5032945 C103.084571,25.1833387 103.113509,25.8561484 103.417359,26.5217235 L103.417359,26.5217235 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-87)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M132.239657,34.4218114 L129.505012,32.0127187 C129.67864,33.4885592 129.259038,34.8197096 128.246206,36.0061697 L131.631958,36.0061697 C132.254126,35.9772316 132.615852,35.8108378 132.717135,35.5069883 C132.847357,35.2031388 132.688197,34.8414131 132.239657,34.4218114 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-88)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M69.3862112,32.4467894 C69.0534236,32.3455062 68.7640431,32.215285 68.5180697,32.0561257 C68.0405919,31.7812142 67.8669635,32.2659266 67.9971848,33.5102628 C68.141875,35.1018556 70.5654368,35.7963688 75.26787,35.5938024 C75.1955249,35.318891 74.095879,35.0873865 71.9689322,34.8992892 C69.8419855,34.7256609 68.9810785,33.908161 69.3862112,32.4467894 Z",
-                                    id: "Path",
-                                    fill: "#212F4C"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M75.2461665,36.8092006 L75.26787,35.5938024 C70.5654368,35.7963688 68.141875,35.1018556 67.9971848,33.5102628 C67.8669635,32.2659266 68.0405919,31.7812142 68.5180697,32.0561257 C68.7640431,32.215285 69.0534236,32.3455062 69.3862112,32.4467894 C69.863689,32.5625416 70.4207465,32.6493558 71.0573836,32.7072319 L74.8120957,32.7072319 C75.3185116,32.7361699 75.521078,32.1501744 75.4197948,30.9492453 L67.7150388,30.9492453 C66.4996406,31.0071214 66.4489991,32.8591566 67.563114,36.505351 C68.4746626,38.9795544 69.3862112,39.4932048 70.2977598,38.0463022 C70.8620518,37.2215678 71.8025384,36.8092006 73.1192198,36.8092006 L75.2461665,36.8092006 Z M75.9623832,13.673229 C73.9367197,13.9047334 71.4552818,13.969844 68.5180697,13.8685608 C63.555194,14.1290033 61.2546189,17.8764809 61.6163446,25.1109935 C61.8189109,27.8890464 64.0543754,29.2708383 68.3227378,29.2564818 L75.4197948,29.2564818 L75.7019408,22.1810159 L75.9623832,13.673229 Z M73.1409233,22.9406397 C73.3290206,23.099799 73.4230693,23.2806618 73.4230693,23.4832282 C73.4230693,23.6568565 73.3579587,23.8087813 73.2277374,23.9390025 C73.1987994,23.9534715 73.1698613,23.9896441 73.1409233,24.0475202 C73.0396401,24.1198653 72.9311224,24.1849759 72.8153702,24.242852 C72.7574941,24.242852 72.6923835,24.242852 72.6200384,24.242852 L70.6884235,24.242852 C70.4858571,24.242852 70.3194633,24.1777414 70.1892421,24.0475202 C70.0156138,23.8883609 69.9287997,23.7002636 69.9287997,23.4832282 C69.9287997,23.2806618 70.0156138,23.099799 70.1892421,22.9406397 C70.3194633,22.7959495 70.4858571,22.7236044 70.6884235,22.7236044 L72.6200384,22.7236044 C72.8226047,22.7236044 72.996233,22.7959495 73.1409233,22.9406397 L73.1409233,22.9406397 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-89)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M108.192137,42.6908594 L107.020146,44.6658813 L114.811716,49.2236243 L115.983707,47.3571201 C116.562468,46.6191998 116.497358,46.0476733 115.788376,45.6425406 L115.723265,45.620837 L109.798199,42.1482709 C109.1905,41.8733595 108.655146,42.0542223 108.192137,42.6908594 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-90)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M45.0999521,105.63112 C38.4152624,104.111872 33.9298645,103.294372 31.6437585,103.17862 C31.4411922,103.17862 31.2386258,103.127978 31.0360594,103.026695 C30.2836701,106.267757 29.7555507,109.935655 29.4517012,114.030389 C29.1912587,118.284282 30.9998869,121.474703 34.8775857,123.601649 C40.9979834,126.842711 46.6843104,130.915742 51.9365666,135.820741 L65.1106142,148.08324 C68.3661449,151.454523 69.7768749,155.353926 69.3428041,159.781447 C68.5904148,167.710473 67.4907689,174.351756 66.0438663,179.705295 C65.7255478,180.978569 65.3710567,182.222906 64.980393,183.438304 L64.980393,183.655339 C64.7778266,184.320914 64.5752603,184.97202 64.3726939,185.608658 C64.0254373,186.737242 63.6709462,187.887529 63.3092206,189.05952 C63.1645303,189.50806 63.0415436,189.949365 62.9402604,190.383436 C62.5785348,191.251577 62.9185569,191.837573 63.9603267,192.141423 L66.2391982,192.662307 L71.8604146,193.812595 C72.2366092,193.88494 72.5404587,193.841533 72.7719631,193.682374 C73.0179366,193.537683 73.1553923,193.298945 73.1843304,192.966157 L73.1843304,192.92275 C73.6907463,191.663945 74.1754586,190.376201 74.6384674,189.05952 C75.0146621,187.887529 75.4197948,186.737242 75.8538656,185.608658 C76.0564319,184.97202 76.2662328,184.320914 76.4832682,183.655339 C76.5411443,183.582994 76.5700823,183.510649 76.5700823,183.438304 C77.0041531,182.222906 77.4092858,180.978569 77.7854804,179.705295 C79.5362325,174.163659 81.1784669,168.462863 82.7121836,162.602907 C83.1028473,161.127067 83.4573384,159.629523 83.775657,158.110275 C83.8335331,157.965585 83.8769401,157.81366 83.9058782,157.654501 C84.6582675,154.673881 84.6148604,151.953705 83.775657,149.49397 C83.0232676,147.56959 82.1768296,145.580099 81.236343,143.525497 C76.6062549,133.252489 69.863689,121.778552 61.0086455,109.103686 L61.0086455,108.45258 C60.9507694,108.45258 60.8711898,108.474283 60.7699066,108.51769 C60.4949951,108.575566 60.154973,108.575566 59.7498403,108.51769 C54.7869646,107.794239 49.9036685,106.832049 45.0999521,105.63112 L45.0999521,105.63112 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-91)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M30.1245108,100.921452 C29.7483162,101.833001 29.91471,102.484107 30.6236922,102.87477 C30.7539134,102.918178 30.8913692,102.968819 31.0360594,103.026695 C31.2386258,103.127978 31.4411922,103.17862 31.6437585,103.17862 C33.9298645,103.294372 38.4152624,104.111872 45.0999521,105.63112 C49.9036685,106.832049 54.7869646,107.794239 59.7498403,108.51769 C60.154973,108.575566 60.4949951,108.575566 60.7699066,108.51769 C60.8711898,108.474283 60.9507694,108.45258 61.0086455,108.45258 C61.862318,108.29342 62.3253268,107.787005 62.397672,106.933332 C62.7015215,105.385146 62.8968533,103.562049 62.9836675,101.46404 C52.8264117,100.292049 44.5718327,98.7583327 38.2199305,96.8628904 C35.4563467,95.9079347 33.1919442,95.7198374 31.4267231,96.2985984 C31.1518116,97.8467841 30.7177409,99.3877353 30.1245108,100.921452 L30.1245108,100.921452 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-92)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M1.0851769,106.477558 L0.282146,108.951761 C-0.03617256,109.906717 0.282146,110.550588 1.23710167,110.883376 L7.20557464,112.814991 C8.16053031,113.147778 8.80440194,112.82946 9.13718953,111.860035 L9.28911429,111.447668 L9.94022044,109.472646 C10.0849107,108.995168 10.0849107,108.590035 9.94022044,108.257248 C9.75212311,107.953398 9.41933552,107.714659 8.94185768,107.541031 L2.99508825,105.609416 C2.0546016,105.305567 1.41796449,105.594947 1.0851769,106.477558 L1.0851769,106.477558 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-93)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M11.4811716,102.332182 C11.2641363,102.36112 11.0253973,102.339417 10.7649549,102.267071 L4.16707931,100.140125 C4.00792003,100.082249 3.90663685,100.017138 3.86322978,99.9447928 C3.12530948,100.653775 2.53207944,101.833001 2.08353965,103.48247 L1.0851769,106.477558 C1.41796449,105.594947 2.0546016,105.305567 2.99508825,105.609416 L8.94185768,107.541031 C9.41933552,107.714659 9.75212311,107.953398 9.94022044,108.257248 C10.0849107,108.590035 10.0849107,108.995168 9.94022044,109.472646 L9.28911429,111.447668 C10.2296009,111.375323 10.8590035,110.68081 11.1773221,109.364128 L11.8284282,105.869859 C12.1901539,104.148045 12.0744017,102.968819 11.4811716,102.332182 L11.4811716,102.332182 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-94)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M11.4811716,102.332182 C11.8139592,102.201961 12.0599327,101.833001 12.2190919,101.225302 L12.6965698,98.9681336 L3.97174747,96.3420055 L3.51597317,98.620877 C3.38575194,99.199638 3.50150414,99.6409433 3.86322978,99.9447928 C3.90663685,100.017138 4.00792003,100.082249 4.16707931,100.140125 L10.7649549,102.267071 C11.0253973,102.339417 11.2641363,102.36112 11.4811716,102.332182 L11.4811716,102.332182 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-95)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M39.1314791,45.9246866 C38.8999747,46.6481378 38.7118774,47.3643546 38.5671872,48.0733368 C37.1781607,54.425239 35.658913,60.7409685 34.0094442,67.0205256 C33.8068778,67.7295078 33.6187805,68.43849 33.4451522,69.1474723 C32.6059487,72.1859676 31.7522762,75.2099939 30.8841347,78.2195512 C27.9758606,88.2031787 28.1567234,94.2295278 31.4267231,96.2985984 C33.1919442,95.7198374 35.4563467,95.9079347 38.2199305,96.8628904 C44.5718327,98.7583327 52.8264117,100.292049 62.9836675,101.46404 C66.0366318,99.6409433 68.0044193,96.7833108 68.8870298,92.8911429 C69.7841094,88.955568 70.2905253,84.9693515 70.4062775,80.9324935 C70.5075607,76.8522283 70.7390651,73.1409233 71.1007907,69.7985784 C71.2310119,68.5542423 71.4552818,67.5703485 71.7736004,66.8468973 C72.3089543,65.544685 73.1481578,64.9731585 74.2912108,65.1323177 L92.7826253,68.4963662 C98.0204124,69.6104811 101.854704,68.5397732 104.2855,65.2842425 L114.312535,51.871456 C115.166208,50.5547747 115.332601,49.6721641 114.811716,49.2236243 L107.020146,44.6658813 C106.152005,44.492253 105.26216,45.0348415 104.350611,46.2936467 L97.2969612,55.2572079 C96.1828462,56.6462344 94.8661649,57.1526503 93.3469172,56.7764556 L69.7768749,50.4390225 C68.8653263,50.2075181 68.0188883,50.0772968 67.2375609,50.0483588 C66.5430477,50.0483588 65.9064106,50.1279384 65.3276496,50.2870977 C64.6765434,50.460726 64.0833134,50.728403 63.5479595,51.0901286 C63.4900834,51.1045976 63.4394418,51.1263012 63.3960347,51.1552392 C62.5857693,51.7050622 61.7755039,52.2114781 60.9652384,52.6744869 C54.8593097,56.0457698 49.1657482,55.8576725 43.884554,52.1101949 C43.6241115,51.8786905 43.4070761,51.5965445 43.2334478,51.2637569 C43.0019434,50.9454384 42.7993771,50.5837127 42.6257488,50.17858 C42.4665895,49.8747305 42.3363683,49.5419429 42.2350851,49.1802173 C42.0903948,48.7027394 41.9818771,48.1963235 41.909532,47.6609696 C41.8082488,47.2847749 41.7286692,46.8290006 41.6707931,46.2936467 C41.6707931,46.1200184 41.6707931,45.9463901 41.6707931,45.7727618 L39.1314791,45.9246866 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-96)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M35.8759484,47.3571201 C34.0962583,48.8763677 33.1340681,49.7662128 32.9893779,50.0266553 L15.127366,66.108977 C11.5390477,69.6828262 7.80603919,78.5161662 3.92834039,92.6089969 C3.14701302,94.8227578 3.16148205,96.067094 3.97174747,96.3420055 L12.6965698,98.9681336 C13.969844,98.8379124 14.8596891,96.8628904 15.366105,93.0430677 C15.8725208,89.1653689 18.3539587,83.1607234 22.8104185,75.0291311 L34.0094442,67.0205256 C35.658913,60.7409685 37.1781607,54.425239 38.5671872,48.0733368 C38.7118774,47.3643546 38.8999747,46.6481378 39.1314791,45.9246866 L41.6707931,45.7727618 C41.6707931,45.7148857 41.6707931,45.6642441 41.6707931,45.620837 C39.0374305,45.7221202 37.1058156,46.3008812 35.8759484,47.3571201 L35.8759484,47.3571201 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-97)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M47.0966776,35.897652 C46.2430051,35.9699971 45.5484919,36.2304396 45.013138,36.6789793 C43.5951735,37.8799084 42.6329833,39.4136251 42.1265674,41.2801294 C42.0252842,41.8154833 41.924001,42.3363683 41.8227179,42.8427842 L41.8227179,42.8861912 C41.6924966,43.8411469 41.641855,44.7526955 41.6707931,45.620837 L41.6707931,45.7727618 L41.6707931,46.2936467 C41.7286692,46.8290006 41.8082488,47.2847749 41.909532,47.6609696 C41.9818771,48.1963235 42.0903948,48.7027394 42.2350851,49.1802173 C42.3363683,49.5419429 42.4665895,49.8747305 42.6257488,50.17858 C42.7993771,50.5837127 43.0019434,50.9454384 43.2334478,51.2637569 C43.4070761,51.5965445 43.6241115,51.8786905 43.884554,52.1101949 C49.1657482,55.8576725 54.8593097,56.0457698 60.9652384,52.6744869 C61.7755039,52.2114781 62.5857693,51.7050622 63.3960347,51.1552392 C63.4394418,51.1263012 63.4900834,51.1045976 63.5479595,51.0901286 C64.0833134,50.728403 64.6765434,50.460726 65.3276496,50.2870977 C65.9064106,50.1279384 66.5430477,50.0483588 67.2375609,50.0483588 C68.0188883,50.0772968 68.8653263,50.2075181 69.7768749,50.4390225 C69.9939103,48.485704 69.6466537,46.7855936 68.7351051,45.338691 C68.4167865,44.7888681 67.8886671,44.210107 67.1507468,43.602408 C66.702207,43.2262133 66.1740876,42.8210806 65.5663885,42.3870099 C64.5535567,41.7069657 63.2947515,41.0124524 61.7899729,40.3034702 C61.1822738,40.0140897 60.5528712,39.7174747 59.9017651,39.4136251 C59.1204377,39.0663685 58.2957033,38.7046429 57.4275617,38.3284482 C56.7764556,38.0969438 56.132584,37.8437359 55.4959468,37.5688244 C54.6278053,37.2360368 53.8175399,36.9538908 53.0651506,36.7223864 C52.4574515,36.5198201 51.885925,36.3534263 51.3505711,36.223205 C49.6287571,35.8470104 48.2107926,35.7384927 47.0966776,35.897652 L47.0966776,35.897652 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-98)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M117.611473,26.9992014 L113.314172,27.6069004 C112.489438,28.0988473 111.93238,28.9380508 111.643,30.1245108 C111.628531,30.225794 111.621296,30.3270772 111.621296,30.4283604 C111.317447,32.8012805 111.085942,35.065683 110.926783,37.2215678 C110.695279,39.2906384 110.319084,40.9328728 109.798199,42.1482709 L115.723265,45.620837 C117.213575,45.0854831 118.110654,44.2607486 118.414504,43.1466337 C118.457911,42.8861912 118.494083,42.6329833 118.523021,42.3870099 C118.653243,40.5639127 118.971561,38.8565677 119.477977,37.2649749 C119.926517,37.2649749 120.288242,37.1998643 120.563154,37.069643 C120.953818,37.0117669 121.257667,36.8236696 121.474703,36.505351 C121.706207,36.1146873 121.836428,35.7963688 121.865366,35.5503954 C121.735145,35.2754839 121.568751,35.036745 121.366185,34.8341786 C121.626627,34.6750193 121.829194,34.4941565 121.973884,34.2915902 C122.104105,34.0890238 122.154747,33.8502849 122.125809,33.5753734 C122.096871,33.0400195 121.843663,32.6638248 121.366185,32.4467894 C121.43853,32.3455062 121.554282,32.2803956 121.713441,32.2514576 C121.843663,32.1212363 121.966649,31.9693116 122.082402,31.7956833 C122.342844,31.4339576 122.422424,31.0649975 122.321141,30.6888028 C122.263264,30.240263 122.075167,29.91471 121.756849,29.7121436 C121.597689,29.5819224 121.481937,29.4806392 121.409592,29.4082941 C121.235964,29.4082941 121.098508,29.4082941 120.997225,29.4082941 C121.011694,29.3214799 121.062335,29.2274313 121.14915,29.1261481 C121.322778,28.9235817 121.424061,28.6993118 121.452999,28.4533384 C121.467468,28.3231172 121.467468,28.192896 121.452999,28.0626747 C121.395123,27.5851969 121.178088,27.2307058 120.801893,26.9992014 C120.54145,26.8255731 120.259304,26.7170554 119.955455,26.6736483 L117.611473,26.9992014 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-99)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M73.4230693,23.4832282 C73.4230693,23.2806618 73.3290206,23.099799 73.1409233,22.9406397 C72.996233,22.7959495 72.8226047,22.7236044 72.6200384,22.7236044 L70.6884235,22.7236044 C70.4858571,22.7236044 70.3194633,22.7959495 70.1892421,22.9406397 C70.0156138,23.099799 69.9287997,23.2806618 69.9287997,23.4832282 C69.9287997,23.7002636 70.0156138,23.8883609 70.1892421,24.0475202 C70.3194633,24.1777414 70.4858571,24.242852 70.6884235,24.242852 L72.6200384,24.242852 L72.8153702,24.242852 C72.9311224,24.1849759 73.0396401,24.1198653 73.1409233,24.0475202 C73.1698613,23.9896441 73.1987994,23.9534715 73.2277374,23.9390025 C73.3579587,23.8087813 73.4230693,23.6568565 73.4230693,23.4832282 Z",
-                                    id: "Path",
-                                    fill: "#000000"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M77.9808123,26.0659492 L75.7019408,22.1810159 L75.4197948,29.2563693 C78.0531574,28.6920773 78.9068299,27.628604 77.9808123,26.0659492 L77.9808123,26.0659492 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-100)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M55.1920973,20.8571001 C55.7419203,20.8571001 56.3134468,21.1609496 56.9066768,21.7686487 C57.6880042,22.5499761 58.1293095,23.664091 58.2305926,25.1109935 L58.2305926,25.4148431 C58.4765661,31.8680284 59.0336236,36.5342891 59.9017651,39.4136251 C60.5528712,39.7174747 61.1822738,40.0140897 61.7899729,40.3034702 C63.2947515,41.0124524 64.5535567,41.7069657 65.5663885,42.3870099 C66.1740876,42.8210806 66.702207,43.2262133 67.1507468,43.602408 C67.8886671,44.210107 68.4167865,44.7888681 68.7351051,45.338691 C68.9955475,45.3965671 69.2632245,45.4616777 69.538136,45.5340229 C73.6907463,46.3442883 75.5934231,43.4360142 75.2461665,36.8092006 L73.1192198,36.8092006 C71.8025384,36.8092006 70.8620518,37.2215678 70.2977598,38.0463022 C69.3862112,39.4932048 68.4746626,38.9795544 67.563114,36.505351 C66.4489991,32.8591566 66.4996406,31.0071214 67.7150388,30.9492453 L75.4197948,30.9492453 L75.4197948,29.2563693 L68.3227378,29.2563693 C64.0543754,29.2708383 61.8189109,27.8890464 61.6163446,25.1109935 C61.2546189,17.8764809 63.555194,14.1290033 68.5180697,13.8685608 C60.2851942,13.6225874 55.018469,14.2592245 52.717894,15.7784722 C50.4173189,17.2977198 49.9760137,20.9873213 51.3939782,26.8472766 C52.3344648,29.2057277 52.9132258,31.5280063 53.1302612,33.8141123 C54.6061018,33.654953 55.3946637,31.9910151 55.4959468,28.8222986 C55.4670088,28.8222986 55.4308362,28.815064 55.3874292,28.800595 C54.4180045,28.7137809 53.59327,28.2941791 52.9132258,27.5417898 C52.2331816,26.7025863 51.9148631,25.7259271 51.9582701,24.6118122 C51.9582701,23.5555733 52.2476506,22.6584937 52.8264117,21.9205735 C53.3907037,21.1537151 54.1792655,20.799224 55.1920973,20.8571001 L55.1920973,20.8571001 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-101)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M56.9066768,21.7686487 C56.3134468,21.1609496 55.7419203,20.8571001 55.1920973,20.8571001 C54.1792655,20.799224 53.3907037,21.1537151 52.8264117,21.9205735 C52.2476506,22.6584937 51.9582701,23.5555733 51.9582701,24.6118122 C51.9148631,25.7259271 52.2331816,26.7025863 52.9132258,27.5417898 C53.59327,28.2941791 54.4180045,28.7137809 55.3874292,28.800595 C55.4308362,28.815064 55.4670088,28.8222986 55.4959468,28.8222986 C55.3946637,31.9910151 54.6061018,33.654953 53.1302612,33.8141123 C53.1591992,34.4652185 53.1519647,35.318891 53.1085577,36.3751298 C53.1085577,36.505351 53.0940886,36.6211032 53.0651506,36.7223864 C53.8175399,36.9538908 54.6278053,37.2360368 55.4959468,37.5688244 C56.132584,37.8437359 56.7764556,38.0969438 57.4275617,38.3284482 C58.2957033,38.7046429 59.1204377,39.0663685 59.9017651,39.4136251 C59.0336236,36.5342891 58.4765661,31.8680284 58.2305926,25.4148431 C58.2305926,25.3135599 58.2305926,25.2122767 58.2305926,25.1109935 C58.1293095,23.664091 57.6880042,22.5499761 56.9066768,21.7686487 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-102)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M68.2142202,0.282146 C75.1014762,3.97174747 74.4431356,5.49099513 66.2391982,4.83988899 C65.2553045,4.70966776 64.2569417,4.60838458 63.2441099,4.53603946 C60.7120305,4.34794213 58.3318758,4.34794213 56.1036459,4.53603946 C52.2114781,4.91223412 49.6576951,6.56893752 48.442297,9.50614967 C47.5018103,11.8356628 47.3715891,14.9609722 48.0516333,18.8820781 C48.1239784,19.3306179 48.2541996,19.8080957 48.442297,20.3145116 C48.9921199,22.1231398 49.9760137,24.3007281 51.3939782,26.8472766 C49.9760137,20.9873213 50.4173189,17.2977198 52.717894,15.7784722 C55.018469,14.2592245 60.2851942,13.6225874 68.5180697,13.8685608 C71.4552818,13.969844 73.9367197,13.9047334 75.9623832,13.673229 C77.3803477,13.4996007 78.5957459,13.2753308 79.6085776,13.0004193 C80.5924714,12.7399768 81.4027368,12.4505963 82.0393739,12.1322778 C84.1807897,11.0181628 84.3182454,9.41933552 82.4517411,7.33579587 C82.3215199,7.16216756 82.1840642,6.99577377 82.0393739,6.83661449 C81.6631792,6.46041983 81.2580465,6.08422517 80.8239758,5.70803051 L80.7805687,5.66462344 C80.5056572,5.43311903 80.2018077,5.19438011 79.8690201,4.94840668 C76.989684,2.82145995 73.1047507,1.26603972 68.2142202,0.282146 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-103)"
-                                  }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M486.766952,406.102289 C477.550183,406.102289 469.700737,406.507421 463.218613,407.317687 C456.664145,408.15689 453.38691,409.155253 453.38691,410.312775 C453.38691,411.499235 456.664145,412.526536 463.218613,413.394677 C469.700737,414.176005 477.550183,414.566669 486.766952,414.566669 C495.969252,414.566669 503.840402,414.176005 510.380401,413.394677 C516.848056,412.526536 520.081883,411.499235 520.081883,410.312775 C520.081883,409.155253 516.848056,408.15689 510.380401,407.317687 C503.840402,406.507421 495.969252,406.102289 486.766952,406.102289 Z",
-                                id: "Shadow",
-                                "fill-opacity": "0.298039",
-                                fill: "#000000"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M480.841886,241.003475 C479.503049,242.184509 478.410637,243.631411 477.564651,245.344182 C476.870138,246.71874 476.385426,248.028187 476.110514,249.272523 C475.300249,249.858518 474.663612,250.104492 474.113789,250.42281 L470.728037,248.100532 C470.482064,247.926903 470.199918,247.861793 469.881599,247.9052 C469.577749,247.919669 469.339011,248.064359 469.165382,248.339271 C468.977285,248.570775 468.90494,248.845686 468.948347,249.164005 C468.991754,249.453386 469.143679,249.699359 469.404121,249.901925 L473.028612,252.549757 C472.811577,253.663872 473.166068,254.806925 474.092085,255.978916 C474.294652,256.253827 474.533391,256.535973 474.808302,256.825354 C474.287417,260.167699 473.563966,264.269668 472.637948,269.13126 C472.377506,270.853074 471.639586,271.576525 470.424187,271.301614 C470.438656,270.505817 470.228856,270.021105 469.794785,269.847477 L465.627706,268.002676 C464.499122,267.525198 463.652684,267.662654 463.088392,268.415043 C462.972639,268.588672 462.856887,268.7623 462.741135,268.935928 L455.123193,266.114468 C455.188304,265.34761 455.065317,265.058229 454.819344,264.812256 C454.57337,264.580752 454.28399,264.464999 453.951202,264.464999 C453.618414,264.464999 453.329034,264.587986 453.083061,264.833959 C452.967308,264.949712 452.851556,265.072698 452.735804,265.20292 C452.128105,264.16115 451.354012,263.242367 450.413525,262.44657 C450.210959,262.30188 450.037331,262.193362 449.89264,262.121017 C449.038968,261.48438 448.069543,260.912854 446.984366,260.406438 C446.796269,260.334093 446.600937,260.276217 446.398371,260.232809 C445.544698,259.885553 444.814012,259.78427 444.206313,259.92896 C443.916933,260.030243 443.649256,260.174933 443.403282,260.363031 L442.448327,259.950663 C441.623592,259.70469 440.979721,259.813208 440.516712,260.276217 C440.343084,260.464314 440.212862,260.659646 440.126048,260.862212 C439.64857,261.976327 439.995827,262.786592 441.167818,263.293008 C441.211225,264.971415 441.28357,266.584712 441.384853,268.132897 C441.515075,269.5798 442.144477,270.614335 443.273061,271.236503 C445.37107,271.938251 446.969897,272.17699 448.156357,272.017831 C449.067906,271.902078 449.907109,271.945486 450.673968,272.148052 C450.652264,272.900441 450.768016,273.182587 450.999521,273.428561 C451.216556,273.674534 451.498702,273.797521 451.845959,273.797521 C452.178746,273.797521 452.475361,273.696238 452.735804,273.493671 C452.851556,273.377919 452.93837,273.254932 452.996246,273.124711 L460.701002,276.640684 C460.657595,276.959003 460.628657,277.277321 460.614188,277.59564 C460.469498,278.868914 460.975914,279.715352 462.133436,280.134954 L466.843104,281.958051 C467.204829,282.015927 467.486975,281.864002 467.689542,281.502277 C469.006223,282.254666 470.814851,283.115573 473.115426,284.084998 L464.911489,350.541231 C464.578701,353.160125 465.671113,354.520213 468.188723,354.621496 L469.295603,354.621496 C469.773081,354.621496 470.250559,354.628731 470.728037,354.6432 C472.898391,354.701076 475.104917,354.860235 477.347616,355.120678 L488.459828,388.739458 C487.815956,388.782865 487.418058,389.195233 487.418058,389.97656 L487.418058,392.42906 C487.418058,393.239325 487.830425,393.644458 488.655159,393.644458 L489.653522,393.644458 C489.75311,394.138779 489.767579,394.630725 489.696929,395.120299 L499.962703,395.120299 C499.956259,394.624791 499.956259,394.132844 499.962703,393.644458 L500.895955,393.644458 C501.749627,393.61552 502.111353,393.210387 502.111353,392.42906 L502.111353,389.97656 C502.111353,389.195233 501.727924,388.782865 500.961065,388.739458 C500.941773,388.739458 500.826021,388.739458 500.613809,388.739458 L500.613809,372.223066 L506.061397,388.739458 C505.446463,388.782865 505.063034,389.195233 505.063034,389.97656 L505.063034,392.42906 C505.063034,393.239325 505.468167,393.644458 506.278432,393.644458 L507.276795,393.644458 C507.376383,394.138779 507.390852,394.630725 507.320202,395.120299 L517.607679,395.120299 C517.589989,394.624791 517.582754,394.132844 517.585976,393.644458 L518.519228,393.644458 C519.394604,393.61552 519.756329,393.210387 519.756329,392.42906 L519.756329,389.97656 C519.756329,389.195233 519.3729,388.782865 518.606042,388.739458 C518.58675,388.739458 518.463763,388.739458 518.237082,388.739458 L518.237082,358.354505 C519.00394,357.920434 519.734626,357.428487 520.429139,356.878664 L521.839869,355.75008 C522.968453,354.838532 523.4604,353.15289 523.31571,350.693156 L519.799737,283.477299 C523.301241,281.350352 524.849426,278.008007 524.444294,273.450264 C524.05363,268.892521 522.794825,261.773761 520.667878,252.093983 C519.624752,247.362329 518.264663,243.665493 516.587613,241.003475 L480.841886,241.003475 Z",
-                                id: "Female-Shadow",
-                                "fill-opacity": "0.498039",
-                                fill: "#017FC9"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
-                                attrs: {
-                                  id: "Tablet",
-                                  transform: "translate(428.861912, 225.854405)"
-                                }
-                              },
-                              [
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(0.000000, 18.665043)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M49.0716996,25.935728 C48.8836022,26.0659492 48.6303943,26.1310598 48.3120757,26.1310598 L9.52785321,26.1310598 C8.65971169,26.1310598 8.13159226,25.7403962 7.94349493,24.9590688 L1.88820781,1.30221228 C1.87373879,1.24433618 1.86650427,1.19369459 1.86650427,1.15028752 C1.79415915,0.87537604 1.83033171,0.65110614 1.97502196,0.47747784 L1.97502196,0.4557743 L0.49918138,1.93161489 C0.31108405,2.11971222 0.26767697,2.40909273 0.36896015,2.79975641 L6.42424727,26.50002 C6.48212337,26.7315244 6.56893752,26.9340907 6.68468973,27.107719 L47.9431156,27.107719 L49.1802173,25.8923209 C49.1512792,25.9067899 49.1223412,25.921259 49.0934031,25.935728 L49.0716996,25.935728 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-104)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M43.2551514,1.30221228 C43.052585,0.53535394 42.5244656,0.15192477 41.6707931,0.15192477 L2.88657056,0.15192477 C2.52484493,0.15192477 2.24993345,0.21703538 2.06183612,0.34725661 C2.01842904,0.37619466 1.98949099,0.41236722 1.97502196,0.4557743 L1.97502196,0.47747784 C1.83033171,0.65110614 1.79415915,0.87537604 1.86650427,1.15028752 C1.86650427,1.19369459 1.87373879,1.24433618 1.88820781,1.30221228 L7.94349493,24.9590688 C8.13159226,25.7403962 8.65971169,26.1310598 9.52785321,26.1310598 L48.3120757,26.1310598 C48.6303943,26.1310598 48.8836022,26.0659492 49.0716996,25.935728 L49.0934031,25.935728 C49.1223412,25.921259 49.1512792,25.9067899 49.1802173,25.8923209 L49.1802173,25.8706174 C49.2236243,25.8127413 49.2597969,25.7620997 49.288735,25.7186926 C49.3900181,25.5595333 49.3972526,25.3063254 49.3104385,24.9590688 L43.2551514,1.30221228 Z",
-                                        id: "Path",
-                                        fill: "#0088D3"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M13.0872334,22.115905 C13.0293573,21.8409935 12.899136,21.6673652 12.6965697,21.5950201 C12.5952865,21.551613 12.4940033,21.5299095 12.3927201,21.5299095 L4.25389337,21.5299095 C4.13814117,21.5299095 4.0440925,21.551613 3.97174738,21.5950201 L3.95004384,21.5950201 C3.83429164,21.6528962 3.754712,21.7686484 3.71130492,21.9422767 C3.71130492,22.0001528 3.73300846,22.0797324 3.77641553,22.1810156 L6.14210118,31.6654617 L6.14210118,31.6871653 C6.15657021,31.6871653 6.16380472,31.6943998 6.16380472,31.7088688 L6.16380472,31.7522759 C6.29402595,32.0705944 6.53276487,32.2297537 6.88002148,32.2297537 L15.0188483,32.2297537 C15.2358836,32.2297537 15.3733394,32.1718776 15.4312155,32.0561254 C15.5180296,31.9548422 15.5397332,31.8029175 15.4963261,31.6003511 L13.0872334,22.115905 Z M13.6732289,21.7035378 C13.5719457,21.8048209 13.5502422,21.9639802 13.6081183,22.1810156 L16.9070561,35.3116561 C17.0228083,35.7023198 17.2687817,35.8976517 17.6449764,35.8976517 L25.7838031,35.8976517 C25.9863695,35.8976517 26.1238252,35.832541 26.1961704,35.7023198 C26.2829845,35.6010366 26.2974535,35.4491119 26.2395774,35.2465455 L22.9840467,22.115905 C22.8682945,21.7252413 22.6150866,21.5299095 22.2244229,21.5299095 L14.1072997,21.5299095 C13.8902643,21.5299095 13.745574,21.5877856 13.6732289,21.7035378 L13.6732289,21.7035378 Z M32.8157495,22.115905 C32.7289353,21.7252413 32.4974309,21.5299095 32.1212363,21.5299095 L23.9607059,21.5299095 C23.7581396,21.5299095 23.6206838,21.5877856 23.5483387,21.7035378 C23.4615246,21.8048209 23.439821,21.9639802 23.4832281,22.1810156 L27.9324534,39.8476956 C28.0337366,40.2383593 28.2724755,40.4336911 28.6486702,40.4336911 L36.8092005,40.4336911 C36.9972978,40.4336911 37.127519,40.375815 37.1998642,40.2600628 C37.3011473,40.1587796 37.3228509,39.9996204 37.2649748,39.782585 L32.8157495,22.115905 Z M33.401745,21.7035378 C33.3004618,21.8048209 33.2859928,21.9639802 33.3583379,22.1810156 L36.1580943,33.4017448 C36.2738465,33.7924085 36.5270545,33.9877403 36.9177182,33.9877403 L45.0565449,33.9877403 C45.2591113,33.9732713 45.396567,33.9081607 45.4689122,33.7924085 C45.5557263,33.6911253 45.5629608,33.5392005 45.4906157,33.3366342 L42.7125628,22.115905 C42.6112797,21.7252413 42.3580717,21.5299095 41.952939,21.5299095 L33.8358158,21.5299095 C33.6187804,21.5299095 33.4740901,21.5877856 33.401745,21.7035378 L33.401745,21.7035378 Z",
-                                    id: "Shape",
-                                    "fill-opacity": "0.298039",
-                                    fill: "#FFFFFF"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(4.340708, 22.571679)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M11.1773221,3.3640484 C10.9458177,3.3640484 10.8590035,3.4798006 10.9168796,3.71130501 L13.0872335,12.3710167 C13.1595786,12.6169901 13.3115033,12.7399768 13.5430078,12.7399768 L20.9222107,12.7399768 C21.1681841,12.7399768 21.2622328,12.6169901 21.2043567,12.3710167 L19.0122993,3.71130501 C18.9688923,3.4798006 18.8314365,3.3640484 18.5999321,3.3640484 L11.1773221,3.3640484 Z M9.31081783,4.21048639 L9.1805966,3.68960147 C9.1227205,3.45809707 8.97079574,3.34234486 8.7248223,3.34234486 L1.32391582,3.34234486 C1.09241142,3.34234486 1.00559726,3.45809707 1.06347337,3.68960147 L1.06347337,3.73300855 L1.19369459,4.21048639 L1.23710167,4.42752177 L1.23710167,4.47092884 L1.38902644,5.10033145 L1.41072997,5.12203498 L1.51924766,5.49099513 L1.60606182,5.83825174 L1.84480074,6.81491095 L2.08353965,7.81327371 L2.19205735,8.269048 L2.32227857,8.7248223 C2.38015468,8.97079574 2.52484493,9.09378245 2.75634933,9.09378245 L10.1572558,9.09378245 C10.4032292,9.09378245 10.4972779,8.97079574 10.4394018,8.7248223 L10.3091806,8.269048 L10.1789594,7.81327371 L9.94022044,6.81491095 L9.61466737,5.49099513 L9.52785321,5.12203498 L9.52785321,5.10033145 L9.37592845,4.47092884 L9.37592845,4.42752177 L9.31081783,4.21048639 Z M8.39926923,0.67280968 C8.35586216,0.44130527 8.2111719,0.32555307 7.96519847,0.32555307 L3.71130501,0.32555307 L0.56429199,0.32555307 C0.31831856,0.32555307 0.22426989,0.44130527 0.282146,0.67280968 L0.82473445,2.71294226 L0.84643799,2.71294226 C0.88984506,2.91550861 1.02006629,3.01679179 1.23710167,3.01679179 L8.65971169,3.01679179 C8.87674707,3.01679179 8.96356122,2.91550861 8.92015415,2.71294226 L8.39926923,0.67280968 Z M11.090508,3.01679179 L12.5663485,3.01679179 L18.513118,3.01679179 C18.7446224,3.01679179 18.8314365,2.9082741 18.7735604,2.69123872 L18.6433392,2.23546442 L18.6433392,2.08353965 L18.3828967,1.0851769 L18.2743791,0.67280968 C18.216503,0.44130527 18.0645782,0.32555307 17.8186048,0.32555307 L13.5430078,0.32555307 L10.3959947,0.32555307 C10.1644903,0.32555307 10.0849107,0.44130527 10.1572558,0.67280968 L10.526216,2.08353965 L10.5479195,2.23546442 L10.6347337,2.53931395 L10.6564372,2.69123872 C10.7143133,2.9082741 10.8590035,3.01679179 11.090508,3.01679179 L11.090508,3.01679179 Z M29.9508825,7.9217914 C29.8785374,7.69028699 29.7338472,7.57453479 29.5168118,7.57453479 L22.0942018,7.57453479 C21.8626973,7.57453479 21.7758832,7.69028699 21.8337593,7.9217914 L23.0925645,12.8919016 L23.0925645,12.9136052 L24.0909273,16.9287597 C24.1488034,17.1602641 24.2934936,17.2760163 24.524998,17.2760163 L31.947608,17.2760163 C32.1791124,17.2760163 32.2659266,17.1602641 32.2080505,16.9287597 L31.2096877,12.9136052 L31.2096877,12.8919016 L29.9508825,7.9217914 Z M23.8955954,2.23546442 L25.2412148,2.23546442 L26.8689801,2.23546442 L28.192896,2.23546442 C28.4244004,2.23546442 28.50398,2.11971222 28.4316349,1.88820781 L28.1277853,0.67280968 C28.0699092,0.44130527 27.9324535,0.32555307 27.7154181,0.32555307 L23.396414,0.32555307 L20.2711046,0.32555307 C20.0396002,0.32555307 19.952786,0.44130527 20.0106621,0.67280968 L20.3362152,1.88820781 C20.3796222,2.11971222 20.517078,2.23546442 20.7485824,2.23546442 L20.9222107,2.23546442 L22.0507947,2.23546442 L22.4197548,2.23546442 L23.6568565,2.23546442 L23.67856,2.23546442 L23.8955954,2.23546442 Z M30.1679179,0.32555307 C29.9364135,0.32555307 29.8423648,0.44130527 29.8857719,0.67280968 L30.1679179,1.73628305 L31.0360594,5.25225621 L31.1445771,5.66462344 L31.4701302,6.98853926 L31.7088691,7.94349493 L31.7956833,8.13882678 L31.7956833,8.16053031 L31.9259045,8.7248223 L32.2514576,10.0053311 L32.3599753,10.4394018 C32.4033823,10.6709062 32.5408381,10.7866584 32.7723425,10.7866584 L40.1949525,10.7866584 C40.4409259,10.7866584 40.5277401,10.6709062 40.455395,10.4394018 L40.3468773,10.0053311 L40.0213242,8.7248223 L39.8693994,8.16053031 L39.8693994,8.13882678 L39.8042888,7.94349493 L39.5872534,6.98853926 L39.4353287,6.46765434 L39.2399968,5.66462344 L39.2182933,5.53440221 L39.1531827,5.25225621 L38.2633376,1.73628305 L38.0028952,0.67280968 C37.9450191,0.44130527 37.7930943,0.32555307 37.5471209,0.32555307 L30.1679179,0.32555307 Z",
-                                        id: "Shape",
-                                        "fill-opacity": "0.4",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M28.6920773,2.88657056 C28.6486703,2.66953518 28.5112145,2.55378298 28.2797101,2.53931395 L20.8353965,2.53931395 C20.6038921,2.53931395 20.517078,2.65506616 20.5749541,2.88657056 L21.5733168,6.90172511 C21.6311929,7.13322951 21.7831177,7.24898172 22.0290911,7.24898172 L29.4517012,7.24898172 C29.6542675,7.23451269 29.7338472,7.11876049 29.6904401,6.90172511 L28.6920773,2.88657056 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-105)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M39.4570321,26.8906834 C37.7496871,25.3135596 36.5776961,24.6118119 35.941059,24.7854402 C35.0873865,24.9445994 34.3784042,25.2050419 33.8141122,25.5667675 L30.9926523,23.5917456 C30.847962,23.4904624 30.6815682,23.4398208 30.4934709,23.4398208 L30.0594002,21.6167236 C29.972586,21.3852192 29.8278957,21.269467 29.6253294,21.269467 L22.2027194,21.269467 C22.0869672,21.269467 22.014622,21.283936 21.985684,21.3128741 C21.985684,21.3273431 21.971215,21.3490466 21.9422769,21.3779847 C21.8988698,21.4358608 21.8916353,21.5154404 21.9205734,21.6167236 L22.9406397,25.6318781 C22.9840467,25.8778516 23.1215025,26.0008383 23.3530069,26.0008383 L29.2129622,26.0008383 L35.6806165,36.0495764 L35.4418776,31.795683 C35.7601962,32.0416564 36.1074528,32.3020989 36.4836474,32.5770103 L39.4570321,26.8906834 Z",
-                                    id: "Path",
-                                    "fill-opacity": "0.498039",
-                                    fill: "#017FC9"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(22.571680, 19.533184)"
-                                    }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M0.43407076,0.08681415 L0.08681415,0.43407076 C0.07234513,0.43407076 0.06511061,0.44130527 0.06511061,0.4557743 C0.00723451,0.5136504 -1.04083409e-17,0.60769907 0.04340708,0.73792029 L0.82473445,3.79811916 L1.21539813,3.42915902 L0.41236722,0.34725661 C0.41236722,0.21703538 0.41960174,0.13022123 0.43407076,0.08681415 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-106)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M9.52785321,4.62285361 C9.45550809,4.66626069 9.39039747,4.68796422 9.33252137,4.68796422 L1.88820781,4.68796422 C1.65670341,4.68796422 1.50477864,4.57221202 1.43243351,4.34070761 L1.21539813,3.42915902 L0.82473445,3.79811916 L1.06347337,4.70966776 C1.10688044,4.94117217 1.24433618,5.05692437 1.47584059,5.05692437 L8.92015415,5.05692437 C9.02143732,5.05692437 9.09378245,5.02798632 9.13718953,4.97011022 L9.52785321,4.62285361 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-107)"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M9.52785321,4.62285361 C9.57126029,4.56497751 9.5784948,4.47092884 9.54955675,4.34070761 L9.33252137,3.45086255 L9.33252137,3.42915902 L1.21539813,3.42915902 L1.43243351,4.34070761 C1.50477864,4.57221202 1.65670341,4.68796422 1.88820781,4.68796422 L9.33252137,4.68796422 C9.39039747,4.68796422 9.45550809,4.66626069 9.52785321,4.62285361 Z",
-                                        id: "Path",
-                                        fill: "#FFFFFF"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M8.551194,0.34725661 C8.4933179,0.1157522 8.35586216,0 8.13882678,0 L0.69451322,0 C0.60769907,0 0.53535394,0.01446903 0.47747784,0.04340708 L0.43407076,0.08681415 C0.41960174,0.13022123 0.41236722,0.21703538 0.41236722,0.34725661 L1.21539813,3.42915902 L9.33252137,3.42915902 L8.551194,0.34725661 Z",
-                                        id: "Path",
-                                        fill: "url(#linearGradient-108)"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(25.176104, 19.967255)",
+                                      d:
+                                        "M0.19533184,179.878924 C0.19533184,183.119985 1.83756622,184.740516 5.12203498,184.740516 L110.644637,184.740516 C113.929106,184.740516 115.57134,183.119985 115.57134,179.878924 L115.57134,135.712224 L0.19533184,135.712224 L0.19533184,179.878924 Z M5.12203498,10.1572558 C1.83756622,10.1572558 0.19533184,11.7922557 0.19533184,15.0622554 L0.19533184,35.1814352 L0.19533184,36.8526076 L0.19533184,41.4537577 L0.19533184,43.4287797 C0.19533184,46.6843104 1.83756622,48.3120757 5.12203498,48.3120757 L26.0008386,48.3120757 L110.644637,48.3120757 C113.929106,48.3120757 115.57134,46.6843104 115.57134,43.4287797 L115.57134,36.8526076 L115.57134,35.1814352 L115.57134,20.9439142 L115.57134,15.0622554 C115.57134,11.7922557 113.929106,10.1572558 110.644637,10.1572558 L49.5925845,10.1572558 L5.12203498,10.1572558 Z",
+                                      id: "Shape",
                                       fill: "#FFFFFF"
                                     }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M4.16707931,0.58599553 C3.92110588,0.38342917 3.6461944,0.282146 3.34234486,0.282146 L0.82473445,0.23873892 C0.52088491,0.23873892 0.29661502,0.33278758 0.15192477,0.52088491 L0.15192477,0.56429199 C0.00723451,0.75238932 -0.02170354,0.99112824 0.06511061,1.28050875 C0.13745574,1.55542023 0.31108405,1.79415915 0.58599553,1.9967255 C0.83196896,2.19929186 1.10688044,2.30057504 1.41072997,2.30057504 L3.95004393,2.30057504 C4.23942444,2.32951309 4.45645982,2.23546442 4.60115007,2.01842904 C4.74584032,1.81586269 4.77477838,1.56988925 4.68796422,1.28050875 C4.63008812,1.00559726 4.45645982,0.77409286 4.16707931,0.58599553 L4.16707931,0.58599553 Z M3.45086255,0.52088491 C3.66789793,0.52088491 3.87046429,0.59323004 4.05856162,0.73792029 C4.275597,0.88261055 4.40581823,1.06347337 4.4492253,1.28050875 C4.50710141,1.51201315 4.48539787,1.70011048 4.38411469,1.84480074 C4.25389346,1.98949099 4.07303064,2.06183612 3.84152624,2.06183612 L1.34561936,2.04013258 C1.11411495,2.04013258 0.89707957,1.96055294 0.69451322,1.80139366 C0.50641589,1.65670341 0.37619466,1.4830751 0.30384953,1.28050875 C0.24597343,1.06347337 0.26767697,0.88261055 0.36896015,0.73792029 C0.49918138,0.57876102 0.67280968,0.49918138 0.88984506,0.49918138 L3.45086255,0.52088491 Z",
-                                        id: "Shape",
-                                        "fill-opacity": "0.298039"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M4.21048639,1.69287597 C4.29730054,1.57712377 4.31900408,1.43966803 4.275597,1.28050875 C4.2177209,1.10688044 4.11643772,0.96219019 3.97174747,0.84643799 C3.81258819,0.71621676 3.6461944,0.65110614 3.47256609,0.65110614 C3.29893779,0.65110614 3.16871656,0.71621676 3.08190241,0.84643799 C3.00955728,0.94772116 2.99508825,1.09241142 3.03849533,1.28050875 C3.08190241,1.425199 3.17595107,1.56265474 3.32064132,1.69287597 C3.4798006,1.80862817 3.6461944,1.87373879 3.8198227,1.88820781 C3.993451,1.88820781 4.12367223,1.8230972 4.21048639,1.69287597 Z",
-                                        id: "Path"
-                                      }
-                                    })
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "g",
-                                  {
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
                                     attrs: {
-                                      id: "Group",
-                                      transform:
-                                        "translate(13.456194, -0.000000)",
-                                      fill: "#59FFC4"
+                                      d:
+                                        "M5.12203498,52.9132258 C1.83756622,52.9132258 0.19533184,54.5337567 0.19533184,57.7748183 L0.19533184,135.712224 L115.57134,135.712224 L115.57134,57.7748183 C115.57134,54.5337567 113.929106,52.9132258 110.644637,52.9132258 L5.12203498,52.9132258 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-13)"
                                     }
-                                  },
-                                  [
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M14.1290033,0.54258845 C10.7143133,0.07957964 7.67581796,0.91878311 5.01351729,3.06019887 C2.29334052,5.05692437 0.73792029,7.73369407 0.34725661,11.090508 C-0.1157522,14.4762599 0.66557517,17.5147552 2.69123872,20.2059939 C4.77477838,22.8393566 7.48048612,24.3803078 10.808362,24.8288476 C14.1651758,25.3207944 17.1892022,24.5539361 19.8804409,22.5282725 L20.0106621,22.5282725 C22.6729628,20.4592019 24.213914,17.7245561 24.6335157,14.3243351 C25.0675865,10.9675212 24.2500865,7.98690201 22.1810159,5.38247744 C20.1264143,2.63336262 17.4424101,1.02006629 14.1290033,0.54258845 L14.1290033,0.54258845 Z M7.09705695,5.59951282 C8.99249927,4.09473418 11.1845566,3.52320768 13.673229,3.88493331 C16.0895562,4.275597 18.0790472,5.39694647 19.641702,7.24898172 C21.1609496,9.20230014 21.7541797,11.4232955 21.4213921,13.9119679 C21.0307284,16.3861712 19.8804409,18.3756622 17.9705295,19.8804409 C15.973804,21.3418124 13.7528086,21.9205735 11.3075433,21.6167239 C8.80440194,21.2260602 6.82937998,20.0613037 5.38247744,18.1224543 C3.92110588,16.1546668 3.34234486,13.9626095 3.6461944,11.5462823 C3.97898198,9.10101696 5.1292695,7.11876049 7.09705695,5.59951282 Z",
-                                        id: "Shape",
-                                        "fill-opacity": "0.2"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M13.673229,3.88493331 C11.1845566,3.52320768 8.99249927,4.09473418 7.09705695,5.59951282 C5.1292695,7.11876049 3.97898198,9.10101696 3.6461944,11.5462823 C3.34234486,13.9626095 3.92110588,16.1546668 5.38247744,18.1224543 C6.82937998,20.0613037 8.80440194,21.2260602 11.3075433,21.6167239 C13.7528086,21.9205735 15.973804,21.3418124 17.9705295,19.8804409 C19.8804409,18.3756622 21.0307284,16.3861712 21.4213921,13.9119679 C21.7541797,11.4232955 21.1609496,9.20230014 19.641702,7.24898172 C18.0790472,5.39694647 16.0895562,4.275597 13.673229,3.88493331 Z M9.35422491,8.68141523 C10.4828089,7.84221176 11.712676,7.51665869 13.0438264,7.70475601 C14.4039148,7.90732237 15.4746226,8.56566303 16.25595,9.67977798 C17.0662154,10.7360168 17.413472,11.9441805 17.2977198,13.3042688 C17.1096225,14.6643572 16.4729854,15.7712377 15.3878085,16.6249102 C14.2447555,17.4785827 13.0365919,17.8258393 11.7633176,17.66668 C10.3164151,17.4207066 9.1805966,16.7406624 8.35586216,15.6265474 C7.54559674,14.5124325 7.23451269,13.3042688 7.42261002,12.0020566 C7.65411443,10.5840921 8.29798606,9.47721162 9.35422491,8.68141523 Z",
-                                        id: "Shape",
-                                        "fill-opacity": "0.498039"
-                                      }
-                                    }),
-                                    _vm._v(" "),
-                                    _c("path", {
-                                      attrs: {
-                                        d:
-                                          "M13.0438264,7.70475601 C11.712676,7.51665869 10.4828089,7.84221176 9.35422491,8.68141523 C8.29798606,9.47721162 7.65411443,10.5840921 7.42261002,12.0020566 C7.23451269,13.3042688 7.54559674,14.5124325 8.35586216,15.6265474 C9.1805966,16.7406624 10.3164151,17.4207066 11.7633176,17.66668 C13.0365919,17.8258393 14.2447555,17.4785827 15.3878085,16.6249102 C16.4729854,15.7712377 17.1096225,14.6643572 17.2977198,13.3042688 C17.413472,11.9441805 17.0662154,10.7360168 16.25595,9.67977798 C15.4746226,8.56566303 14.4039148,7.90732237 13.0438264,7.70475601 L13.0438264,7.70475601 Z",
-                                        id: "Path"
-                                      }
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "g",
-                              {
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M60.6830924,1.02006629 C60.2200836,0.55705748 59.6702607,0.32555307 59.0336236,0.32555307 L2.51761042,0.32555307 C1.8809733,0.32555307 1.34561936,0.55705748 0.9115486,1.02006629 C0.46300881,1.43966803 0.23873892,1.96778745 0.23873892,2.60442457 C0.23873892,3.24106169 0.46300881,3.78365014 0.9115486,4.23218992 C1.34561936,4.66626069 1.8809733,4.88329607 2.51761042,4.88329607 L59.0336236,4.88329607 C59.6702607,4.88329607 60.2200836,4.66626069 60.6830924,4.23218992 C61.1026942,3.78365014 61.312495,3.24106169 61.312495,2.60442457 C61.312495,1.96778745 61.1026942,1.43966803 60.6830924,1.02006629 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-14)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform:
+                                      "translate(13.456194, 158.869898)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M21.6167239,0 L5.70803051,0 C2.01842904,0 0.17362831,1.85926976 0.17362831,5.57780928 L0.17362831,21.4647992 C0.17362831,25.1833387 2.01842904,27.0426084 5.70803051,27.0426084 L21.6167239,27.0426084 C25.3497325,27.0426084 27.2162367,25.1833387 27.2162367,21.4647992 L27.2162367,5.57780928 C27.2162367,1.85926976 25.3497325,0 21.6167239,0 Z M19.3812595,7.09705695 C19.7574542,6.69192424 20.2421665,6.48935788 20.8353965,6.48935788 C21.3852195,6.48935788 21.8771664,6.69192424 22.3112371,7.09705695 C22.7163698,7.50218966 22.9189362,8.00137104 22.9189362,8.59460108 C22.9189362,9.17336209 22.7163698,9.66530895 22.3112371,10.0704417 L12.3276096,20.0106621 C11.9224769,20.4157948 11.4305301,20.6183612 10.851769,20.6183612 C10.258539,20.6183612 9.77382664,20.4157948 9.39763198,20.0106621 L5.03522083,15.691658 C4.60115007,15.2575873 4.38411469,14.7656404 4.38411469,14.2158174 C4.38411469,13.6225874 4.60115007,13.123406 5.03522083,12.7182733 C5.44035354,12.3131406 5.91783138,12.1105742 6.46765434,12.1105742 C7.06088439,12.1105742 7.56006576,12.3131406 7.96519847,12.7182733 L10.851769,15.6048439 L19.3812595,7.09705695 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-15)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M20.8353965,6.48935788 C20.2421665,6.48935788 19.7574542,6.69192424 19.3812595,7.09705695 L10.851769,15.6048439 L7.96519847,12.7182733 C7.56006576,12.3131406 7.06088439,12.1105742 6.46765434,12.1105742 C5.91783138,12.1105742 5.44035354,12.3131406 5.03522083,12.7182733 C4.60115007,13.123406 4.38411469,13.6225874 4.38411469,14.2158174 C4.38411469,14.7656404 4.60115007,15.2575873 5.03522083,15.691658 L9.39763198,20.0106621 C9.77382664,20.4157948 10.258539,20.6183612 10.851769,20.6183612 C11.4305301,20.6183612 11.9224769,20.4157948 12.3276096,20.0106621 L22.3112371,10.0704417 C22.7163698,9.66530895 22.9189362,9.17336209 22.9189362,8.59460108 C22.9189362,8.00137104 22.7163698,7.50218966 22.3112371,7.09705695 C21.8771664,6.69192424 21.3852195,6.48935788 20.8353965,6.48935788 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-16)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(13.456194, 24.307962)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M94.909572,127.660211 C94.909572,127.08145 94.7214747,126.596738 94.34528,126.206074 C93.9112092,125.786472 93.4120279,125.576671 92.8477359,125.576671 L2.34398211,125.576671 C1.75075207,125.576671 1.25880521,125.786472 0.86814152,126.206074 C0.46300881,126.596738 0.26044246,127.08145 0.26044246,127.660211 C0.26044246,128.238972 0.46300881,128.730919 0.86814152,129.136052 C1.25880521,129.541184 1.75075207,129.743751 2.34398211,129.743751 L92.8477359,129.743751 C93.4120279,129.743751 93.9112092,129.541184 94.34528,129.136052 C94.7214747,128.730919 94.909572,128.238972 94.909572,127.660211 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-17)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.99836275,24.9590688 C1.36008839,25.2629183 1.80862817,25.4148431 2.34398211,25.4148431 L19.4897772,25.4148431 L46.9447528,25.4148431 C47.5379829,25.4148431 48.0443988,25.2195112 48.4640005,24.8288476 C48.8401952,24.4092458 49.0282925,23.9028299 49.0282925,23.3095999 C49.0282925,22.7308389 48.8401952,22.253361 48.4640005,21.8771664 C48.0443988,21.4430956 47.5379829,21.2260602 46.9447528,21.2260602 C45.5557264,21.2260602 30.6888028,21.2260602 2.34398211,21.2260602 C1.75075207,21.2260602 1.25880521,21.4430956 0.86814152,21.8771664 C0.46300881,22.253361 0.26044246,22.7308389 0.26044246,23.3095999 C0.26044246,23.9028299 0.46300881,24.4092458 0.86814152,24.8288476 C0.9115486,24.8867237 0.95495568,24.9301307 0.99836275,24.9590688 L0.99836275,24.9590688 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-18)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.86814152,11.4377646 C0.46300881,11.8428973 0.26044246,12.3348441 0.26044246,12.9136052 C0.26044246,13.4778971 0.46300881,13.969844 0.86814152,14.3894457 C1.25880521,14.7945785 1.75075207,14.9971448 2.34398211,14.9971448 L94.1065411,14.9971448 C94.6708331,14.9971448 95.1627799,14.7945785 95.5823817,14.3894457 C95.9730453,13.969844 96.1683772,13.4778971 96.1683772,12.9136052 C96.1683772,12.3348441 95.9730453,11.8428973 95.5823817,11.4377646 C95.1627799,11.0326319 94.6708331,10.8300655 94.1065411,10.8300655 L2.34398211,10.8300655 C1.75075207,10.8300655 1.25880521,11.0326319 0.86814152,11.4377646 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-7)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.86814152,3.95004393 C1.25880521,4.35517664 1.75075207,4.55774299 2.34398211,4.55774299 L84.4918737,4.55774299 C85.0851037,4.55774299 85.5842851,4.35517664 85.9894178,3.95004393 C86.3945505,3.54491122 86.5971169,3.05296436 86.5971169,2.47420334 C86.5971169,1.89544232 86.3945505,1.41796449 85.9894178,1.04176983 C85.5842851,0.60769907 85.0851037,0.39066369 84.4918737,0.39066369 L2.34398211,0.39066369 C1.75075207,0.39066369 1.25880521,0.60769907 0.86814152,1.04176983 C0.46300881,1.41796449 0.26044246,1.89544232 0.26044246,2.47420334 C0.26044246,3.05296436 0.46300881,3.54491122 0.86814152,3.95004393 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-19)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
                                 attrs: {
-                                  id: "Female",
-                                  transform: "translate(431.032266, 193.299098)"
+                                  d:
+                                    "M27.4332723,128.463241 C27.5490245,127.898949 27.527321,127.37083 27.3681617,126.878883 C27.2668785,126.575033 27.1149538,126.271184 26.9123874,125.967334 C26.4783167,125.301759 25.8778521,124.867688 25.1109938,124.665122 C24.9952416,124.607246 24.8939584,124.571073 24.8071442,124.556604 C23.9100646,124.368507 23.0780957,124.527666 22.3112373,125.034082 C21.52991,125.554967 21.0524321,126.256715 20.8788038,127.139325 C20.6907065,128.036405 20.8571003,128.875608 21.3779852,129.656936 C21.8844011,130.423794 22.5861488,130.901272 23.4832284,131.089369 C24.380308,131.262998 25.2122769,131.096604 25.9791353,130.590188 C26.7604626,130.069303 27.245175,129.360321 27.4332723,128.463241 L27.4332723,128.463241 Z M55.3874294,100.856341 C55.4742435,100.827403 55.5610577,100.776761 55.6478718,100.704416 C56.4436682,100.183531 56.9283806,99.4673143 57.1020089,98.5557657 C57.1309469,98.4689515 57.1526505,98.3676683 57.1671195,98.2519161 C57.2249956,97.4705888 57.0296638,96.739903 56.581124,96.0598588 C56.0891771,95.3074695 55.3946639,94.8444607 54.4975843,94.6708324 C53.5860357,94.482735 52.7540668,94.6346598 52.0016774,95.1266067 C51.2203501,95.6619606 50.7356377,96.3637083 50.5475404,97.2318498 C50.4317882,97.8250799 50.4534917,98.3821374 50.612651,98.9030223 C50.7284032,99.2068718 50.880328,99.4962523 51.0684253,99.7711638 C51.5169651,100.451208 52.1174296,100.899748 52.869819,101.116783 C52.9566331,101.131252 53.0579163,101.152956 53.1736685,101.181894 C53.9549959,101.341053 54.6929162,101.232535 55.3874294,100.856341 L55.3874294,100.856341 Z M77.394817,111.33915 C76.9028701,110.644636 76.2734675,110.196097 75.5066092,109.99353 C75.405326,109.964592 75.3112773,109.942889 75.2244632,109.92842 C74.4431358,109.76926 73.7052155,109.885013 73.0107023,110.275676 C72.9094191,110.319083 72.822605,110.355256 72.7502598,110.384194 C71.9834015,110.919548 71.5131582,111.62853 71.3395299,112.511141 C71.3105918,112.641362 71.2888883,112.778818 71.2744192,112.923508 C71.1731361,113.646959 71.3467644,114.348707 71.7953042,115.028751 C72.3161891,115.795609 73.0179368,116.265853 73.9005473,116.439481 C74.7976269,116.627578 75.6440649,116.475654 76.4398613,115.983707 C77.1922506,115.448353 77.6624939,114.732136 77.8505913,113.835056 C77.9663435,113.270764 77.9374054,112.728176 77.7637771,112.207291 C77.676963,111.917911 77.5539763,111.62853 77.394817,111.33915 L77.394817,111.33915 Z M106.282226,74.204396 C105.399616,74.0307677 104.567647,74.204396 103.786319,74.7252809 C103.019461,75.2316968 102.541983,75.9189755 102.353886,76.787117 C102.209195,77.5395063 102.303244,78.2484886 102.636032,78.9140637 C102.679439,79.0442849 102.759018,79.1817407 102.874771,79.3264309 C103.381187,80.0788203 104.0757,80.5418291 104.95831,80.7154574 C105.016186,80.7299264 105.088532,80.7516299 105.175346,80.780568 C105.985611,80.9252582 106.752469,80.7516299 107.475921,80.2596831 C108.22831,79.7532672 108.698553,79.0370504 108.886651,78.1110328 C109.074748,77.2428913 108.908354,76.4253914 108.387469,75.658533 C107.895522,74.8772056 107.193775,74.3924933 106.282226,74.204396 L106.282226,74.204396 Z",
+                                  id: "Shape",
+                                  fill: "#FFE2C9"
                                 }
-                              },
-                              [
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M51.0684253,99.7711638 C50.880328,99.4962523 50.7284032,99.2068718 50.612651,98.9030223 L25.1109938,124.665122 C25.8778521,124.867688 26.4783167,125.301759 26.9123874,125.967334 C27.1149538,126.271184 27.2668785,126.575033 27.3681617,126.878883 L52.869819,101.116783 C52.1174296,100.899748 51.5169651,100.451208 51.0684253,99.7711638 L51.0684253,99.7711638 Z M71.2744192,112.923508 C71.2888883,112.778818 71.3105918,112.641362 71.3395299,112.511141 C71.5131582,111.62853 71.9834015,110.919548 72.7502598,110.384194 C72.822605,110.355256 72.9094191,110.319083 73.0107023,110.275676 L57.1671195,98.2519161 C57.1526505,98.3676683 57.1309469,98.4689515 57.1020089,98.5557657 C56.9283806,99.4673143 56.4436682,100.183531 55.6478718,100.704416 C55.5610577,100.776761 55.4742435,100.827403 55.3874294,100.856341 L71.2744192,112.923508 Z M102.874771,79.3264309 C102.759018,79.1817407 102.679439,79.0442849 102.636032,78.9140637 L75.5066092,109.99353 C76.2734675,110.196097 76.9028701,110.644636 77.394817,111.33915 C77.5539763,111.62853 77.676963,111.917911 77.7637771,112.207291 L105.175346,80.780568 C105.088532,80.7516299 105.016186,80.7299264 104.95831,80.7154574 C104.0757,80.5418291 103.381187,80.0788203 102.874771,79.3264309 L102.874771,79.3264309 Z",
+                                  id: "Shape",
+                                  fill: "#BBCBFF"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Board-C",
+                                transform: "translate(280.409712, 68.699086)"
+                              }
+                            },
+                            [
+                              _c("g", { attrs: { id: "Group" } }, [
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M78.371476,217.209009 C78.4293521,217.19454 78.4944627,217.19454 78.5668078,217.209009 C78.668091,216.919629 78.7549051,216.572372 78.8272503,216.167239 L61.2039774,216.167239 C61.1316322,216.572372 61.0375836,216.919629 60.9218314,217.209009 L78.371476,217.209009 Z M50.2436906,217.252416 C50.9092658,217.252416 51.7050622,217.237947 52.6310798,217.209009 L50.2436906,217.209009 L50.2436906,217.252416 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-109)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M41.019687,214.105403 C40.2817667,212.846598 39.1387137,211.963987 37.5905279,211.457571 C34.4796875,212.846598 32.8229841,214.416487 32.6204177,216.167239 L32.6204177,217.252416 C33.2715239,217.252416 34.0528512,217.237947 34.9643998,217.209009 L50.2436906,217.209009 L52.6310798,217.209009 L60.7482031,217.209009 C60.8060792,217.19454 60.8639553,217.19454 60.9218314,217.209009 C61.0375836,216.919629 61.1316322,216.572372 61.2039774,216.167239 L43.3636691,216.167239 C42.5389346,216.065956 41.7576072,215.378677 41.019687,214.105403 L41.019687,214.105403 Z",
+                                      "M129.396494,7.31409233 C129.396494,2.82869446 127.189968,0.52088491 122.776915,0.39066369 L7.05364987,0.39066369 C2.42356175,0.39066369 0.10851769,2.69847323 0.10851769,7.31409233 L0.10851769,256.383895 C0.10851769,261.013983 2.42356175,263.329027 7.05364987,263.329027 L122.776915,263.329027 C127.189968,263.227744 129.396494,260.9127 129.396494,256.383895 L129.396494,7.31409233 Z",
                                     id: "Path",
-                                    fill: "url(#linearGradient-110)"
+                                    fill: "#CEE3F4"
                                   }
                                 }),
                                 _vm._v(" "),
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M38.5237801,211.066908 C38.2054615,211.197129 37.8943775,211.32735 37.5905279,211.457571 C39.1387137,211.963987 40.2817667,212.846598 41.019687,214.105403 C41.7576072,215.378677 42.5389346,216.065956 43.3636691,216.167239 L61.2039774,216.167239 C61.3197296,215.41485 61.3920747,214.467129 61.4210127,213.324076 C61.4499508,211.949518 61.3414331,210.415802 61.0954597,208.722926 C61.0231145,208.21651 60.9363004,207.695625 60.8350172,207.160271 C60.4154155,204.816289 60.2200836,202.544652 60.2490217,200.34536 L49.9398411,200.34536 C50.3305048,202.284209 49.4551287,204.186886 47.313713,206.05339 C45.1722972,207.890957 42.2423196,209.562129 38.5237801,211.066908 L38.5237801,211.066908 Z M49.8747305,207.529231 C50.5547747,206.820249 51.3795091,206.465758 52.3489338,206.465758 C53.3038895,206.465758 54.1286239,206.820249 54.8231372,207.529231 C55.5031814,208.194806 55.8432035,209.005072 55.8432035,209.960027 C55.8432035,210.451974 55.7636238,210.900514 55.6044645,211.305647 C55.5610575,211.377992 55.5248849,211.457571 55.4959468,211.544386 C55.3223185,211.862704 55.0980486,212.159319 54.8231372,212.434231 C54.1286239,213.128744 53.3038895,213.476 52.3489338,213.476 C52.1897745,213.476 52.0378498,213.468766 51.8931595,213.454297 C51.1263012,213.353014 50.4534915,213.012992 49.8747305,212.434231 C49.1802173,211.768655 48.8329607,210.943921 48.8329607,209.960027 C48.8329607,209.005072 49.1802173,208.194806 49.8747305,207.529231 L49.8747305,207.529231 Z M52.435748,53.5209249 C52.6093763,48.0371643 50.5981818,45.1288902 46.4021644,44.7961026 C42.4665895,46.0549078 39.6161915,48.471235 37.8509704,52.0450843 C37.1564572,53.4196417 36.6717448,54.7290885 36.3968333,55.9734247 C36.6283378,55.582761 36.9321873,55.2065663 37.3083819,54.8448407 C38.5382491,53.6005045 40.0430277,52.9783364 41.8227179,52.9783364 C43.5734699,52.9783364 45.0782486,53.6005045 46.3370538,54.8448407 C47.595859,56.0891769 48.2252616,57.5939555 48.2252616,59.3591766 C48.2252616,61.1099287 47.595859,62.6147073 46.3370538,63.8735125 C45.0782486,65.1323177 43.5734699,65.7617204 41.8227179,65.7617204 C40.4192224,65.7617204 39.1821207,65.3710567 38.1114129,64.5897293 C37.8365014,64.3726939 37.5688244,64.133955 37.3083819,63.8735125 C36.4836475,63.0632471 35.9338245,62.144464 35.658913,61.1171632 C35.6010369,60.9580039 35.5576299,60.7916101 35.5286918,60.6179818 C35.4997538,60.733734 35.4852847,60.8567207 35.4852847,60.986942 C35.4708157,61.001411 35.4635812,61.0231145 35.4635812,61.0520526 C35.362298,61.8189109 35.2393113,62.6436454 35.0946211,63.5262559 C34.5737361,66.8686008 33.8502849,70.9705695 32.9242673,75.832162 C32.6638248,77.553976 31.9259045,78.2774273 30.7105064,78.0025158 C29.6253295,79.6085776 28.9597543,81.6197722 28.7137809,84.0360994 C28.4533384,86.4379576 28.207365,87.8269841 27.9758606,88.2031787 C29.2925419,88.955568 31.1011701,89.816475 33.4017451,90.7858997 C35.2682494,91.5527581 37.351789,91.7697935 39.6523641,91.4370059 C45.0493105,90.5978024 48.6448633,85.3961878 50.4390225,75.832162 C50.5837127,75.1087107 50.7211685,74.3346179 50.8513897,73.5098834 C51.4446197,69.7624059 51.9365666,64.2858798 52.3272303,57.0803051 C52.3851064,55.8070309 52.421279,54.6205708 52.435748,53.5209249 L52.435748,53.5209249 Z M43.2117443,67.4111892 L43.1900408,67.4111892 C43.4504832,67.5124724 43.6530496,67.6861007 43.7977398,67.9320742 C43.9713681,68.2359237 44.0147752,68.5614768 43.9279611,68.9087334 L43.9062575,69.0172511 C43.8049743,69.3645077 43.602408,69.6104811 43.2985585,69.7551714 C43.052585,69.9143306 42.7993771,69.9794413 42.5389346,69.9505032 L42.5389346,69.9722067 L35.897652,68.1925166 C35.5648644,68.0912334 35.3044219,67.8814326 35.1163246,67.563114 C34.9571653,67.2737335 34.9209928,66.9626495 35.0078069,66.6298619 L35.051214,66.4996406 C35.1380281,66.1668531 35.3405945,65.9136451 35.658913,65.7400168 C35.9627626,65.5663885 36.2738466,65.5229814 36.5921652,65.6097956 L43.2117443,67.4111892 Z M44.9914344,16.6466137 C44.8612132,16.6032066 44.7382265,16.6032066 44.6224743,16.6466137 C44.492253,16.7044898 44.3982044,16.7840694 44.3403283,16.8853526 L43.8411469,18.1224543 C43.7832708,18.2237375 43.7832708,18.3467242 43.8411469,18.4914144 C43.870085,18.6216357 43.9568991,18.7156843 44.1015894,18.7735604 C44.2173416,18.8169675 44.3475628,18.809733 44.492253,18.7518569 C44.6080052,18.7084498 44.7020539,18.6216357 44.774399,18.4914144 L45.2735804,17.2760163 C45.3169875,17.1892022 45.309753,17.0734499 45.2518769,16.9287597 C45.2518769,16.9142907 45.2518769,16.8998216 45.2518769,16.8853526 C45.1940008,16.7696004 45.1071866,16.6900208 44.9914344,16.6466137 L44.9914344,16.6466137 Z",
-                                    id: "Shape",
-                                    fill: "#FFFFFF"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M52.3489338,206.465758 C51.3795091,206.465758 50.5547747,206.820249 49.8747305,207.529231 C49.1802173,208.194806 48.8329607,209.005072 48.8329607,209.960027 C48.8329607,210.943921 49.1802173,211.768655 49.8747305,212.434231 C50.4534915,213.012992 51.1263012,213.353014 51.8931595,213.454297 C52.0378498,213.468766 52.1897745,213.476 52.3489338,213.476 C53.3038895,213.476 54.1286239,213.128744 54.8231372,212.434231 C55.0980486,212.159319 55.3223185,211.862704 55.4959468,211.544386 C55.5248849,211.457571 55.5610575,211.377992 55.6044645,211.305647 C55.7636238,210.900514 55.8432035,210.451974 55.8432035,209.960027 C55.8432035,209.005072 55.5031814,208.194806 54.8231372,207.529231 C54.1286239,206.820249 53.3038895,206.465758 52.3489338,206.465758 L52.3489338,206.465758 Z",
+                                      "M132.152843,7.31409233 C132.152843,2.69847323 129.837799,0.39066369 125.207711,0.39066369 L122.776915,0.39066369 C127.189968,0.52088491 129.396494,2.82869446 129.396494,7.31409233 L129.396494,256.383895 C129.396494,260.9127 127.189968,263.227744 122.776915,263.329027 L125.207711,263.329027 C129.837799,263.329027 132.152843,261.013983 132.152843,256.383895 L132.152843,7.31409233 Z",
                                     id: "Path",
-                                    fill: "#F7BFD4"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M60.9001278,167.052133 C58.3969864,166.618062 55.7274513,165.966956 52.8915223,165.098814 C47.6826731,163.507221 42.5968107,162.41481 37.633935,161.82158 L48.7461465,195.44036 L48.8980713,195.44036 L60.0753934,195.44036 L60.1839111,195.44036 L60.9001278,195.44036 L60.9001278,178.923968 L60.9001278,167.052133 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-111)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M77.8722946,200.34536 L67.563114,200.34536 C67.9537777,202.284209 67.0784017,204.186886 64.9369859,206.05339 C63.866278,206.979408 62.5857693,207.869253 61.0954597,208.722926 C61.3414331,210.415802 61.4499508,211.949518 61.4210127,213.324076 C61.3920747,214.467129 61.3197296,215.41485 61.2039774,216.167239 L78.8272503,216.167239 C78.9430025,215.41485 79.0225821,214.467129 79.0659892,213.324076 C79.0804582,211.544386 78.8778919,209.489784 78.4582901,207.160271 C78.0531574,204.816289 77.8578256,202.544652 77.8722946,200.34536 Z M67.4980034,207.529231 C68.1925166,206.820249 69.0172511,206.465758 69.9722067,206.465758 C70.9416314,206.465758 71.7663659,206.820249 72.4464101,207.529231 C73.1264543,208.194806 73.4664764,209.005072 73.4664764,209.960027 C73.4664764,210.943921 73.1264543,211.768655 72.4464101,212.434231 C71.7663659,213.128744 70.9416314,213.476 69.9722067,213.476 C69.0172511,213.476 68.1925166,213.128744 67.4980034,212.434231 C66.8179592,211.768655 66.4779371,210.943921 66.4779371,209.960027 C66.4779371,209.005072 66.8179592,208.194806 67.4980034,207.529231 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-112)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M69.9722067,206.465758 C69.0172511,206.465758 68.1925166,206.820249 67.4980034,207.529231 C66.8179592,208.194806 66.4779371,209.005072 66.4779371,209.960027 C66.4779371,210.943921 66.8179592,211.768655 67.4980034,212.434231 C68.1925166,213.128744 69.0172511,213.476 69.9722067,213.476 C70.9416314,213.476 71.7663659,213.128744 72.4464101,212.434231 C73.1264543,211.768655 73.4664764,210.943921 73.4664764,209.960027 C73.4664764,209.005072 73.1264543,208.194806 72.4464101,207.529231 C71.7663659,206.820249 70.9416314,206.465758 69.9722067,206.465758 Z",
-                                    id: "Path",
-                                    fill: "#F7BFD4"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M62.397672,196.677462 C62.397672,195.896135 62.0142428,195.483767 61.2473844,195.44036 C61.2184464,195.44036 61.1967428,195.44036 61.1822738,195.44036 L60.9001278,195.44036 L60.1839111,195.44036 C60.154973,195.44036 60.1188005,195.44036 60.0753934,195.44036 L48.8980713,195.44036 C48.1022749,195.483767 47.7043767,195.896135 47.7043767,196.677462 L47.7043767,199.129962 C47.7043767,199.940227 48.1167439,200.34536 48.9414783,200.34536 L49.9398411,200.34536 L60.2490217,200.34536 L61.1822738,200.34536 L61.312495,200.34536 C62.0359463,200.316422 62.397672,199.911289 62.397672,199.129962 L62.397672,196.677462 Z",
-                                    id: "Path",
-                                    fill: "#9768B5"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M77.807184,195.44036 C77.7782459,195.44036 77.7565424,195.44036 77.7420734,195.44036 L66.4996406,195.44036 C65.7327823,195.483767 65.3493531,195.896135 65.3493531,196.677462 L65.3493531,199.129962 C65.3493531,199.940227 65.7544858,200.34536 66.5647513,200.34536 L67.563114,200.34536 L77.8722946,200.34536 L78.8055467,200.34536 L78.9574715,200.34536 C79.6809228,200.316422 80.0426484,199.911289 80.0426484,199.129962 L80.0426484,196.677462 C80.0426484,195.896135 79.6592192,195.483767 78.8923609,195.44036 C78.8634228,195.44036 78.8344848,195.44036 78.8055467,195.44036 L78.5234007,195.44036 L77.807184,195.44036 Z",
-                                    id: "Path",
-                                    fill: "#9768B5"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M77.7420734,195.44036 L77.807184,195.44036 L78.5234007,195.44036 L78.5234007,165.055407 C74.0235338,167.601955 68.1491095,168.267531 60.9001278,167.052133 L60.9001278,178.923968 L66.3477159,195.44036 L66.4996406,195.44036 L77.7420734,195.44036 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-113)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M70.5799058,42.75597 C71.0718527,43.0453505 71.542096,43.4360142 71.9906358,43.9279611 C76.6351929,48.8908368 79.3336662,64.3075833 80.0860555,90.1782007 C83.5875596,88.051254 85.1357453,84.7089091 84.7306126,80.1511661 C84.3399489,75.5934231 83.0811437,68.4746626 80.954197,58.7948846 C79.1455688,50.5909472 76.3892195,45.4978503 72.685149,43.5155938 C72.0051048,43.1683372 71.3033571,42.9151293 70.5799058,42.75597 L70.5799058,42.75597 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-114)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M15.409512,72.8153702 C15.3516359,72.9745295 15.2503528,73.1264543 15.1056625,73.2711445 C14.0349546,74.4431356 13.4634281,76.4543301 13.391083,79.3047281 C13.376614,79.4928254 13.3404414,79.6664537 13.2825653,79.825613 L20.9873213,83.3415862 C21.3345779,79.796675 22.0146221,77.228423 23.0274539,75.6368302 L15.409512,72.8153702 Z M3.68960147,67.0639326 L2.7346458,66.6515654 C1.90991135,66.405592 1.26603972,66.5141097 0.80303091,66.9771185 C0.6294026,67.1652158 0.49918138,67.3605477 0.41236722,67.563114 C-0.06511061,68.677229 0.282146,69.4874944 1.45413705,69.9939103 C1.49754413,71.6723172 1.56988925,73.2856136 1.67117243,74.8337993 C1.80139366,76.2807018 2.43079626,77.3152371 3.55938024,77.9374052 L3.6461944,78.0025158 C5.65738892,78.6391529 7.25621623,78.8778919 8.44267631,78.7187326 C9.35422491,78.6029804 10.1934284,78.6463875 10.9602867,78.8489538 C11.0760389,75.6512992 11.7633176,73.3434897 13.0221228,71.9255252 C12.7616804,71.824242 12.3927202,71.5855031 11.9152424,71.2093084 C11.0615699,70.5871403 10.3598222,70.1241315 9.80999921,69.820282 C8.29075154,69.1402378 6.75703485,68.4601936 5.20884914,67.7801494 L3.68960147,67.0639326 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-115)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M13.3693795,71.5348615 C13.2536272,71.6506137 13.137875,71.7736004 13.0221228,71.9038216 L13.0221228,71.9255252 C11.7633176,73.3434897 11.0760389,75.6512992 10.9602867,78.8489538 C10.9458177,78.9936441 10.9385832,79.1383343 10.9385832,79.2830246 C10.9385832,79.6013431 11.0543354,79.8834891 11.2858398,80.1294626 C11.5028752,80.375436 11.7850212,80.4984227 12.1322778,80.4984227 C12.4650654,80.4984227 12.7616804,80.3971395 13.0221228,80.1945732 C13.137875,80.078821 13.2246892,79.9558343 13.2825653,79.825613 C13.3404414,79.6664537 13.376614,79.4928254 13.391083,79.3047281 C13.4634281,76.4543301 14.0349546,74.4431356 15.1056625,73.2711445 C15.2503528,73.1264543 15.3516359,72.9745295 15.409512,72.8153702 C15.4529191,72.67068 15.4746226,72.5259897 15.4746226,72.3812995 C15.4746226,72.0485119 15.3516359,71.7591314 15.1056625,71.5131579 C14.8596891,71.2816535 14.5703086,71.1659013 14.237521,71.1659013 C13.9047334,71.1659013 13.6153529,71.288888 13.3693795,71.5348615 L13.3693795,71.5348615 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-116)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M7.27068525,67.1073397 C7.08258792,67.0349946 6.88725608,66.9771185 6.68468973,66.9337114 C5.83101723,66.5864548 5.10033145,66.4851716 4.49263238,66.6298619 C4.20325187,66.7311451 3.9355749,66.8758353 3.68960147,67.0639326 L5.20884914,67.7801494 C6.75703485,68.4601936 8.29075154,69.1402378 9.80999921,69.820282 C10.3598222,70.1241315 11.0615699,70.5871403 11.9152424,71.2093084 C12.3927202,71.5855031 12.7616804,71.824242 13.0221228,71.9255252 L13.0221228,71.9038216 C12.4144238,70.8620518 11.6403309,69.9432687 10.6998443,69.1474723 C10.4972779,69.002782 10.3236496,68.8942643 10.1789594,68.8219192 C9.32528686,68.1852821 8.35586216,67.6137556 7.27068525,67.1073397 L7.27068525,67.1073397 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-117)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M28.7137809,84.0360994 C28.9597543,81.6197722 29.6253295,79.6085776 30.7105064,78.0025158 C30.7249754,77.2067194 30.5151745,76.7220071 30.0811038,76.5483788 L25.9140245,74.703578 C24.7854405,74.2261002 23.9390025,74.3635559 23.3747105,75.1159453 C23.2589583,75.2895736 23.1432061,75.4632019 23.0274539,75.6368302 C22.0146221,77.228423 21.3345779,79.796675 20.9873213,83.3415862 C20.9439142,83.6599047 20.9149762,83.9782233 20.9005072,84.2965419 C20.7558169,85.5698161 21.2622328,86.4162541 22.4197548,86.8358558 L27.1294226,88.658953 C27.4911482,88.7168291 27.7732942,88.5649044 27.9758606,88.2031787 C28.207365,87.8269841 28.4533384,86.4379576 28.7137809,84.0360994 L28.7137809,84.0360994 Z M46.3370538,63.8735125 C47.595859,62.6147073 48.2252616,61.1099287 48.2252616,59.3591766 C48.2252616,57.5939555 47.595859,56.0891769 46.3370538,54.8448407 C45.0782486,53.6005045 43.5734699,52.9783364 41.8227179,52.9783364 C40.0430277,52.9783364 38.5382491,53.6005045 37.3083819,54.8448407 C36.9321873,55.2065663 36.6283378,55.582761 36.3968333,55.9734247 C36.3678953,56.1036459 36.3389572,56.2411017 36.3100192,56.3857919 C36.0351077,57.60119 35.7746653,59.01192 35.5286918,60.6179818 C35.5576299,60.7916101 35.6010369,60.9580039 35.658913,61.1171632 C35.9338245,62.144464 36.4836475,63.0632471 37.3083819,63.8735125 C37.5688244,64.133955 37.8365014,64.3726939 38.1114129,64.5897293 C39.1821207,65.3710567 40.4192224,65.7617204 41.8227179,65.7617204 C43.5734699,65.7617204 45.0782486,65.1323177 46.3370538,63.8735125 L46.3370538,63.8735125 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-118)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M33.3149309,59.2506589 C33.0978956,60.3647739 33.4523867,61.5078269 34.3784043,62.6798179 C34.5809707,62.9547294 34.8197096,63.2368754 35.0946211,63.5262559 C35.2393113,62.6436454 35.362298,61.8189109 35.4635812,61.0520526 C35.4635812,61.0231145 35.4708157,61.001411 35.4852847,60.986942 L33.3149309,59.2506589 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-119)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M29.6904401,56.6028273 L33.3149309,59.2506589 L35.4852847,60.986942 C35.4852847,60.8567207 35.4997538,60.733734 35.5286918,60.6179818 C35.7746653,59.01192 36.0351077,57.60119 36.3100192,56.3857919 C35.5865679,56.5594202 34.9499308,56.8053936 34.4001078,57.1237122 L31.0143559,54.8014336 C30.7683825,54.6278053 30.4862365,54.5626947 30.1679179,54.6061018 C29.8640684,54.6205708 29.6253295,54.7652611 29.4517012,55.0401725 C29.2636038,55.271677 29.1912587,55.5465884 29.2346658,55.864907 C29.2780729,56.1542875 29.4299976,56.4002609 29.6904401,56.6028273 L29.6904401,56.6028273 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-120)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M46.4021644,44.7961026 C50.5981818,45.1288902 52.6093763,48.0371643 52.435748,53.5209249 C52.421279,54.6205708 52.3851064,55.8070309 52.3272303,57.0803051 C51.9365666,64.2858798 51.4446197,69.7624059 50.8513897,73.5098834 C50.7211685,74.3346179 50.5837127,75.1087107 50.4390225,75.832162 C48.6448633,85.3961878 45.0493105,90.5978024 39.6523641,91.4370059 C37.351789,91.7697935 35.2682494,91.5527581 33.4017451,90.7858997 L25.1978077,157.242133 C24.8650201,159.861027 25.9574315,161.221115 28.4750419,161.322398 L29.5819224,161.322398 C30.0594002,161.322398 30.5368781,161.329633 31.0143559,161.344102 C33.1847097,161.401978 35.3912361,161.561137 37.633935,161.82158 C42.5968107,162.41481 47.6826731,163.507221 52.8915223,165.098814 C55.7274513,165.966956 58.3969864,166.618062 60.9001278,167.052133 C68.1491095,168.267531 74.0235338,167.601955 78.5234007,165.055407 C79.2902591,164.621336 80.0209449,164.129389 80.7154581,163.579566 L82.1261881,162.450982 C83.254772,161.539434 83.7467189,159.853792 83.6020286,157.394058 L80.0860555,90.1782007 C79.3336662,64.3075833 76.6351929,48.8908368 71.9906358,43.9279611 C71.542096,43.4360142 71.0718527,43.0453505 70.5799058,42.75597 C67.4111892,42.6980939 64.3582249,42.741501 61.4210127,42.8861912 C56.9211458,43.0887576 52.6961904,43.5300629 48.7461465,44.210107 L47.8345979,44.4271424 C47.328182,44.5284256 46.8507042,44.6514123 46.4021644,44.7961026 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-121)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M43.1900408,67.4111892 L43.2117443,67.4111892 L36.5921652,65.6097956 C36.2738466,65.5229814 35.9627626,65.5663885 35.658913,65.7400168 C35.3405945,65.9136451 35.1380281,66.1668531 35.051214,66.4996406 L35.0078069,66.6298619 C34.9209928,66.9626495 34.9571653,67.2737335 35.1163246,67.563114 C35.3044219,67.8814326 35.5648644,68.0912334 35.897652,68.1925166 L42.5389346,69.9722067 L42.5389346,69.9505032 C42.7993771,69.9794413 43.052585,69.9143306 43.2985585,69.7551714 C43.602408,69.6104811 43.8049743,69.3645077 43.9062575,69.0172511 L43.9279611,68.9087334 C44.0147752,68.5614768 43.9713681,68.2359237 43.7977398,67.9320742 C43.6530496,67.6861007 43.4504832,67.5124724 43.1900408,67.4111892 L43.1900408,67.4111892 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-122)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M60.4660571,36.2015015 C58.1799511,36.6500413 56.0457698,37.4820102 54.0635133,38.6974084 C52.4429825,39.6957711 50.9309693,40.9473418 49.5274739,42.4521205 C49.4985358,42.4810585 49.4695978,42.5099966 49.4406597,42.5389346 C48.8908368,43.1321647 48.3554828,43.7615673 47.8345979,44.4271424 L48.7461465,44.210107 C52.6961904,43.5300629 56.9211458,43.0887576 61.4210127,42.8861912 C64.3582249,42.741501 67.4111892,42.6980939 70.5799058,42.75597 C68.7134015,37.4168996 65.3421186,35.2320768 60.4660571,36.2015015 L60.4660571,36.2015015 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-123)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M41.5622754,24.8505511 C41.5043993,24.807144 41.4248197,24.807144 41.3235365,24.8505511 C40.6724303,25.1254626 39.9272755,25.2412148 39.0880721,25.1978077 L39.0663685,25.1978077 L38.9795544,25.9791351 L39.0012579,25.9791351 C39.9996207,26.0225421 40.8677622,25.8850864 41.6056825,25.5667678 C41.7069657,25.5233608 41.7793108,25.4510156 41.8227179,25.3497325 C41.8661249,25.2484493 41.8588904,25.1544006 41.8010143,25.0675865 C41.7576072,24.9807723 41.6780276,24.9084272 41.5622754,24.8505511 Z",
-                                    id: "Path",
-                                    fill: "#6633CC"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M46.1417219,14.7801094 C45.6931822,14.0132511 45.2301733,13.137875 44.7526955,12.1539813 C44.448846,12.8340255 44.1739345,13.5285387 43.9279611,14.237521 C42.9006603,17.1892022 41.895063,18.8820781 40.9111693,19.3161489 C39.9562136,19.7357506 39.4136251,20.9366797 39.2834039,22.9189362 C39.2399968,23.353007 39.1965898,23.8015468 39.1531827,24.2645556 C39.1242446,24.5684051 39.1025411,24.8794891 39.0880721,25.1978077 C39.9272755,25.2412148 40.6724303,25.1254626 41.3235365,24.8505511 C41.4248197,24.807144 41.5043993,24.807144 41.5622754,24.8505511 C41.6780276,24.9084272 41.7576072,24.9807723 41.8010143,25.0675865 C41.8588904,25.1544006 41.8661249,25.2484493 41.8227179,25.3497325 C41.7793108,25.4510156 41.7069657,25.5233608 41.6056825,25.5667678 C40.8677622,25.8850864 39.9996207,26.0225421 39.0012579,25.9791351 C38.8855057,26.9630288 38.7408155,27.954157 38.5671872,28.9525198 C38.2488686,31.0215904 38.8638022,32.4395549 40.4119879,33.2064132 C40.484333,33.2498203 40.5566781,33.2859929 40.6290233,33.3149309 C40.6290233,32.9242673 40.5566781,32.5119 40.4119879,32.0778293 C39.8187578,30.3270772 40.498802,28.6197322 42.4521205,26.9557943 C44.448846,25.3207944 45.2301733,23.931768 44.7961026,22.788715 C44.3620318,21.6167239 44.6658813,20.3362152 45.7076512,18.9471887 C46.720483,17.5726313 46.8651732,16.1836049 46.1417219,14.7801094 L46.1417219,14.7801094 Z M44.6224743,16.6466137 C44.7382265,16.6032066 44.8612132,16.6032066 44.9914344,16.6466137 C45.1071866,16.6900208 45.1940008,16.7696004 45.2518769,16.8853526 L45.2518769,16.9287597 C45.309753,17.0734499 45.3169875,17.1892022 45.2735804,17.2760163 L44.774399,18.4914144 C44.7020539,18.6216357 44.6080052,18.7084498 44.492253,18.7518569 C44.3475628,18.809733 44.2173416,18.8169675 44.1015894,18.7735604 C43.9568991,18.7156843 43.870085,18.6216357 43.8411469,18.4914144 C43.7832708,18.3467242 43.7832708,18.2237375 43.8411469,18.1224543 L44.3403283,16.8853526 C44.3982044,16.7840694 44.492253,16.7044898 44.6224743,16.6466137 L44.6224743,16.6466137 Z",
-                                    id: "Shape",
-                                    fill: "url(#linearGradient-124)"
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("path", {
-                                  attrs: {
-                                    d:
-                                      "M76.8088212,13.5213042 C77.1271398,10.5840921 75.7887549,7.84944627 72.7936667,5.31736683 C69.7841094,2.74188031 65.6676717,1.16475654 60.4443535,0.58599553 C55.2065663,0.02170354 51.4084472,-0.09404867 49.049996,0.23873892 C46.720483,0.55705748 45.0059034,1.71457951 43.9062575,3.71130501 C42.7921426,5.70803051 42.6908594,7.71199053 43.602408,9.72318506 C43.9930717,10.5913266 44.3765008,11.401592 44.7526955,12.1539813 C45.2301733,13.137875 45.6931822,14.0132511 46.1417219,14.7801094 C46.8651732,16.1836049 46.720483,17.5726313 45.7076512,18.9471887 C44.6658813,20.3362152 44.3620318,21.6167239 44.7961026,22.788715 C45.2301733,23.931768 44.448846,25.3207944 42.4521205,26.9557943 C40.498802,28.6197322 39.8187578,30.3270772 40.4119879,32.0778293 C40.5566781,32.5119 40.6290233,32.9242673 40.6290233,33.3149309 C40.6145542,34.5447981 39.8621649,35.5865679 38.3718553,36.4402404 C36.3895988,37.5832934 35.7963688,38.9795544 36.5921652,40.6290233 C37.3590235,42.2640231 41.641855,42.9006603 49.4406597,42.5389346 C49.4695978,42.5099966 49.4985358,42.4810585 49.5274739,42.4521205 C50.9309693,40.9473418 52.4429825,39.6957711 54.0635133,38.6974084 C56.0457698,37.4820102 58.1799511,36.6500413 60.4660571,36.2015015 C65.3421186,35.2320768 68.7134015,37.4168996 70.5799058,42.75597 C71.3033571,42.9151293 72.0051048,43.1683372 72.685149,43.5155938 C73.0324056,43.3130275 73.3434897,43.1393992 73.6184011,42.9947089 C74.4141975,42.5895762 75.3546842,42.191678 76.4398611,41.8010143 C77.525038,41.4682267 78.2123167,40.455395 78.5016972,38.762519 C78.7910777,37.069643 78.8561883,35.2899529 78.697029,33.4234486 C78.4799937,31.5858824 78.3208344,30.3921878 78.2195512,29.8423648 C78.118268,29.3070109 78.4799937,28.236303 79.3047281,26.6302412 C80.1439316,25.0241794 79.8545511,23.1793787 78.4365866,21.095839 C77.0330911,18.9978303 76.4905027,16.4729854 76.8088212,13.5213042 L76.8088212,13.5213042 Z",
-                                    id: "Path",
-                                    fill: "url(#linearGradient-125)"
+                                    fill: "#B2CBDF"
                                   }
                                 })
-                              ]
-                            )
-                          ]
-                        )
-                      ]
-                    )
-                  ]
-                )
-              ]
-            )
-          ])
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(6.762399, 7.813273)"
+                                  }
+                                },
+                                [
+                                  _c("polygon", {
+                                    attrs: {
+                                      id: "Path",
+                                      fill: "url(#linearGradient-20)",
+                                      points:
+                                        "98.564871 200.063214 98.564871 128.593463 38.68481 128.593463 38.68481 200.106621"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M16.894457,200.063214 L0.095919,200.106621 L0.095919,230.903942 L0.095919,231.186088 L0.095919,237.436706 L0.095919,244.056286 C0.095919,247.282878 1.745388,248.896175 5.044326,248.896175 L110.588631,248.896175 C113.887569,248.896175 115.537038,247.282878 115.537038,244.056286 L115.537038,237.436706 L115.537038,230.903942 L115.537038,200.106621 L98.564871,200.063214 L38.68481,200.106621 L16.894457,200.063214 Z M5.044326,10.1572558 C1.745388,10.1572558 0.095919,11.7922557 0.095919,15.0622554 L0.095919,32.2514576 C0.095919,35.5214573 1.745388,37.1564572 5.044326,37.1564572 L7.323197,37.1564572 L23.340408,37.1564572 L23.492333,37.1564572 L28.462443,37.1564572 L46.281048,37.1564572 L46.454676,37.1564572 L49.493172,37.1564572 L69.199984,37.1564572 L92.140624,37.1564572 L110.588631,37.1564572 C113.887569,37.1564572 115.537038,35.5214573 115.537038,32.2514576 L115.537038,15.0622554 C115.537038,11.7922557 113.887569,10.1572558 110.588631,10.1572558 L49.493172,10.1572558 L5.044326,10.1572558 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("polygon", {
+                                    attrs: {
+                                      id: "Path",
+                                      fill: "url(#linearGradient-21)",
+                                      points:
+                                        "38.68481 128.593463 16.894457 128.593463 16.894457 200.063214 38.68481 200.106621"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M115.537038,116.895256 C115.537038,113.654194 113.887569,112.033664 110.588631,112.033664 L4.848994,112.033664 C2.693109,112.077071 1.275145,112.851163 0.5951,114.355942 C0.262313,115.035986 0.095919,115.882424 0.095919,116.895256 L0.095919,200.106621 L16.894457,200.063214 L16.894457,128.593463 L38.68481,128.593463 L98.564871,128.593463 L98.564871,200.063214 L115.537038,200.106621 L115.537038,116.895256 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-22)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M109.41664,2.69123872 C109.41664,2.99508825 109.539627,3.26999974 109.7856,3.51597317 C110.017105,3.74747757 110.299251,3.86322978 110.632038,3.86322978 C110.964826,3.86322978 111.239737,3.74747757 111.456773,3.51597317 C111.717215,3.26999974 111.847436,2.99508825 111.847436,2.69123872 L111.847436,2.64783164 C111.847436,2.31504406 111.717215,2.03289807 111.456773,1.80139366 C111.239737,1.55542023 110.964826,1.43243351 110.632038,1.43243351 C110.299251,1.43243351 110.017105,1.55542023 109.7856,1.80139366 C109.539627,2.03289807 109.41664,2.31504406 109.41664,2.64783164 L109.41664,2.69123872 Z M114.951042,1.80139366 C114.734007,1.55542023 114.459096,1.43243351 114.126308,1.43243351 L114.082901,1.43243351 C113.750113,1.43243351 113.475202,1.55542023 113.258166,1.80139366 C113.026662,2.03289807 112.91091,2.31504406 112.91091,2.64783164 L112.91091,2.69123872 C112.91091,2.99508825 113.026662,3.26999974 113.258166,3.51597317 C113.475202,3.74747757 113.750113,3.86322978 114.082901,3.86322978 L114.126308,3.86322978 C114.459096,3.86322978 114.734007,3.74747757 114.951042,3.51597317 C115.211485,3.26999974 115.341706,2.99508825 115.341706,2.69123872 L115.341706,2.64783164 C115.341706,2.31504406 115.211485,2.03289807 114.951042,1.80139366 Z M105.965778,2.69123872 C105.965778,2.99508825 106.08153,3.26999974 106.313034,3.51597317 C106.53007,3.74747757 106.804981,3.86322978 107.137769,3.86322978 L107.181176,3.86322978 C107.499494,3.86322978 107.774406,3.74747757 108.00591,3.51597317 C108.266353,3.26999974 108.396574,2.99508825 108.396574,2.69123872 L108.396574,2.64783164 C108.396574,2.31504406 108.266353,2.03289807 108.00591,1.80139366 C107.774406,1.55542023 107.499494,1.43243351 107.181176,1.43243351 L107.137769,1.43243351 C106.804981,1.43243351 106.53007,1.55542023 106.313034,1.80139366 C106.08153,2.03289807 105.965778,2.31504406 105.965778,2.64783164 L105.965778,2.69123872 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-23)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M5.044326,41.4754613 C1.745388,41.4754613 0.095919,43.0959921 0.095919,46.3370538 L0.095919,102.766253 C0.095919,106.007314 1.745388,107.627845 5.044326,107.627845 L110.849074,107.627845 C113.974383,107.5555 115.537038,105.934969 115.537038,102.766253 L115.537038,46.3370538 C115.537038,43.1828062 113.974383,41.5622754 110.849074,41.4754613 L5.044326,41.4754613 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-24)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M60.58368,1.02006629 C60.13514,0.55705748 59.592551,0.32555307 58.955914,0.32555307 L2.461605,0.32555307 C1.824967,0.32555307 1.289614,0.55705748 0.855543,1.02006629 C0.407003,1.43966803 0.182733,1.96778745 0.182733,2.60442457 C0.182733,3.24106169 0.407003,3.78365014 0.855543,4.23218992 C1.289614,4.66626069 1.824967,4.88329607 2.461605,4.88329607 L58.955914,4.88329607 C59.592551,4.88329607 60.13514,4.66626069 60.58368,4.23218992 C61.01775,3.78365014 61.234786,3.24106169 61.234786,2.60442457 C61.234786,1.96778745 61.01775,1.43966803 60.58368,1.02006629 L60.58368,1.02006629 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-25)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(13.022123, 24.307962)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.99836275,215.016952 C1.38902644,215.422084 1.8809733,215.624651 2.47420334,215.624651 L94.2367623,215.624651 C94.8010543,215.624651 95.2930012,215.422084 95.7126029,215.016952 C96.1032666,214.59735 96.2985984,214.105403 96.2985984,213.541111 C96.2985984,212.96235 96.1032666,212.470403 95.7126029,212.06527 C95.2930012,211.660138 94.8010543,211.457571 94.2367623,211.457571 L2.47420334,211.457571 C1.8809733,211.457571 1.38902644,211.660138 0.99836275,212.06527 C0.59323004,212.470403 0.39066369,212.96235 0.39066369,213.541111 C0.39066369,214.105403 0.59323004,214.59735 0.99836275,215.016952 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-6)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M1.06347337,225.608278 C1.43966803,226.013411 1.91714586,226.215977 2.49590688,226.215977 L19.402963,226.215977 L20.6834718,226.215977 L20.9222107,226.215977 L22.0507947,226.215977 L24.5901086,226.215977 L28.6703738,226.215977 L31.057763,226.215977 L39.7825853,226.215977 L57.3624511,226.215977 C57.9412121,226.215977 58.433159,226.013411 58.8382917,225.608278 C59.2434244,225.203146 59.4459908,224.711199 59.4459908,224.132438 C59.4459908,223.553677 59.2434244,223.06173 58.8382917,222.656597 C58.433159,222.251464 57.9412121,222.048898 57.3624511,222.048898 C56.725814,222.048898 50.8658587,222.048898 39.7825853,222.048898 C36.7006829,222.048898 33.7924088,222.048898 31.057763,222.048898 L22.0507947,222.048898 C21.6746,222.048898 21.2984054,222.048898 20.9222107,222.048898 L20.6834718,222.048898 C20.5821886,222.048898 20.4953745,222.048898 20.4230293,222.048898 C20.0757727,222.048898 19.7357506,222.048898 19.402963,222.048898 C14.1072997,222.048898 8.47161436,222.048898 2.49590688,222.048898 C1.91714586,222.048898 1.43966803,222.251464 1.06347337,222.656597 C0.6294026,223.06173 0.41236722,223.553677 0.41236722,224.132438 C0.41236722,224.711199 0.6294026,225.203146 1.06347337,225.608278 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-26)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.99836275,204.57755 C1.38902644,204.982683 1.8809733,205.185249 2.47420334,205.185249 L84.6220949,205.185249 C85.215325,205.185249 85.7145064,204.982683 86.1196391,204.57755 C86.5247718,204.172417 86.7273381,203.68047 86.7273381,203.101709 C86.7273381,202.522948 86.5247718,202.04547 86.1196391,201.669276 C85.7145064,201.235205 85.215325,201.01817 84.6220949,201.01817 L2.47420334,201.01817 C1.8809733,201.01817 1.38902644,201.235205 0.99836275,201.669276 C0.59323004,202.04547 0.39066369,202.522948 0.39066369,203.101709 C0.39066369,203.68047 0.59323004,204.172417 0.99836275,204.57755 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-19)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M1.06347337,193.487042 C1.43966803,193.892175 1.91714586,194.094741 2.49590688,194.094741 L20.5749541,194.094741 L24.7420334,194.094741 L26.8472766,194.094741 L27.2596438,194.094741 L34.204776,194.094741 L63.6998842,194.094741 L81.2797501,194.094741 C81.8729801,194.094741 82.3721615,193.892175 82.7772942,193.487042 C83.1824269,193.081909 83.3849933,192.589962 83.3849933,192.011201 C83.3849933,191.43244 83.1824269,190.940493 82.7772942,190.535361 C82.3721615,190.130228 81.8729801,189.927662 81.2797501,189.927662 C80.657582,189.927662 74.7976267,189.927662 63.6998842,189.927662 C50.3160358,189.927662 40.484333,189.927662 34.204776,189.927662 L27.2596438,189.927662 C27.1294226,189.927662 26.9919668,189.927662 26.8472766,189.927662 C26.1527634,189.927662 25.4510156,189.927662 24.7420334,189.927662 C23.381945,189.927662 21.9929186,189.927662 20.5749541,189.927662 C14.9320342,189.927662 8.90568512,189.927662 2.49590688,189.927662 C1.91714586,189.927662 1.43966803,190.130228 1.06347337,190.535361 C0.6294026,190.940493 0.41236722,191.43244 0.41236722,192.011201 C0.41236722,192.589962 0.6294026,193.081909 1.06347337,193.487042 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-27)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M1.06347337,11.4377646 C0.6294026,11.8428973 0.41236722,12.3348441 0.41236722,12.9136052 C0.41236722,13.4778971 0.6294026,13.969844 1.06347337,14.3894457 C1.43966803,14.7945785 1.91714586,14.9971448 2.49590688,14.9971448 L90.0913865,14.9971448 C90.6701475,14.9971448 91.1765634,14.7945785 91.6106342,14.3894457 C91.9868289,13.969844 92.1749262,13.4778971 92.1749262,12.9136052 C92.1749262,12.3348441 91.9868289,11.8428973 91.6106342,11.4377646 C91.1765634,11.0326319 90.6701475,10.8300655 90.0913865,10.8300655 L2.49590688,10.8300655 C1.91714586,10.8300655 1.43966803,11.0326319 1.06347337,11.4377646 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-28)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M1.06347337,3.95004393 C1.43966803,4.35517664 1.91714586,4.55774299 2.49590688,4.55774299 L88.8325813,4.55774299 C89.4258114,4.55774299 89.9322273,4.35517664 90.351829,3.95004393 C90.7424927,3.54491122 90.9378245,3.05296436 90.9378245,2.47420334 C90.9378245,1.89544232 90.7424927,1.41796449 90.351829,1.04176983 C89.9322273,0.60769907 89.4258114,0.39066369 88.8325813,0.39066369 L2.49590688,0.39066369 C1.91714586,0.39066369 1.43966803,0.60769907 1.06347337,1.04176983 C0.6294026,1.41796449 0.41236722,1.89544232 0.41236722,2.47420334 C0.41236722,3.05296436 0.6294026,3.54491122 1.06347337,3.95004393 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-29)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M98.0999922,184.783922 C97.7093285,184.393259 97.2463197,184.197927 96.7109658,184.197927 L78.4148832,184.197927 C77.8795293,184.197927 77.423755,184.393259 77.0475603,184.783922 C76.6568966,185.160117 76.4615648,185.615892 76.4615648,186.151245 L76.4615648,198.99974 C76.4615648,199.535094 76.6568966,199.998103 77.0475603,200.388766 C77.423755,200.764961 77.8795293,200.953058 78.4148832,200.953058 L96.7109658,200.953058 C97.2463197,200.953058 97.7093285,200.764961 98.0999922,200.388766 C98.4761869,199.998103 98.6642842,199.535094 98.6642842,198.99974 L98.6642842,186.151245 C98.6642842,185.615892 98.4761869,185.160117 98.0999922,184.783922 Z M52.3055269,184.783922 C51.9148632,185.160117 51.7195314,185.615892 51.7195314,186.151245 L51.7195314,198.99974 C51.7195314,199.535094 51.9148632,199.998103 52.3055269,200.388766 C52.6817216,200.764961 53.1374959,200.953058 53.6728498,200.953058 L71.9689324,200.953058 C72.5042863,200.953058 72.9672951,200.764961 73.3579588,200.388766 C73.7341535,199.998103 73.9222508,199.535094 73.9222508,198.99974 L73.9222508,186.151245 C73.9222508,185.615892 73.7341535,185.160117 73.3579588,184.783922 C72.9672951,184.393259 72.5042863,184.197927 71.9689324,184.197927 L53.6728498,184.197927 C53.1374959,184.197927 52.6817216,184.393259 52.3055269,184.783922 Z M98.0999922,154.83304 C97.7093285,154.442376 97.2463197,154.247044 96.7109658,154.247044 L53.6728498,154.247044 C53.1374959,154.247044 52.6817216,154.442376 52.3055269,154.83304 C51.9148632,155.209235 51.7195314,155.665009 51.7195314,156.200363 L51.7195314,177.730273 C51.7195314,178.265627 51.9148632,178.728635 52.3055269,179.119299 C52.6817216,179.495494 53.1374959,179.683591 53.6728498,179.683591 L96.7109658,179.683591 C97.2463197,179.683591 97.7093285,179.495494 98.0999922,179.119299 C98.4761869,178.728635 98.6642842,178.265627 98.6642842,177.730273 L98.6642842,156.200363 C98.6642842,155.665009 98.4761869,155.209235 98.0999922,154.83304 Z M98.534063,147.019766 C98.1433993,146.629103 97.6803905,146.433771 97.1450366,146.433771 L53.2604826,146.433771 C52.7251286,146.433771 52.2693543,146.629103 51.8931597,147.019766 C51.502496,147.395961 51.3071641,147.851735 51.3071641,148.387089 C51.3071641,148.922443 51.502496,149.385452 51.8931597,149.776116 C52.2693543,150.15231 52.7251286,150.340408 53.2604826,150.340408 L97.1450366,150.340408 C97.6803905,150.340408 98.1433993,150.15231 98.534063,149.776116 C98.9102577,149.385452 99.098355,148.922443 99.098355,148.387089 C99.098355,147.851735 98.9102577,147.395961 98.534063,147.019766 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-30)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Board-D",
+                                transform: "translate(420.614568, 68.699086)"
+                              }
+                            },
+                            [
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(0.000000, 0.000000)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M129.635233,7.31409233 C129.635233,2.82869446 127.428707,0.52088491 123.015654,0.39066369 L7.24898172,0.39066369 C2.61889359,0.39066369 0.30384953,2.69847323 0.30384953,7.31409233 L0.30384953,165.337553 C0.30384953,169.967641 2.61889359,172.282685 7.24898172,172.282685 L123.015654,172.282685 C127.428707,172.152464 129.635233,169.83742 129.635233,165.337553 L129.635233,7.31409233 Z",
+                                      id: "Path",
+                                      fill: "#CEE3F4"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M132.391582,7.31409233 C132.391582,2.69847323 130.076538,0.39066369 125.44645,0.39066369 L123.015654,0.39066369 C127.428707,0.52088491 129.635233,2.82869446 129.635233,7.31409233 L129.635233,165.337553 C129.635233,169.83742 127.428707,172.152464 123.015654,172.282685 L125.44645,172.282685 C130.076538,172.282685 132.391582,169.967641 132.391582,165.337553 L132.391582,7.31409233 Z",
+                                      id: "Path",
+                                      fill: "#B2CBDF"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(6.945132, 7.813273)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M110.644637,1.43243351 C110.311849,1.43243351 110.036938,1.55542023 109.819903,1.80139366 C109.588398,2.03289807 109.472646,2.31504406 109.472646,2.64783164 L109.472646,2.69123872 C109.472646,2.99508825 109.588398,3.26999974 109.819903,3.51597317 C110.036938,3.74747757 110.311849,3.86322978 110.644637,3.86322978 L110.688044,3.86322978 C111.020832,3.86322978 111.295743,3.74747757 111.512779,3.51597317 C111.773221,3.26999974 111.903442,2.99508825 111.903442,2.69123872 L111.903442,2.64783164 C111.903442,2.31504406 111.773221,2.03289807 111.512779,1.80139366 C111.295743,1.55542023 111.020832,1.43243351 110.688044,1.43243351 L110.644637,1.43243351 Z M114.0955,1.43243351 C113.79165,1.43243351 113.531208,1.55542023 113.314172,1.80139366 C113.05373,2.03289807 112.923509,2.31504406 112.923509,2.64783164 L112.923509,2.69123872 C112.923509,2.99508825 113.05373,3.26999974 113.314172,3.51597317 C113.531208,3.74747757 113.79165,3.86322978 114.0955,3.86322978 L114.138907,3.86322978 C114.471694,3.86322978 114.75384,3.74747757 114.985345,3.51597317 C115.231318,3.26999974 115.354305,2.99508825 115.354305,2.69123872 L115.354305,2.64783164 C115.354305,2.31504406 115.231318,2.03289807 114.985345,1.80139366 C114.75384,1.55542023 114.471694,1.43243351 114.138907,1.43243351 L114.0955,1.43243351 Z M105.978376,2.69123872 C105.978376,2.99508825 106.094129,3.26999974 106.325633,3.51597317 C106.571606,3.74747757 106.846518,3.86322978 107.150367,3.86322978 L107.193775,3.86322978 C107.526562,3.86322978 107.808708,3.74747757 108.040213,3.51597317 C108.286186,3.26999974 108.409173,2.99508825 108.409173,2.69123872 L108.409173,2.64783164 C108.409173,2.31504406 108.286186,2.03289807 108.040213,1.80139366 C107.808708,1.55542023 107.526562,1.43243351 107.193775,1.43243351 L107.150367,1.43243351 C106.846518,1.43243351 106.571606,1.55542023 106.325633,1.80139366 C106.094129,2.03289807 105.978376,2.31504406 105.978376,2.64783164 L105.978376,2.69123872 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-31)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M110.60123,157.58939 C113.900168,157.58939 115.549637,155.968859 115.549637,152.727797 L115.549637,146.129922 L115.549637,128.810498 L0.15192477,128.810498 L0.15192477,146.129922 L0.15192477,152.727797 C0.15192477,155.968859 1.80139366,157.58939 5.10033145,157.58939 L110.60123,157.58939 Z M82.7338871,146.998063 C83.1245508,147.374258 83.3198827,147.85897 83.3198827,148.4522 C83.3198827,149.030961 83.1245508,149.530143 82.7338871,149.949745 C82.3142854,150.340408 81.8078695,150.53574 81.2146395,150.53574 C80.404374,150.53574 70.3339324,150.53574 51.0033145,150.53574 C45.2012353,150.53574 41.7069657,150.53574 40.5205056,150.53574 L33.5319663,150.53574 C33.4017451,150.53574 33.2642893,150.53574 33.1195991,150.53574 C32.4395549,150.53574 31.7522762,150.53574 31.057763,150.53574 C29.6976746,150.53574 28.3086482,150.53574 26.8906837,150.53574 C21.2188257,150.53574 15.1924766,150.53574 8.81163646,150.53574 C8.23287544,150.53574 7.74092858,150.340408 7.33579587,149.949745 C6.93066316,149.530143 6.7280968,149.030961 6.7280968,148.4522 C6.7280968,147.85897 6.93066316,147.374258 7.33579587,146.998063 C7.74092858,146.563993 8.23287544,146.346957 8.81163646,146.346957 L26.8906837,146.346957 L31.057763,146.346957 L33.1195991,146.346957 L33.5319663,146.346957 L40.5205056,146.346957 L51.0033145,146.346957 L81.2146395,146.346957 C81.8078695,146.346957 82.3142854,146.563993 82.7338871,146.998063 Z M105.566009,135.950962 C106.14477,135.950962 106.651186,136.153529 107.085257,136.558662 C107.461451,136.963794 107.649549,137.455741 107.649549,138.034502 C107.649549,138.598794 107.461451,139.090741 107.085257,139.510343 C106.651186,139.915475 106.14477,140.118042 105.566009,140.118042 C104.755744,140.118042 95.2640631,140.118042 77.0909672,140.118042 C54.5337567,140.118042 42.3436028,140.118042 40.5205056,140.118042 L33.5319663,140.118042 C33.4017451,140.118042 33.2642893,140.118042 33.1195991,140.118042 C32.4395549,140.118042 31.7522762,140.118042 31.057763,140.118042 C29.6976746,140.118042 28.3086482,140.118042 26.8906837,140.118042 C21.2188257,140.118042 15.1924766,140.118042 8.81163646,140.118042 C8.23287544,140.118042 7.74092858,139.915475 7.33579587,139.510343 C6.93066316,139.090741 6.7280968,138.598794 6.7280968,138.034502 C6.7280968,137.455741 6.93066316,136.963794 7.33579587,136.558662 C7.74092858,136.153529 8.23287544,135.950962 8.81163646,135.950962 L26.8906837,135.950962 L31.057763,135.950962 L33.1195991,135.950962 L33.5319663,135.950962 L40.5205056,135.950962 L77.0909672,135.950962 L105.566009,135.950962 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M107.085257,136.558662 C106.651186,136.153529 106.14477,135.950962 105.566009,135.950962 C104.755744,135.950962 95.2640631,135.950962 77.0909672,135.950962 C54.5337567,135.950962 42.3436028,135.950962 40.5205056,135.950962 L33.5319663,135.950962 C33.4017451,135.950962 33.2642893,135.950962 33.1195991,135.950962 C32.4395549,135.950962 31.7522762,135.950962 31.057763,135.950962 C29.6976746,135.950962 28.3086482,135.950962 26.8906837,135.950962 C21.2188257,135.950962 15.1924766,135.950962 8.81163646,135.950962 C8.23287544,135.950962 7.74092858,136.153529 7.33579587,136.558662 C6.93066316,136.963794 6.7280968,137.455741 6.7280968,138.034502 C6.7280968,138.598794 6.93066316,139.090741 7.33579587,139.510343 C7.74092858,139.915475 8.23287544,140.118042 8.81163646,140.118042 L26.8906837,140.118042 L31.057763,140.118042 L33.1195991,140.118042 L33.5319663,140.118042 L40.5205056,140.118042 L77.0909672,140.118042 L105.566009,140.118042 C106.14477,140.118042 106.651186,139.915475 107.085257,139.510343 C107.461451,139.090741 107.649549,138.598794 107.649549,138.034502 C107.649549,137.455741 107.461451,136.963794 107.085257,136.558662 Z M83.3198827,148.4522 C83.3198827,147.85897 83.1245508,147.374258 82.7338871,146.998063 C82.3142854,146.563993 81.8078695,146.346957 81.2146395,146.346957 C80.404374,146.346957 70.3339324,146.346957 51.0033145,146.346957 C45.2012353,146.346957 41.7069657,146.346957 40.5205056,146.346957 L33.5319663,146.346957 C33.4017451,146.346957 33.2642893,146.346957 33.1195991,146.346957 C32.4395549,146.346957 31.7522762,146.346957 31.057763,146.346957 C29.6976746,146.346957 28.3086482,146.346957 26.8906837,146.346957 C21.2188257,146.346957 15.1924766,146.346957 8.81163646,146.346957 C8.23287544,146.346957 7.74092858,146.563993 7.33579587,146.998063 C6.93066316,147.374258 6.7280968,147.85897 6.7280968,148.4522 C6.7280968,149.030961 6.93066316,149.530143 7.33579587,149.949745 C7.74092858,150.340408 8.23287544,150.53574 8.81163646,150.53574 L26.8906837,150.53574 L31.057763,150.53574 L33.1195991,150.53574 L33.5319663,150.53574 L40.5205056,150.53574 L51.0033145,150.53574 L81.2146395,150.53574 C81.8078695,150.53574 82.3142854,150.340408 82.7338871,149.949745 C83.1245508,149.530143 83.3198827,149.030961 83.3198827,148.4522 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-32)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M5.10033145,10.1138487 C1.80139366,10.1138487 0.15192477,11.7343796 0.15192477,14.9754413 L0.15192477,30.1245108 L0.15192477,79.7170953 L0.15192477,79.9124272 L0.15192477,85.229794 L0.15192477,103.786319 L0.15192477,117.264216 L0.15192477,120.085676 L0.15192477,128.810498 L115.549637,128.810498 L115.549637,120.085676 L115.549637,117.264216 L115.549637,103.786319 L115.549637,96.928001 L115.549637,85.229794 L115.549637,83.3198827 L115.549637,79.9124272 L115.549637,79.7170953 L115.549637,30.1245108 L115.549637,14.9754413 C115.549637,11.7343796 113.900168,10.1138487 110.60123,10.1138487 L5.10033145,10.1138487 Z M19.1642241,70.102428 C19.1642241,69.4223838 19.1786931,68.7495741 19.2076312,68.0839989 C19.656171,58.3752829 23.3602415,50.0266553 30.3198427,43.038116 C30.4066568,42.9802399 30.4500639,42.9295983 30.4500639,42.8861912 L30.5151745,42.8861912 C37.9811916,35.4201741 47.0098635,31.6871656 57.60119,31.6871656 L57.7097077,31.6871656 C62.6002383,31.6871656 67.1579813,32.468493 71.3829367,34.0311477 C76.3024053,35.912121 80.7660997,38.8638022 84.7740197,42.8861912 C88.2031787,46.3298193 90.8582449,50.0845314 92.7392182,54.1503275 C94.6346605,58.462097 95.7126029,63.1428268 95.9730453,68.1925166 C96.0019834,68.8291537 96.016828,69.4657909 96.016828,70.102428 C96.0598595,80.7082236 92.34132,89.7441299 84.8608339,97.210147 L84.7740197,97.210147 C77.3080026,104.748509 68.2503927,108.51769 57.60119,108.51769 C52.7540665,108.474283 48.2469651,107.692956 44.0798858,106.173708 C39.0880721,104.292735 34.5447981,101.304881 30.4500639,97.210147 C26.9774978,93.7375809 24.3079626,89.9394618 22.4414584,85.8157895 C20.2132285,81.0265421 19.120817,75.7887549 19.1642241,70.102428 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-33)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M57.7097077,31.6871656 L57.7097077,70.102428 L44.0798858,106.173708 C48.2469651,107.692956 52.7540665,108.474283 57.60119,108.51769 C68.2503927,108.51769 77.3080026,104.748509 84.7740197,97.210147 L84.8608339,97.210147 C92.34132,89.7441299 96.0598595,80.7082236 96.016828,70.102428 C96.016828,69.4657909 96.0019834,68.8291537 95.9730453,68.1925166 C95.7126029,63.1428268 94.6346605,58.462097 92.7392182,54.1503275 C90.8582449,50.0845314 88.2031787,46.3298193 84.7740197,42.8861912 C80.7660997,38.8638022 76.3024053,35.912121 71.3829367,34.0311477 C67.1579813,32.468493 62.6002383,31.6871656 57.7097077,31.6871656 L57.7097077,31.6871656 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-34)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M57.7097077,70.102428 L57.60119,70.0156138 L22.4414584,85.8157895 C24.3079626,89.9394618 26.9774978,93.7375809 30.4500639,97.210147 C34.5447981,101.304881 39.0880721,104.292735 44.0798858,106.173708 L57.7097077,70.102428 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-35)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M19.2076312,68.0839989 C19.1786931,68.7495741 19.1642241,69.4223838 19.1642241,70.102428 C19.120817,75.7887549 20.2132285,81.0265421 22.4414584,85.8157895 L57.60119,70.0156138 L57.7097077,70.102428 L57.7097077,31.6871656 C57.6807697,31.6871656 57.6445971,31.6871656 57.60119,31.6871656 C47.0098635,31.6871656 37.9811916,35.4201741 30.5151745,42.8861912 L30.4500639,42.8861912 C30.4500639,42.9295983 30.4066568,42.9802399 30.3198427,43.038116 C23.3602415,50.0266553 19.656171,58.3752829 19.2076312,68.0839989 L19.2076312,68.0839989 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-36)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M60.6396854,1.02006629 C60.1911456,0.55705748 59.6485571,0.32555307 59.01192,0.32555307 L2.47420334,0.32555307 C1.83756622,0.32555307 1.3094468,0.55705748 0.88984506,1.02006629 C0.42683625,1.43966803 0.19533184,1.96778745 0.19533184,2.60442457 C0.19533184,3.24106169 0.42683625,3.78365014 0.88984506,4.23218992 C1.3094468,4.66626069 1.83756622,4.88329607 2.47420334,4.88329607 L59.01192,4.88329607 C59.6485571,4.88329607 60.1911456,4.66626069 60.6396854,4.23218992 C61.0737561,3.78365014 61.2907915,3.24106169 61.2907915,2.60442457 C61.2907915,1.96778745 61.0737561,1.43966803 60.6396854,1.02006629 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-37)"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Robot-Move-Toggle",
+                                transform: "translate(218.568723, 17.097374)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M89.4912967,15.8776883 C89.9543055,12.6655647 88.5869826,10.8424675 85.389328,10.4083967 L37.8585796,3.98414949 C37.7862345,3.95521144 37.7211239,3.94074242 37.6632478,3.94074242 L9.01457751,0.0775126354 C5.78798485,-0.356558125 3.95041862,1.03246832 3.50187884,4.24459195 L0.0727198209,29.659435 C-0.346881909,32.8715586 1.04937904,34.6946558 4.26150267,35.1287266 L21.8413685,37.5161158 C22.6226959,39.8166908 23.838094,42.0449207 25.4875629,44.2008055 C25.6322532,44.4033718 25.798647,44.6059382 25.9867443,44.8085046 C25.7841779,45.3438585 25.6394877,45.8864469 25.5526735,46.4362699 C25.3501072,48.0857388 25.7335363,49.5760484 26.702961,50.9071988 C27.0357486,51.3412695 27.4047088,51.7102297 27.8098415,52.0140792 L49.0576053,52.0140792 L49.6653043,52.8605172 C50.1283131,52.7302959 50.5696184,52.6000747 50.9892201,52.4698535 C51.2207246,53.1064906 51.5535121,53.7286587 51.9875829,54.3363578 C53.0004147,55.6530391 54.331565,56.4271319 55.9810339,56.6586363 C56.053379,56.6586363 56.1401932,56.6658709 56.2414764,56.6803399 C56.6900161,57.5195433 57.181963,58.3298088 57.7173169,59.1111361 C57.6160338,59.2992335 57.5292196,59.5017998 57.4568745,59.7188352 L61.9712104,58.9375078 L61.9712104,123.201684 L165.388569,126.782768 L165.931157,126.782768 L169.186688,126.891286 C172.485626,126.992569 174.200205,125.42268 174.330427,122.181618 L176.262042,65.7958259 C176.377794,62.5547642 174.793436,60.8835918 171.508967,60.7823086 L66.029772,57.1361142 C65.8272057,57.1361142 65.6246393,57.1361142 65.422073,57.1361142 L64.4020067,57.1144106 C63.5483342,56.0726408 62.7670068,54.9295878 62.0580246,53.6852516 C62.4342192,53.0341455 62.6729581,52.2889907 62.7742413,51.4497872 C63.0057457,49.7858493 62.615082,48.3027742 61.6022503,47.0005619 C61.3996839,46.7545885 61.1971176,46.5013805 60.9945512,46.2409381 C61.9495069,45.2859824 62.8031794,44.2514471 63.5555687,43.1373321 L80.6579567,45.4596107 C83.8411423,45.8792124 85.6497704,44.4829515 86.0838412,41.2708278 L89.4912967,15.8776883 Z",
+                                  id: "Path",
+                                  "fill-opacity": "0.498039",
+                                  fill: "#017FC9"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(46.214441, 32.958372)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M30.5585816,18.6433392 C30.4138913,18.2816136 30.211325,17.977764 29.9508825,17.7317906 C29.6036259,17.3555959 29.2129622,17.087919 28.7788915,16.9287597 C28.4461039,16.7840694 28.1060818,16.6972553 27.7588252,16.6683172 C17.4858172,16.2342465 10.4466363,11.4522336 6.64128265,2.32227857 C6.29402604,1.45413705 5.700796,0.86090701 4.86159253,0.54258845 C4.05132711,0.23873892 3.22659266,0.24597343 2.38738919,0.56429199 C1.54818572,0.86814152 0.95495568,1.45413705 0.60769907,2.32227857 C0.27491148,3.14701302 0.27491148,3.96451295 0.60769907,4.77477838 C5.46929159,16.4223438 14.4183838,22.5499761 27.4549757,23.1576751 C28.3375862,23.2155512 29.1189136,22.9406397 29.7989578,22.3329407 C29.7989578,22.3040026 29.7989578,22.2750646 29.7989578,22.2461265 C30.3921878,21.6963036 30.7249754,21.0234939 30.7973205,20.2276975 C30.8262586,20.1553524 30.8262586,20.0830072 30.7973205,20.0106621 C30.8262586,19.5042462 30.7466789,19.0484719 30.5585816,18.6433392 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-38)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M35.5286918,20.1191798 C35.7891343,19.9166134 35.9193555,19.6778745 35.9193555,19.402963 C35.8904175,19.0991135 35.8036033,18.8459056 35.658913,18.6433392 C33.8068778,16.6755518 31.5786479,16.0823217 28.9742233,16.8636491 C28.9163472,16.8636491 28.8512366,16.8853526 28.7788915,16.9287597 C29.2129622,17.087919 29.6036259,17.3555959 29.9508825,17.7317906 C30.211325,17.977764 30.4138913,18.2816136 30.5585816,18.6433392 C31.904201,18.513118 33.0834265,18.9833613 34.0962583,20.0540692 C34.3277627,20.2566355 34.5665016,20.3579187 34.8124751,20.3579187 C35.1452626,20.3723877 35.3840016,20.2928081 35.5286918,20.1191798 L35.5286918,20.1191798 Z M34.6605503,23.0057504 C34.7184264,22.7019008 34.6460813,22.4486929 34.4435149,22.2461265 C33.372807,21.1320116 32.1574089,20.4592019 30.7973205,20.2276975 C30.7249754,21.0234939 30.3921878,21.6963036 29.7989578,22.2461265 C30.9998869,22.2750646 32.0416567,22.7597769 32.9242673,23.7002636 C33.0689575,23.9028299 33.3076964,24.0113476 33.640484,24.0258166 C33.9153955,24.0113476 34.1686034,23.9100644 34.4001078,23.7219671 C34.5737361,23.5194008 34.6605503,23.2806618 34.6605503,23.0057504 Z",
+                                      id: "Shape",
+                                      fill: "#32CCFF"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(50.989220, 41.639788)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M116.200743,52.2187126 L117.676583,8.96356122 C117.806805,5.73696856 116.222446,4.07303064 112.923509,3.97174747 L7.44431356,0.32555307 C4.1598448,0.19533184 2.4524998,1.75075207 2.32227857,4.99181376 L0.84643799,48.2252616 L116.200743,52.2187126 Z M65.2842425,14.8235165 C66.3404814,13.1740476 67.7584459,12.1756849 69.538136,11.8284282 L68.4963662,41.4754613 C67.4690653,41.4465232 66.6081583,41.0558595 65.9136451,40.3034702 C65.2336009,39.5366119 64.9080479,38.6467668 64.9369859,37.633935 L65.6966097,29.5819224 C64.9586894,29.4082941 64.401632,29.0465685 64.0254373,28.4967455 C63.6203046,27.9035154 63.4394418,27.2162367 63.4828489,26.4349094 L63.6781807,19.9889586 C63.7505258,18.0067021 64.2858798,16.2848881 65.2842425,14.8235165 L65.2842425,14.8235165 Z M59.2506589,11.4811716 L61.6597517,11.5462823 L61.3993092,19.07741 C61.3703712,20.1915249 60.9652384,21.1898877 60.1839111,22.0724982 C59.4749288,22.9117017 58.5778493,23.4687592 57.4926723,23.7436706 L57.3841547,38.8927402 C57.3552166,39.5004393 57.1381812,40.0213242 56.7330485,40.455395 C56.2989778,40.8605277 55.7925619,41.048625 55.2138009,41.019687 C54.6639779,41.019687 54.1937346,40.7881825 53.8030709,40.3251737 C53.3979382,39.8766339 53.2098408,39.3485145 53.2387789,38.7408155 L54.1937346,23.5917459 C53.1230267,23.1866132 52.2982922,22.5572106 51.7195312,21.7035381 C51.0828941,20.7630514 50.7790446,19.7719232 50.8079826,18.7301534 L51.0467215,11.2207292 L53.282186,11.2858398 L53.043447,18.230972 C53.028978,18.5203525 53.0940886,18.7518569 53.2387789,18.9254852 C53.4413452,19.0991135 53.6728496,19.1859277 53.9332921,19.1859277 C54.1792655,19.2148657 54.3818319,19.1425206 54.5409912,18.9688923 C54.7435575,18.7807949 54.8520752,18.5492905 54.8665442,18.2743791 L55.1052832,11.3292469 L57.4275617,11.3943575 L57.1888228,18.3611932 C57.1598848,18.6361047 57.2466989,18.8748436 57.4492653,19.07741 C57.6084246,19.2510383 57.8109909,19.3378524 58.0569643,19.3378524 C58.3463448,19.3667905 58.5633802,19.2944453 58.7080705,19.120817 C58.8816988,18.9327197 58.982982,18.7012153 59.01192,18.4263038 L59.2506589,11.4811716 Z",
+                                      id: "Shape",
+                                      fill: "url(#linearGradient-39)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M61.6597517,11.5462823 L59.2506589,11.4811716 L59.01192,18.4263038 C58.982982,18.7012153 58.8816988,18.9327197 58.7080705,19.120817 C58.5633802,19.2944453 58.3463448,19.3667905 58.0569643,19.3378524 C57.8109909,19.3378524 57.6084246,19.2510383 57.4492653,19.07741 C57.2466989,18.8748436 57.1598848,18.6361047 57.1888228,18.3611932 L57.4275617,11.3943575 L55.1052832,11.3292469 L54.8665442,18.2743791 C54.8520752,18.5492905 54.7435575,18.7807949 54.5409912,18.9688923 C54.3818319,19.1425206 54.1792655,19.2148657 53.9332921,19.1859277 C53.6728496,19.1859277 53.4413452,19.0991135 53.2387789,18.9254852 C53.0940886,18.7518569 53.028978,18.5203525 53.043447,18.230972 L53.282186,11.2858398 L51.0467215,11.2207292 L50.8079826,18.7301534 C50.7790446,19.7719232 51.0828941,20.7630514 51.7195312,21.7035381 C52.2982922,22.5572106 53.1230267,23.1866132 54.1937346,23.5917459 L53.2387789,38.7408155 C53.2098408,39.3485145 53.3979382,39.8766339 53.8030709,40.3251737 C54.1937346,40.7881825 54.6639779,41.019687 55.2138009,41.019687 C55.7925619,41.048625 56.2989778,40.8605277 56.7330485,40.455395 C57.1381812,40.0213242 57.3552166,39.5004393 57.3841547,38.8927402 L57.4926723,23.7436706 C58.5778493,23.4687592 59.4749288,22.9117017 60.1839111,22.0724982 C60.9652384,21.1898877 61.3703712,20.1915249 61.3993092,19.07741 L61.6597517,11.5462823 Z M69.538136,11.8284282 C67.7584459,12.1756849 66.3404814,13.1740476 65.2842425,14.8235165 C64.2858798,16.2848881 63.7505258,18.0067021 63.6781807,19.9889586 L63.4828489,26.4349094 C63.4394418,27.2162367 63.6203046,27.9035154 64.0254373,28.4967455 C64.401632,29.0465685 64.9586894,29.4082941 65.6966097,29.5819224 L64.9369859,37.633935 C64.9080479,38.6467668 65.2336009,39.5366119 65.9136451,40.3034702 C66.6081583,41.0558595 67.4690653,41.4465232 68.4963662,41.4754613 L69.538136,11.8284282 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M115.744969,65.3493531 L115.962004,58.7514776 L116.200743,52.2187126 L0.84643799,48.2252616 L0.60769907,54.7580266 L0.39066369,61.3776057 C0.26044246,64.6186673 1.84480074,66.2970743 5.14373852,66.4128265 L110.60123,70.0590209 C113.900168,70.1603041 115.614747,68.5904148 115.744969,65.3493531 Z M33.4234486,60.6179818 C32.7434044,60.5890438 32.0488912,60.5601057 31.339909,60.5311677 C29.9653516,60.4877606 28.5690906,60.437119 27.1511261,60.3792429 C21.5082062,60.2056146 15.4890917,60.0030483 9.09378245,59.7715438 C8.50055241,59.7426058 8.03030909,59.5255704 7.68305248,59.1204377 C7.27791977,58.700836 7.07535341,58.1944201 7.07535341,57.60119 C7.10429146,57.022429 7.34303038,56.5449512 7.79157017,56.1687565 C8.1532958,55.7636238 8.62353913,55.5755265 9.20230014,55.6044645 C15.5976094,55.8214999 21.6239584,56.0240663 27.2813474,56.2121636 C28.6848428,56.2555707 30.0738693,56.3062123 31.4484267,56.3640884 C32.1574089,56.3785574 32.8519221,56.4002609 33.5319663,56.429199 C33.6911256,56.429199 33.8285813,56.443668 33.9443335,56.4726061 L40.9111693,56.6896414 C62.5278932,57.4275617 73.7775604,57.8254599 74.660171,57.883336 C75.238932,57.883336 75.7308788,58.0931369 76.1360116,58.5127386 C76.5122062,58.9178713 76.6858345,59.4170527 76.6568965,60.0102828 C76.6568965,60.5890438 76.4470956,61.0809906 76.0274939,61.4861234 C75.6223611,61.862318 75.1304143,62.0504153 74.5516533,62.0504153 C73.6545737,62.0070083 62.397672,61.6163446 40.780948,60.8784243 L33.8358159,60.6396854 C33.7055946,60.6252163 33.5681389,60.6179818 33.4234486,60.6179818 L33.4234486,60.6179818 Z",
+                                      id: "Shape",
+                                      fill: "#C3D4E0"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M31.339909,60.5311677 C32.0488912,60.5601057 32.7434044,60.5890438 33.4234486,60.6179818 C33.5681389,60.6179818 33.7055946,60.6252163 33.8358159,60.6396854 L40.780948,60.8784243 C62.397672,61.6163446 73.6545737,62.0070083 74.5516533,62.0504153 C75.1304143,62.0504153 75.6223611,61.862318 76.0274939,61.4861234 C76.4470956,61.0809906 76.6568965,60.5890438 76.6568965,60.0102828 C76.6858345,59.4170527 76.5122062,58.9178713 76.1360116,58.5127386 C75.7308788,58.0931369 75.238932,57.883336 74.660171,57.883336 C73.7775604,57.8254599 62.5278932,57.4275617 40.9111693,56.6896414 L33.9443335,56.4726061 C33.8285813,56.443668 33.6911256,56.429199 33.5319663,56.429199 C32.8519221,56.4002609 32.1574089,56.3785574 31.4484267,56.3640884 C30.0738693,56.3062123 28.6848428,56.2555707 27.2813474,56.2121636 C21.6239584,56.0240663 15.5976094,55.8214999 9.20230014,55.6044645 C8.62353913,55.5755265 8.1532958,55.7636238 7.79157017,56.1687565 C7.34303038,56.5449512 7.10429146,57.022429 7.07535341,57.60119 C7.07535341,58.1944201 7.27791977,58.700836 7.68305248,59.1204377 C8.03030909,59.5255704 8.50055241,59.7426058 9.09378245,59.7715438 C15.4890917,60.0030483 21.5082062,60.2056146 27.1511261,60.3792429 C28.5690906,60.437119 29.9653516,60.4877606 31.339909,60.5311677 L31.339909,60.5311677 Z",
+                                      id: "Path",
+                                      fill: "#C4D4E0"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(47.516654, 41.639788)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M115.87519,52.1101949 L117.35103,8.85504353 C117.481252,5.61398185 115.896893,3.94280942 112.597956,3.84152624 L7.11876049,0.19533184 C3.83429173,0.07957964 2.12694673,1.64223438 1.9967255,4.88329607 L0.52088491,48.1167439 L115.87519,52.1101949 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-40)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M115.419415,65.2408354 L115.636451,58.6429599 L115.87519,52.1101949 L0.52088491,48.1167439 L0.282146,54.6495089 L0.06511061,61.2473844 C-0.06511061,64.4884461 1.51924766,66.1740876 4.81818545,66.3043088 L110.29738,69.9505032 C113.581849,70.0517864 115.289194,68.4818971 115.419415,65.2408354 Z M40.455395,60.7699066 L33.5536699,60.5311677 C33.4234486,60.5022296 33.2859929,60.4877606 33.1413026,60.4877606 C32.4467894,60.4732916 31.7522762,60.451588 31.057763,60.42265 C29.6832056,60.3647739 28.2869446,60.3141323 26.8689801,60.2707252 C21.2260602,60.0970969 15.1997112,59.8945306 8.78993292,59.6630262 C8.2111719,59.6340881 7.73369407,59.4170527 7.35749941,59.01192 C6.9523667,58.5778493 6.74980034,58.0714334 6.74980034,57.4926723 C6.77873839,56.9139113 7.01747731,56.4364335 7.4660171,56.0602388 C7.84221176,55.6551061 8.32692411,55.4670088 8.92015415,55.4959468 C15.3154634,55.7129822 21.3345779,55.9083141 26.9774978,56.0819424 C28.3954623,56.1398185 29.7917233,56.1904601 31.1662807,56.2338671 C31.8752629,56.2628052 32.5697761,56.2917432 33.2498203,56.3206813 C33.3945106,56.3206813 33.5319663,56.3351503 33.6621875,56.3640884 L40.5856162,56.5811237 C62.2168091,57.319044 73.4809454,57.7097077 74.378025,57.7531148 C74.956786,57.7531148 75.4487328,57.9701502 75.8538656,58.4042209 C76.2300602,58.8093537 76.4036885,59.3013005 76.3747505,59.8800615 C76.3747505,60.4732916 76.1649496,60.972473 75.7453479,61.3776057 C75.3402152,61.7538003 74.8410338,61.9418977 74.2478037,61.9418977 C73.3651932,61.8840216 62.1010569,61.4933579 40.455395,60.7699066 L40.455395,60.7699066 Z",
+                                      id: "Shape",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M33.5536699,60.5311677 L40.455395,60.7699066 C62.1010569,61.4933579 73.3651932,61.8840216 74.2478037,61.9418977 C74.8410338,61.9418977 75.3402152,61.7538003 75.7453479,61.3776057 C76.1649496,60.972473 76.3747505,60.4732916 76.3747505,59.8800615 C76.4036885,59.3013005 76.2300602,58.8093537 75.8538656,58.4042209 C75.4487328,57.9701502 74.956786,57.7531148 74.378025,57.7531148 C73.4809454,57.7097077 62.2168091,57.319044 40.5856162,56.5811237 L33.6621875,56.3640884 C33.5319663,56.3351503 33.3945106,56.3206813 33.2498203,56.3206813 C32.5697761,56.2917432 31.8752629,56.2628052 31.1662807,56.2338671 C29.7917233,56.1904601 28.3954623,56.1398185 26.9774978,56.0819424 C21.3345779,55.9083141 15.3154634,55.7129822 8.92015415,55.4959468 C8.32692411,55.4670088 7.84221176,55.6551061 7.4660171,56.0602388 C7.01747731,56.4364335 6.77873839,56.9139113 6.74980034,57.4926723 C6.74980034,58.0714334 6.9523667,58.5778493 7.35749941,59.01192 C7.73369407,59.4170527 8.2111719,59.6340881 8.78993292,59.6630262 C15.1997112,59.8945306 21.2260602,60.0970969 26.8689801,60.2707252 C28.2869446,60.3141323 29.6832056,60.3647739 31.057763,60.42265 C31.7522762,60.451588 32.4467894,60.4732916 33.1413026,60.4877606 C33.2859929,60.4877606 33.4234486,60.5022296 33.5536699,60.5311677 L33.5536699,60.5311677 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-41)"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Robot",
+                                transform: "translate(210.958390, 0.000000)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M51.025018,53.3747505 C51.2420534,54.0113876 51.5676065,54.6335557 52.0016772,55.2412547 C53.014509,56.5579361 54.3456593,57.3320289 55.9951282,57.5635333 C57.6590661,57.7950377 59.1493758,57.404374 60.4660571,56.3915423 C61.8116764,55.3497724 62.5857693,54.0041531 62.7883356,52.3546842 C63.01984,50.6907463 62.6291764,49.2149057 61.6163446,47.9271624 C61.4137782,47.66672 61.2112119,47.413512 61.0086455,47.1675386 C60.169442,47.992273 59.2578934,48.7880694 58.2739997,49.5549278 C55.9734247,51.2912108 53.5570974,52.564485 51.025018,53.3747505 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-42)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M25.5667678,47.3411669 C25.3642015,48.9906358 25.7476307,50.4881799 26.7170554,51.8337993 C27.7588252,53.1504806 29.09721,53.9173389 30.7322099,54.1343743 C32.3816788,54.3658787 33.8792229,53.975215 35.2248423,52.9623832 C35.2971874,52.9189762 35.3840016,52.846631 35.4852847,52.7453479 C36.6572758,51.7469851 37.3445545,50.4809454 37.5471209,48.9472287 C37.7641562,47.2688218 37.366258,45.7857467 36.3534263,44.4980034 C35.3405945,43.152384 34.0166787,42.3710567 32.3816788,42.1540213 C30.7322099,41.9225169 29.2201968,42.3276496 27.8456393,43.3694194 C26.9919668,44.0205256 26.3770333,44.8018529 26.0008386,45.7134015 C25.7982723,46.2487555 25.653582,46.7913439 25.5667678,47.3411669 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-43)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M32.9459708,39.8968533 L21.8554628,38.4210127 C22.6367902,40.7215878 23.8521883,42.9498177 25.5016572,45.1057025 C25.6463475,45.3082688 25.8127413,45.5108352 26.0008386,45.7134015 C26.3770333,44.8018529 26.9919668,44.0205256 27.8456393,43.3694194 C29.2201968,42.3276496 30.7322099,41.9225169 32.3816788,42.1540213 C34.0166787,42.3710567 35.3405945,43.152384 36.3534263,44.4980034 C37.366258,45.7857467 37.7641562,47.2688218 37.5471209,48.9472287 C37.3445545,50.4809454 36.6572758,51.7469851 35.4852847,52.7453479 C37.2070988,53.396454 39.044665,53.8594628 40.9979834,54.1343743 C44.5139566,54.6263212 47.8563014,54.3731132 51.025018,53.3747505 C53.5570974,52.564485 55.9734247,51.2912108 58.2739997,49.5549278 C59.2578934,48.7880694 60.169442,47.992273 61.0086455,47.1675386 C61.9636012,46.1981139 62.8245082,45.1563441 63.5913665,44.0422291 L33.1413026,39.9402604 C33.0544885,39.9113224 32.9893779,39.8968533 32.9459708,39.8968533 L32.9459708,39.8968533 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-44)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M9.02867184,0.9824096 C5.8165482,0.5628078 3.97898198,1.9590688 3.51597317,5.1711924 L0.10851769,30.564332 C-0.32555307,33.7764556 1.06347337,35.5995528 4.275597,36.0336236 L21.8554628,38.4210127 L32.9459708,39.8968533 C32.5119,39.8245082 32.1067673,39.723225 31.7305727,39.5930038 C29.5457498,38.8695525 28.6342012,37.1622075 28.9959269,34.4709688 L32.4033823,9.0778293 C32.8374531,5.9380508 34.6026742,4.5345553 37.6990456,4.8673429 L9.02867184,0.9824096 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-45)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M89.505391,16.7825853 C89.9683998,13.5704616 88.6083114,11.7473645 85.4251258,11.3132937 L37.8726739,4.8890464 C37.8003288,4.8745774 37.7424527,4.8673429 37.6990456,4.8673429 C34.6026742,4.5345553 32.8374531,5.9380508 32.4033823,9.0778293 L28.9959269,34.4709688 C28.6342012,37.1622075 29.5457498,38.8695525 31.7305727,39.5930038 C32.1067673,39.723225 32.5119,39.8245082 32.9459708,39.8968533 C32.9893779,39.8968533 33.0544885,39.9113224 33.1413026,39.9402604 L63.5913665,44.0422291 L80.672051,46.3645077 C83.8552366,46.7985784 85.6638648,45.4023175 86.0979355,42.1757248 L89.505391,16.7825853 Z M76.6351929,22.620837 C77.3297061,22.7076512 77.8795291,23.0259697 78.2846618,23.5757927 C78.7042636,24.1111466 78.8634228,24.7043767 78.7621397,25.3554828 L78.1327371,30.1953718 C78.0314539,30.9043541 77.7131353,31.468646 77.1777814,31.8882478 C76.6134894,32.2933805 75.9913213,32.4597743 75.3112771,32.3874292 C74.6312329,32.286146 74.1031135,31.9605929 73.7269188,31.4107699 C73.26391,30.875416 73.0830472,30.2532479 73.1843304,29.5442657 L73.8354365,24.7260802 C73.9367197,24.060505 74.2622728,23.5106821 74.8120957,23.0766113 C75.3474497,22.6714786 75.9551487,22.5195538 76.6351929,22.620837 L76.6351929,22.620837 Z M44.4054389,18.2584259 C45.0854831,18.330771 45.6280715,18.6490896 46.0332042,19.2133815 C46.467275,19.7632045 46.6336688,20.3709036 46.5323856,21.0364787 L45.8812795,25.8546642 C45.7799963,26.5636464 45.4689123,27.1207039 44.9480273,27.5258366 C44.3837354,27.9309693 43.7615673,28.0973631 43.0815231,28.025018 C42.4014789,27.9237348 41.8588904,27.6054163 41.4537577,27.0700623 C41.019687,26.5202394 40.8532932,25.8908368 40.9545763,25.1818545 L41.6056825,20.3419655 C41.7069657,19.6908594 42.0180497,19.16274 42.5389346,18.7576072 C43.1032266,18.3235365 43.7253947,18.1571427 44.4054389,18.2584259 L44.4054389,18.2584259 Z M58.2305926,38.5078269 C57.0151945,38.3052605 55.9517211,37.9507694 55.0401725,37.4443535 C54.0996859,36.9524067 53.607739,36.4459908 53.564332,35.9251059 C53.5353939,35.433159 53.7886019,35.2161236 54.3239558,35.2739997 L62.8968533,36.4025837 C63.4032692,36.5038669 63.555194,36.7860129 63.3526276,37.2490217 C63.2224064,37.7554376 62.6436454,38.1243977 61.6163446,38.3559021 C60.6035128,38.5729375 59.4749288,38.6235791 58.2305926,38.5078269 L58.2305926,38.5078269 Z",
+                                  id: "Shape",
+                                  fill: "#FFFFFF"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M55.0401725,37.4443535 C55.9517211,37.9507694 57.0151945,38.3052605 58.2305926,38.5078269 C59.4749288,38.6235791 60.6035128,38.5729375 61.6163446,38.3559021 C62.6436454,38.1243977 63.2224064,37.7554376 63.3526276,37.2490217 C63.555194,36.7860129 63.4032692,36.5038669 62.8968533,36.4025837 L54.3239558,35.2739997 C53.7886019,35.2161236 53.5353939,35.433159 53.564332,35.9251059 C53.607739,36.4459908 54.0996859,36.9524067 55.0401725,37.4443535 L55.0401725,37.4443535 Z",
+                                  id: "Path",
+                                  fill: "#F16780"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M46.0332042,19.2133815 C45.6280715,18.6490896 45.0854831,18.330771 44.4054389,18.2584259 C43.7253947,18.1571427 43.1032266,18.3235365 42.5389346,18.7576072 C42.0180497,19.16274 41.7069657,19.6908594 41.6056825,20.3419655 L40.9545763,25.1818545 C40.8532932,25.8908368 41.019687,26.5202394 41.4537577,27.0700623 C41.8588904,27.6054163 42.4014789,27.9237348 43.0815231,28.025018 C43.7615673,28.0973631 44.3837354,27.9309693 44.9480273,27.5258366 C45.4689123,27.1207039 45.7799963,26.5636464 45.8812795,25.8546642 L46.5323856,21.0364787 C46.6336688,20.3709036 46.467275,19.7632045 46.0332042,19.2133815 L46.0332042,19.2133815 Z M78.2846618,23.5757927 C77.8795291,23.0259697 77.3297061,22.7076512 76.6351929,22.620837 C75.9551487,22.5195538 75.3474497,22.6714786 74.8120957,23.0766113 C74.2622728,23.5106821 73.9367197,24.060505 73.8354365,24.7260802 L73.1843304,29.5442657 C73.0830472,30.2532479 73.26391,30.875416 73.7269188,31.4107699 C74.1031135,31.9605929 74.6312329,32.286146 75.3112771,32.3874292 C75.9913213,32.4597743 76.6134894,32.2933805 77.1777814,31.8882478 C77.7131353,31.468646 78.0314539,30.9043541 78.1327371,30.1953718 L78.7621397,25.3554828 C78.8634228,24.7043767 78.7042636,24.1111466 78.2846618,23.5757927 L78.2846618,23.5757927 Z",
+                                  id: "Shape",
+                                  fill: "#839FB6"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Robot-Hand",
+                                transform: "translate(240.041131, 50.489817)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M31.8824974,26.6085377 C31.8535594,26.3191572 31.7233381,26.0659492 31.4918337,25.8489138 C31.2892674,25.6608165 31.0505285,25.5667678 30.775617,25.5667678 C29.618095,25.6246439 28.5835596,25.371436 27.672011,24.807144 C27.5417898,24.7347989 27.4260376,24.6479847 27.3247544,24.5467016 C27.064312,24.4020113 26.796635,24.3369007 26.5217235,24.3513697 C26.217874,24.4092458 25.9936041,24.5539361 25.8489138,24.7854405 C25.6897546,24.9880068 25.6246439,25.2267458 25.653582,25.5016572 C25.6246439,25.5305953 25.6246439,25.5522988 25.653582,25.5667678 C25.7114581,25.8272103 25.8489138,26.0587147 26.0659492,26.2612811 C27.4549757,27.2741128 29.053803,27.7443562 30.8624311,27.672011 C31.1373426,27.643073 31.3760815,27.5273208 31.5786479,27.3247544 C31.7522762,27.1221881 31.8535594,26.8834492 31.8824974,26.6085377 L31.8824974,26.6085377 Z M26.5651306,21.2477638 C26.3915023,21.4792682 26.3263917,21.7469451 26.3697988,22.0507947 C26.4276749,22.3257062 26.5651306,22.535507 26.782166,22.6801973 C27.346458,23.1432061 27.9469225,23.4759937 28.5835596,23.67856 C29.5095773,24.0113476 30.50794,24.1632724 31.5786479,24.1343343 C31.8535594,24.1053963 32.1067673,23.9896441 32.3382717,23.7870777 C32.5119,23.5845114 32.5842452,23.3457725 32.5553071,23.070861 C32.5553071,22.7959495 32.4540239,22.5572106 32.2514576,22.3546442 C32.0488912,22.1520779 31.7956833,22.0580292 31.4918337,22.0724982 C30.5368781,22.1014363 29.6687365,21.927808 28.8874092,21.5516133 C28.5835596,21.4213921 28.2869446,21.2549983 27.9975641,21.0524319 C27.7805287,20.8788036 27.5273208,20.813693 27.2379403,20.8571001 C26.9340907,20.9149762 26.7098209,21.0451974 26.5651306,21.2477638 L26.5651306,21.2477638 Z",
+                                  id: "Shape",
+                                  fill: "#293147"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M0.71621676,1.90991135 C0.282146,2.72017677 0.18809733,3.55938024 0.43407076,4.42752177 C4.08026516,16.4946889 12.3493132,23.4904627 25.2412148,25.4148431 C25.385905,25.4437811 25.5233608,25.4727192 25.653582,25.5016572 C25.6246439,25.2267458 25.6897546,24.9880068 25.8489138,24.7854405 C25.9936041,24.5539361 26.217874,24.4092458 26.5217235,24.3513697 C26.796635,24.3369007 27.064312,24.4020113 27.3247544,24.5467016 C27.4260376,24.6479847 27.5417898,24.7347989 27.672011,24.807144 C28.0771438,24.4888255 28.3809933,24.1126308 28.5835596,23.67856 C27.9469225,23.4759937 27.346458,23.1432061 26.782166,22.6801973 C26.5651306,22.535507 26.4276749,22.3257062 26.3697988,22.0507947 C26.3263917,21.7469451 26.3915023,21.4792682 26.5651306,21.2477638 C26.7098209,21.0451974 26.9340907,20.9149762 27.2379403,20.8571001 C27.5273208,20.813693 27.7805287,20.8788036 27.9975641,21.0524319 C28.2869446,21.2549983 28.5835596,21.4213921 28.8874092,21.5516133 C28.786126,21.0886045 28.5907942,20.6690028 28.3014136,20.2928081 C27.7515907,19.5548878 27.0353739,19.1280516 26.1527634,19.0122993 C15.9955076,17.5075207 9.49891516,12.0237601 6.66298619,2.56101749 C6.41701276,1.70734499 5.90336236,1.06347337 5.12203498,0.6294026 C4.31176956,0.19533184 3.47256609,0.10851769 2.60442457,0.36896015 C1.7652211,0.61493358 1.13581849,1.12858398 0.71621676,1.90991135 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-46)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Toggle",
+                                transform: "translate(291.695552, 70.023001)",
+                                fill: "#FFFFFF"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M4.94840668,4.05856162 C1.95331843,6.83661449 0.37619466,10.2657735 0.21703538,14.3460387 C0.0578761,18.4263038 1.3673229,21.971215 4.14537577,24.9807723 C6.92342864,27.9903296 10.3598222,29.5746879 14.4545564,29.7338472 L50.3522083,31.1228736 C54.4324735,31.2820329 57.9701502,29.9725861 60.9652384,27.1945332 C63.9603267,24.4164803 65.5374505,20.9873213 65.6966097,16.9070562 C65.855769,12.826791 64.5535567,9.28187978 61.7899729,6.2723225 C59.01192,3.27723425 55.582761,1.70011048 51.5024958,1.5409512 L15.6048439,0.15192477 C11.5101097,-0.00723451 7.96519847,1.28774326 4.97011022,4.03685808 L4.94840668,4.05856162 Z M51.3722746,5.07862791 C54.4831151,5.20884914 57.0875396,6.40977824 59.1855483,8.68141523 C61.298026,10.9675212 62.2891543,13.6659945 62.158933,16.7768349 C62.0431808,19.8732064 60.8422517,22.4776309 58.5561457,24.5901086 L58.5561457,24.6118122 C56.2700397,26.7098209 53.578801,27.6937146 50.4824296,27.5634933 L14.5847776,26.1744669 C11.4739371,26.0442457 8.86227805,24.8505511 6.74980034,22.5933831 C4.63732263,20.3072771 3.63895988,17.6088039 3.75471209,14.4979634 C3.88493331,11.401592 5.09309693,8.78993292 7.37920294,6.66298619 C9.66530895,4.55050848 12.3637822,3.55938024 15.4746226,3.68960147 L51.3722746,5.07862791 Z",
+                                  id: "Shape",
+                                  "fill-opacity": "0.298039"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M51.4373852,7.27068525 C49.006589,7.16940208 46.8941113,7.94349493 45.0999521,9.59296383 C43.320262,11.2424327 42.3870099,13.2753308 42.3001957,15.691658 C42.1989125,18.1224543 42.9730054,20.2276975 44.6224743,22.0073876 C46.2719432,23.7870777 48.3120757,24.7275644 50.742872,24.8288476 C53.1736683,24.9156617 55.2789115,24.1343343 57.0586016,22.4848654 C58.8382917,20.8498656 59.7787784,18.8169675 59.8800615,16.3861712 C59.9668757,13.969844 59.1855483,11.8646008 57.5360794,10.0704417 C55.9010796,8.29075154 53.8681815,7.35749941 51.4373852,7.27068525 Z",
+                                  id: "Path"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M273.008805,407.426204 C267.336947,406.74616 260.485864,406.406138 252.455554,406.406138 C244.454183,406.406138 237.610334,406.74616 231.924007,407.426204 C226.281088,408.106248 223.459628,408.967155 223.459628,410.008925 C223.459628,410.992819 226.281088,411.839257 231.924007,412.548239 C237.610334,413.257222 244.454183,413.611713 252.455554,413.611713 C260.485864,413.611713 267.336947,413.257222 273.008805,412.548239 C278.651725,411.839257 281.473185,410.992819 281.473185,410.008925 C281.473185,408.967155 278.651725,408.106248 273.008805,407.426204 Z",
+                              id: "Shadow",
+                              "fill-opacity": "0.298039",
+                              fill: "#000000"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M208.028412,319.526875 C207.91266,319.657096 207.789673,319.801786 207.659452,319.960946 C206.183611,321.595946 204.548612,325.632804 202.754452,332.07152 L202.711045,332.028113 C202.161222,332.259617 201.633103,332.527294 201.126687,332.831144 C197.784342,334.654241 195.353546,337.880834 193.834298,342.510922 C193.689608,343.017338 193.016798,343.928886 191.815869,345.245567 C191.917152,345.245567 192.011201,345.252802 192.098015,345.267271 C191.909918,345.252802 191.757993,345.245567 191.642241,345.245567 C191.584365,345.245567 191.540958,345.245567 191.51202,345.245567 C190.991135,345.216629 190.629409,345.404727 190.426843,345.809859 C190.340029,345.911143 190.289387,346.026895 190.274918,346.157116 L190.188104,346.721408 C188.567573,348.790479 187.619852,350.497824 187.34494,351.843443 C187.070029,353.160124 188.234786,355.807956 190.83921,359.786938 C193.443635,363.751451 195.114807,366.638021 195.852727,368.44665 C195.51994,368.461119 195.368015,368.634747 195.396953,368.967535 L195.548878,371.919216 C195.577816,372.252003 195.751444,372.403928 196.069763,372.37499 C196.098701,372.664371 196.11317,372.932048 196.11317,373.178021 L196.221688,374.805786 C196.250626,374.863662 196.265095,374.928773 196.265095,375.001118 L196.351909,376.455255 C196.366378,376.672291 196.388081,376.89656 196.417019,377.128065 C196.894497,383.8851 197.415382,388.565829 197.979674,391.170254 C198.254586,392.385652 198.507793,393.695099 198.739298,395.098594 L257.469072,395.098594 C257.845267,393.0874 257.657169,391.300475 256.90478,389.737821 C255.617037,387.032113 254.654846,385.7299 254.018209,385.831184 C253.048785,386.988706 252.202347,386.974237 251.478895,385.787777 C250.191152,383.733175 247.78206,381.034702 244.251617,377.692357 C242.819184,376.30333 241.401219,375.232623 239.997724,374.480233 C241.140777,379.558861 241.068432,383.103772 239.780688,385.114967 C238.796795,384.304701 237.632038,383.566781 236.286419,382.901206 C228.892747,379.312888 224.161375,375.290499 222.092305,370.834039 C222.410623,370.805101 222.562548,370.624238 222.548079,370.29145 L222.396154,367.339769 C226.490889,367.267424 230.346884,366.13884 233.96414,363.954017 L230.817127,363.150986 C231.829959,363.006296 232.878963,362.49988 233.96414,361.631739 C233.747105,361.414703 233.537304,361.175964 233.334738,360.915522 C231.858897,359.049018 231.309074,356.63269 231.685269,353.66654 C231.916773,351.134461 232.032525,349.767138 232.032525,349.564572 C233.479428,340.752935 234.202879,333.286918 234.202879,327.16652 C234.217348,325.647273 233.710932,324.721255 232.683631,324.388467 C232.582348,324.34506 232.481065,324.323357 232.379782,324.323357 C232.206154,324.265481 232.018056,324.236543 231.81549,324.236543 C226.548765,324.091852 221.998256,326.153689 218.163964,330.422051 C217.715425,330.986343 217.266885,331.557869 216.818345,332.13663 C216.557903,332.093223 216.311929,332.042582 216.080425,331.984706 C215.429319,328.975148 214.054761,325.53152 211.956753,321.653822 C210.611133,319.208556 209.301686,318.499574 208.028412,319.526875 L208.028412,319.526875 Z",
+                              id: "Dog-Shadow",
+                              "fill-opacity": "0.498039",
+                              fill: "#017FC9"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M218.815071,267.937565 L220.486244,271.583759 C222.077836,275.027388 224.190314,276.669622 226.823677,276.510463 C227.590535,276.467056 228.292283,276.3296 228.92892,276.098095 C232.965778,274.506503 236.503455,271.974423 239.54195,268.501857 C239.730047,268.371636 239.874737,268.248649 239.976021,268.132897 C240.019428,268.046083 240.077304,267.980972 240.149649,267.937565 L218.815071,267.937565 Z M296.578848,271.27991 C295.971149,269.355529 294.755751,267.583074 292.932654,265.962543 C288.751105,262.547853 284.612964,259.371902 280.51823,256.43469 L280.51823,253.287677 C279.809248,252.79573 279.100265,252.339956 278.391283,251.920354 C277.10354,251.052212 275.801328,250.227478 274.484646,249.446151 C273.341593,248.780575 271.279757,247.514536 268.299138,245.648031 C265.30405,243.767058 262.641749,241.842678 260.312236,239.87489 C259.892634,239.527634 259.530909,239.223784 259.227059,238.963342 C259.834758,240.251085 258.930444,242.450377 256.514117,245.561217 L246.66071,247.579646 L246.573896,247.579646 C246.472613,247.637522 246.356861,247.673695 246.22664,247.688164 C246.081949,247.74604 245.944494,247.796682 245.814272,247.840089 L243.426883,263.336415 C243.499228,263.191725 243.586042,263.0398 243.687326,262.880641 C243.846485,262.649136 243.983941,262.424866 244.099693,262.207831 L244.533764,261.448207 C244.504826,263.48834 244.758034,265.651459 245.293387,267.937565 C245.495954,268.820176 245.734693,269.717255 246.009604,270.628804 C246.747525,274.274998 246.899449,276.61898 246.465379,277.66075 C246.161529,278.485485 245.618941,279.556192 244.837613,280.872874 C244.635047,281.278006 244.418011,281.675905 244.186507,282.066568 C244.128631,282.081037 244.099693,282.11721 244.099693,282.175086 C243.578808,283.028759 243.072392,283.911369 242.580445,284.822918 C240.656065,288.64274 239.353853,293.012386 238.673808,297.931855 C238.427835,314.658048 239.60706,330.892294 242.211485,346.634594 C244.642281,364.301274 245.792569,380.455941 245.662348,395.098595 L254.539095,395.098595 C254.1629,392.277135 254.256949,387.683219 254.821241,381.316848 C255.472347,373.315477 255.320422,367.224017 254.365466,363.042469 C253.352635,358.788575 253.656484,353.319284 255.277015,346.634594 L263.784802,346.634594 C265.419802,353.319284 265.730886,358.788575 264.718054,363.042469 C263.763098,367.224017 263.603939,373.315477 264.240576,381.316848 C264.790399,387.683219 264.891682,392.277135 264.544426,395.098595 L273.421173,395.098595 C273.262014,380.455941 274.390598,364.301274 276.806925,346.634594 L276.763518,346.634594 C278.760243,331.051454 278.507035,315.338092 276.003894,299.494509 L275.743451,297.845041 C276.220929,297.830571 276.785221,297.743757 277.436327,297.584598 C278.88323,296.947961 279.33177,295.935129 278.781947,294.546103 C279.433053,294.068625 280.011814,293.612851 280.51823,293.17878 L280.51823,289.120218 L293.345021,278.572299 C296.282233,276.242786 297.360175,273.811989 296.578848,271.27991 L296.578848,271.27991 Z M287.007588,273.558781 C287.166747,274.036259 285.965818,275.222719 283.4048,277.118162 L275.960487,282.891303 L275.960487,285.560838 C275.584292,285.734466 275.193628,285.958736 274.788496,286.233648 C273.876947,286.79794 273.001571,287.369466 272.162368,287.948227 L269.992014,284.41055 C269.514536,283.658161 269.15281,282.884068 268.906837,282.088272 C268.342545,280.496679 268.277434,278.905086 268.711505,277.313493 L273.225841,261.166061 C274.166328,261.672477 275.077876,262.171658 275.960487,262.663605 L275.960487,265.116105 C277.682301,266.08553 279.201549,266.989844 280.51823,267.829047 C284.844468,270.505817 287.007588,272.415728 287.007588,273.558781 L287.007588,273.558781 Z",
+                              id: "Female-Shadow",
+                              "fill-opacity": "0.498039",
+                              fill: "#017FC9"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Female",
+                                transform: "translate(201.408833, 204.997305)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M55.9083141,191.88098 C55.1993318,194.659033 55.286146,197.111533 56.1687565,199.238479 L58.8816988,205.25036 L62.397672,205.25036 L62.397672,202.12505 C62.7883356,202.052705 63.5624285,202.588059 64.7199505,203.731112 C65.8340655,204.845227 67.7439768,205.351643 70.4496846,205.25036 L76.2228257,205.25036 C76.381985,205.062262 76.4832682,204.64266 76.5266752,203.991554 C76.5845513,203.383855 74.6963435,201.951422 70.8620518,199.694254 C67.4473618,197.654121 65.5663885,195.049697 65.2191319,191.88098 L55.9083141,191.88098 Z M37.3734926,191.88098 C36.9972979,195.049697 35.0873865,197.654121 31.6437585,199.694254 C27.8818119,201.951422 26.0225421,203.383855 26.0659492,203.991554 C26.0948873,204.64266 26.1961705,205.062262 26.3697988,205.25036 L32.1429399,205.25036 C34.8486476,205.351643 36.758559,204.845227 37.8726739,203.731112 C39.044665,202.588059 39.8187578,202.052705 40.1949525,202.12505 L40.1949525,205.25036 L43.7326292,205.25036 L46.4238679,199.238479 C47.2775404,197.111533 47.3643546,194.659033 46.6843104,191.88098 L37.3734926,191.88098 Z",
+                                  id: "Shape",
+                                  fill: "#FFFFFF"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(33.000000, 80.000000)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M22.5393539,61.637289 C24.1743538,68.321979 24.4854378,73.791271 23.4726061,78.045164 C22.5176504,82.226713 22.3584911,88.318172 22.9951282,96.319543 C23.7041105,104.306445 23.6751724,109.493591 22.9083141,111.88098 L32.2191319,111.88098 C32.1901939,111.577131 32.1757248,111.244343 32.1757248,110.882617 C31.9731585,96.051866 33.1017424,79.636757 35.5614768,61.637289 L35.5180697,61.637289 L22.5393539,61.637289 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-48)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M13.1200184,78.045164 C12.1071866,73.791271 12.4110362,68.321979 14.031567,61.637289 L0.9660371,61.637289 C3.4402404,79.636757 4.5905279,96.051866 4.4168996,110.882617 C4.4168996,111.244343 4.4024306,111.577131 4.3734926,111.88098 L13.6843104,111.88098 C12.9319211,109.493591 12.8957485,104.306445 13.5757927,96.319543 C14.2268988,88.318172 14.0749741,82.226713 13.1200184,78.045164 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-49)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M38.0139766,0.2162767 C36.6828262,-0.2612011 35.1925166,0.078821 33.5430477,1.236343 C32.6314991,1.800635 31.7561231,2.3721615 30.9169196,2.9509225 C30.3960347,3.3560552 29.9040878,3.7828915 29.441079,4.2314313 L29.397672,4.3182454 C28.4427163,5.6349267 28.3197296,6.937139 29.0287118,8.2248823 C28.9563667,9.1653689 29.3759684,9.8960547 30.287517,10.4169396 C30.2296409,11.0101696 30.7939329,11.5961652 31.980393,12.1749262 C32.1395523,12.6813421 32.6821407,12.93455 33.6081583,12.93455 C33.8975388,12.93455 34.1941539,12.905612 34.4980034,12.8477359 C34.9754812,12.8332668 35.5397732,12.7464527 36.1908794,12.5872934 C37.6377819,11.9506563 38.0863217,10.9378245 37.5364987,9.5487981 C40.517118,7.3205682 41.8916754,5.6783338 41.660171,4.6220949 L38.0139766,0.2162767 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-50)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M46.9881599,41.3669436 L46.9881599,41.4537577 C45.7727618,45.3459255 44.9118548,50.9382039 44.4054389,58.2305926 C44.0003062,65.4506363 44.1160584,72.6489764 44.7526955,79.825613 C44.7961026,80.3175599 44.8467442,80.7878032 44.9046203,81.236343 C45.6425406,88.9049264 40.8171206,92.8043288 30.4283604,92.93455 C30.1823869,109.660743 31.3616125,125.89499 33.9660371,141.637289 L47.031567,141.637289 L55.5393539,141.637289 L68.5180697,141.637289 C70.5147952,126.054149 70.2615872,110.340788 67.7584459,94.4972048 C63.7649949,94.3380455 60.5384022,94.0052579 58.0786679,93.498842 C51.4229162,92.1532226 48.4350625,87.5954797 49.1151067,79.825613 C49.1151067,79.7532679 49.1151067,79.7026263 49.1151067,79.6736883 C49.9253721,71.8314765 51.2565224,64.6186673 53.1085577,58.0352608 C54.8448407,52.1174294 56.161522,47.0026289 57.0586016,42.6908594 C57.1020087,42.473824 57.1381812,42.2495541 57.1671193,42.0180497 C57.1381812,42.0903948 57.0730706,42.1555054 56.9717874,42.2133815 C54.8448407,44.1377619 52.5949073,44.9046203 50.2219871,44.5139566 C48.3988899,44.2390451 47.3354165,43.2189788 47.031567,41.4537577 C47.0035333,41.425724 46.9890642,41.3967859 46.9881599,41.3669436 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-51)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M53.6728496,37.4168996 C53.6728496,37.2143333 53.6873187,37.0045324 53.7162567,36.787497 C51.9076286,37.4386032 49.7806818,37.916081 47.3354165,38.2199305 C47.5090448,38.6684703 47.6320316,39.1097756 47.7043767,39.5438464 C47.7622528,39.920041 47.6899077,40.2383596 47.4873413,40.498802 C47.4149962,40.6724303 47.299244,40.7881825 47.1400847,40.8460586 C47.0677396,40.9907489 47.017098,41.1643772 46.9881599,41.3669436 C46.9890642,41.3967859 47.0035333,41.425724 47.031567,41.4537577 C47.3354165,43.2189788 48.3988899,44.2390451 50.2219871,44.5139566 C52.5949073,44.9046203 54.8448407,44.1377619 56.9717874,42.2133815 C57.0730706,42.1555054 57.1381812,42.0903948 57.1671193,42.0180497 C57.1960573,41.8588904 57.2322299,41.6707931 57.275637,41.4537577 L57.275637,41.4103506 L57.2322299,40.9111693 C57.1598848,40.9111693 57.0875396,40.9111693 57.0151945,40.9111693 C56.9139113,40.9111693 56.8270972,40.9111693 56.7547521,40.9111693 C56.5521857,40.8822312 56.3568539,40.8605277 56.1687565,40.8460586 C56.0530043,40.8460586 55.9300176,40.8315896 55.7997964,40.8026516 C55.7708583,40.7737135 55.7419203,40.7592445 55.7129822,40.7592445 C55.6406371,40.7303064 55.582761,40.7158374 55.5393539,40.7158374 C55.3512566,40.6724303 55.2065663,40.6217888 55.1052832,40.5639127 C54.6856814,40.3179392 54.3601284,40.0140897 54.1286239,39.6523641 C54.0996859,39.5800189 54.0635133,39.5221428 54.0201063,39.4787358 C53.889885,39.1748862 53.7886019,38.8276296 53.7162567,38.4369659 C53.6873187,38.1620544 53.6728496,37.8220323 53.6728496,37.4168996 L53.6728496,37.4168996 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-52)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M5.10033145,49.3755491 C4.69519874,49.6070535 4.64455715,50.0411243 4.94840668,50.6777614 L12.2407955,66.5864548 C13.8468573,70.0300828 15.959335,71.6723172 18.5782286,71.5131579 C19.3450869,71.4697509 20.0468347,71.3322951 20.6834718,71.1007907 C24.7347989,69.5091979 28.2797101,66.9771185 31.3182054,63.5045524 C31.4918337,63.3743312 31.6292895,63.2513444 31.7305727,63.1355922 C32.0054841,62.8317427 32.2586921,62.5351277 32.4901965,62.2457472 C33.5174973,60.8856588 34.501391,59.4315217 35.4418777,57.883336 C35.6010369,57.6518316 35.7384927,57.4275617 35.8542449,57.2105264 L36.2883157,56.4509025 C36.2593776,59.3013005 36.7513245,62.3614994 37.7641562,65.6314991 C38.5020765,69.2776935 38.6540013,71.6216756 38.2199305,72.6634455 C37.916081,73.4881799 37.3734926,74.5588878 36.5921652,75.8755691 C36.3895988,76.2807018 36.1725635,76.6786 35.941059,77.0692637 C35.33336,78.0314539 34.8269441,78.9140644 34.3349972,79.825613 C32.4250859,83.6454357 31.1228736,88.0150814 30.4283604,92.93455 C40.8171206,92.8043288 45.6425406,88.9049264 44.9046203,81.236343 C44.8467442,80.7878032 44.7961026,80.3175599 44.7526955,79.825613 C44.1160584,72.6489764 44.0003062,65.4506363 44.4054389,58.2305926 C44.9118548,50.9382039 45.7727618,45.3459255 46.9881599,41.4537577 C47.017098,41.1643772 47.0677396,40.9907489 47.1400847,40.8460586 L38.4152624,42.5823417 C38.2271651,42.6402178 38.1114129,42.6763904 37.9811916,42.6908594 C37.1564572,42.9513018 36.2883157,43.3998416 35.3767671,44.0364787 C33.9588026,45.0927176 32.5046655,46.6626069 31.0143559,48.7461465 C30.9130727,48.9197748 29.3938251,51.321633 26.4566129,55.9517211 C23.5194008,60.5818093 20.9728523,62.4772516 18.8169675,61.6380481 C18.2382065,61.6380481 17.3628305,60.1622075 16.1908394,57.2105264 L11.9152424,47.3354165 C11.7271451,46.8579387 11.4449991,46.6264343 11.0688044,46.6409033 C10.9675212,46.6409033 10.8807071,46.6553723 10.808362,46.6843104 L10.569623,46.8362352 L7.61794186,48.2035581 L5.85995528,48.9631819 L5.29566329,49.2236243 L5.10033145,49.3755491 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-53)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M8.87674707,36.0929838 L8.83333999,36.0929838 C8.47161436,36.223205 8.40650375,36.6645103 8.63800815,37.4168996 L9.05037538,39.044665 C9.23847271,39.7825853 9.18783112,40.4047534 8.89845061,40.9111693 C7.17663659,43.7181602 6.74980034,46.1489565 7.61794186,48.2035581 L10.569623,46.8362352 L10.808362,46.6843104 C10.8807071,46.6553723 10.9675212,46.6409033 11.0688044,46.6409033 C11.3003088,46.2213016 11.4884062,45.6931822 11.6330964,45.056545 C11.6620345,44.9841999 11.6909725,44.9190893 11.7199106,44.8612132 C12.0237601,43.4721868 12.0092911,42.0903948 11.6765035,40.7158374 L10.6130301,36.787497 C10.3670567,35.9772316 9.78829567,35.7457272 8.87674707,36.0929838 L8.87674707,36.0929838 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-54)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M6.05528712,35.3767671 C5.80931369,35.2465458 5.54163672,35.2176078 5.25225621,35.2899529 C4.94840668,35.3767671 4.72413679,35.5431608 4.57944653,35.7891343 C4.4492253,36.0495767 4.41305274,36.3172537 4.47092884,36.5921652 C4.38411469,36.3172537 4.2177209,36.1002183 3.97174747,35.941059 C3.71130501,35.8108378 3.42915902,35.7891343 3.12530948,35.8759484 C2.850398,35.9482936 2.64059713,36.1074528 2.49590688,36.3534263 C2.3367476,36.6138687 2.28610601,36.8815457 2.34398211,37.1564572 C2.25716796,36.8815457 2.09077417,36.6789793 1.84480074,36.5487581 C1.58435828,36.4040679 1.31668131,36.3678953 1.04176983,36.4402404 C0.73792029,36.5125855 0.5136504,36.6789793 0.36896015,36.9394218 C0.20980087,37.1853952 0.17362831,37.4458377 0.26044246,37.7207492 L0.6294026,38.9795544 L0.6294026,39.044665 L1.34561936,41.627386 L1.34561936,41.6707931 L1.3673229,41.6924966 C1.43966803,41.9384701 1.5988273,42.1338019 1.84480074,42.2784922 C2.09077417,42.4376514 2.36568565,42.473824 2.66953518,42.3870099 C2.95891569,42.3146647 3.17595107,42.1555054 3.32064132,41.909532 C3.4798006,41.6201515 3.51597317,41.3380055 3.42915902,41.063094 C3.53044219,41.3380055 3.71130501,41.5550409 3.97174747,41.7142002 C4.2177209,41.8588904 4.48539787,41.895063 4.77477838,41.8227179 C5.07862791,41.7503727 5.3028978,41.5767444 5.44758806,41.3018329 C5.57780928,41.0703285 5.62845087,40.8243551 5.59951282,40.5639127 C5.65738892,40.8243551 5.80931369,41.019687 6.05528712,41.1499082 C6.31572958,41.2945984 6.59787557,41.330771 6.90172511,41.2584259 C7.17663659,41.1860807 7.38643746,41.0052179 7.53112771,40.7158374 C7.66134894,40.469864 7.70475601,40.216656 7.66134894,39.9562136 L7.61794186,39.93451 L6.59787557,36.0278732 C6.51106142,35.7384927 6.3301986,35.5214573 6.05528712,35.3767671 L6.05528712,35.3767671 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-55)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M5.03522083,29.1912587 C4.87606155,29.4082941 4.83988899,29.661502 4.92670314,29.9508825 L6.59787557,36.0278732 L7.61794186,39.93451 L7.66134894,39.9562136 C7.70475601,40.216656 7.66134894,40.469864 7.53112771,40.7158374 C7.38643746,41.0052179 7.17663659,41.1860807 6.90172511,41.2584259 C6.59787557,41.330771 6.31572958,41.2945984 6.05528712,41.1499082 C5.80931369,41.019687 5.65738892,40.8243551 5.59951282,40.5639127 C5.62845087,40.8243551 5.57780928,41.0703285 5.44758806,41.3018329 C5.3028978,41.5767444 5.07862791,41.7503727 4.77477838,41.8227179 C4.48539787,41.895063 4.2177209,41.8588904 3.97174747,41.7142002 C3.71130501,41.5550409 3.53044219,41.3380055 3.42915902,41.063094 C3.51597317,41.3380055 3.4798006,41.6201515 3.32064132,41.909532 C3.17595107,42.1555054 2.95891569,42.3146647 2.66953518,42.3870099 C2.36568565,42.473824 2.09077417,42.4376514 1.84480074,42.2784922 C1.5988273,42.1338019 1.43966803,41.9384701 1.3673229,41.6924966 L2.04013258,44.2969212 C2.9661502,47.6392661 4.20325187,49.2091553 5.75143759,49.006589 L5.85995528,48.9631819 L7.61794186,48.2035581 C6.74980034,46.1489565 7.17663659,43.7181602 8.89845061,40.9111693 C9.18783112,40.4047534 9.23847271,39.7825853 9.05037538,39.044665 L8.63800815,37.4168996 C8.40650375,36.6645103 8.47161436,36.223205 8.83333999,36.0929838 L8.87674707,36.0929838 L7.05364987,29.4082941 C6.96683572,29.1333826 6.7859729,28.9163472 6.51106142,28.7571879 C6.26508799,28.6124977 5.99741102,28.5763251 5.70803051,28.6486703 C5.40418098,28.7210154 5.17991109,28.9018782 5.03522083,29.1912587 L5.03522083,29.1912587 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-56)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M42.7342665,12.2407955 C41.6201515,11.9369459 40.737541,12.4071893 40.0864348,13.6515254 C39.4932048,14.9247997 38.465904,15.3588704 37.0045324,14.9537377 C35.7891343,14.4183838 35.051214,15.0333174 34.7907715,16.7985385 L35.7891343,29.1478516 C36.1653289,33.1702407 37.8220323,35.8614794 40.7592445,37.2215678 C42.4810585,38.0173642 44.6369433,38.3501518 47.2268988,38.2199305 L47.3354165,38.2199305 C49.7806818,37.916081 51.9076286,37.4386032 53.7162567,36.787497 L53.889885,36.1363909 C54.2950177,34.9209928 55.300615,33.640484 56.9066768,32.2948646 C56.9211458,32.2514576 56.9428494,32.215285 56.9717874,32.186347 C57.9412121,31.043294 57.8037564,29.6108604 56.5594202,27.8890464 C55.2138009,26.4276749 55.0618761,25.1254626 56.1036459,23.9824096 C56.9573184,22.7380734 57.3624511,21.0307284 57.319044,18.8603746 C57.319044,17.6160384 56.6751724,16.270419 55.3874292,14.8235165 C52.8553497,12.4216583 52.8625842,10.1717248 55.4091327,8.07371616 C53.1664338,9.21676917 51.4735578,9.55679126 50.3305048,9.09378245 C49.5202394,8.76099487 48.3916554,9.35422491 46.9447528,10.8734726 C45.5267884,12.4216583 44.1232929,12.8774326 42.7342665,12.2407955 L42.7342665,12.2407955 Z M37.5254173,22.3546442 C37.7569217,22.1520779 38.0245987,22.0507947 38.3284482,22.0507947 C38.6322978,22.0218566 38.8855057,22.1086708 39.0880721,22.3112371 C39.2906384,22.5138035 39.4063906,22.7670114 39.4353287,23.070861 L39.5438464,25.3931395 C39.5727844,25.6969891 39.4859703,25.950197 39.2834039,26.1527634 C39.0808376,26.3553297 38.8276296,26.4783164 38.5237801,26.5217235 C38.2199305,26.5217235 37.9667226,26.4204403 37.7641562,26.217874 C37.5615899,26.0442457 37.4313687,25.8055068 37.3734926,25.5016572 L37.3083819,23.1359716 C37.2505058,22.8321221 37.322851,22.5716796 37.5254173,22.3546442 L37.5254173,22.3546442 Z M41.1716117,30.7322099 C41.2584259,30.6309267 41.4031161,30.5585816 41.6056825,30.5151745 L45.5340229,30.3198427 L49.4840668,30.1028073 C49.9470756,30.1462144 50.193049,30.4066568 50.2219871,30.8841347 C50.2219871,30.9854179 50.2075181,31.1156391 50.17858,31.2747984 L50.17858,31.383316 C50.1062349,31.6582275 50.0194207,31.9259045 49.9181376,32.186347 C49.7300402,32.5914797 49.614288,32.8446876 49.570881,32.9459708 C49.035527,34.233714 47.7984253,34.9426963 45.8595759,35.0729175 C45.1216556,35.1018556 44.4705495,35.051214 43.9062575,34.9209928 C43.5300629,34.8486476 43.1900408,34.7111919 42.8861912,34.5086255 C42.770439,34.4362804 42.6619213,34.3639353 42.5606382,34.2915902 C42.3291337,34.1034928 42.1338019,33.893692 41.9746426,33.6621875 C41.9022975,33.5609044 41.7648418,33.3221655 41.5622754,32.9459708 C41.359709,32.5408381 41.2077843,32.1574089 41.1065011,31.7956833 L41.063094,31.7739797 C40.9328728,31.2820329 40.9690454,30.9347763 41.1716117,30.7322099 L41.1716117,30.7322099 Z M50.8296862,21.4430956 C51.0322525,21.2115912 51.2854605,21.095839 51.58931,21.095839 C51.8931595,21.095839 52.1463675,21.1826532 52.3489338,21.3562815 C52.5515002,21.5588478 52.6600179,21.8120558 52.6744869,22.1159053 L52.8047081,24.4381839 C52.8191772,24.7420334 52.7251285,24.9952413 52.5225621,25.1978077 C52.3199958,25.4293121 52.0667878,25.5450643 51.7629383,25.5450643 C51.4590888,25.5450643 51.2058808,25.4654847 51.0033145,25.3063254 C50.8007481,25.103759 50.6922304,24.8505511 50.6777614,24.5467016 L50.5475402,22.2027194 C50.5330711,21.8988699 50.6271198,21.645662 50.8296862,21.4430956 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-57)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M51.58931,21.095839 C51.2854605,21.095839 51.0322525,21.2115912 50.8296862,21.4430956 C50.6271198,21.645662 50.5330711,21.8988699 50.5475402,22.2027194 L50.6777614,24.5467016 C50.6922304,24.8505511 50.8007481,25.103759 51.0033145,25.3063254 C51.2058808,25.4654847 51.4590888,25.5450643 51.7629383,25.5450643 C52.0667878,25.5450643 52.3199958,25.4293121 52.5225621,25.1978077 C52.7251285,24.9952413 52.8191772,24.7420334 52.8047081,24.4381839 L52.6744869,22.1159053 C52.6600179,21.8120558 52.5515002,21.5588478 52.3489338,21.3562815 C52.1463675,21.1826532 51.8931595,21.095839 51.58931,21.095839 Z M38.3284482,22.0507947 C38.0245987,22.0507947 37.7569217,22.1520779 37.5254173,22.3546442 C37.322851,22.5716796 37.2505058,22.8321221 37.3083819,23.1359716 L37.3734926,25.5016572 C37.4313687,25.8055068 37.5615899,26.0442457 37.7641562,26.217874 C37.9667226,26.4204403 38.2199305,26.5217235 38.5237801,26.5217235 C38.8276296,26.4783164 39.0808376,26.3553297 39.2834039,26.1527634 C39.4859703,25.950197 39.5727844,25.6969891 39.5438464,25.3931395 L39.4353287,23.070861 C39.4063906,22.7670114 39.2906384,22.5138035 39.0880721,22.3112371 C38.8855057,22.1086708 38.6322978,22.0218566 38.3284482,22.0507947 L38.3284482,22.0507947 Z",
+                                  id: "Shape",
+                                  fill: "#4D4875"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M49.4840668,30.1028073 L45.5340229,30.3198427 C43.8556159,31.2892674 42.8644877,32.6131832 42.5606382,34.2915902 C42.6619213,34.3639353 42.770439,34.4362804 42.8861912,34.5086255 C43.1900408,34.7111919 43.5300629,34.8486476 43.9062575,34.9209928 C44.4705495,35.051214 45.1216556,35.1018556 45.8595759,35.0729175 C47.7984253,34.9426963 49.035527,34.233714 49.570881,32.9459708 C49.614288,32.8446876 49.7300402,32.5914797 49.9181376,32.186347 C50.0194207,31.9259045 50.1062349,31.6582275 50.17858,31.383316 C50.17858,31.354378 50.17858,31.3182054 50.17858,31.2747984 C50.2075181,31.1156391 50.2219871,30.9854179 50.2219871,30.8841347 C50.193049,30.4066568 49.9470756,30.1462144 49.4840668,30.1028073 L49.4840668,30.1028073 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-58)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M41.6056825,30.5151745 C41.4031161,30.5585816 41.2584259,30.6309267 41.1716117,30.7322099 C40.9690454,30.9347763 40.9328728,31.2820329 41.063094,31.7739797 L41.1065011,31.7956833 C41.2077843,32.1574089 41.359709,32.5408381 41.5622754,32.9459708 C41.7648418,33.3221655 41.9022975,33.5609044 41.9746426,33.6621875 C42.1338019,33.893692 42.3291337,34.1034928 42.5606382,34.2915902 C42.8644877,32.6131832 43.8556159,31.2892674 45.5340229,30.3198427 L41.6056825,30.5151745 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-59)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M40.9979834,2.4524998 C40.4336914,3.43639353 38.9361473,4.17431382 36.505351,4.66626069 C33.2932274,5.62121636 31.7016346,7.28515428 31.7305727,9.65807444 C31.7305727,11.1628531 30.9564798,12.1684503 29.4082941,12.6748662 C28.5690906,12.8919016 27.9903296,13.3042688 27.672011,13.9119679 C27.1655952,14.8235165 27.1655952,16.0823217 27.672011,17.6883835 C27.7154181,17.8330738 27.7515907,17.9560605 27.7805287,18.0573437 C28.2145995,19.5042462 28.1784269,20.8426311 27.672011,22.0724982 C27.5707279,22.3618787 27.4405066,22.6150867 27.2813474,22.8321221 C26.3408607,24.4526529 26.4710819,26.3191572 27.672011,28.4316349 C28.3592897,29.4082941 28.6414357,31.1156391 28.5401526,33.6187805 C28.4388694,36.1219219 29.4517012,37.5760589 31.5786479,37.9811916 C32.5336036,38.169289 33.3511035,38.3646208 34.0311477,38.5671872 C34.8414131,38.8131606 35.4418777,39.0880721 35.8325414,39.3919216 C36.5415236,39.9272755 37.351789,40.3468773 38.2633376,40.6507268 C39.1893552,40.9545763 40.187718,40.7158374 41.2584259,39.93451 C41.4320542,39.8042888 41.5839789,39.7030056 41.7142002,39.6306678 C42.5534036,39.1242446 43.1972753,39.0084924 43.6458151,39.2834039 C45.0927176,40.0647313 46.4455715,40.1515454 47.7043767,39.5438464 C47.6320316,39.1097756 47.5090448,38.6684703 47.3354165,38.2199305 C44.6369433,38.3501518 42.4810585,38.0173642 40.7592445,37.2215678 C37.8220323,35.8614794 36.1653289,33.1702407 35.7891343,29.1478516 L34.7907715,16.7985385 C35.051214,15.0333174 35.7891343,14.4183838 37.0045324,14.9537377 C38.465904,15.3588704 39.4932048,14.9247997 40.0864348,13.6515254 C40.737541,12.4071893 41.6201515,11.9369459 42.7342665,12.2407955 C44.1232929,12.8774326 45.5267884,12.4216583 46.9447528,10.8734726 C48.3916554,9.35422491 49.5202394,8.76099487 50.3305048,9.09378245 C51.4735578,9.55679126 53.1664338,9.21676917 55.4091327,8.07371616 C52.8625842,10.1717248 52.8553497,12.4216583 55.3874292,14.8235165 C56.6751724,16.270419 57.319044,17.6160384 57.319044,18.8603746 C57.3624511,21.0307284 56.9573184,22.7380734 56.1036459,23.9824096 C55.0618761,25.1254626 55.2138009,26.4276749 56.5594202,27.8890464 C57.8037564,29.6108604 57.9412121,31.043294 56.9717874,32.186347 C55.300615,33.640484 54.2950177,34.9209928 53.889885,36.1363909 L53.7162567,36.787497 C53.6873187,37.0045324 53.6728496,37.2143333 53.6728496,37.4168996 C53.6728496,37.8220323 53.6873187,38.1620544 53.7162567,38.4369659 C53.7886019,38.8276296 53.889885,39.1748862 54.0201063,39.4787358 C54.0635133,39.5221428 54.0996859,39.5800189 54.1286239,39.6523641 C54.3601284,40.0140897 54.6856814,40.3179392 55.1052832,40.5639127 C55.2065663,40.6217888 55.3512566,40.6724303 55.5393539,40.7158374 C55.582761,40.7158374 55.6406371,40.7303064 55.7129822,40.7592445 C55.9300176,40.8315896 56.0530043,40.8460586 56.1687565,40.8460586 C56.3568539,40.8605277 56.5521857,40.8822312 56.7547521,40.9111693 L57.0151945,40.9111693 L57.2322299,40.9111693 C57.5360794,40.9111693 57.868867,40.8894657 58.2305926,40.8460586 C58.5633802,40.7881825 58.8889333,40.7230719 59.2072519,40.6507268 C59.7426058,40.5494436 60.3430703,40.3975189 61.0086455,40.1949525 C61.8261454,39.9634481 62.990902,39.9851516 64.5246187,40.2600631 C66.0438663,40.5494436 67.548645,40.3468773 69.0389546,39.6523641 C70.5437332,38.9433818 71.8748836,38.6322978 73.0324056,38.7191119 C74.2188657,38.791457 75.0797727,38.1041783 75.6151266,36.6572758 C76.1215425,35.2248423 76.693069,33.9515681 77.3297061,32.8374531 C78.3135999,31.1301081 78.0820955,29.3287144 76.6351929,27.4332721 C75.2027594,25.5088917 74.8410338,23.8738919 75.550016,22.5282725 C76.2589983,21.1681841 76.0057903,19.7791577 74.7903922,18.3611932 C73.5894631,16.9432287 73.0034676,15.3516359 73.0324056,13.5864148 C73.1047507,11.9369459 72.3089543,10.7938929 70.6450164,10.1572558 C68.9955475,9.65083993 67.7946184,8.51502144 67.0422291,6.74980034 C66.2753708,4.95564119 65.5374505,3.85599526 64.8284682,3.45086255 C64.148424,2.98785374 63.3888002,2.7346458 62.5495967,2.69123872 C61.7248623,2.60442457 60.8784243,2.70570775 60.0102828,2.99508825 C59.7353713,3.00955728 59.5111014,2.9661502 59.3374731,2.86486703 C59.2072519,2.74188031 59.1059687,2.66230067 59.0336236,2.56101749 C58.8455262,2.34398211 58.6646634,2.13418124 58.4910351,1.93161489 C56.5377167,-0.12298672 54.6495089,-0.41960174 52.8264117,1.04176983 C51.9148631,1.80862817 50.5475402,1.80139366 48.724443,1.02006629 C45.1650627,-0.52811943 42.5895762,-0.05064159 40.9979834,2.4524998 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-60)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M92.8911429,66.2826053 C92.2834439,64.3582249 91.0680457,62.5857693 89.2449485,60.9652384 C83.7322499,56.4364335 78.2629583,52.3344648 72.8370738,48.6593324 C71.9255252,48.0226952 71.0284456,47.4439342 70.145835,46.9230493 C68.8580918,46.0549078 67.5558795,45.2301733 66.2391982,44.448846 C65.0961452,43.7832708 63.9820302,43.2406823 62.8968533,42.8210806 C61.4788888,42.2133815 60.0898624,41.8082488 58.729774,41.6056825 C58.5706147,41.5767444 58.41869,41.5333374 58.2739997,41.4754613 C58.1727165,41.4609922 58.0714334,41.4537577 57.9701502,41.4537577 C57.7097077,41.4248197 57.4782033,41.4103506 57.275637,41.4103506 C57.2322299,41.6707931 57.1960573,41.8588904 57.1671193,42.0180497 C57.1381812,42.2495541 57.1020087,42.473824 57.0586016,42.6908594 C56.161522,47.0026289 54.8448407,52.1174294 53.1085577,58.0352608 C51.2565224,64.6186673 49.9253721,71.8314765 49.1151067,79.6736883 C48.4350625,87.5954797 51.4229162,92.1532226 58.0786679,93.498842 C60.5384022,94.0052579 63.7649949,94.3380455 67.7584459,94.4972048 L67.4980034,92.8477359 C67.1941539,92.905612 66.8975388,92.93455 66.6081583,92.93455 C65.6821407,92.93455 65.1395523,92.6813421 64.980393,92.1749262 C63.7939329,91.5961652 63.2296409,91.0101696 63.287517,90.4169396 C62.3759684,89.8960547 61.9563667,89.1653689 62.0287118,88.2248823 C61.3197296,86.937139 61.4427163,85.6349267 62.397672,84.3182454 C62.9040878,83.7828915 63.3960347,83.3560552 63.9169196,82.9509225 L61.7682693,79.4132458 C61.2763225,78.6608565 60.9073623,77.8867636 60.6613889,77.0909672 C60.0970969,75.4993744 60.0319863,73.9077816 60.4660571,72.3161889 L64.980393,56.1687565 C66.9771185,57.2394644 68.8291537,58.2305926 70.5364987,59.1421412 C70.9126934,59.3881147 71.3033571,59.6051501 71.7084898,59.7932474 C79.4494184,64.119486 83.3198827,67.0422291 83.3198827,68.5614768 C83.4790419,69.0389546 82.2781128,70.2254147 79.7170953,72.120857 L71.1659013,78.7404361 C70.7173615,79.0876927 70.5943748,79.4494184 70.7969412,79.825613 C70.7969412,79.8834891 70.8114102,79.9341307 70.8403483,79.9775378 L71.0139766,80.2162767 L74.660171,84.6220949 L74.7903922,84.8391303 C75.1376488,85.1140418 75.5789541,85.0634002 76.114308,84.6872056 L89.6573158,73.5749941 C92.5945279,71.245481 93.6724703,68.8146847 92.8911429,66.2826053 L92.8911429,66.2826053 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-61)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M184.82733,416.693615 C191.439675,417.402597 199.390404,417.757088 208.679519,417.757088 C218.01204,417.757088 225.970004,417.402597 232.553411,416.693615 C239.107879,415.984632 242.385113,415.138194 242.385113,414.154301 C242.385113,413.112531 239.107879,412.251624 232.553411,411.57158 C225.970004,410.891535 218.01204,410.551513 208.679519,410.551513 C199.390404,410.551513 191.439675,410.891535 184.82733,411.57158 C178.243924,412.251624 174.952221,413.112531 174.952221,414.154301 C174.952221,415.138194 178.243924,415.984632 184.82733,416.693615 Z",
+                              id: "Shadow",
+                              "fill-opacity": "0.298039",
+                              fill: "#000000"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Dog",
+                                transform: "translate(151.760163, 319.915902)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M54.6621875,92.2183333 C54.5898424,91.2199705 54.8068778,90.3084219 55.3132937,89.4836875 C53.3889133,89.0930238 51.4500639,88.2538203 49.4967455,86.966077 C49.3809933,87.6750593 49.2724756,88.362338 49.1711924,89.0279132 C49.1133163,89.2738866 49.0771438,89.5270945 49.0626747,89.787537 C49.0337367,89.9322273 49.0047986,90.084152 48.9758606,90.2433113 C48.7009491,91.9072492 48.0715465,92.8766739 47.0876528,93.1515854 L54.8575194,93.1515854 C54.7851743,92.8332668 54.7200636,92.5221828 54.6621875,92.2183333 Z",
+                                  id: "Path",
+                                  fill: "#949DA4"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M55.3132937,89.4836875 C54.8068778,90.3084219 54.5898424,91.2199705 54.6621875,92.2183333 C54.7200636,92.5221828 54.7851743,92.8332668 54.8575194,93.1515854 L71.1568765,93.1515854 C71.9092658,92.93455 72.603779,92.0230014 73.2404161,90.4169396 C73.2838232,90.3156564 73.3344648,90.2143732 73.3923409,90.1130901 C73.5949073,89.5922052 73.7830046,89.0134441 73.9566329,88.376807 L72.8497525,89.3534662 L71.17858,87.3784443 L69.2903722,88.8325813 L66.9246866,86.966077 L63.7125629,88.4419176 L61.9979834,86.358378 L58.4386032,87.6171832 L58.4386032,86.0545284 C58.3083819,86.4307231 58.0768775,86.7996833 57.74409,87.1614089 C57.6717448,87.233754 57.5993997,87.3060991 57.5270546,87.3784443 C57.3244882,87.5665416 57.0929838,87.7618734 56.8325414,87.9644398 C56.1814352,88.4129796 55.6750193,88.9193955 55.3132937,89.4836875 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-62)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M58.4386032,86.0545284 C58.6845766,85.3455462 58.5905279,84.5497498 58.1564572,83.6671393 C55.5086255,82.8134668 53.0416567,81.1278253 50.7555507,78.6102149 L49.8874092,84.6872056 C49.7571879,85.4685329 49.6269667,86.2281568 49.4967455,86.966077 C51.4500639,88.2538203 53.3889133,89.0930238 55.3132937,89.4836875 C55.6750193,88.9193955 56.1814352,88.4129796 56.8325414,87.9644398 C57.0929838,87.7618734 57.3244882,87.5665416 57.5270546,87.3784443 C57.5993997,87.3060991 57.6717448,87.233754 57.74409,87.1614089 C58.0768775,86.7996833 58.3083819,86.4307231 58.4386032,86.0545284 L58.4386032,86.0545284 Z",
+                                  id: "Path",
+                                  fill: "#C0C6CB"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M37.6249102,86.0979355 L36.4529191,84.1880242 L34.3259724,87.3784443 L33.1539813,83.5586216 C33.1539813,85.526409 32.9369459,87.6895283 32.5028752,90.0479795 C31.822831,92.0012979 32.2496672,93.0358332 33.7833839,93.1515854 L39.4914144,93.1515854 C36.1490696,93.0503022 34.984313,92.1025811 35.9971448,90.3084219 C36.677189,88.9193955 37.2197775,87.5159 37.6249102,86.0979355 L37.6249102,86.0979355 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-63)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M41.4664364,84.2748383 L39.0573437,86.7707452 L38.0372774,83.9709888 C37.9359942,84.679971 37.7985385,85.3889533 37.6249102,86.0979355 C37.2197775,87.5159 36.677189,88.9193955 35.9971448,90.3084219 C34.984313,92.1025811 36.1490696,93.0503022 39.4914144,93.1515854 L40.0122993,93.1515854 L47.0876528,93.1515854 C48.0715465,92.8766739 48.7009491,91.9072492 48.9758606,90.2433113 C49.0047986,90.084152 49.0337367,89.9322273 49.0626747,89.787537 C49.0771438,89.5270945 49.1133163,89.2738866 49.1711924,89.0279132 C49.2724756,88.362338 49.3809933,87.6750593 49.4967455,86.966077 C49.6269667,86.2281568 49.7571879,85.4685329 49.8874092,84.6872056 L47.50002,87.4218513 L45.4815909,84.4701702 L42.8554628,86.966077 L41.4664364,84.2748383 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-64)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M38.2760163,81.236343 C38.2904853,80.9903696 38.2904853,80.7371616 38.2760163,80.4767192 C33.7472114,74.8337993 31.0342691,67.4039547 30.1371895,58.1871856 C30.6291364,64.9442204 31.1500213,69.6249501 31.6998443,72.2293747 C32.4377646,75.3980913 32.9224769,79.1745069 33.1539813,83.5586216 L34.3259724,87.3784443 L36.4529191,84.1880242 L37.6249102,86.0979355 C37.7985385,85.3889533 37.9359942,84.679971 38.0372774,83.9709888 C38.1096225,83.536918 38.1747331,83.0956128 38.2326092,82.647073 C38.2326092,82.4734447 38.2470783,82.2853473 38.2760163,82.082781 C38.2760163,81.7934005 38.2760163,81.5112545 38.2760163,81.236343 L38.2760163,81.236343 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-65)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M29.8116365,53.4341107 C29.8261055,53.7234912 29.83334,53.9911682 29.83334,54.2371416 L29.9635612,55.864907 C29.9780302,55.9227831 29.9852648,55.9878937 29.9852648,56.0602388 L30.0720789,57.5143759 C30.101017,57.7314113 30.1227205,57.9556812 30.1371895,58.1871856 C31.0342691,67.4039547 33.7472114,74.8337993 38.2760163,80.4767192 C38.2470783,79.4928254 38.1457951,78.5089317 37.9721668,77.525038 C37.8708836,76.8594628 37.7189588,76.1866531 37.5163925,75.5066089 C37.25595,74.5950603 37.0606182,73.6835117 36.9303969,72.7719631 C36.1201315,67.7801494 36.5903748,63.6564772 38.3411269,60.4009464 C40.120817,57.1020087 41.8426311,54.5048186 43.506569,52.6093763 L29.8116365,53.4341107 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-66)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M43.506569,52.6093763 L55.8124751,51.8931595 C56.1452626,51.8642215 56.2971874,51.6833587 56.2682494,51.3505711 L56.1163246,48.3988899 L29.5728975,49.5057703 C29.2401099,49.5202394 29.0881852,49.6938677 29.1171232,50.0266553 L29.269048,52.9783364 C29.2979861,53.311124 29.4788489,53.4630488 29.8116365,53.4341107 L43.506569,52.6093763 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-67)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M25.2538935,26.3046881 C24.7185395,26.2757501 24.3495794,26.4638474 24.147013,26.8689801 C24.0746679,26.9702633 24.0240263,27.0860155 23.9950883,27.2162367 L23.9082741,27.7805287 L23.9082741,27.8890464 L23.9082741,27.9758606 L23.9082741,28.1494889 C23.9372122,28.3375862 23.9806192,28.532918 24.0384953,28.7354844 C24.2410617,29.7193781 24.7474776,30.2764356 25.557743,30.4066568 C26.9178314,30.6815683 28.0536499,30.3632498 28.9651985,29.4517012 C29.847809,28.5690906 29.7248223,27.8239358 28.5962383,27.2162367 C28.4370791,27.1294226 28.2851543,27.0498429 28.140464,26.9774978 C28.0825879,26.9485598 28.0319463,26.9340907 27.9885393,26.9340907 C27.250619,26.6302412 26.5271677,26.4276749 25.8181855,26.3263917 C25.6445572,26.3119227 25.4926324,26.3046881 25.3624112,26.3046881 C25.3045351,26.3046881 25.2683625,26.3046881 25.2538935,26.3046881 L25.2538935,26.3046881 Z M24.7981192,35.5938024 C26.1148005,36.3027847 27.8944906,36.7368554 30.1371895,36.8960147 C30.976393,36.9104837 31.8807071,36.9104837 32.8501318,36.8960147 C36.366105,36.7657935 37.5887376,37.2432713 36.5180297,38.3284482 C36.3444014,38.5599526 36.0188483,38.8276296 35.5413705,39.1314791 C39.7373879,36.74409 40.4825427,35.7529617 37.7768349,36.1580944 C35.0421891,36.5632271 31.9385832,36.476413 28.4660171,35.897652 C24.978982,35.318891 23.2209954,34.233714 23.1920574,32.6421213 C22.989491,33.9588026 23.5248449,34.9426963 24.7981192,35.5938024 L24.7981192,35.5938024 Z",
+                                  id: "Shape",
+                                  fill: "#292C36"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M42.4865027,12.0671672 C43.2678301,7.45154807 43.3329407,4.02962357 42.6818345,1.80139366 C42.2911708,0.67280968 41.5821886,1.34561936 40.5548878,3.8198227 C39.2816136,6.82937998 38.3266579,9.78829567 37.6900208,12.6965698 C37.9215252,12.6242246 38.1674986,12.5663485 38.4279411,12.5229415 C39.6578082,12.233561 41.0106621,12.0816362 42.4865027,12.0671672 Z M42.7035381,27.064312 C42.7614142,26.8617456 42.8048212,26.6591793 42.8337593,26.4566129 C41.8643346,26.0514802 41.3072771,25.8995554 41.1625869,26.0008386 C40.7719232,26.1744669 41.0757727,26.8328076 42.0741355,27.9758606 C42.392454,27.7732942 42.6022549,27.4694447 42.7035381,27.064312 L42.7035381,27.064312 Z M29.8116365,23.070861 L29.4209728,24.5467016 C29.6524772,24.3151972 29.8405745,24.0258166 29.9852648,23.67856 C30.144424,23.4036486 30.2746453,23.1215026 30.3759284,22.8321221 C30.144424,22.5138035 29.9563267,22.5933831 29.8116365,23.070861 Z M64.8194434,7.87838432 C64.8194434,7.14046403 64.334731,6.85108352 63.3653063,7.0102428 C60.0518995,7.44431356 56.3912361,9.80999921 52.383316,14.1072997 C51.6598648,14.9465032 52.650993,15.5686713 55.3567008,15.973804 C57.9321873,16.3789367 59.5020765,17.8186048 60.0663685,20.2928081 C60.6451295,22.7814805 61.3685808,22.9623433 62.2367223,20.8353965 C64.334731,15.8146447 65.195638,11.4956407 64.8194434,7.87838432 Z",
+                                  id: "Shape",
+                                  fill: "#FFFFFF"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M47.6953518,12.5880521 C48.4188031,12.7182733 49.1205508,12.8701981 49.800595,13.0438264 C49.1494889,10.0342691 47.7749315,6.59064106 45.6769228,2.71294226 C44.3313034,0.26767697 43.0290911,-0.44130527 41.7702859,0.58599553 C41.6400647,0.71621676 41.5098435,0.86090701 41.3796222,1.02006629 C39.9182507,2.65506616 38.2832508,6.69192424 36.4746226,13.1306405 C36.8074102,12.9714813 37.1546668,12.8557291 37.5163925,12.7833839 C37.5887376,12.7255078 37.6466137,12.6965698 37.6900208,12.6965698 C38.3266579,9.78829567 39.2816136,6.82937998 40.5548878,3.8198227 C41.5821886,1.34561936 42.2911708,0.67280968 42.6818345,1.80139366 C43.3329407,4.02962357 43.2678301,7.45154807 42.4865027,12.0671672 C43.3980513,12.0816362 44.3313034,12.1395123 45.2862591,12.2407955 C46.0965245,12.3420786 46.8995554,12.4578309 47.6953518,12.5880521 L47.6953518,12.5880521 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-68)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M84.6347736,72.3812995 C83.3180923,73.1481578 81.6830924,71.0139766 79.729774,65.9787557 C77.5015441,60.8422517 75.5048186,57.3624511 73.7395975,55.5393539 C74.8681815,60.6179818 74.7886019,64.162893 73.5008586,66.1740876 C76.568292,68.677229 78.0513671,71.9399942 77.9500839,75.9623832 C77.8488007,79.5072945 76.5176504,83.6454357 73.9566329,88.376807 C73.7830046,89.0134441 73.5949073,89.5922052 73.3923409,90.1130901 C73.3344648,90.2143732 73.2838232,90.3156564 73.2404161,90.4169396 C72.603779,92.0230014 71.9092658,92.93455 71.1568765,93.1515854 L73.1318984,93.1515854 C72.3650401,92.370258 73.8698187,91.2850811 77.6462344,89.8960547 C79.8021191,89.3607007 82.2184464,87.3205682 84.8952161,83.775657 C87.6009238,80.2307457 88.1290433,78.8127812 86.4795744,79.5217635 C84.0777161,80.5345953 83.4989551,79.4132458 84.7432913,76.1577151 C85.9876275,72.8877154 85.9514549,71.6289101 84.6347736,72.3812995 L84.6347736,72.3812995 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-69)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M90.6249501,70.7969412 C89.3372069,68.0912334 88.3750167,66.7890212 87.7383796,66.8903043 C86.7834239,68.0478264 85.9369859,68.0333573 85.1990656,66.8468973 C83.9113224,64.7922957 81.5094641,62.0938224 77.993491,58.7514776 C76.5465884,57.3624511 75.1286239,56.2917432 73.7395975,55.5393539 C75.5048186,57.3624511 77.5015441,60.8422517 79.729774,65.9787557 C81.6830924,71.0139766 83.3180923,73.1481578 84.6347736,72.3812995 C85.9514549,71.6289101 85.9876275,72.8877154 84.7432913,76.1577151 C83.4989551,79.4132458 84.0777161,80.5345953 86.4795744,79.5217635 C88.1290433,78.8127812 87.6009238,80.2307457 84.8952161,83.775657 C82.2184464,87.3205682 79.8021191,89.3607007 77.6462344,89.8960547 C73.8698187,91.2850811 72.3650401,92.370258 73.1318984,93.1515854 L74.3472966,93.1515854 C78.3696856,93.0503022 80.1783138,92.3919616 79.7731811,91.1765634 C79.5416767,90.1637317 80.4242872,89.4330459 82.4210127,88.9845061 C87.6587999,87.8993292 90.002782,86.5826479 89.4529591,85.0344622 C88.8741981,83.5152145 88.8886671,82.0755465 89.4963662,80.7154581 C91.5364987,76.8088212 91.9126934,73.5026489 90.6249501,70.7969412 L90.6249501,70.7969412 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-70)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M64.2768549,67.6065211 C67.0404388,67.6065211 69.442297,68.2142202 71.4824296,69.4296183 C74.014509,70.948866 76.1703938,73.1264543 77.9500839,75.9623832 C78.0513671,71.9399942 76.568292,68.677229 73.5008586,66.1740876 C72.5169649,65.3638222 71.3522083,64.6259019 70.006589,63.9603267 C62.612917,60.3720084 57.8815457,56.3496193 55.8124751,51.8931595 L43.506569,52.6093763 C41.8426311,54.5048186 40.120817,57.1020087 38.3411269,60.4009464 C36.5903748,63.6564772 36.1201315,67.7801494 36.9303969,72.7719631 C37.0606182,73.6835117 37.25595,74.5950603 37.5163925,75.5066089 C37.7189588,76.1866531 37.8708836,76.8594628 37.9721668,77.525038 C38.1457951,78.5089317 38.2470783,79.4928254 38.2760163,80.4767192 C38.2904853,80.7371616 38.2904853,80.9903696 38.2760163,81.236343 L38.2760163,82.082781 C38.2470783,82.2853473 38.2326092,82.4734447 38.2326092,82.647073 C38.1747331,83.0956128 38.1096225,83.536918 38.0372774,83.9709888 L39.0573437,86.7707452 L41.4664364,84.2748383 L42.8554628,86.966077 L45.4815909,84.4701702 L47.50002,87.4218513 L49.8874092,84.6872056 L50.7555507,78.6102149 C53.0416567,81.1278253 55.5086255,82.8134668 58.1564572,83.6671393 C54.9443335,76.8811664 54.6838911,72.2366092 57.3751298,69.7334678 C58.8075633,68.3878485 61.1081384,67.6788662 64.2768549,67.6065211 L64.2768549,67.6065211 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-71)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M71.4824296,69.4296183 C69.442297,68.2142202 67.0404388,67.6065211 64.2768549,67.6065211 C61.1081384,67.6788662 58.8075633,68.3878485 57.3751298,69.7334678 C54.6838911,72.2366092 54.9443335,76.8811664 58.1564572,83.6671393 C58.5905279,84.5497498 58.6845766,85.3455462 58.4386032,86.0545284 L58.4386032,87.6171832 L61.9979834,86.358378 L63.7125629,88.4419176 L66.9246866,86.966077 L69.2903722,88.8325813 L71.17858,87.3784443 L72.8497525,89.3534662 L73.9566329,88.376807 C76.5176504,83.6454357 77.8488007,79.5072945 77.9500839,75.9623832 C76.1703938,73.1264543 74.014509,70.948866 71.4824296,69.4296183 L71.4824296,69.4296183 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-72)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M67.6843104,42.6908594 C67.467275,42.473824 67.2574741,42.2350851 67.0549078,41.9746426 C65.2318106,40.3541118 61.9111693,39.0374305 57.0929838,38.0245987 C52.2313913,37.040705 50.2201968,36.0278732 51.0594002,34.9861034 C54.8647539,26.7098209 54.5247318,20.8932726 50.0393339,17.5364588 C45.1777414,14.7728749 40.7719232,15.0333174 36.8218793,18.3177861 C37.1980739,15.7857067 36.5397333,14.3098661 34.8468573,13.8902644 C31.5045124,15.7133616 29.0737162,18.9399542 27.5544685,23.5700423 C27.4097782,24.0764582 26.7442031,24.9880068 25.557743,26.3046881 C25.6590262,26.3046881 25.7458403,26.3119227 25.8181855,26.3263917 C26.5271677,26.4276749 27.250619,26.6302412 27.9885393,26.9340907 C28.0319463,26.9340907 28.0825879,26.9485598 28.140464,26.9774978 C28.2851543,27.0498429 28.4370791,27.1294226 28.5962383,27.2162367 C29.7248223,27.8239358 29.847809,28.5690906 28.9651985,29.4517012 C28.0536499,30.3632498 26.9178314,30.6815683 25.557743,30.4066568 C24.7474776,30.2764356 24.2410617,29.7193781 24.0384953,28.7354844 C23.9806192,28.532918 23.9372122,28.3375862 23.9082741,28.1494889 C23.9082741,28.0771438 23.9082741,28.0192676 23.9082741,27.9758606 C23.9082741,27.9469225 23.9082741,27.9179845 23.9082741,27.8890464 C23.9082741,27.8601084 23.9082741,27.8239358 23.9082741,27.7805287 C22.2877433,29.8495994 21.3400221,31.5569444 21.0651106,32.9025637 C20.7901991,34.219245 21.9549557,36.8670767 24.5593802,40.8460586 C27.1638048,44.8105716 28.8349772,47.6971422 29.5728975,49.5057703 L56.1163246,48.3988899 C60.2110588,48.3265448 64.067054,47.1979608 67.6843104,45.013138 L64.5372974,44.210107 C65.5501291,44.0654168 66.5991335,43.5590009 67.6843104,42.6908594 Z M29.4643799,21.5516133 C29.9129196,21.0162594 30.3035833,20.7268789 30.6363709,20.6834718 C30.9112824,20.6255957 30.947455,20.9656178 30.7448886,21.7035381 C30.6291364,22.1086708 30.5061497,22.4848654 30.3759285,22.8321221 C30.2746453,23.1215026 30.144424,23.4036486 29.9852648,23.67856 C29.8405745,24.0258166 29.6524772,24.3151972 29.4209728,24.5467016 C29.2907515,24.6479847 29.1749993,24.7347989 29.0737162,24.807144 C28.6975215,25.0965245 28.393672,25.1905732 28.1621676,25.08929 C27.9451322,24.9880068 27.843849,24.7854405 27.858318,24.4815909 C27.8872561,24.1777414 28.0391809,23.7581397 28.3140923,23.2227857 C28.6034728,22.6440247 28.986902,22.0869672 29.4643799,21.5516133 L29.4643799,21.5516133 Z M38.3411269,25.8706174 C38.5002862,25.2629183 38.8837154,24.7347989 39.4914144,24.2862591 C40.0701755,23.8087813 40.6995781,23.5700423 41.3796222,23.5700423 C41.9873213,23.5845114 42.392454,24.0258166 42.5950204,24.8939582 C42.7686487,25.5016572 42.8482283,26.0225421 42.8337593,26.4566129 C42.8048212,26.6591793 42.7614142,26.8617456 42.7035381,27.064312 C42.6022549,27.4694447 42.392454,27.7732942 42.0741355,27.9758606 C41.9149762,28.0482057 41.7485824,28.1205508 41.5749541,28.192896 C40.967255,28.3665243 40.359556,28.3665243 39.7518569,28.192896 C39.1441578,27.9903296 38.7100871,27.7009491 38.4496446,27.3247544 C38.2326092,26.9485598 38.1964367,26.4638474 38.3411269,25.8706174 L38.3411269,25.8706174 Z M30.7882957,41.063094 C28.5311277,41.7720763 26.997411,41.0992666 26.1871456,39.044665 L24.7981192,35.5938024 C23.5248449,34.9426963 22.989491,33.9588026 23.1920574,32.6421213 C23.2209954,34.233714 24.978982,35.318891 28.4660171,35.897652 C31.9385832,36.476413 35.0421891,36.5632271 37.7768349,36.1580944 C40.4825427,35.7529617 39.7373879,36.74409 35.5413705,39.1314791 C35.5124325,39.1314791 35.4834944,39.1459482 35.4545564,39.1748862 C35.4111493,39.1893552 35.3605077,39.2110588 35.3026316,39.2399968 C35.2013484,39.312342 35.0855962,39.3774526 34.955375,39.4353287 C33.9280742,39.9417446 32.5390477,40.484333 30.7882957,41.063094 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-73)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M24.7981192,35.5938024 L26.1871456,39.044665 C26.3463049,37.9884261 27.6629862,37.2722094 30.1371895,36.8960147 C27.8944906,36.7368554 26.1148005,36.3027847 24.7981192,35.5938024 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-74)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M26.1871456,39.044665 C26.997411,41.0992666 28.5311277,41.7720763 30.7882957,41.063094 C32.5390477,40.484333 33.9280742,39.9417446 34.955375,39.4353287 C35.0855962,39.3774526 35.2013484,39.312342 35.3026316,39.2399968 C35.3605077,39.2110588 35.4111493,39.1893552 35.4545564,39.1748862 C35.4834944,39.1459482 35.5124325,39.1314791 35.5413705,39.1314791 C36.0188483,38.8276296 36.3444014,38.5599526 36.5180297,38.3284482 C37.5887376,37.2432713 36.366105,36.7657935 32.8501318,36.8960147 C31.8807071,36.9104837 30.976393,36.9104837 30.1371895,36.8960147 C27.6629862,37.2722094 26.3463049,37.9884261 26.1871456,39.044665 L26.1871456,39.044665 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-75)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M39.4914144,24.2862591 C38.8837154,24.7347989 38.5002862,25.2629183 38.3411269,25.8706174 C38.1964367,26.4638474 38.2326092,26.9485598 38.4496446,27.3247544 C38.7100871,27.7009491 39.1441578,27.9903296 39.7518569,28.192896 C40.359556,28.3665243 40.967255,28.3665243 41.5749541,28.192896 C41.7485824,28.1205508 41.9149762,28.0482057 42.0741355,27.9758606 C41.0757727,26.8328076 40.7719232,26.1744669 41.1625869,26.0008386 C41.3072771,25.8995554 41.8643346,26.0514802 42.8337593,26.4566129 C42.8482283,26.0225421 42.7686487,25.5016572 42.5950204,24.8939582 C42.392454,24.0258166 41.9873213,23.5845114 41.3796222,23.5700423 C40.6995781,23.5700423 40.0701755,23.8087813 39.4914144,24.2862591 L39.4914144,24.2862591 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-76)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M30.6363709,20.6834718 C30.3035833,20.7268789 29.9129196,21.0162594 29.4643798,21.5516133 C28.986902,22.0869672 28.6034728,22.6440247 28.3140923,23.2227857 C28.0391808,23.7581397 27.8872561,24.1777414 27.858318,24.4815909 C27.843849,24.7854405 27.9451322,24.9880068 28.1621676,25.08929 C28.393672,25.1905732 28.6975215,25.0965245 29.0737162,24.807144 C29.1749993,24.7347989 29.2907515,24.6479847 29.4209728,24.5467016 L29.8116365,23.070861 C29.9563267,22.5933831 30.144424,22.5138035 30.3759284,22.8321221 C30.5061497,22.4848654 30.6291364,22.1086708 30.7448886,21.7035381 C30.9474549,20.9656178 30.9112824,20.6255957 30.6363709,20.6834718 L30.6363709,20.6834718 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-77)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M66.0999521,5.38247744 C65.9263238,5.32460134 65.7382265,5.29566329 65.5356601,5.29566329 C60.2689349,5.15097304 55.7256609,7.21280915 51.9058382,11.4811716 C51.4428294,12.0454636 50.9870551,12.6169901 50.5385153,13.1957511 C50.2780729,13.1523441 50.0320994,13.1017025 49.800595,13.0438264 C49.1205508,12.8701981 48.4188031,12.7182733 47.6953518,12.5880521 C46.8995554,12.4578309 46.0965245,12.3420786 45.2862591,12.2407955 C44.3313034,12.1395123 43.3980513,12.0816362 42.4865027,12.0671672 C41.0106621,12.0816362 39.6578082,12.233561 38.4279411,12.5229415 C38.1674986,12.5663485 37.9215252,12.6242246 37.6900208,12.6965698 C37.6466137,12.6965698 37.5887376,12.7255078 37.5163925,12.7833839 C37.1546668,12.8557291 36.8074102,12.9714813 36.4746226,13.1306405 L36.4529191,13.0872335 C35.8886271,13.3187379 35.3532732,13.5864148 34.8468573,13.8902644 C36.5397333,14.3098661 37.1980739,15.7857067 36.8218793,18.3177861 C40.7719232,15.0333174 45.1777414,14.7728749 50.0393339,17.5364588 C54.5247318,20.8932726 54.8647539,26.7098209 51.0594002,34.9861034 C50.2201968,36.0278732 52.2313913,37.040705 57.0929838,38.0245987 C61.9111693,39.0374305 65.2318106,40.3541118 67.0549078,41.9746426 C65.5790672,40.1081384 65.0364787,37.6918111 65.4271424,34.7256609 C65.6441778,32.1935815 65.7526955,30.8262586 65.7526955,30.6236922 C67.199598,21.8120558 67.9230493,14.3460387 67.9230493,8.22564093 C67.9519874,6.70639326 67.4455715,5.78037564 66.4038016,5.44758806 C66.3025185,5.40418098 66.2012353,5.38247744 66.0999521,5.38247744 L66.0999521,5.38247744 Z M63.3653063,7.0102428 C64.334731,6.85108352 64.8194434,7.14046403 64.8194434,7.87838432 C65.195638,11.4956407 64.334731,15.8146447 62.2367223,20.8353965 C61.3685808,22.9623433 60.6451295,22.7814805 60.0663685,20.2928081 C59.5020765,17.8186048 57.9321873,16.3789367 55.3567008,15.973804 C52.650993,15.5686713 51.6598648,14.9465032 52.383316,14.1072997 C56.3912361,9.80999921 60.0518995,7.44431356 63.3653063,7.0102428 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-78)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M2.46517804,35.2248419 C2.1613285,35.2248419 1.92258958,35.3333596 1.74896128,35.550395 C1.57533297,35.7529613 1.48851882,36.0061693 1.48851882,36.3100188 C1.48851882,36.5704613 1.58256749,36.8019657 1.77066482,37.004532 C1.97323117,37.1781603 2.22643912,37.2649745 2.53028865,37.2649745 L14.8361947,36.8526073 C15.1255752,36.8526073 15.3715487,36.7513241 15.574115,36.5487577 C15.7477433,36.3172533 15.8345575,36.0640454 15.8345575,35.7891339 C15.8345575,35.5142224 15.7332743,35.2754835 15.530708,35.0729172 C15.2992035,34.8992889 15.0459956,34.8124747 14.7710841,34.8124747 L2.46517804,35.2248419 Z M1.90088605,23.0274535 C1.59703651,22.9261704 1.31489052,22.9261704 1.05444806,23.0274535 C0.80847463,23.1866128 0.63484633,23.3891792 0.53356315,23.6351526 C0.43227997,23.8955951 0.43227997,24.148803 0.53356315,24.3947764 C0.6782534,24.6696879 0.88081976,24.8577852 1.14126221,24.9590684 L12.6007303,29.4517008 C12.8756418,29.5240459 13.1433188,29.5095769 13.4037612,29.4082937 C13.6497347,29.2780725 13.837832,29.0899752 13.9680532,28.8440017 C14.0403983,28.5835593 14.0186948,28.3158823 13.9029426,28.0409708 C13.8016594,27.7660593 13.6207966,27.592431 13.3603541,27.5200859 L1.90088605,23.0274535 Z M10.5605977,14.3677418 C10.3290933,14.1651755 10.0758854,14.0783613 9.8009739,14.1072994 C9.5115934,14.1072994 9.28008899,14.2085826 9.10646068,14.4111489 C8.87495628,14.6137153 8.7736731,14.8669232 8.80261115,15.1707728 C8.8315492,15.4456842 8.94730141,15.6844232 9.14986776,15.8869895 L18.1351325,24.2862587 C18.3376989,24.459887 18.5909068,24.5467012 18.8947564,24.5467012 C19.1841369,24.5177631 19.4301103,24.4020109 19.6326766,24.1994446 C19.806305,23.9968782 19.8931191,23.7581393 19.8931191,23.4832278 C19.8641811,23.2083163 19.7484289,22.9695774 19.5458625,22.7670111 L10.5605977,14.3677418 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-79)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M67.3243751,406.102289 C54.2588452,406.102289 43.1321646,406.507421 33.9443335,407.317687 C24.6552192,408.15689 20.0106621,409.155253 20.0106621,410.312775 C20.0106621,411.499235 24.6552192,412.526536 33.9443335,413.394677 C43.1321646,414.176005 54.2588452,414.566669 67.3243751,414.566669 C80.3609669,414.566669 91.509351,414.176005 100.769527,413.394677 C109.942889,412.526536 114.52957,411.499235 114.52957,410.312775 C114.52957,409.155253 109.942889,408.15689 100.769527,407.317687 C91.509351,406.507421 80.3609669,406.102289 67.3243751,406.102289 Z",
+                              id: "Shadow",
+                              "fill-opacity": "0.298039",
+                              fill: "#000000"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Male-Shadow",
+                                transform: "translate(29.082741, 229.326971)",
+                                fill: "#017FC9"
+                              }
+                            },
+                            [
+                              _c("polygon", {
+                                attrs: {
+                                  id: "Path",
+                                  "fill-opacity": "0.298039",
+                                  points:
+                                    "111.035301 7.55283125 111.035301 15.5614368 111.035301 31.622055 125.337932 12.9353087 111.035301 6.53276496"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M36.0712803,24.7854405 C34.3060592,26.3046881 33.343869,27.1945332 33.1847097,27.4549757 L15.3444014,43.5372974 C11.7560831,47.1111466 8.02307457,55.9444866 4.14537577,70.0373174 C3.3640484,72.2510782 3.37851743,73.4954144 4.18878285,73.7703259 L3.73300855,76.0491974 C3.60278732,76.6279584 3.71853952,77.0692637 4.08026516,77.3731132 C3.34234486,78.0820955 2.74188031,79.261321 2.2788715,80.9107899 L0.49918138,86.3800815 C0.16639379,87.3350372 0.48471235,87.9789088 1.45413705,88.3116964 L7.42261002,90.2433113 C8.3775657,90.5760989 9.02143732,90.2577803 9.35422491,89.2883556 L9.50614967,88.8759884 C10.4466363,88.8036433 11.0760389,88.1091301 11.3943575,86.7924487 L12.0454636,83.2981791 C12.4071893,81.5763651 12.2914371,80.3971395 11.698207,79.7605024 C12.0309946,79.6302812 12.276968,79.261321 12.4361273,78.653622 L12.9136052,76.396454 C14.1868794,76.2662328 15.0767244,74.2912108 15.5831403,70.4713881 C16.0895562,66.5936893 18.5709941,60.5890438 23.0274539,52.4574515 L34.2264795,44.448846 C34.0239132,45.1578282 33.8285813,45.8668105 33.640484,46.5757927 C32.8157496,49.614288 31.9693116,52.6383143 31.1011701,55.6478716 C28.192896,65.6314991 28.3737588,71.6578482 31.6437585,73.7269188 C31.354378,75.2751045 30.9203072,76.8160557 30.3415462,78.3497724 C29.9653516,79.261321 30.1317454,79.9124272 30.8407276,80.3030909 C30.9709488,80.3464979 31.1084046,80.3971395 31.2530948,80.4550156 C30.5007055,83.6960773 29.9725861,87.3639752 29.6687365,91.4587094 C29.6108604,91.9361873 29.5674534,92.3774925 29.5385153,92.7826253 C28.9597543,102.476872 27.3826305,111.86727 24.807144,120.953818 C23.4181176,125.786472 21.8844009,130.49614 20.2059939,135.082821 C17.5002862,142.751404 14.4545564,150.101669 11.0688044,157.133616 C10.4611053,158.40689 9.80999921,159.651226 9.11548599,160.866624 C9.11548599,160.938969 9.09378245,161.011314 9.05037538,161.08366 C8.68864974,161.749235 8.34862764,162.400341 8.03030909,163.036978 C7.53836222,163.948527 7.03918085,164.860075 6.53276496,165.771624 L18.9905958,165.771624 C19.5259498,164.860075 20.0468347,163.948527 20.5532506,163.036978 C20.9005072,162.400341 21.2694673,161.749235 21.660131,161.08366 C21.7035381,161.011314 21.7397106,160.938969 21.7686487,160.866624 C22.4486929,159.651226 23.1287371,158.40689 23.8087813,157.133616 C26.2685156,152.503528 28.7282499,148.293041 31.1879842,144.502156 C31.5641789,143.894457 31.9403735,143.286758 32.3165682,142.679059 C32.4178514,142.476493 32.5336036,142.288396 32.6638248,142.114767 L52.1318984,113.249062 L65.3059461,125.511561 C68.5759458,128.882844 69.9939103,132.782246 69.5598395,137.209768 C68.8074502,145.138794 67.7078043,151.780076 66.2609017,157.133616 C65.9281141,158.40689 65.573623,159.651226 65.1974284,160.866624 L65.1974284,161.08366 C64.994862,161.749235 64.7922957,162.400341 64.5897293,163.036978 C64.3148178,163.948527 64.0399063,164.860075 63.7649949,165.771624 L75.1159453,165.771624 C75.4197948,164.860075 75.7381134,163.948527 76.0709009,163.036978 C76.2734673,162.400341 76.4832682,161.749235 76.7003035,161.08366 C76.7581796,161.011314 76.7871177,160.938969 76.7871177,160.866624 C77.2067194,159.651226 77.6118521,158.40689 78.0025158,157.133616 C79.7387989,151.591979 81.3810333,145.891183 82.929219,140.031228 C83.3054136,138.555387 83.6599047,137.057843 83.9926923,135.538595 C84.0505684,135.393905 84.086741,135.24198 84.10121,135.082821 C84.8680684,132.102202 84.8318958,129.382025 83.9926923,126.922291 C83.240303,124.99791 82.393865,123.008419 81.4533784,120.953818 C76.8232903,110.68081 70.0807244,99.2068725 61.2256809,86.5320063 L61.2256809,85.8809001 C62.0793534,85.7217409 62.5423622,85.215325 62.6147073,84.3616525 C62.9185569,82.8134668 63.1066542,80.9903696 63.1789993,78.8923609 C66.2464327,77.0692637 68.2214547,74.2116312 69.1040652,70.3194633 C70.0011448,66.3838884 70.5075607,62.397672 70.6233129,58.3608139 C70.7245961,54.2805487 70.9561005,50.5692437 71.3178261,47.2268988 C71.4480473,45.9825627 71.6723172,44.9986689 71.9906358,44.2752177 C72.5259897,42.9730054 73.3651932,42.4014789 74.5082462,42.5606382 L92.9996606,45.9246866 C98.2374478,47.0388015 102.07174,45.9680936 104.502536,42.7125629 L111.252336,33.7055946 L111.035301,32.2948646 L111.035301,31.622055 L111.035301,15.5614368 C110.803796,17.2109057 110.45654,18.5492905 109.993531,19.5765913 C109.400301,19.3016799 108.872181,19.4825427 108.409173,20.1191798 L107.237182,22.0942018 C106.36904,21.9205735 105.479195,22.4631619 104.567646,23.7219671 L97.5139966,32.6855283 C96.3998816,34.0745548 95.0832003,34.5809707 93.5639526,34.204776 L69.9939103,27.8673429 C70.2109457,25.9140245 69.863689,24.213914 68.9521404,22.7670114 C69.2125829,22.8248875 69.4802599,22.8899982 69.7551714,22.9623433 C72.8660118,23.5700423 74.7180471,22.0869672 75.3112771,18.513118 L42.4304169,18.513118 C42.4014789,18.5709941 42.3725408,18.6361047 42.3436028,18.7084498 C42.2423196,19.2438038 42.1410364,19.7646887 42.0397532,20.2711046 L42.0397532,20.3145116 C41.909532,21.2694673 41.8588904,22.1810159 41.8878285,23.0491574 C39.2544659,23.1504406 37.3156165,23.7292016 36.0712803,24.7854405 L36.0712803,24.7854405 Z M103.634394,3.95004393 C103.938244,4.63008812 104.430191,5.09309693 105.110235,5.33907037 L111.035301,7.55283125 L111.035301,6.53276496 L111.035301,1.88820781 L106.976739,0.36896015 C106.282226,0.12298672 105.594947,0.15192477 104.914903,0.4557743 C104.263797,0.75962383 103.808023,1.2515707 103.54758,1.93161489 C103.301607,2.61165908 103.330545,3.28446876 103.634394,3.95004393 L103.634394,3.95004393 Z",
+                                  id: "Shape",
+                                  "fill-opacity": "0.498039"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Male",
+                                transform: "translate(21.703538, 206.755291)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M86.4668957,201.842904 L86.4668957,201.821201 C85.7579134,202.240802 84.4050596,202.450603 82.4083341,202.450603 L66.4996406,202.450603 C64.7778266,202.479541 63.7794639,202.276975 63.5045524,201.842904 C63.4756143,202.94255 64.1701276,203.499607 65.588092,203.514076 L84.3182454,203.514076 C85.9098382,203.412793 86.626055,202.855736 86.4668957,201.842904 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-80)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M25.3497325,203.514076 C26.9992014,203.412793 27.7081836,202.855736 27.4766792,201.842904 C26.767697,202.276975 25.4220776,202.479541 23.4398211,202.450603 L7.53112771,202.450603 C5.79484466,202.479541 4.83988899,202.276975 4.66626069,201.842904 C4.53603946,202.94255 5.20161462,203.499607 6.66298619,203.514076 L25.3497325,203.514076 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-81)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M13.2825653,195.093104 L12.5229415,196.981312 C11.5535168,198.558435 10.6636717,198.956333 9.85340628,198.175006 C8.79716743,197.07536 7.73369407,196.489365 6.66298619,196.41702 C5.85272077,196.880028 5.22331816,198.312462 4.77477838,200.71432 C4.77477838,200.85901 4.74584032,201.025404 4.68796422,201.213501 C4.6734952,201.459475 4.66626069,201.669276 4.66626069,201.842904 C4.83988899,202.276975 5.79484466,202.479541 7.53112771,202.450603 L23.4398211,202.450603 C25.4220776,202.479541 26.767697,202.276975 27.4766792,201.842904 C27.346458,201.090515 27.0570775,200.446643 26.6085377,199.911289 C26.3191572,199.665316 25.964666,199.44828 25.5450643,199.260183 C24.4020113,198.883988 23.2444893,198.457152 22.0724982,197.979674 C19.656171,197.01025 17.3411269,195.845493 15.127366,194.485405 C14.8235165,195.194387 14.2085829,195.396953 13.2825653,195.093104 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-82)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M12.5229415,196.981312 L13.2825653,195.093104 C11.1556186,194.586688 9.12995501,194.02963 7.20557464,193.421931 L6.66298619,196.41702 C7.73369407,196.489365 8.79716743,197.07536 9.85340628,198.175006 C10.6636717,198.956333 11.5535168,198.558435 12.5229415,196.981312 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-83)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M24.5901086,143.525497 C23.2010822,148.358152 21.6673655,153.067819 19.9889586,157.654501 C17.2832508,165.323084 14.237521,172.673349 10.851769,179.705295 C10.24407,180.978569 9.59296383,182.222906 8.89845061,183.438304 C8.89845061,183.510649 8.87674707,183.582994 8.83333999,183.655339 C8.47161436,184.320914 8.13159226,184.97202 7.81327371,185.608658 C7.10429146,186.997684 6.3301986,188.365007 5.49099513,189.710626 L4.57944653,191.186467 C4.43475628,191.417971 4.36241115,191.635007 4.36241115,191.837573 C4.30453505,192.18483 4.46369433,192.438038 4.83988899,192.597197 C5.60674733,192.84317 6.39530922,193.118082 7.20557464,193.421931 C9.12995501,194.02963 11.1556186,194.586688 13.2825653,195.093104 C14.2085829,195.396953 14.8235165,195.194387 15.127366,194.485405 C16.9070562,191.548192 18.6433392,188.589277 20.3362152,185.608658 C20.6979408,184.97202 21.066901,184.320914 21.4430956,183.655339 C21.4865027,183.582994 21.5226753,183.510649 21.5516133,183.438304 C22.2316575,182.222906 22.9117017,180.978569 23.5917459,179.705295 C26.0514802,175.075207 28.5112145,170.864721 30.9709488,167.073836 C31.3471435,166.466137 31.7233381,165.858438 32.0995328,165.250739 C32.200816,165.048173 32.3165682,164.860075 32.4467894,164.686447 L51.9365666,135.820741 C46.6843104,130.915742 40.9979834,126.842711 34.8775857,123.601649 C30.9998869,121.474703 29.1912587,118.284282 29.4517012,114.030389 C29.3938251,114.507867 29.3576525,114.949172 29.3431835,115.354305 C28.7499534,125.048552 27.1655952,134.438949 24.5901086,143.525497 L24.5901086,143.525497 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-84)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M71.4480473,196.981312 L72.7719631,193.682374 C72.5404587,193.841533 72.2366092,193.88494 71.8604146,193.812595 L66.2391982,192.662307 L65.5663885,196.41702 C66.5792203,196.489365 67.6499282,197.07536 68.7785121,198.175006 C69.5887776,198.956333 70.4786226,198.558435 71.4480473,196.981312 L71.4480473,196.981312 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-85)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M65.5663885,196.41702 C64.7995302,196.822152 64.2135346,197.986909 63.8084019,199.911289 C63.7360568,200.316422 63.6492426,200.750493 63.5479595,201.213501 C63.5190214,201.459475 63.5045524,201.669276 63.5045524,201.842904 C63.7794639,202.276975 64.7778266,202.479541 66.4996406,202.450603 L82.4083341,202.450603 C84.4050596,202.450603 85.7579134,202.240802 86.4668957,201.821201 C86.3656125,201.459475 86.2426258,201.141156 86.0979355,200.866245 C85.7651479,200.099386 85.2225595,199.564033 84.4701702,199.260183 C83.2981791,198.883988 82.1334226,198.457152 80.9759005,197.979674 C78.0820955,196.807683 75.3474497,195.37525 72.7719631,193.682374 L71.4480473,196.981312 C70.4786226,198.558435 69.5887776,198.956333 68.7785121,198.175006 C67.6499282,197.07536 66.5792203,196.489365 65.5663885,196.41702 L65.5663885,196.41702 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-86)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M128.246206,36.0061697 C129.259038,34.8197096 129.67864,33.4885592 129.505012,32.0127187 L128.919016,31.5352408 C128.644105,31.2458603 128.333021,31.0288249 127.985764,30.8841347 L121.452999,28.4533384 C121.424061,28.6993118 121.322778,28.9235817 121.14915,29.1261481 C121.062335,29.2274313 121.011694,29.3214799 120.997225,29.4082941 L121.409592,29.4082941 C121.481937,29.4806392 121.597689,29.5819224 121.756849,29.7121436 C122.075167,29.91471 122.263264,30.240263 122.321141,30.6888028 C122.422424,31.0649975 122.342844,31.4339576 122.082402,31.7956833 C121.966649,31.9693116 121.843663,32.1212363 121.713441,32.2514576 C121.554282,32.2803956 121.43853,32.3455062 121.366185,32.4467894 C121.843663,32.6638248 122.096871,33.0400195 122.125809,33.5753734 C122.154747,33.8502849 122.104105,34.0890238 121.973884,34.2915902 L126.11926,35.8542449 C126.466516,35.9989351 126.842711,36.0495767 127.247844,36.0061697 L128.246206,36.0061697 Z M103.417359,26.5217235 C103.721208,27.2017677 104.213155,27.6647765 104.893199,27.91075 L111.621296,30.4283604 C111.621296,30.3270772 111.628531,30.225794 111.643,30.1245108 C111.93238,28.9380508 112.489438,28.0988473 113.314172,27.6069004 L117.611473,26.9992014 L106.759704,22.9406397 C106.065191,22.6946663 105.377912,22.7236044 104.697868,23.0274539 C104.046762,23.3313034 103.590987,23.8232503 103.330545,24.5032945 C103.084571,25.1833387 103.113509,25.8561484 103.417359,26.5217235 L103.417359,26.5217235 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-87)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M132.239657,34.4218114 L129.505012,32.0127187 C129.67864,33.4885592 129.259038,34.8197096 128.246206,36.0061697 L131.631958,36.0061697 C132.254126,35.9772316 132.615852,35.8108378 132.717135,35.5069883 C132.847357,35.2031388 132.688197,34.8414131 132.239657,34.4218114 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-88)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M69.3862112,32.4467894 C69.0534236,32.3455062 68.7640431,32.215285 68.5180697,32.0561257 C68.0405919,31.7812142 67.8669635,32.2659266 67.9971848,33.5102628 C68.141875,35.1018556 70.5654368,35.7963688 75.26787,35.5938024 C75.1955249,35.318891 74.095879,35.0873865 71.9689322,34.8992892 C69.8419855,34.7256609 68.9810785,33.908161 69.3862112,32.4467894 Z",
+                                  id: "Path",
+                                  fill: "#212F4C"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M75.2461665,36.8092006 L75.26787,35.5938024 C70.5654368,35.7963688 68.141875,35.1018556 67.9971848,33.5102628 C67.8669635,32.2659266 68.0405919,31.7812142 68.5180697,32.0561257 C68.7640431,32.215285 69.0534236,32.3455062 69.3862112,32.4467894 C69.863689,32.5625416 70.4207465,32.6493558 71.0573836,32.7072319 L74.8120957,32.7072319 C75.3185116,32.7361699 75.521078,32.1501744 75.4197948,30.9492453 L67.7150388,30.9492453 C66.4996406,31.0071214 66.4489991,32.8591566 67.563114,36.505351 C68.4746626,38.9795544 69.3862112,39.4932048 70.2977598,38.0463022 C70.8620518,37.2215678 71.8025384,36.8092006 73.1192198,36.8092006 L75.2461665,36.8092006 Z M75.9623832,13.673229 C73.9367197,13.9047334 71.4552818,13.969844 68.5180697,13.8685608 C63.555194,14.1290033 61.2546189,17.8764809 61.6163446,25.1109935 C61.8189109,27.8890464 64.0543754,29.2708383 68.3227378,29.2564818 L75.4197948,29.2564818 L75.7019408,22.1810159 L75.9623832,13.673229 Z M73.1409233,22.9406397 C73.3290206,23.099799 73.4230693,23.2806618 73.4230693,23.4832282 C73.4230693,23.6568565 73.3579587,23.8087813 73.2277374,23.9390025 C73.1987994,23.9534715 73.1698613,23.9896441 73.1409233,24.0475202 C73.0396401,24.1198653 72.9311224,24.1849759 72.8153702,24.242852 C72.7574941,24.242852 72.6923835,24.242852 72.6200384,24.242852 L70.6884235,24.242852 C70.4858571,24.242852 70.3194633,24.1777414 70.1892421,24.0475202 C70.0156138,23.8883609 69.9287997,23.7002636 69.9287997,23.4832282 C69.9287997,23.2806618 70.0156138,23.099799 70.1892421,22.9406397 C70.3194633,22.7959495 70.4858571,22.7236044 70.6884235,22.7236044 L72.6200384,22.7236044 C72.8226047,22.7236044 72.996233,22.7959495 73.1409233,22.9406397 L73.1409233,22.9406397 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-89)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M108.192137,42.6908594 L107.020146,44.6658813 L114.811716,49.2236243 L115.983707,47.3571201 C116.562468,46.6191998 116.497358,46.0476733 115.788376,45.6425406 L115.723265,45.620837 L109.798199,42.1482709 C109.1905,41.8733595 108.655146,42.0542223 108.192137,42.6908594 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-90)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M45.0999521,105.63112 C38.4152624,104.111872 33.9298645,103.294372 31.6437585,103.17862 C31.4411922,103.17862 31.2386258,103.127978 31.0360594,103.026695 C30.2836701,106.267757 29.7555507,109.935655 29.4517012,114.030389 C29.1912587,118.284282 30.9998869,121.474703 34.8775857,123.601649 C40.9979834,126.842711 46.6843104,130.915742 51.9365666,135.820741 L65.1106142,148.08324 C68.3661449,151.454523 69.7768749,155.353926 69.3428041,159.781447 C68.5904148,167.710473 67.4907689,174.351756 66.0438663,179.705295 C65.7255478,180.978569 65.3710567,182.222906 64.980393,183.438304 L64.980393,183.655339 C64.7778266,184.320914 64.5752603,184.97202 64.3726939,185.608658 C64.0254373,186.737242 63.6709462,187.887529 63.3092206,189.05952 C63.1645303,189.50806 63.0415436,189.949365 62.9402604,190.383436 C62.5785348,191.251577 62.9185569,191.837573 63.9603267,192.141423 L66.2391982,192.662307 L71.8604146,193.812595 C72.2366092,193.88494 72.5404587,193.841533 72.7719631,193.682374 C73.0179366,193.537683 73.1553923,193.298945 73.1843304,192.966157 L73.1843304,192.92275 C73.6907463,191.663945 74.1754586,190.376201 74.6384674,189.05952 C75.0146621,187.887529 75.4197948,186.737242 75.8538656,185.608658 C76.0564319,184.97202 76.2662328,184.320914 76.4832682,183.655339 C76.5411443,183.582994 76.5700823,183.510649 76.5700823,183.438304 C77.0041531,182.222906 77.4092858,180.978569 77.7854804,179.705295 C79.5362325,174.163659 81.1784669,168.462863 82.7121836,162.602907 C83.1028473,161.127067 83.4573384,159.629523 83.775657,158.110275 C83.8335331,157.965585 83.8769401,157.81366 83.9058782,157.654501 C84.6582675,154.673881 84.6148604,151.953705 83.775657,149.49397 C83.0232676,147.56959 82.1768296,145.580099 81.236343,143.525497 C76.6062549,133.252489 69.863689,121.778552 61.0086455,109.103686 L61.0086455,108.45258 C60.9507694,108.45258 60.8711898,108.474283 60.7699066,108.51769 C60.4949951,108.575566 60.154973,108.575566 59.7498403,108.51769 C54.7869646,107.794239 49.9036685,106.832049 45.0999521,105.63112 L45.0999521,105.63112 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-91)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M30.1245108,100.921452 C29.7483162,101.833001 29.91471,102.484107 30.6236922,102.87477 C30.7539134,102.918178 30.8913692,102.968819 31.0360594,103.026695 C31.2386258,103.127978 31.4411922,103.17862 31.6437585,103.17862 C33.9298645,103.294372 38.4152624,104.111872 45.0999521,105.63112 C49.9036685,106.832049 54.7869646,107.794239 59.7498403,108.51769 C60.154973,108.575566 60.4949951,108.575566 60.7699066,108.51769 C60.8711898,108.474283 60.9507694,108.45258 61.0086455,108.45258 C61.862318,108.29342 62.3253268,107.787005 62.397672,106.933332 C62.7015215,105.385146 62.8968533,103.562049 62.9836675,101.46404 C52.8264117,100.292049 44.5718327,98.7583327 38.2199305,96.8628904 C35.4563467,95.9079347 33.1919442,95.7198374 31.4267231,96.2985984 C31.1518116,97.8467841 30.7177409,99.3877353 30.1245108,100.921452 L30.1245108,100.921452 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-92)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M1.0851769,106.477558 L0.282146,108.951761 C-0.03617256,109.906717 0.282146,110.550588 1.23710167,110.883376 L7.20557464,112.814991 C8.16053031,113.147778 8.80440194,112.82946 9.13718953,111.860035 L9.28911429,111.447668 L9.94022044,109.472646 C10.0849107,108.995168 10.0849107,108.590035 9.94022044,108.257248 C9.75212311,107.953398 9.41933552,107.714659 8.94185768,107.541031 L2.99508825,105.609416 C2.0546016,105.305567 1.41796449,105.594947 1.0851769,106.477558 L1.0851769,106.477558 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-93)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M11.4811716,102.332182 C11.2641363,102.36112 11.0253973,102.339417 10.7649549,102.267071 L4.16707931,100.140125 C4.00792003,100.082249 3.90663685,100.017138 3.86322978,99.9447928 C3.12530948,100.653775 2.53207944,101.833001 2.08353965,103.48247 L1.0851769,106.477558 C1.41796449,105.594947 2.0546016,105.305567 2.99508825,105.609416 L8.94185768,107.541031 C9.41933552,107.714659 9.75212311,107.953398 9.94022044,108.257248 C10.0849107,108.590035 10.0849107,108.995168 9.94022044,109.472646 L9.28911429,111.447668 C10.2296009,111.375323 10.8590035,110.68081 11.1773221,109.364128 L11.8284282,105.869859 C12.1901539,104.148045 12.0744017,102.968819 11.4811716,102.332182 L11.4811716,102.332182 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-94)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M11.4811716,102.332182 C11.8139592,102.201961 12.0599327,101.833001 12.2190919,101.225302 L12.6965698,98.9681336 L3.97174747,96.3420055 L3.51597317,98.620877 C3.38575194,99.199638 3.50150414,99.6409433 3.86322978,99.9447928 C3.90663685,100.017138 4.00792003,100.082249 4.16707931,100.140125 L10.7649549,102.267071 C11.0253973,102.339417 11.2641363,102.36112 11.4811716,102.332182 L11.4811716,102.332182 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-95)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M39.1314791,45.9246866 C38.8999747,46.6481378 38.7118774,47.3643546 38.5671872,48.0733368 C37.1781607,54.425239 35.658913,60.7409685 34.0094442,67.0205256 C33.8068778,67.7295078 33.6187805,68.43849 33.4451522,69.1474723 C32.6059487,72.1859676 31.7522762,75.2099939 30.8841347,78.2195512 C27.9758606,88.2031787 28.1567234,94.2295278 31.4267231,96.2985984 C33.1919442,95.7198374 35.4563467,95.9079347 38.2199305,96.8628904 C44.5718327,98.7583327 52.8264117,100.292049 62.9836675,101.46404 C66.0366318,99.6409433 68.0044193,96.7833108 68.8870298,92.8911429 C69.7841094,88.955568 70.2905253,84.9693515 70.4062775,80.9324935 C70.5075607,76.8522283 70.7390651,73.1409233 71.1007907,69.7985784 C71.2310119,68.5542423 71.4552818,67.5703485 71.7736004,66.8468973 C72.3089543,65.544685 73.1481578,64.9731585 74.2912108,65.1323177 L92.7826253,68.4963662 C98.0204124,69.6104811 101.854704,68.5397732 104.2855,65.2842425 L114.312535,51.871456 C115.166208,50.5547747 115.332601,49.6721641 114.811716,49.2236243 L107.020146,44.6658813 C106.152005,44.492253 105.26216,45.0348415 104.350611,46.2936467 L97.2969612,55.2572079 C96.1828462,56.6462344 94.8661649,57.1526503 93.3469172,56.7764556 L69.7768749,50.4390225 C68.8653263,50.2075181 68.0188883,50.0772968 67.2375609,50.0483588 C66.5430477,50.0483588 65.9064106,50.1279384 65.3276496,50.2870977 C64.6765434,50.460726 64.0833134,50.728403 63.5479595,51.0901286 C63.4900834,51.1045976 63.4394418,51.1263012 63.3960347,51.1552392 C62.5857693,51.7050622 61.7755039,52.2114781 60.9652384,52.6744869 C54.8593097,56.0457698 49.1657482,55.8576725 43.884554,52.1101949 C43.6241115,51.8786905 43.4070761,51.5965445 43.2334478,51.2637569 C43.0019434,50.9454384 42.7993771,50.5837127 42.6257488,50.17858 C42.4665895,49.8747305 42.3363683,49.5419429 42.2350851,49.1802173 C42.0903948,48.7027394 41.9818771,48.1963235 41.909532,47.6609696 C41.8082488,47.2847749 41.7286692,46.8290006 41.6707931,46.2936467 C41.6707931,46.1200184 41.6707931,45.9463901 41.6707931,45.7727618 L39.1314791,45.9246866 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-96)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M35.8759484,47.3571201 C34.0962583,48.8763677 33.1340681,49.7662128 32.9893779,50.0266553 L15.127366,66.108977 C11.5390477,69.6828262 7.80603919,78.5161662 3.92834039,92.6089969 C3.14701302,94.8227578 3.16148205,96.067094 3.97174747,96.3420055 L12.6965698,98.9681336 C13.969844,98.8379124 14.8596891,96.8628904 15.366105,93.0430677 C15.8725208,89.1653689 18.3539587,83.1607234 22.8104185,75.0291311 L34.0094442,67.0205256 C35.658913,60.7409685 37.1781607,54.425239 38.5671872,48.0733368 C38.7118774,47.3643546 38.8999747,46.6481378 39.1314791,45.9246866 L41.6707931,45.7727618 C41.6707931,45.7148857 41.6707931,45.6642441 41.6707931,45.620837 C39.0374305,45.7221202 37.1058156,46.3008812 35.8759484,47.3571201 L35.8759484,47.3571201 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-97)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M47.0966776,35.897652 C46.2430051,35.9699971 45.5484919,36.2304396 45.013138,36.6789793 C43.5951735,37.8799084 42.6329833,39.4136251 42.1265674,41.2801294 C42.0252842,41.8154833 41.924001,42.3363683 41.8227179,42.8427842 L41.8227179,42.8861912 C41.6924966,43.8411469 41.641855,44.7526955 41.6707931,45.620837 L41.6707931,45.7727618 L41.6707931,46.2936467 C41.7286692,46.8290006 41.8082488,47.2847749 41.909532,47.6609696 C41.9818771,48.1963235 42.0903948,48.7027394 42.2350851,49.1802173 C42.3363683,49.5419429 42.4665895,49.8747305 42.6257488,50.17858 C42.7993771,50.5837127 43.0019434,50.9454384 43.2334478,51.2637569 C43.4070761,51.5965445 43.6241115,51.8786905 43.884554,52.1101949 C49.1657482,55.8576725 54.8593097,56.0457698 60.9652384,52.6744869 C61.7755039,52.2114781 62.5857693,51.7050622 63.3960347,51.1552392 C63.4394418,51.1263012 63.4900834,51.1045976 63.5479595,51.0901286 C64.0833134,50.728403 64.6765434,50.460726 65.3276496,50.2870977 C65.9064106,50.1279384 66.5430477,50.0483588 67.2375609,50.0483588 C68.0188883,50.0772968 68.8653263,50.2075181 69.7768749,50.4390225 C69.9939103,48.485704 69.6466537,46.7855936 68.7351051,45.338691 C68.4167865,44.7888681 67.8886671,44.210107 67.1507468,43.602408 C66.702207,43.2262133 66.1740876,42.8210806 65.5663885,42.3870099 C64.5535567,41.7069657 63.2947515,41.0124524 61.7899729,40.3034702 C61.1822738,40.0140897 60.5528712,39.7174747 59.9017651,39.4136251 C59.1204377,39.0663685 58.2957033,38.7046429 57.4275617,38.3284482 C56.7764556,38.0969438 56.132584,37.8437359 55.4959468,37.5688244 C54.6278053,37.2360368 53.8175399,36.9538908 53.0651506,36.7223864 C52.4574515,36.5198201 51.885925,36.3534263 51.3505711,36.223205 C49.6287571,35.8470104 48.2107926,35.7384927 47.0966776,35.897652 L47.0966776,35.897652 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-98)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M117.611473,26.9992014 L113.314172,27.6069004 C112.489438,28.0988473 111.93238,28.9380508 111.643,30.1245108 C111.628531,30.225794 111.621296,30.3270772 111.621296,30.4283604 C111.317447,32.8012805 111.085942,35.065683 110.926783,37.2215678 C110.695279,39.2906384 110.319084,40.9328728 109.798199,42.1482709 L115.723265,45.620837 C117.213575,45.0854831 118.110654,44.2607486 118.414504,43.1466337 C118.457911,42.8861912 118.494083,42.6329833 118.523021,42.3870099 C118.653243,40.5639127 118.971561,38.8565677 119.477977,37.2649749 C119.926517,37.2649749 120.288242,37.1998643 120.563154,37.069643 C120.953818,37.0117669 121.257667,36.8236696 121.474703,36.505351 C121.706207,36.1146873 121.836428,35.7963688 121.865366,35.5503954 C121.735145,35.2754839 121.568751,35.036745 121.366185,34.8341786 C121.626627,34.6750193 121.829194,34.4941565 121.973884,34.2915902 C122.104105,34.0890238 122.154747,33.8502849 122.125809,33.5753734 C122.096871,33.0400195 121.843663,32.6638248 121.366185,32.4467894 C121.43853,32.3455062 121.554282,32.2803956 121.713441,32.2514576 C121.843663,32.1212363 121.966649,31.9693116 122.082402,31.7956833 C122.342844,31.4339576 122.422424,31.0649975 122.321141,30.6888028 C122.263264,30.240263 122.075167,29.91471 121.756849,29.7121436 C121.597689,29.5819224 121.481937,29.4806392 121.409592,29.4082941 C121.235964,29.4082941 121.098508,29.4082941 120.997225,29.4082941 C121.011694,29.3214799 121.062335,29.2274313 121.14915,29.1261481 C121.322778,28.9235817 121.424061,28.6993118 121.452999,28.4533384 C121.467468,28.3231172 121.467468,28.192896 121.452999,28.0626747 C121.395123,27.5851969 121.178088,27.2307058 120.801893,26.9992014 C120.54145,26.8255731 120.259304,26.7170554 119.955455,26.6736483 L117.611473,26.9992014 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-99)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M73.4230693,23.4832282 C73.4230693,23.2806618 73.3290206,23.099799 73.1409233,22.9406397 C72.996233,22.7959495 72.8226047,22.7236044 72.6200384,22.7236044 L70.6884235,22.7236044 C70.4858571,22.7236044 70.3194633,22.7959495 70.1892421,22.9406397 C70.0156138,23.099799 69.9287997,23.2806618 69.9287997,23.4832282 C69.9287997,23.7002636 70.0156138,23.8883609 70.1892421,24.0475202 C70.3194633,24.1777414 70.4858571,24.242852 70.6884235,24.242852 L72.6200384,24.242852 L72.8153702,24.242852 C72.9311224,24.1849759 73.0396401,24.1198653 73.1409233,24.0475202 C73.1698613,23.9896441 73.1987994,23.9534715 73.2277374,23.9390025 C73.3579587,23.8087813 73.4230693,23.6568565 73.4230693,23.4832282 Z",
+                                  id: "Path",
+                                  fill: "#000000"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M77.9808123,26.0659492 L75.7019408,22.1810159 L75.4197948,29.2563693 C78.0531574,28.6920773 78.9068299,27.628604 77.9808123,26.0659492 L77.9808123,26.0659492 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-100)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M55.1920973,20.8571001 C55.7419203,20.8571001 56.3134468,21.1609496 56.9066768,21.7686487 C57.6880042,22.5499761 58.1293095,23.664091 58.2305926,25.1109935 L58.2305926,25.4148431 C58.4765661,31.8680284 59.0336236,36.5342891 59.9017651,39.4136251 C60.5528712,39.7174747 61.1822738,40.0140897 61.7899729,40.3034702 C63.2947515,41.0124524 64.5535567,41.7069657 65.5663885,42.3870099 C66.1740876,42.8210806 66.702207,43.2262133 67.1507468,43.602408 C67.8886671,44.210107 68.4167865,44.7888681 68.7351051,45.338691 C68.9955475,45.3965671 69.2632245,45.4616777 69.538136,45.5340229 C73.6907463,46.3442883 75.5934231,43.4360142 75.2461665,36.8092006 L73.1192198,36.8092006 C71.8025384,36.8092006 70.8620518,37.2215678 70.2977598,38.0463022 C69.3862112,39.4932048 68.4746626,38.9795544 67.563114,36.505351 C66.4489991,32.8591566 66.4996406,31.0071214 67.7150388,30.9492453 L75.4197948,30.9492453 L75.4197948,29.2563693 L68.3227378,29.2563693 C64.0543754,29.2708383 61.8189109,27.8890464 61.6163446,25.1109935 C61.2546189,17.8764809 63.555194,14.1290033 68.5180697,13.8685608 C60.2851942,13.6225874 55.018469,14.2592245 52.717894,15.7784722 C50.4173189,17.2977198 49.9760137,20.9873213 51.3939782,26.8472766 C52.3344648,29.2057277 52.9132258,31.5280063 53.1302612,33.8141123 C54.6061018,33.654953 55.3946637,31.9910151 55.4959468,28.8222986 C55.4670088,28.8222986 55.4308362,28.815064 55.3874292,28.800595 C54.4180045,28.7137809 53.59327,28.2941791 52.9132258,27.5417898 C52.2331816,26.7025863 51.9148631,25.7259271 51.9582701,24.6118122 C51.9582701,23.5555733 52.2476506,22.6584937 52.8264117,21.9205735 C53.3907037,21.1537151 54.1792655,20.799224 55.1920973,20.8571001 L55.1920973,20.8571001 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-101)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M56.9066768,21.7686487 C56.3134468,21.1609496 55.7419203,20.8571001 55.1920973,20.8571001 C54.1792655,20.799224 53.3907037,21.1537151 52.8264117,21.9205735 C52.2476506,22.6584937 51.9582701,23.5555733 51.9582701,24.6118122 C51.9148631,25.7259271 52.2331816,26.7025863 52.9132258,27.5417898 C53.59327,28.2941791 54.4180045,28.7137809 55.3874292,28.800595 C55.4308362,28.815064 55.4670088,28.8222986 55.4959468,28.8222986 C55.3946637,31.9910151 54.6061018,33.654953 53.1302612,33.8141123 C53.1591992,34.4652185 53.1519647,35.318891 53.1085577,36.3751298 C53.1085577,36.505351 53.0940886,36.6211032 53.0651506,36.7223864 C53.8175399,36.9538908 54.6278053,37.2360368 55.4959468,37.5688244 C56.132584,37.8437359 56.7764556,38.0969438 57.4275617,38.3284482 C58.2957033,38.7046429 59.1204377,39.0663685 59.9017651,39.4136251 C59.0336236,36.5342891 58.4765661,31.8680284 58.2305926,25.4148431 C58.2305926,25.3135599 58.2305926,25.2122767 58.2305926,25.1109935 C58.1293095,23.664091 57.6880042,22.5499761 56.9066768,21.7686487 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-102)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M68.2142202,0.282146 C75.1014762,3.97174747 74.4431356,5.49099513 66.2391982,4.83988899 C65.2553045,4.70966776 64.2569417,4.60838458 63.2441099,4.53603946 C60.7120305,4.34794213 58.3318758,4.34794213 56.1036459,4.53603946 C52.2114781,4.91223412 49.6576951,6.56893752 48.442297,9.50614967 C47.5018103,11.8356628 47.3715891,14.9609722 48.0516333,18.8820781 C48.1239784,19.3306179 48.2541996,19.8080957 48.442297,20.3145116 C48.9921199,22.1231398 49.9760137,24.3007281 51.3939782,26.8472766 C49.9760137,20.9873213 50.4173189,17.2977198 52.717894,15.7784722 C55.018469,14.2592245 60.2851942,13.6225874 68.5180697,13.8685608 C71.4552818,13.969844 73.9367197,13.9047334 75.9623832,13.673229 C77.3803477,13.4996007 78.5957459,13.2753308 79.6085776,13.0004193 C80.5924714,12.7399768 81.4027368,12.4505963 82.0393739,12.1322778 C84.1807897,11.0181628 84.3182454,9.41933552 82.4517411,7.33579587 C82.3215199,7.16216756 82.1840642,6.99577377 82.0393739,6.83661449 C81.6631792,6.46041983 81.2580465,6.08422517 80.8239758,5.70803051 L80.7805687,5.66462344 C80.5056572,5.43311903 80.2018077,5.19438011 79.8690201,4.94840668 C76.989684,2.82145995 73.1047507,1.26603972 68.2142202,0.282146 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-103)"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M486.766952,406.102289 C477.550183,406.102289 469.700737,406.507421 463.218613,407.317687 C456.664145,408.15689 453.38691,409.155253 453.38691,410.312775 C453.38691,411.499235 456.664145,412.526536 463.218613,413.394677 C469.700737,414.176005 477.550183,414.566669 486.766952,414.566669 C495.969252,414.566669 503.840402,414.176005 510.380401,413.394677 C516.848056,412.526536 520.081883,411.499235 520.081883,410.312775 C520.081883,409.155253 516.848056,408.15689 510.380401,407.317687 C503.840402,406.507421 495.969252,406.102289 486.766952,406.102289 Z",
+                              id: "Shadow",
+                              "fill-opacity": "0.298039",
+                              fill: "#000000"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M480.841886,241.003475 C479.503049,242.184509 478.410637,243.631411 477.564651,245.344182 C476.870138,246.71874 476.385426,248.028187 476.110514,249.272523 C475.300249,249.858518 474.663612,250.104492 474.113789,250.42281 L470.728037,248.100532 C470.482064,247.926903 470.199918,247.861793 469.881599,247.9052 C469.577749,247.919669 469.339011,248.064359 469.165382,248.339271 C468.977285,248.570775 468.90494,248.845686 468.948347,249.164005 C468.991754,249.453386 469.143679,249.699359 469.404121,249.901925 L473.028612,252.549757 C472.811577,253.663872 473.166068,254.806925 474.092085,255.978916 C474.294652,256.253827 474.533391,256.535973 474.808302,256.825354 C474.287417,260.167699 473.563966,264.269668 472.637948,269.13126 C472.377506,270.853074 471.639586,271.576525 470.424187,271.301614 C470.438656,270.505817 470.228856,270.021105 469.794785,269.847477 L465.627706,268.002676 C464.499122,267.525198 463.652684,267.662654 463.088392,268.415043 C462.972639,268.588672 462.856887,268.7623 462.741135,268.935928 L455.123193,266.114468 C455.188304,265.34761 455.065317,265.058229 454.819344,264.812256 C454.57337,264.580752 454.28399,264.464999 453.951202,264.464999 C453.618414,264.464999 453.329034,264.587986 453.083061,264.833959 C452.967308,264.949712 452.851556,265.072698 452.735804,265.20292 C452.128105,264.16115 451.354012,263.242367 450.413525,262.44657 C450.210959,262.30188 450.037331,262.193362 449.89264,262.121017 C449.038968,261.48438 448.069543,260.912854 446.984366,260.406438 C446.796269,260.334093 446.600937,260.276217 446.398371,260.232809 C445.544698,259.885553 444.814012,259.78427 444.206313,259.92896 C443.916933,260.030243 443.649256,260.174933 443.403282,260.363031 L442.448327,259.950663 C441.623592,259.70469 440.979721,259.813208 440.516712,260.276217 C440.343084,260.464314 440.212862,260.659646 440.126048,260.862212 C439.64857,261.976327 439.995827,262.786592 441.167818,263.293008 C441.211225,264.971415 441.28357,266.584712 441.384853,268.132897 C441.515075,269.5798 442.144477,270.614335 443.273061,271.236503 C445.37107,271.938251 446.969897,272.17699 448.156357,272.017831 C449.067906,271.902078 449.907109,271.945486 450.673968,272.148052 C450.652264,272.900441 450.768016,273.182587 450.999521,273.428561 C451.216556,273.674534 451.498702,273.797521 451.845959,273.797521 C452.178746,273.797521 452.475361,273.696238 452.735804,273.493671 C452.851556,273.377919 452.93837,273.254932 452.996246,273.124711 L460.701002,276.640684 C460.657595,276.959003 460.628657,277.277321 460.614188,277.59564 C460.469498,278.868914 460.975914,279.715352 462.133436,280.134954 L466.843104,281.958051 C467.204829,282.015927 467.486975,281.864002 467.689542,281.502277 C469.006223,282.254666 470.814851,283.115573 473.115426,284.084998 L464.911489,350.541231 C464.578701,353.160125 465.671113,354.520213 468.188723,354.621496 L469.295603,354.621496 C469.773081,354.621496 470.250559,354.628731 470.728037,354.6432 C472.898391,354.701076 475.104917,354.860235 477.347616,355.120678 L488.459828,388.739458 C487.815956,388.782865 487.418058,389.195233 487.418058,389.97656 L487.418058,392.42906 C487.418058,393.239325 487.830425,393.644458 488.655159,393.644458 L489.653522,393.644458 C489.75311,394.138779 489.767579,394.630725 489.696929,395.120299 L499.962703,395.120299 C499.956259,394.624791 499.956259,394.132844 499.962703,393.644458 L500.895955,393.644458 C501.749627,393.61552 502.111353,393.210387 502.111353,392.42906 L502.111353,389.97656 C502.111353,389.195233 501.727924,388.782865 500.961065,388.739458 C500.941773,388.739458 500.826021,388.739458 500.613809,388.739458 L500.613809,372.223066 L506.061397,388.739458 C505.446463,388.782865 505.063034,389.195233 505.063034,389.97656 L505.063034,392.42906 C505.063034,393.239325 505.468167,393.644458 506.278432,393.644458 L507.276795,393.644458 C507.376383,394.138779 507.390852,394.630725 507.320202,395.120299 L517.607679,395.120299 C517.589989,394.624791 517.582754,394.132844 517.585976,393.644458 L518.519228,393.644458 C519.394604,393.61552 519.756329,393.210387 519.756329,392.42906 L519.756329,389.97656 C519.756329,389.195233 519.3729,388.782865 518.606042,388.739458 C518.58675,388.739458 518.463763,388.739458 518.237082,388.739458 L518.237082,358.354505 C519.00394,357.920434 519.734626,357.428487 520.429139,356.878664 L521.839869,355.75008 C522.968453,354.838532 523.4604,353.15289 523.31571,350.693156 L519.799737,283.477299 C523.301241,281.350352 524.849426,278.008007 524.444294,273.450264 C524.05363,268.892521 522.794825,261.773761 520.667878,252.093983 C519.624752,247.362329 518.264663,243.665493 516.587613,241.003475 L480.841886,241.003475 Z",
+                              id: "Female-Shadow",
+                              "fill-opacity": "0.498039",
+                              fill: "#017FC9"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Tablet",
+                                transform: "translate(428.861912, 225.854405)"
+                              }
+                            },
+                            [
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(0.000000, 18.665043)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M49.0716996,25.935728 C48.8836022,26.0659492 48.6303943,26.1310598 48.3120757,26.1310598 L9.52785321,26.1310598 C8.65971169,26.1310598 8.13159226,25.7403962 7.94349493,24.9590688 L1.88820781,1.30221228 C1.87373879,1.24433618 1.86650427,1.19369459 1.86650427,1.15028752 C1.79415915,0.87537604 1.83033171,0.65110614 1.97502196,0.47747784 L1.97502196,0.4557743 L0.49918138,1.93161489 C0.31108405,2.11971222 0.26767697,2.40909273 0.36896015,2.79975641 L6.42424727,26.50002 C6.48212337,26.7315244 6.56893752,26.9340907 6.68468973,27.107719 L47.9431156,27.107719 L49.1802173,25.8923209 C49.1512792,25.9067899 49.1223412,25.921259 49.0934031,25.935728 L49.0716996,25.935728 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-104)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M43.2551514,1.30221228 C43.052585,0.53535394 42.5244656,0.15192477 41.6707931,0.15192477 L2.88657056,0.15192477 C2.52484493,0.15192477 2.24993345,0.21703538 2.06183612,0.34725661 C2.01842904,0.37619466 1.98949099,0.41236722 1.97502196,0.4557743 L1.97502196,0.47747784 C1.83033171,0.65110614 1.79415915,0.87537604 1.86650427,1.15028752 C1.86650427,1.19369459 1.87373879,1.24433618 1.88820781,1.30221228 L7.94349493,24.9590688 C8.13159226,25.7403962 8.65971169,26.1310598 9.52785321,26.1310598 L48.3120757,26.1310598 C48.6303943,26.1310598 48.8836022,26.0659492 49.0716996,25.935728 L49.0934031,25.935728 C49.1223412,25.921259 49.1512792,25.9067899 49.1802173,25.8923209 L49.1802173,25.8706174 C49.2236243,25.8127413 49.2597969,25.7620997 49.288735,25.7186926 C49.3900181,25.5595333 49.3972526,25.3063254 49.3104385,24.9590688 L43.2551514,1.30221228 Z",
+                                      id: "Path",
+                                      fill: "#0088D3"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M13.0872334,22.115905 C13.0293573,21.8409935 12.899136,21.6673652 12.6965697,21.5950201 C12.5952865,21.551613 12.4940033,21.5299095 12.3927201,21.5299095 L4.25389337,21.5299095 C4.13814117,21.5299095 4.0440925,21.551613 3.97174738,21.5950201 L3.95004384,21.5950201 C3.83429164,21.6528962 3.754712,21.7686484 3.71130492,21.9422767 C3.71130492,22.0001528 3.73300846,22.0797324 3.77641553,22.1810156 L6.14210118,31.6654617 L6.14210118,31.6871653 C6.15657021,31.6871653 6.16380472,31.6943998 6.16380472,31.7088688 L6.16380472,31.7522759 C6.29402595,32.0705944 6.53276487,32.2297537 6.88002148,32.2297537 L15.0188483,32.2297537 C15.2358836,32.2297537 15.3733394,32.1718776 15.4312155,32.0561254 C15.5180296,31.9548422 15.5397332,31.8029175 15.4963261,31.6003511 L13.0872334,22.115905 Z M13.6732289,21.7035378 C13.5719457,21.8048209 13.5502422,21.9639802 13.6081183,22.1810156 L16.9070561,35.3116561 C17.0228083,35.7023198 17.2687817,35.8976517 17.6449764,35.8976517 L25.7838031,35.8976517 C25.9863695,35.8976517 26.1238252,35.832541 26.1961704,35.7023198 C26.2829845,35.6010366 26.2974535,35.4491119 26.2395774,35.2465455 L22.9840467,22.115905 C22.8682945,21.7252413 22.6150866,21.5299095 22.2244229,21.5299095 L14.1072997,21.5299095 C13.8902643,21.5299095 13.745574,21.5877856 13.6732289,21.7035378 L13.6732289,21.7035378 Z M32.8157495,22.115905 C32.7289353,21.7252413 32.4974309,21.5299095 32.1212363,21.5299095 L23.9607059,21.5299095 C23.7581396,21.5299095 23.6206838,21.5877856 23.5483387,21.7035378 C23.4615246,21.8048209 23.439821,21.9639802 23.4832281,22.1810156 L27.9324534,39.8476956 C28.0337366,40.2383593 28.2724755,40.4336911 28.6486702,40.4336911 L36.8092005,40.4336911 C36.9972978,40.4336911 37.127519,40.375815 37.1998642,40.2600628 C37.3011473,40.1587796 37.3228509,39.9996204 37.2649748,39.782585 L32.8157495,22.115905 Z M33.401745,21.7035378 C33.3004618,21.8048209 33.2859928,21.9639802 33.3583379,22.1810156 L36.1580943,33.4017448 C36.2738465,33.7924085 36.5270545,33.9877403 36.9177182,33.9877403 L45.0565449,33.9877403 C45.2591113,33.9732713 45.396567,33.9081607 45.4689122,33.7924085 C45.5557263,33.6911253 45.5629608,33.5392005 45.4906157,33.3366342 L42.7125628,22.115905 C42.6112797,21.7252413 42.3580717,21.5299095 41.952939,21.5299095 L33.8358158,21.5299095 C33.6187804,21.5299095 33.4740901,21.5877856 33.401745,21.7035378 L33.401745,21.7035378 Z",
+                                  id: "Shape",
+                                  "fill-opacity": "0.298039",
+                                  fill: "#FFFFFF"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(4.340708, 22.571679)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M11.1773221,3.3640484 C10.9458177,3.3640484 10.8590035,3.4798006 10.9168796,3.71130501 L13.0872335,12.3710167 C13.1595786,12.6169901 13.3115033,12.7399768 13.5430078,12.7399768 L20.9222107,12.7399768 C21.1681841,12.7399768 21.2622328,12.6169901 21.2043567,12.3710167 L19.0122993,3.71130501 C18.9688923,3.4798006 18.8314365,3.3640484 18.5999321,3.3640484 L11.1773221,3.3640484 Z M9.31081783,4.21048639 L9.1805966,3.68960147 C9.1227205,3.45809707 8.97079574,3.34234486 8.7248223,3.34234486 L1.32391582,3.34234486 C1.09241142,3.34234486 1.00559726,3.45809707 1.06347337,3.68960147 L1.06347337,3.73300855 L1.19369459,4.21048639 L1.23710167,4.42752177 L1.23710167,4.47092884 L1.38902644,5.10033145 L1.41072997,5.12203498 L1.51924766,5.49099513 L1.60606182,5.83825174 L1.84480074,6.81491095 L2.08353965,7.81327371 L2.19205735,8.269048 L2.32227857,8.7248223 C2.38015468,8.97079574 2.52484493,9.09378245 2.75634933,9.09378245 L10.1572558,9.09378245 C10.4032292,9.09378245 10.4972779,8.97079574 10.4394018,8.7248223 L10.3091806,8.269048 L10.1789594,7.81327371 L9.94022044,6.81491095 L9.61466737,5.49099513 L9.52785321,5.12203498 L9.52785321,5.10033145 L9.37592845,4.47092884 L9.37592845,4.42752177 L9.31081783,4.21048639 Z M8.39926923,0.67280968 C8.35586216,0.44130527 8.2111719,0.32555307 7.96519847,0.32555307 L3.71130501,0.32555307 L0.56429199,0.32555307 C0.31831856,0.32555307 0.22426989,0.44130527 0.282146,0.67280968 L0.82473445,2.71294226 L0.84643799,2.71294226 C0.88984506,2.91550861 1.02006629,3.01679179 1.23710167,3.01679179 L8.65971169,3.01679179 C8.87674707,3.01679179 8.96356122,2.91550861 8.92015415,2.71294226 L8.39926923,0.67280968 Z M11.090508,3.01679179 L12.5663485,3.01679179 L18.513118,3.01679179 C18.7446224,3.01679179 18.8314365,2.9082741 18.7735604,2.69123872 L18.6433392,2.23546442 L18.6433392,2.08353965 L18.3828967,1.0851769 L18.2743791,0.67280968 C18.216503,0.44130527 18.0645782,0.32555307 17.8186048,0.32555307 L13.5430078,0.32555307 L10.3959947,0.32555307 C10.1644903,0.32555307 10.0849107,0.44130527 10.1572558,0.67280968 L10.526216,2.08353965 L10.5479195,2.23546442 L10.6347337,2.53931395 L10.6564372,2.69123872 C10.7143133,2.9082741 10.8590035,3.01679179 11.090508,3.01679179 L11.090508,3.01679179 Z M29.9508825,7.9217914 C29.8785374,7.69028699 29.7338472,7.57453479 29.5168118,7.57453479 L22.0942018,7.57453479 C21.8626973,7.57453479 21.7758832,7.69028699 21.8337593,7.9217914 L23.0925645,12.8919016 L23.0925645,12.9136052 L24.0909273,16.9287597 C24.1488034,17.1602641 24.2934936,17.2760163 24.524998,17.2760163 L31.947608,17.2760163 C32.1791124,17.2760163 32.2659266,17.1602641 32.2080505,16.9287597 L31.2096877,12.9136052 L31.2096877,12.8919016 L29.9508825,7.9217914 Z M23.8955954,2.23546442 L25.2412148,2.23546442 L26.8689801,2.23546442 L28.192896,2.23546442 C28.4244004,2.23546442 28.50398,2.11971222 28.4316349,1.88820781 L28.1277853,0.67280968 C28.0699092,0.44130527 27.9324535,0.32555307 27.7154181,0.32555307 L23.396414,0.32555307 L20.2711046,0.32555307 C20.0396002,0.32555307 19.952786,0.44130527 20.0106621,0.67280968 L20.3362152,1.88820781 C20.3796222,2.11971222 20.517078,2.23546442 20.7485824,2.23546442 L20.9222107,2.23546442 L22.0507947,2.23546442 L22.4197548,2.23546442 L23.6568565,2.23546442 L23.67856,2.23546442 L23.8955954,2.23546442 Z M30.1679179,0.32555307 C29.9364135,0.32555307 29.8423648,0.44130527 29.8857719,0.67280968 L30.1679179,1.73628305 L31.0360594,5.25225621 L31.1445771,5.66462344 L31.4701302,6.98853926 L31.7088691,7.94349493 L31.7956833,8.13882678 L31.7956833,8.16053031 L31.9259045,8.7248223 L32.2514576,10.0053311 L32.3599753,10.4394018 C32.4033823,10.6709062 32.5408381,10.7866584 32.7723425,10.7866584 L40.1949525,10.7866584 C40.4409259,10.7866584 40.5277401,10.6709062 40.455395,10.4394018 L40.3468773,10.0053311 L40.0213242,8.7248223 L39.8693994,8.16053031 L39.8693994,8.13882678 L39.8042888,7.94349493 L39.5872534,6.98853926 L39.4353287,6.46765434 L39.2399968,5.66462344 L39.2182933,5.53440221 L39.1531827,5.25225621 L38.2633376,1.73628305 L38.0028952,0.67280968 C37.9450191,0.44130527 37.7930943,0.32555307 37.5471209,0.32555307 L30.1679179,0.32555307 Z",
+                                      id: "Shape",
+                                      "fill-opacity": "0.4",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M28.6920773,2.88657056 C28.6486703,2.66953518 28.5112145,2.55378298 28.2797101,2.53931395 L20.8353965,2.53931395 C20.6038921,2.53931395 20.517078,2.65506616 20.5749541,2.88657056 L21.5733168,6.90172511 C21.6311929,7.13322951 21.7831177,7.24898172 22.0290911,7.24898172 L29.4517012,7.24898172 C29.6542675,7.23451269 29.7338472,7.11876049 29.6904401,6.90172511 L28.6920773,2.88657056 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-105)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M39.4570321,26.8906834 C37.7496871,25.3135596 36.5776961,24.6118119 35.941059,24.7854402 C35.0873865,24.9445994 34.3784042,25.2050419 33.8141122,25.5667675 L30.9926523,23.5917456 C30.847962,23.4904624 30.6815682,23.4398208 30.4934709,23.4398208 L30.0594002,21.6167236 C29.972586,21.3852192 29.8278957,21.269467 29.6253294,21.269467 L22.2027194,21.269467 C22.0869672,21.269467 22.014622,21.283936 21.985684,21.3128741 C21.985684,21.3273431 21.971215,21.3490466 21.9422769,21.3779847 C21.8988698,21.4358608 21.8916353,21.5154404 21.9205734,21.6167236 L22.9406397,25.6318781 C22.9840467,25.8778516 23.1215025,26.0008383 23.3530069,26.0008383 L29.2129622,26.0008383 L35.6806165,36.0495764 L35.4418776,31.795683 C35.7601962,32.0416564 36.1074528,32.3020989 36.4836474,32.5770103 L39.4570321,26.8906834 Z",
+                                  id: "Path",
+                                  "fill-opacity": "0.498039",
+                                  fill: "#017FC9"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform: "translate(22.571680, 19.533184)"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M0.43407076,0.08681415 L0.08681415,0.43407076 C0.07234513,0.43407076 0.06511061,0.44130527 0.06511061,0.4557743 C0.00723451,0.5136504 -1.04083409e-17,0.60769907 0.04340708,0.73792029 L0.82473445,3.79811916 L1.21539813,3.42915902 L0.41236722,0.34725661 C0.41236722,0.21703538 0.41960174,0.13022123 0.43407076,0.08681415 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-106)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M9.52785321,4.62285361 C9.45550809,4.66626069 9.39039747,4.68796422 9.33252137,4.68796422 L1.88820781,4.68796422 C1.65670341,4.68796422 1.50477864,4.57221202 1.43243351,4.34070761 L1.21539813,3.42915902 L0.82473445,3.79811916 L1.06347337,4.70966776 C1.10688044,4.94117217 1.24433618,5.05692437 1.47584059,5.05692437 L8.92015415,5.05692437 C9.02143732,5.05692437 9.09378245,5.02798632 9.13718953,4.97011022 L9.52785321,4.62285361 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-107)"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M9.52785321,4.62285361 C9.57126029,4.56497751 9.5784948,4.47092884 9.54955675,4.34070761 L9.33252137,3.45086255 L9.33252137,3.42915902 L1.21539813,3.42915902 L1.43243351,4.34070761 C1.50477864,4.57221202 1.65670341,4.68796422 1.88820781,4.68796422 L9.33252137,4.68796422 C9.39039747,4.68796422 9.45550809,4.66626069 9.52785321,4.62285361 Z",
+                                      id: "Path",
+                                      fill: "#FFFFFF"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M8.551194,0.34725661 C8.4933179,0.1157522 8.35586216,0 8.13882678,0 L0.69451322,0 C0.60769907,0 0.53535394,0.01446903 0.47747784,0.04340708 L0.43407076,0.08681415 C0.41960174,0.13022123 0.41236722,0.21703538 0.41236722,0.34725661 L1.21539813,3.42915902 L9.33252137,3.42915902 L8.551194,0.34725661 Z",
+                                      id: "Path",
+                                      fill: "url(#linearGradient-108)"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform:
+                                      "translate(25.176104, 19.967255)",
+                                    fill: "#FFFFFF"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M4.16707931,0.58599553 C3.92110588,0.38342917 3.6461944,0.282146 3.34234486,0.282146 L0.82473445,0.23873892 C0.52088491,0.23873892 0.29661502,0.33278758 0.15192477,0.52088491 L0.15192477,0.56429199 C0.00723451,0.75238932 -0.02170354,0.99112824 0.06511061,1.28050875 C0.13745574,1.55542023 0.31108405,1.79415915 0.58599553,1.9967255 C0.83196896,2.19929186 1.10688044,2.30057504 1.41072997,2.30057504 L3.95004393,2.30057504 C4.23942444,2.32951309 4.45645982,2.23546442 4.60115007,2.01842904 C4.74584032,1.81586269 4.77477838,1.56988925 4.68796422,1.28050875 C4.63008812,1.00559726 4.45645982,0.77409286 4.16707931,0.58599553 L4.16707931,0.58599553 Z M3.45086255,0.52088491 C3.66789793,0.52088491 3.87046429,0.59323004 4.05856162,0.73792029 C4.275597,0.88261055 4.40581823,1.06347337 4.4492253,1.28050875 C4.50710141,1.51201315 4.48539787,1.70011048 4.38411469,1.84480074 C4.25389346,1.98949099 4.07303064,2.06183612 3.84152624,2.06183612 L1.34561936,2.04013258 C1.11411495,2.04013258 0.89707957,1.96055294 0.69451322,1.80139366 C0.50641589,1.65670341 0.37619466,1.4830751 0.30384953,1.28050875 C0.24597343,1.06347337 0.26767697,0.88261055 0.36896015,0.73792029 C0.49918138,0.57876102 0.67280968,0.49918138 0.88984506,0.49918138 L3.45086255,0.52088491 Z",
+                                      id: "Shape",
+                                      "fill-opacity": "0.298039"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M4.21048639,1.69287597 C4.29730054,1.57712377 4.31900408,1.43966803 4.275597,1.28050875 C4.2177209,1.10688044 4.11643772,0.96219019 3.97174747,0.84643799 C3.81258819,0.71621676 3.6461944,0.65110614 3.47256609,0.65110614 C3.29893779,0.65110614 3.16871656,0.71621676 3.08190241,0.84643799 C3.00955728,0.94772116 2.99508825,1.09241142 3.03849533,1.28050875 C3.08190241,1.425199 3.17595107,1.56265474 3.32064132,1.69287597 C3.4798006,1.80862817 3.6461944,1.87373879 3.8198227,1.88820781 C3.993451,1.88820781 4.12367223,1.8230972 4.21048639,1.69287597 Z",
+                                      id: "Path"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "g",
+                                {
+                                  attrs: {
+                                    id: "Group",
+                                    transform:
+                                      "translate(13.456194, -0.000000)",
+                                    fill: "#59FFC4"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M14.1290033,0.54258845 C10.7143133,0.07957964 7.67581796,0.91878311 5.01351729,3.06019887 C2.29334052,5.05692437 0.73792029,7.73369407 0.34725661,11.090508 C-0.1157522,14.4762599 0.66557517,17.5147552 2.69123872,20.2059939 C4.77477838,22.8393566 7.48048612,24.3803078 10.808362,24.8288476 C14.1651758,25.3207944 17.1892022,24.5539361 19.8804409,22.5282725 L20.0106621,22.5282725 C22.6729628,20.4592019 24.213914,17.7245561 24.6335157,14.3243351 C25.0675865,10.9675212 24.2500865,7.98690201 22.1810159,5.38247744 C20.1264143,2.63336262 17.4424101,1.02006629 14.1290033,0.54258845 L14.1290033,0.54258845 Z M7.09705695,5.59951282 C8.99249927,4.09473418 11.1845566,3.52320768 13.673229,3.88493331 C16.0895562,4.275597 18.0790472,5.39694647 19.641702,7.24898172 C21.1609496,9.20230014 21.7541797,11.4232955 21.4213921,13.9119679 C21.0307284,16.3861712 19.8804409,18.3756622 17.9705295,19.8804409 C15.973804,21.3418124 13.7528086,21.9205735 11.3075433,21.6167239 C8.80440194,21.2260602 6.82937998,20.0613037 5.38247744,18.1224543 C3.92110588,16.1546668 3.34234486,13.9626095 3.6461944,11.5462823 C3.97898198,9.10101696 5.1292695,7.11876049 7.09705695,5.59951282 Z",
+                                      id: "Shape",
+                                      "fill-opacity": "0.2"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M13.673229,3.88493331 C11.1845566,3.52320768 8.99249927,4.09473418 7.09705695,5.59951282 C5.1292695,7.11876049 3.97898198,9.10101696 3.6461944,11.5462823 C3.34234486,13.9626095 3.92110588,16.1546668 5.38247744,18.1224543 C6.82937998,20.0613037 8.80440194,21.2260602 11.3075433,21.6167239 C13.7528086,21.9205735 15.973804,21.3418124 17.9705295,19.8804409 C19.8804409,18.3756622 21.0307284,16.3861712 21.4213921,13.9119679 C21.7541797,11.4232955 21.1609496,9.20230014 19.641702,7.24898172 C18.0790472,5.39694647 16.0895562,4.275597 13.673229,3.88493331 Z M9.35422491,8.68141523 C10.4828089,7.84221176 11.712676,7.51665869 13.0438264,7.70475601 C14.4039148,7.90732237 15.4746226,8.56566303 16.25595,9.67977798 C17.0662154,10.7360168 17.413472,11.9441805 17.2977198,13.3042688 C17.1096225,14.6643572 16.4729854,15.7712377 15.3878085,16.6249102 C14.2447555,17.4785827 13.0365919,17.8258393 11.7633176,17.66668 C10.3164151,17.4207066 9.1805966,16.7406624 8.35586216,15.6265474 C7.54559674,14.5124325 7.23451269,13.3042688 7.42261002,12.0020566 C7.65411443,10.5840921 8.29798606,9.47721162 9.35422491,8.68141523 Z",
+                                      id: "Shape",
+                                      "fill-opacity": "0.498039"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M13.0438264,7.70475601 C11.712676,7.51665869 10.4828089,7.84221176 9.35422491,8.68141523 C8.29798606,9.47721162 7.65411443,10.5840921 7.42261002,12.0020566 C7.23451269,13.3042688 7.54559674,14.5124325 8.35586216,15.6265474 C9.1805966,16.7406624 10.3164151,17.4207066 11.7633176,17.66668 C13.0365919,17.8258393 14.2447555,17.4785827 15.3878085,16.6249102 C16.4729854,15.7712377 17.1096225,14.6643572 17.2977198,13.3042688 C17.413472,11.9441805 17.0662154,10.7360168 16.25595,9.67977798 C15.4746226,8.56566303 14.4039148,7.90732237 13.0438264,7.70475601 L13.0438264,7.70475601 Z",
+                                      id: "Path"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "g",
+                            {
+                              attrs: {
+                                id: "Female",
+                                transform: "translate(431.032266, 193.299098)"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M78.371476,217.209009 C78.4293521,217.19454 78.4944627,217.19454 78.5668078,217.209009 C78.668091,216.919629 78.7549051,216.572372 78.8272503,216.167239 L61.2039774,216.167239 C61.1316322,216.572372 61.0375836,216.919629 60.9218314,217.209009 L78.371476,217.209009 Z M50.2436906,217.252416 C50.9092658,217.252416 51.7050622,217.237947 52.6310798,217.209009 L50.2436906,217.209009 L50.2436906,217.252416 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-109)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M41.019687,214.105403 C40.2817667,212.846598 39.1387137,211.963987 37.5905279,211.457571 C34.4796875,212.846598 32.8229841,214.416487 32.6204177,216.167239 L32.6204177,217.252416 C33.2715239,217.252416 34.0528512,217.237947 34.9643998,217.209009 L50.2436906,217.209009 L52.6310798,217.209009 L60.7482031,217.209009 C60.8060792,217.19454 60.8639553,217.19454 60.9218314,217.209009 C61.0375836,216.919629 61.1316322,216.572372 61.2039774,216.167239 L43.3636691,216.167239 C42.5389346,216.065956 41.7576072,215.378677 41.019687,214.105403 L41.019687,214.105403 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-110)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M38.5237801,211.066908 C38.2054615,211.197129 37.8943775,211.32735 37.5905279,211.457571 C39.1387137,211.963987 40.2817667,212.846598 41.019687,214.105403 C41.7576072,215.378677 42.5389346,216.065956 43.3636691,216.167239 L61.2039774,216.167239 C61.3197296,215.41485 61.3920747,214.467129 61.4210127,213.324076 C61.4499508,211.949518 61.3414331,210.415802 61.0954597,208.722926 C61.0231145,208.21651 60.9363004,207.695625 60.8350172,207.160271 C60.4154155,204.816289 60.2200836,202.544652 60.2490217,200.34536 L49.9398411,200.34536 C50.3305048,202.284209 49.4551287,204.186886 47.313713,206.05339 C45.1722972,207.890957 42.2423196,209.562129 38.5237801,211.066908 L38.5237801,211.066908 Z M49.8747305,207.529231 C50.5547747,206.820249 51.3795091,206.465758 52.3489338,206.465758 C53.3038895,206.465758 54.1286239,206.820249 54.8231372,207.529231 C55.5031814,208.194806 55.8432035,209.005072 55.8432035,209.960027 C55.8432035,210.451974 55.7636238,210.900514 55.6044645,211.305647 C55.5610575,211.377992 55.5248849,211.457571 55.4959468,211.544386 C55.3223185,211.862704 55.0980486,212.159319 54.8231372,212.434231 C54.1286239,213.128744 53.3038895,213.476 52.3489338,213.476 C52.1897745,213.476 52.0378498,213.468766 51.8931595,213.454297 C51.1263012,213.353014 50.4534915,213.012992 49.8747305,212.434231 C49.1802173,211.768655 48.8329607,210.943921 48.8329607,209.960027 C48.8329607,209.005072 49.1802173,208.194806 49.8747305,207.529231 L49.8747305,207.529231 Z M52.435748,53.5209249 C52.6093763,48.0371643 50.5981818,45.1288902 46.4021644,44.7961026 C42.4665895,46.0549078 39.6161915,48.471235 37.8509704,52.0450843 C37.1564572,53.4196417 36.6717448,54.7290885 36.3968333,55.9734247 C36.6283378,55.582761 36.9321873,55.2065663 37.3083819,54.8448407 C38.5382491,53.6005045 40.0430277,52.9783364 41.8227179,52.9783364 C43.5734699,52.9783364 45.0782486,53.6005045 46.3370538,54.8448407 C47.595859,56.0891769 48.2252616,57.5939555 48.2252616,59.3591766 C48.2252616,61.1099287 47.595859,62.6147073 46.3370538,63.8735125 C45.0782486,65.1323177 43.5734699,65.7617204 41.8227179,65.7617204 C40.4192224,65.7617204 39.1821207,65.3710567 38.1114129,64.5897293 C37.8365014,64.3726939 37.5688244,64.133955 37.3083819,63.8735125 C36.4836475,63.0632471 35.9338245,62.144464 35.658913,61.1171632 C35.6010369,60.9580039 35.5576299,60.7916101 35.5286918,60.6179818 C35.4997538,60.733734 35.4852847,60.8567207 35.4852847,60.986942 C35.4708157,61.001411 35.4635812,61.0231145 35.4635812,61.0520526 C35.362298,61.8189109 35.2393113,62.6436454 35.0946211,63.5262559 C34.5737361,66.8686008 33.8502849,70.9705695 32.9242673,75.832162 C32.6638248,77.553976 31.9259045,78.2774273 30.7105064,78.0025158 C29.6253295,79.6085776 28.9597543,81.6197722 28.7137809,84.0360994 C28.4533384,86.4379576 28.207365,87.8269841 27.9758606,88.2031787 C29.2925419,88.955568 31.1011701,89.816475 33.4017451,90.7858997 C35.2682494,91.5527581 37.351789,91.7697935 39.6523641,91.4370059 C45.0493105,90.5978024 48.6448633,85.3961878 50.4390225,75.832162 C50.5837127,75.1087107 50.7211685,74.3346179 50.8513897,73.5098834 C51.4446197,69.7624059 51.9365666,64.2858798 52.3272303,57.0803051 C52.3851064,55.8070309 52.421279,54.6205708 52.435748,53.5209249 L52.435748,53.5209249 Z M43.2117443,67.4111892 L43.1900408,67.4111892 C43.4504832,67.5124724 43.6530496,67.6861007 43.7977398,67.9320742 C43.9713681,68.2359237 44.0147752,68.5614768 43.9279611,68.9087334 L43.9062575,69.0172511 C43.8049743,69.3645077 43.602408,69.6104811 43.2985585,69.7551714 C43.052585,69.9143306 42.7993771,69.9794413 42.5389346,69.9505032 L42.5389346,69.9722067 L35.897652,68.1925166 C35.5648644,68.0912334 35.3044219,67.8814326 35.1163246,67.563114 C34.9571653,67.2737335 34.9209928,66.9626495 35.0078069,66.6298619 L35.051214,66.4996406 C35.1380281,66.1668531 35.3405945,65.9136451 35.658913,65.7400168 C35.9627626,65.5663885 36.2738466,65.5229814 36.5921652,65.6097956 L43.2117443,67.4111892 Z M44.9914344,16.6466137 C44.8612132,16.6032066 44.7382265,16.6032066 44.6224743,16.6466137 C44.492253,16.7044898 44.3982044,16.7840694 44.3403283,16.8853526 L43.8411469,18.1224543 C43.7832708,18.2237375 43.7832708,18.3467242 43.8411469,18.4914144 C43.870085,18.6216357 43.9568991,18.7156843 44.1015894,18.7735604 C44.2173416,18.8169675 44.3475628,18.809733 44.492253,18.7518569 C44.6080052,18.7084498 44.7020539,18.6216357 44.774399,18.4914144 L45.2735804,17.2760163 C45.3169875,17.1892022 45.309753,17.0734499 45.2518769,16.9287597 C45.2518769,16.9142907 45.2518769,16.8998216 45.2518769,16.8853526 C45.1940008,16.7696004 45.1071866,16.6900208 44.9914344,16.6466137 L44.9914344,16.6466137 Z",
+                                  id: "Shape",
+                                  fill: "#FFFFFF"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M52.3489338,206.465758 C51.3795091,206.465758 50.5547747,206.820249 49.8747305,207.529231 C49.1802173,208.194806 48.8329607,209.005072 48.8329607,209.960027 C48.8329607,210.943921 49.1802173,211.768655 49.8747305,212.434231 C50.4534915,213.012992 51.1263012,213.353014 51.8931595,213.454297 C52.0378498,213.468766 52.1897745,213.476 52.3489338,213.476 C53.3038895,213.476 54.1286239,213.128744 54.8231372,212.434231 C55.0980486,212.159319 55.3223185,211.862704 55.4959468,211.544386 C55.5248849,211.457571 55.5610575,211.377992 55.6044645,211.305647 C55.7636238,210.900514 55.8432035,210.451974 55.8432035,209.960027 C55.8432035,209.005072 55.5031814,208.194806 54.8231372,207.529231 C54.1286239,206.820249 53.3038895,206.465758 52.3489338,206.465758 L52.3489338,206.465758 Z",
+                                  id: "Path",
+                                  fill: "#F7BFD4"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M60.9001278,167.052133 C58.3969864,166.618062 55.7274513,165.966956 52.8915223,165.098814 C47.6826731,163.507221 42.5968107,162.41481 37.633935,161.82158 L48.7461465,195.44036 L48.8980713,195.44036 L60.0753934,195.44036 L60.1839111,195.44036 L60.9001278,195.44036 L60.9001278,178.923968 L60.9001278,167.052133 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-111)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M77.8722946,200.34536 L67.563114,200.34536 C67.9537777,202.284209 67.0784017,204.186886 64.9369859,206.05339 C63.866278,206.979408 62.5857693,207.869253 61.0954597,208.722926 C61.3414331,210.415802 61.4499508,211.949518 61.4210127,213.324076 C61.3920747,214.467129 61.3197296,215.41485 61.2039774,216.167239 L78.8272503,216.167239 C78.9430025,215.41485 79.0225821,214.467129 79.0659892,213.324076 C79.0804582,211.544386 78.8778919,209.489784 78.4582901,207.160271 C78.0531574,204.816289 77.8578256,202.544652 77.8722946,200.34536 Z M67.4980034,207.529231 C68.1925166,206.820249 69.0172511,206.465758 69.9722067,206.465758 C70.9416314,206.465758 71.7663659,206.820249 72.4464101,207.529231 C73.1264543,208.194806 73.4664764,209.005072 73.4664764,209.960027 C73.4664764,210.943921 73.1264543,211.768655 72.4464101,212.434231 C71.7663659,213.128744 70.9416314,213.476 69.9722067,213.476 C69.0172511,213.476 68.1925166,213.128744 67.4980034,212.434231 C66.8179592,211.768655 66.4779371,210.943921 66.4779371,209.960027 C66.4779371,209.005072 66.8179592,208.194806 67.4980034,207.529231 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-112)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M69.9722067,206.465758 C69.0172511,206.465758 68.1925166,206.820249 67.4980034,207.529231 C66.8179592,208.194806 66.4779371,209.005072 66.4779371,209.960027 C66.4779371,210.943921 66.8179592,211.768655 67.4980034,212.434231 C68.1925166,213.128744 69.0172511,213.476 69.9722067,213.476 C70.9416314,213.476 71.7663659,213.128744 72.4464101,212.434231 C73.1264543,211.768655 73.4664764,210.943921 73.4664764,209.960027 C73.4664764,209.005072 73.1264543,208.194806 72.4464101,207.529231 C71.7663659,206.820249 70.9416314,206.465758 69.9722067,206.465758 Z",
+                                  id: "Path",
+                                  fill: "#F7BFD4"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M62.397672,196.677462 C62.397672,195.896135 62.0142428,195.483767 61.2473844,195.44036 C61.2184464,195.44036 61.1967428,195.44036 61.1822738,195.44036 L60.9001278,195.44036 L60.1839111,195.44036 C60.154973,195.44036 60.1188005,195.44036 60.0753934,195.44036 L48.8980713,195.44036 C48.1022749,195.483767 47.7043767,195.896135 47.7043767,196.677462 L47.7043767,199.129962 C47.7043767,199.940227 48.1167439,200.34536 48.9414783,200.34536 L49.9398411,200.34536 L60.2490217,200.34536 L61.1822738,200.34536 L61.312495,200.34536 C62.0359463,200.316422 62.397672,199.911289 62.397672,199.129962 L62.397672,196.677462 Z",
+                                  id: "Path",
+                                  fill: "#9768B5"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M77.807184,195.44036 C77.7782459,195.44036 77.7565424,195.44036 77.7420734,195.44036 L66.4996406,195.44036 C65.7327823,195.483767 65.3493531,195.896135 65.3493531,196.677462 L65.3493531,199.129962 C65.3493531,199.940227 65.7544858,200.34536 66.5647513,200.34536 L67.563114,200.34536 L77.8722946,200.34536 L78.8055467,200.34536 L78.9574715,200.34536 C79.6809228,200.316422 80.0426484,199.911289 80.0426484,199.129962 L80.0426484,196.677462 C80.0426484,195.896135 79.6592192,195.483767 78.8923609,195.44036 C78.8634228,195.44036 78.8344848,195.44036 78.8055467,195.44036 L78.5234007,195.44036 L77.807184,195.44036 Z",
+                                  id: "Path",
+                                  fill: "#9768B5"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M77.7420734,195.44036 L77.807184,195.44036 L78.5234007,195.44036 L78.5234007,165.055407 C74.0235338,167.601955 68.1491095,168.267531 60.9001278,167.052133 L60.9001278,178.923968 L66.3477159,195.44036 L66.4996406,195.44036 L77.7420734,195.44036 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-113)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M70.5799058,42.75597 C71.0718527,43.0453505 71.542096,43.4360142 71.9906358,43.9279611 C76.6351929,48.8908368 79.3336662,64.3075833 80.0860555,90.1782007 C83.5875596,88.051254 85.1357453,84.7089091 84.7306126,80.1511661 C84.3399489,75.5934231 83.0811437,68.4746626 80.954197,58.7948846 C79.1455688,50.5909472 76.3892195,45.4978503 72.685149,43.5155938 C72.0051048,43.1683372 71.3033571,42.9151293 70.5799058,42.75597 L70.5799058,42.75597 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-114)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M15.409512,72.8153702 C15.3516359,72.9745295 15.2503528,73.1264543 15.1056625,73.2711445 C14.0349546,74.4431356 13.4634281,76.4543301 13.391083,79.3047281 C13.376614,79.4928254 13.3404414,79.6664537 13.2825653,79.825613 L20.9873213,83.3415862 C21.3345779,79.796675 22.0146221,77.228423 23.0274539,75.6368302 L15.409512,72.8153702 Z M3.68960147,67.0639326 L2.7346458,66.6515654 C1.90991135,66.405592 1.26603972,66.5141097 0.80303091,66.9771185 C0.6294026,67.1652158 0.49918138,67.3605477 0.41236722,67.563114 C-0.06511061,68.677229 0.282146,69.4874944 1.45413705,69.9939103 C1.49754413,71.6723172 1.56988925,73.2856136 1.67117243,74.8337993 C1.80139366,76.2807018 2.43079626,77.3152371 3.55938024,77.9374052 L3.6461944,78.0025158 C5.65738892,78.6391529 7.25621623,78.8778919 8.44267631,78.7187326 C9.35422491,78.6029804 10.1934284,78.6463875 10.9602867,78.8489538 C11.0760389,75.6512992 11.7633176,73.3434897 13.0221228,71.9255252 C12.7616804,71.824242 12.3927202,71.5855031 11.9152424,71.2093084 C11.0615699,70.5871403 10.3598222,70.1241315 9.80999921,69.820282 C8.29075154,69.1402378 6.75703485,68.4601936 5.20884914,67.7801494 L3.68960147,67.0639326 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-115)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M13.3693795,71.5348615 C13.2536272,71.6506137 13.137875,71.7736004 13.0221228,71.9038216 L13.0221228,71.9255252 C11.7633176,73.3434897 11.0760389,75.6512992 10.9602867,78.8489538 C10.9458177,78.9936441 10.9385832,79.1383343 10.9385832,79.2830246 C10.9385832,79.6013431 11.0543354,79.8834891 11.2858398,80.1294626 C11.5028752,80.375436 11.7850212,80.4984227 12.1322778,80.4984227 C12.4650654,80.4984227 12.7616804,80.3971395 13.0221228,80.1945732 C13.137875,80.078821 13.2246892,79.9558343 13.2825653,79.825613 C13.3404414,79.6664537 13.376614,79.4928254 13.391083,79.3047281 C13.4634281,76.4543301 14.0349546,74.4431356 15.1056625,73.2711445 C15.2503528,73.1264543 15.3516359,72.9745295 15.409512,72.8153702 C15.4529191,72.67068 15.4746226,72.5259897 15.4746226,72.3812995 C15.4746226,72.0485119 15.3516359,71.7591314 15.1056625,71.5131579 C14.8596891,71.2816535 14.5703086,71.1659013 14.237521,71.1659013 C13.9047334,71.1659013 13.6153529,71.288888 13.3693795,71.5348615 L13.3693795,71.5348615 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-116)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M7.27068525,67.1073397 C7.08258792,67.0349946 6.88725608,66.9771185 6.68468973,66.9337114 C5.83101723,66.5864548 5.10033145,66.4851716 4.49263238,66.6298619 C4.20325187,66.7311451 3.9355749,66.8758353 3.68960147,67.0639326 L5.20884914,67.7801494 C6.75703485,68.4601936 8.29075154,69.1402378 9.80999921,69.820282 C10.3598222,70.1241315 11.0615699,70.5871403 11.9152424,71.2093084 C12.3927202,71.5855031 12.7616804,71.824242 13.0221228,71.9255252 L13.0221228,71.9038216 C12.4144238,70.8620518 11.6403309,69.9432687 10.6998443,69.1474723 C10.4972779,69.002782 10.3236496,68.8942643 10.1789594,68.8219192 C9.32528686,68.1852821 8.35586216,67.6137556 7.27068525,67.1073397 L7.27068525,67.1073397 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-117)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M28.7137809,84.0360994 C28.9597543,81.6197722 29.6253295,79.6085776 30.7105064,78.0025158 C30.7249754,77.2067194 30.5151745,76.7220071 30.0811038,76.5483788 L25.9140245,74.703578 C24.7854405,74.2261002 23.9390025,74.3635559 23.3747105,75.1159453 C23.2589583,75.2895736 23.1432061,75.4632019 23.0274539,75.6368302 C22.0146221,77.228423 21.3345779,79.796675 20.9873213,83.3415862 C20.9439142,83.6599047 20.9149762,83.9782233 20.9005072,84.2965419 C20.7558169,85.5698161 21.2622328,86.4162541 22.4197548,86.8358558 L27.1294226,88.658953 C27.4911482,88.7168291 27.7732942,88.5649044 27.9758606,88.2031787 C28.207365,87.8269841 28.4533384,86.4379576 28.7137809,84.0360994 L28.7137809,84.0360994 Z M46.3370538,63.8735125 C47.595859,62.6147073 48.2252616,61.1099287 48.2252616,59.3591766 C48.2252616,57.5939555 47.595859,56.0891769 46.3370538,54.8448407 C45.0782486,53.6005045 43.5734699,52.9783364 41.8227179,52.9783364 C40.0430277,52.9783364 38.5382491,53.6005045 37.3083819,54.8448407 C36.9321873,55.2065663 36.6283378,55.582761 36.3968333,55.9734247 C36.3678953,56.1036459 36.3389572,56.2411017 36.3100192,56.3857919 C36.0351077,57.60119 35.7746653,59.01192 35.5286918,60.6179818 C35.5576299,60.7916101 35.6010369,60.9580039 35.658913,61.1171632 C35.9338245,62.144464 36.4836475,63.0632471 37.3083819,63.8735125 C37.5688244,64.133955 37.8365014,64.3726939 38.1114129,64.5897293 C39.1821207,65.3710567 40.4192224,65.7617204 41.8227179,65.7617204 C43.5734699,65.7617204 45.0782486,65.1323177 46.3370538,63.8735125 L46.3370538,63.8735125 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-118)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M33.3149309,59.2506589 C33.0978956,60.3647739 33.4523867,61.5078269 34.3784043,62.6798179 C34.5809707,62.9547294 34.8197096,63.2368754 35.0946211,63.5262559 C35.2393113,62.6436454 35.362298,61.8189109 35.4635812,61.0520526 C35.4635812,61.0231145 35.4708157,61.001411 35.4852847,60.986942 L33.3149309,59.2506589 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-119)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M29.6904401,56.6028273 L33.3149309,59.2506589 L35.4852847,60.986942 C35.4852847,60.8567207 35.4997538,60.733734 35.5286918,60.6179818 C35.7746653,59.01192 36.0351077,57.60119 36.3100192,56.3857919 C35.5865679,56.5594202 34.9499308,56.8053936 34.4001078,57.1237122 L31.0143559,54.8014336 C30.7683825,54.6278053 30.4862365,54.5626947 30.1679179,54.6061018 C29.8640684,54.6205708 29.6253295,54.7652611 29.4517012,55.0401725 C29.2636038,55.271677 29.1912587,55.5465884 29.2346658,55.864907 C29.2780729,56.1542875 29.4299976,56.4002609 29.6904401,56.6028273 L29.6904401,56.6028273 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-120)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M46.4021644,44.7961026 C50.5981818,45.1288902 52.6093763,48.0371643 52.435748,53.5209249 C52.421279,54.6205708 52.3851064,55.8070309 52.3272303,57.0803051 C51.9365666,64.2858798 51.4446197,69.7624059 50.8513897,73.5098834 C50.7211685,74.3346179 50.5837127,75.1087107 50.4390225,75.832162 C48.6448633,85.3961878 45.0493105,90.5978024 39.6523641,91.4370059 C37.351789,91.7697935 35.2682494,91.5527581 33.4017451,90.7858997 L25.1978077,157.242133 C24.8650201,159.861027 25.9574315,161.221115 28.4750419,161.322398 L29.5819224,161.322398 C30.0594002,161.322398 30.5368781,161.329633 31.0143559,161.344102 C33.1847097,161.401978 35.3912361,161.561137 37.633935,161.82158 C42.5968107,162.41481 47.6826731,163.507221 52.8915223,165.098814 C55.7274513,165.966956 58.3969864,166.618062 60.9001278,167.052133 C68.1491095,168.267531 74.0235338,167.601955 78.5234007,165.055407 C79.2902591,164.621336 80.0209449,164.129389 80.7154581,163.579566 L82.1261881,162.450982 C83.254772,161.539434 83.7467189,159.853792 83.6020286,157.394058 L80.0860555,90.1782007 C79.3336662,64.3075833 76.6351929,48.8908368 71.9906358,43.9279611 C71.542096,43.4360142 71.0718527,43.0453505 70.5799058,42.75597 C67.4111892,42.6980939 64.3582249,42.741501 61.4210127,42.8861912 C56.9211458,43.0887576 52.6961904,43.5300629 48.7461465,44.210107 L47.8345979,44.4271424 C47.328182,44.5284256 46.8507042,44.6514123 46.4021644,44.7961026 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-121)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M43.1900408,67.4111892 L43.2117443,67.4111892 L36.5921652,65.6097956 C36.2738466,65.5229814 35.9627626,65.5663885 35.658913,65.7400168 C35.3405945,65.9136451 35.1380281,66.1668531 35.051214,66.4996406 L35.0078069,66.6298619 C34.9209928,66.9626495 34.9571653,67.2737335 35.1163246,67.563114 C35.3044219,67.8814326 35.5648644,68.0912334 35.897652,68.1925166 L42.5389346,69.9722067 L42.5389346,69.9505032 C42.7993771,69.9794413 43.052585,69.9143306 43.2985585,69.7551714 C43.602408,69.6104811 43.8049743,69.3645077 43.9062575,69.0172511 L43.9279611,68.9087334 C44.0147752,68.5614768 43.9713681,68.2359237 43.7977398,67.9320742 C43.6530496,67.6861007 43.4504832,67.5124724 43.1900408,67.4111892 L43.1900408,67.4111892 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-122)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M60.4660571,36.2015015 C58.1799511,36.6500413 56.0457698,37.4820102 54.0635133,38.6974084 C52.4429825,39.6957711 50.9309693,40.9473418 49.5274739,42.4521205 C49.4985358,42.4810585 49.4695978,42.5099966 49.4406597,42.5389346 C48.8908368,43.1321647 48.3554828,43.7615673 47.8345979,44.4271424 L48.7461465,44.210107 C52.6961904,43.5300629 56.9211458,43.0887576 61.4210127,42.8861912 C64.3582249,42.741501 67.4111892,42.6980939 70.5799058,42.75597 C68.7134015,37.4168996 65.3421186,35.2320768 60.4660571,36.2015015 L60.4660571,36.2015015 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-123)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M41.5622754,24.8505511 C41.5043993,24.807144 41.4248197,24.807144 41.3235365,24.8505511 C40.6724303,25.1254626 39.9272755,25.2412148 39.0880721,25.1978077 L39.0663685,25.1978077 L38.9795544,25.9791351 L39.0012579,25.9791351 C39.9996207,26.0225421 40.8677622,25.8850864 41.6056825,25.5667678 C41.7069657,25.5233608 41.7793108,25.4510156 41.8227179,25.3497325 C41.8661249,25.2484493 41.8588904,25.1544006 41.8010143,25.0675865 C41.7576072,24.9807723 41.6780276,24.9084272 41.5622754,24.8505511 Z",
+                                  id: "Path",
+                                  fill: "#6633CC"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M46.1417219,14.7801094 C45.6931822,14.0132511 45.2301733,13.137875 44.7526955,12.1539813 C44.448846,12.8340255 44.1739345,13.5285387 43.9279611,14.237521 C42.9006603,17.1892022 41.895063,18.8820781 40.9111693,19.3161489 C39.9562136,19.7357506 39.4136251,20.9366797 39.2834039,22.9189362 C39.2399968,23.353007 39.1965898,23.8015468 39.1531827,24.2645556 C39.1242446,24.5684051 39.1025411,24.8794891 39.0880721,25.1978077 C39.9272755,25.2412148 40.6724303,25.1254626 41.3235365,24.8505511 C41.4248197,24.807144 41.5043993,24.807144 41.5622754,24.8505511 C41.6780276,24.9084272 41.7576072,24.9807723 41.8010143,25.0675865 C41.8588904,25.1544006 41.8661249,25.2484493 41.8227179,25.3497325 C41.7793108,25.4510156 41.7069657,25.5233608 41.6056825,25.5667678 C40.8677622,25.8850864 39.9996207,26.0225421 39.0012579,25.9791351 C38.8855057,26.9630288 38.7408155,27.954157 38.5671872,28.9525198 C38.2488686,31.0215904 38.8638022,32.4395549 40.4119879,33.2064132 C40.484333,33.2498203 40.5566781,33.2859929 40.6290233,33.3149309 C40.6290233,32.9242673 40.5566781,32.5119 40.4119879,32.0778293 C39.8187578,30.3270772 40.498802,28.6197322 42.4521205,26.9557943 C44.448846,25.3207944 45.2301733,23.931768 44.7961026,22.788715 C44.3620318,21.6167239 44.6658813,20.3362152 45.7076512,18.9471887 C46.720483,17.5726313 46.8651732,16.1836049 46.1417219,14.7801094 L46.1417219,14.7801094 Z M44.6224743,16.6466137 C44.7382265,16.6032066 44.8612132,16.6032066 44.9914344,16.6466137 C45.1071866,16.6900208 45.1940008,16.7696004 45.2518769,16.8853526 L45.2518769,16.9287597 C45.309753,17.0734499 45.3169875,17.1892022 45.2735804,17.2760163 L44.774399,18.4914144 C44.7020539,18.6216357 44.6080052,18.7084498 44.492253,18.7518569 C44.3475628,18.809733 44.2173416,18.8169675 44.1015894,18.7735604 C43.9568991,18.7156843 43.870085,18.6216357 43.8411469,18.4914144 C43.7832708,18.3467242 43.7832708,18.2237375 43.8411469,18.1224543 L44.3403283,16.8853526 C44.3982044,16.7840694 44.492253,16.7044898 44.6224743,16.6466137 L44.6224743,16.6466137 Z",
+                                  id: "Shape",
+                                  fill: "url(#linearGradient-124)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M76.8088212,13.5213042 C77.1271398,10.5840921 75.7887549,7.84944627 72.7936667,5.31736683 C69.7841094,2.74188031 65.6676717,1.16475654 60.4443535,0.58599553 C55.2065663,0.02170354 51.4084472,-0.09404867 49.049996,0.23873892 C46.720483,0.55705748 45.0059034,1.71457951 43.9062575,3.71130501 C42.7921426,5.70803051 42.6908594,7.71199053 43.602408,9.72318506 C43.9930717,10.5913266 44.3765008,11.401592 44.7526955,12.1539813 C45.2301733,13.137875 45.6931822,14.0132511 46.1417219,14.7801094 C46.8651732,16.1836049 46.720483,17.5726313 45.7076512,18.9471887 C44.6658813,20.3362152 44.3620318,21.6167239 44.7961026,22.788715 C45.2301733,23.931768 44.448846,25.3207944 42.4521205,26.9557943 C40.498802,28.6197322 39.8187578,30.3270772 40.4119879,32.0778293 C40.5566781,32.5119 40.6290233,32.9242673 40.6290233,33.3149309 C40.6145542,34.5447981 39.8621649,35.5865679 38.3718553,36.4402404 C36.3895988,37.5832934 35.7963688,38.9795544 36.5921652,40.6290233 C37.3590235,42.2640231 41.641855,42.9006603 49.4406597,42.5389346 C49.4695978,42.5099966 49.4985358,42.4810585 49.5274739,42.4521205 C50.9309693,40.9473418 52.4429825,39.6957711 54.0635133,38.6974084 C56.0457698,37.4820102 58.1799511,36.6500413 60.4660571,36.2015015 C65.3421186,35.2320768 68.7134015,37.4168996 70.5799058,42.75597 C71.3033571,42.9151293 72.0051048,43.1683372 72.685149,43.5155938 C73.0324056,43.3130275 73.3434897,43.1393992 73.6184011,42.9947089 C74.4141975,42.5895762 75.3546842,42.191678 76.4398611,41.8010143 C77.525038,41.4682267 78.2123167,40.455395 78.5016972,38.762519 C78.7910777,37.069643 78.8561883,35.2899529 78.697029,33.4234486 C78.4799937,31.5858824 78.3208344,30.3921878 78.2195512,29.8423648 C78.118268,29.3070109 78.4799937,28.236303 79.3047281,26.6302412 C80.1439316,25.0241794 79.8545511,23.1793787 78.4365866,21.095839 C77.0330911,18.9978303 76.4905027,16.4729854 76.8088212,13.5213042 L76.8088212,13.5213042 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-125)"
+                                }
+                              })
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]
+          )
         ])
       ])
     ])
@@ -44177,19 +44209,23 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col d-flex align-items-center" }, [
-      _c("div", [
-        _c("h2", { staticClass: "mb-5" }, [
-          _vm._v("Science fiction in market research")
-        ]),
-        _vm._v(" "),
-        _c("p", [
-          _vm._v(
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi dolorum, earum facilis in incidunt iure labore laudantium neque nesciunt non nostrum numquam quidem quo quos sint voluptas. Illo, voluptatum!"
-          )
+    return _c(
+      "div",
+      { staticClass: "col d-flex align-items-center col-md-6" },
+      [
+        _c("div", [
+          _c("h2", { staticClass: "mb-5" }, [
+            _vm._v("Science fiction in market research")
+          ]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi dolorum, earum facilis in incidunt iure labore laudantium neque nesciunt non nostrum numquam quidem quo quos sint voluptas. Illo, voluptatum!"
+            )
+          ])
         ])
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -56618,7 +56654,9 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _HomeMainComponent_vue_vue_type_template_id_6e28316c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HomeMainComponent.vue?vue&type=template&id=6e28316c&scoped=true& */ "./resources/js/components/HomeMainComponent.vue?vue&type=template&id=6e28316c&scoped=true&");
 /* harmony import */ var _HomeMainComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HomeMainComponent.vue?vue&type=script&lang=js& */ "./resources/js/components/HomeMainComponent.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& */ "./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
 
 
 
@@ -56626,7 +56664,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
   _HomeMainComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
   _HomeMainComponent_vue_vue_type_template_id_6e28316c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
   _HomeMainComponent_vue_vue_type_template_id_6e28316c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
@@ -56655,6 +56693,22 @@ component.options.__file = "resources/js/components/HomeMainComponent.vue"
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./HomeMainComponent.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HomeMainComponent.vue?vue&type=script&lang=js&");
 /* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&":
+/*!****************************************************************************************************************!*\
+  !*** ./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& ***!
+  \****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader??ref--6-1!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--6-2!../../../node_modules/vue-loader/lib??vue-loader-options!./HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HomeMainComponent.vue?vue&type=style&index=0&id=6e28316c&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_HomeMainComponent_vue_vue_type_style_index_0_id_6e28316c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 

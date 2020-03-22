@@ -3,14 +3,13 @@
         <div class="row justify-content-center">
             <div class="col-md-12">
                 <div class="row mt-5">
-                    <div class="col d-flex align-items-center">
+                    <div class="col d-flex align-items-center col-md-6">
                         <div>
                             <h2 class="mb-5">Science fiction in market research</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi dolorum, earum facilis in incidunt iure labore laudantium neque nesciunt non nostrum numquam quidem quo quos sint voluptas. Illo, voluptatum!</p>
                         </div>
                     </div>
-                    <div class="col">
-                        <svg width="582px" height="418px" viewBox="0 0 582 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg viewBox="0 0 582 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Illustration</title>
                             <desc>Created with Sketch.</desc>
                             <defs>
@@ -793,7 +792,6 @@
                                 </g>
                             </g>
                         </svg>
-                    </div>
                 </div>
             </div>
         </div>
@@ -818,5 +816,14 @@
 </script>
 
 <style scoped>
-
+svg{
+    height: auto;
+    width: auto;
+    min-width: 100px;
+}
+@media only screen and (max-width: 425px) {
+    svg{
+        width: 90%;
+    }
+}
 </style>
