@@ -2795,6 +2795,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -44254,6 +44255,13 @@ var render = function() {
     _c("div", { staticClass: "row justify-content-center" }, [
       _c("div", { staticClass: "col-md-8" }, [
         _c("h3", [_vm._v("Testing instructions:")]),
+        _vm._v(" "),
+        _c("img", {
+          attrs: {
+            src: "http://142.93.168.134/storage/" + _vm.products[0].img_path,
+            alt: ""
+          }
+        }),
         _vm._v(" "),
         _c("div", [
           _c("span", [
