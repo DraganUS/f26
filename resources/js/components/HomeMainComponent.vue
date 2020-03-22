@@ -818,7 +818,7 @@
 <style scoped>
 svg{
     height: auto;
-    width: auto;
+    width: 49%;
 }
 @media only screen and (max-width: 425px) {
     svg{
