@@ -2796,6 +2796,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -44256,6 +44257,8 @@ var render = function() {
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
         _c("div", [
+          _c("h2", [_vm._v("asdasad")]),
+          _vm._v(" "),
           _vm.imageId === _vm.products[0].id
             ? _c("div", {
                 staticClass: "circular",
