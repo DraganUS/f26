@@ -44267,9 +44267,13 @@ var render = function() {
             ),
             _c("br"),
             _vm._v(" "),
-            _c("h4", [
-              _vm._v("remaining tests: " + _vm._s(this.products.length))
-            ])
+            this.products.length > 1
+              ? _c("h4", [
+                  _vm._v(
+                    "remaining tests: " + _vm._s(this.products.length) + " "
+                  )
+                ])
+              : _vm._e()
           ])
         ]),
         _vm._v(" "),

@@ -9,7 +9,7 @@
                         <br>
                         Press play, after countdown you will be shown a picture for a split second.
                         <br>
-                        <h4>remaining tests: {{this.products.length}}</h4>
+                        <h4 v-if="this.products.length > 1">remaining tests: {{this.products.length}} </h4>
                     </span>
                 </div>
                 <div class="card dark mb-5" v-if="isVisible">
