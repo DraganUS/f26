@@ -7396,7 +7396,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\nsvg[data-v-6e28316c]{\n    height: auto;\n    width: auto;\n    min-width: 100px;\n}\n@media only screen and (max-width: 425px) {\nsvg[data-v-6e28316c]{\n        width: 90%;\n}\n}\n", ""]);
+exports.push([module.i, "\nsvg[data-v-6e28316c]{\n    height: auto;\n    width: auto;\n}\n@media only screen and (max-width: 425px) {\nsvg[data-v-6e28316c]{\n        width: 90%;\n}\n}\n", ""]);
 
 // exports
 

@@ -819,7 +819,6 @@
 svg{
     height: auto;
     width: auto;
-    min-width: 100px;
 }
 @media only screen and (max-width: 425px) {
     svg{
