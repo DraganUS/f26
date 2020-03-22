@@ -44256,12 +44256,16 @@ var render = function() {
       _c("div", { staticClass: "col-md-8" }, [
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
-        _c("img", {
-          attrs: {
-            src: "http://142.93.168.134/storage/" + _vm.products[0].img_path,
-            alt: ""
-          }
-        }),
+        _vm.imageId === _vm.products[0].id
+          ? _c("div", {
+              staticClass: "circular",
+              style: {
+                backgroundImage:
+                  "http://142.93.168.134/storage/" + _vm.products[0].img_path
+              },
+              attrs: { id: "productImage" }
+            })
+          : _vm._e(),
         _vm._v(" "),
         _c("div", [
           _c("span", [

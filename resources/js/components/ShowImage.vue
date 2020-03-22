@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8" >
                 <h3>Testing instructions:</h3>
-                <img :src="'http://142.93.168.134/storage/' + products[0].img_path" alt="">
+                <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }"></div>
                 <div>
                     <span>
                         Stand straight for the duration of the test and look straight at the screen.
