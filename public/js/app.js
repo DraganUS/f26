@@ -2795,8 +2795,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -2806,12 +2804,15 @@ __webpack_require__.r(__webpack_exports__);
       products: [],
       imageId: 0,
       countDown: 5,
-      testedID: 0
+      testedID: 0,
+      host: ''
     };
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
+    this.host = location.hostname;
+    console.log(this.host);
   },
   methods: {
     showImage: function showImage(id) {
@@ -2827,7 +2828,7 @@ __webpack_require__.r(__webpack_exports__);
           _this.countDown -= 1;
 
           _this.countDownTimer();
-        }, 1000);
+        }, 120);
       }
 
       if (this.countDown == -2) {
@@ -2838,7 +2839,6 @@ __webpack_require__.r(__webpack_exports__);
     removeTestedProduct: function removeTestedProduct() {
       if (this.products.length == 1) {
         this.isVisible = false;
-        this.products = '';
       } else {
         console.log(this.products.length);
 
@@ -7417,7 +7417,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
+exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
@@ -44258,16 +44258,6 @@ var render = function() {
         _vm._v(" "),
         _c("div", [
           _c("span", [
-            _c("img", {
-              staticStyle: { height: "300px" },
-              attrs: {
-                src: {
-                  backgroundImage:
-                    "http://142.93.168.134/storage/" + _vm.products[0].img_path
-                },
-                alt: ""
-              }
-            }),
             _vm._v(
               "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
             ),
@@ -44302,16 +44292,15 @@ var render = function() {
                 _vm.countDown == 0
                   ? _c("div", { staticClass: "card-body" }, [
                       _vm.imageId === _vm.products[0].id
-                        ? _c("img", {
-                            staticStyle: { height: "300px" },
-                            attrs: {
-                              src: {
-                                backgroundImage:
-                                  "http://142.93.168.134/storage/" +
-                                  _vm.products[0].img_path
-                              },
-                              alt: ""
-                            }
+                        ? _c("div", {
+                            staticClass: "circular",
+                            style: {
+                              backgroundImage:
+                                "url(http://142.93.168.134/storage/" +
+                                _vm.products[0].img_path +
+                                ")"
+                            },
+                            attrs: { id: "productImage" }
                           })
                         : _vm._e()
                     ])
