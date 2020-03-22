@@ -7417,7 +7417,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
+exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover{\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
@@ -44256,23 +44256,14 @@ var render = function() {
       _c("div", { staticClass: "col-md-8" }, [
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
-        _c("div", {
-          staticClass: "circular",
-          style: {
-            backgroundImage:
-              "http://142.93.168.134/storage/" + _vm.products[0].img_path
-          },
-          attrs: { id: "productImage" }
-        }),
-        _vm._v(" "),
         _c("div", [
           _c("span", [
             _vm._v(
-              "\n                        Stand straight for the duration of the test and look straight at the screen.\n                        "
+              "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
             ),
             _c("br"),
             _vm._v(
-              "\n                        Press play, after countdown you will be shown a picture for a split second.\n                        "
+              "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
             ),
             _c("br"),
             _vm._v(" "),
@@ -44299,7 +44290,21 @@ var render = function() {
                   : _vm._e(),
                 _vm._v(" "),
                 _vm.countDown == 0
-                  ? _c("div", { staticClass: "card-body" })
+                  ? _c("div", { staticClass: "card-body" }, [
+                      _vm.imageId === _vm.products[0].id
+                        ? _c("img", {
+                            staticStyle: { height: "300px" },
+                            attrs: {
+                              src: {
+                                backgroundImage:
+                                  "http://142.93.168.134/storage/" +
+                                  _vm.products[0].img_path
+                              },
+                              alt: ""
+                            }
+                          })
+                        : _vm._e()
+                    ])
                   : _vm._e()
               ]),
               _vm._v(" "),
