@@ -6,6 +6,8 @@
 
                 <div>
                     <span>
+                        <img  style="height: 300px;" v-if="imageId === products[0].id" :src="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }" alt="">
+                        <img  style="height: 300px;"  :src="{ backgroundImage: 'http://142.93.168.134/storage/' + products[0].img_path }" alt="">
                         Stand straight for the duration of the test and look straight at the screen.
                         <br>
                         Press play, after countdown you will be shown a picture for a split second.

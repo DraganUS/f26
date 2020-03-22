@@ -2796,6 +2796,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -44258,6 +44260,30 @@ var render = function() {
         _vm._v(" "),
         _c("div", [
           _c("span", [
+            _vm.imageId === _vm.products[0].id
+              ? _c("img", {
+                  staticStyle: { height: "300px" },
+                  attrs: {
+                    src: {
+                      backgroundImage:
+                        "http://142.93.168.134/storage/" +
+                        _vm.products[0].img_path
+                    },
+                    alt: ""
+                  }
+                })
+              : _vm._e(),
+            _vm._v(" "),
+            _c("img", {
+              staticStyle: { height: "300px" },
+              attrs: {
+                src: {
+                  backgroundImage:
+                    "http://142.93.168.134/storage/" + _vm.products[0].img_path
+                },
+                alt: ""
+              }
+            }),
             _vm._v(
               "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
             ),
