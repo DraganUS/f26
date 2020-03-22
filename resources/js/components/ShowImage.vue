@@ -59,7 +59,7 @@
                     setTimeout(() => {
                         this.countDown -= 1;
                         this.countDownTimer()
-                    }, 220)
+                    }, 190)
                 }
                 if (this.countDown == -2){
                     this.countDown = 5;
