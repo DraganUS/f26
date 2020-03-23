@@ -2898,9 +2898,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -2910,7 +2907,7 @@ __webpack_require__.r(__webpack_exports__);
       counter: true,
       products: [],
       imageId: 0,
-      countDown: 5,
+      countDown: 4,
       testedID: 0
     };
   },
@@ -2932,11 +2929,11 @@ __webpack_require__.r(__webpack_exports__);
           _this.countDown -= 1;
 
           _this.countDownTimer();
-        }, 190);
+        }, 210);
       }
 
       if (this.countDown == -2) {
-        this.countDown = 5;
+        this.countDown = 4;
         this.removeTestedProduct();
       }
     },
@@ -66901,17 +66898,6 @@ var render = function() {
   return _c("div", { staticClass: "container" }, [
     _c("div", { staticClass: "row justify-content-center" }, [
       _c("div", { staticClass: "col-md-8" }, [
-        _c("video", {
-          attrs: {
-            id: "video",
-            width: "720",
-            height: "560",
-            autoplay: "",
-            muted: ""
-          },
-          domProps: { muted: true }
-        }),
-        _vm._v(" "),
         _c("h3", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
         _c("div", [

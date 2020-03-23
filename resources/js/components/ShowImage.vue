@@ -2,9 +2,6 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8" >
-                <video id="video" width="720" height="560" autoplay muted></video>
-
-
                 <h3>Testing instructions:</h3>
                 <div>
                     <span>
@@ -42,7 +39,7 @@
             counter: true,
             products: [],
             imageId: 0,
-            countDown : 5,
+            countDown : 4,
             testedID: 0,
         }),
         mounted() {
@@ -60,10 +57,10 @@
                     setTimeout(() => {
                         this.countDown -= 1;
                         this.countDownTimer()
-                    }, 190)
+                    }, 210)
                 }
                 if (this.countDown == -2){
-                    this.countDown = 5;
+                    this.countDown = 4;
                     this.removeTestedProduct();
                 }
             },
