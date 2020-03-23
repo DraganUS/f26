@@ -1971,6 +1971,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Home2Component",
   data: function data() {
@@ -7448,7 +7453,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n}\n", ""]);
+exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n}\n.fa-check-square[data-v-2cded535]{\n    font-size: 20px;\n    color: #2b6bde;\n}\n", ""]);
 
 // exports
 
@@ -39085,6 +39090,8 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("div", { attrs: { id: "exp2" } }, [
         _c("div", [
+          _c("i", { staticClass: "fas fa-check-square" }),
+          _vm._v(" "),
           _c("h4", [_vm._v("First glimpse")]),
           _vm._v(" "),
           _c("p", [
@@ -39095,6 +39102,8 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("div", [
+          _c("i", { staticClass: "fas fa-check-square" }),
+          _vm._v(" "),
           _c("h4", [_vm._v("Memory and attention strength")]),
           _vm._v(" "),
           _c("p", [
@@ -39105,12 +39114,16 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("div", [
+          _c("i", { staticClass: "fas fa-check-square" }),
+          _vm._v(" "),
           _c("h4", [_vm._v("Conciseness and urgency")]),
           _vm._v(" "),
           _c("p", [_vm._v("The motif or visual stimulus is concise")])
         ]),
         _vm._v(" "),
         _c("div", [
+          _c("i", { staticClass: "fas fa-check-square" }),
+          _vm._v(" "),
           _c("h4", [_vm._v("Legibility of writing")]),
           _vm._v(" "),
           _c("p", [
@@ -39121,6 +39134,8 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("div", [
+          _c("i", { staticClass: "fas fa-check-square" }),
+          _vm._v(" "),
           _c("h4", [_vm._v("Advertising success forecast")]),
           _vm._v(" "),
           _c("p", [
