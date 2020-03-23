@@ -816,6 +816,9 @@
 </script>
 
 <style scoped>
+    .container{
+        margin-bottom: 63px;
+    }
    h2{
         font-family: 'Inconsolata', monospace;
     }

@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h3>Here's how it works</h3>
+<!--        <h3>Here's how it works</h3>-->
         <img style="width: 100%" src="http://142.93.168.134/storage/Hero-sofunktionierts_2x-min.jpg" alt="">
 
         <div id="exp2" class="d-flex justify-content-around align-items-center">
@@ -42,7 +42,7 @@
  div#exp2{
      padding:20px;
      background: #f5f6fa;
-     margin-bottom: 30px;
+     margin-bottom: 70px;
  }
  .fa-check-square{
      font-size: 19px;

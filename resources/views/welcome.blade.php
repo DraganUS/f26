@@ -136,7 +136,7 @@
                     </ul>
 
                     <!-- Right Side Of Navbar -->
-                    <ul class="navbar-nav ml-auto">
+                    <ul class="navbar-nav ml-auto" style="z-index:2300">
                         <!-- Authentication Links -->
                         @guest
                             <li class="nav-item mr-3">
@@ -170,7 +170,7 @@
                 </div>
             </div>
         </nav>
-        <div class="mx-3 ">
+        <div class="mx-3 "style="z-index: 1">
             <home-main-component></home-main-component>
             <home-2-component></home-2-component>
             <home-3-component></home-3-component>
