@@ -173,6 +173,7 @@
         <div class="mx-3 ">
             <home-main-component></home-main-component>
             <home-2-component></home-2-component>
+            <home-3-component></home-3-component>
         </div>
         <main class="py-4">
             @yield('content')
