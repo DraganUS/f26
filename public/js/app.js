@@ -1948,6 +1948,21 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Home2Component",
   data: function data() {
@@ -7425,7 +7440,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv[data-v-2cded535]{\n    background: #f5f6fa;\n}\n", ""]);
+exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n    background: #f5f6fa;\n}\n", ""]);
 
 // exports
 
@@ -39058,7 +39073,39 @@ var staticRenderFns = [
           src: "http://142.93.168.134/storage/Hero-sofunktionierts_2x-min.jpg",
           alt: ""
         }
-      })
+      }),
+      _vm._v(" "),
+      _c("div", { attrs: { id: "exp2" } }, [
+        _c("div", [
+          _c("h4", [_vm._v("First glimpse")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", [
+          _c("h4", [_vm._v("First glimpse")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", [
+          _c("h4", [_vm._v("First glimpse")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+            )
+          ])
+        ])
+      ])
     ])
   }
 ]
