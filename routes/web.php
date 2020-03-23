@@ -20,6 +20,9 @@ Route::get('/tachistoskop-facial', 'HomeController@index')->name('home');
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/home', function () {
+    return view('welcome');
+});
 
 
 Route::group(['prefix' => 'admin'], function () {

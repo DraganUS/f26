@@ -2,6 +2,9 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8" >
+                <video id="video" width="720" height="560" autoplay muted></video>
+
+
                 <h3>Testing instructions:</h3>
                 <div>
                     <span>
@@ -77,7 +80,9 @@
                         }
                     }
                 }
-            }
+            },
+
+
         },
     }
 </script>
@@ -95,7 +100,11 @@
     .fa-play-circle{
         font-size: 40px;
     }
-    .fa-play-circle:hover{
+    .fa-play-circle:hover {
         cursor: pointer;
     }
+    canvas {
+        position: absolute;
+    }
+
 </style>
