@@ -6,7 +6,7 @@
                     <div class="col d-flex align-items-center col-md-6">
                         <div>
                             <h2 class="mb-5">Science fiction in market research</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi dolorum, earum facilis in incidunt iure labore laudantium neque nesciunt non nostrum numquam quidem quo quos sint voluptas. Illo, voluptatum!</p>
+                            <p>With the virtual tachistoscope we measure the level of memory, attention and conciseness of your advertising material, packaging, logos etc. Since motifs of this kind are viewed only very fleetingly in most cases, it is important to know what the viewer subconsciously perceives in such short time intervals and whether the first fleeting impression corresponds to your ideas.</p>
                         </div>
                     </div>
                         <svg viewBox="0 0 582 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

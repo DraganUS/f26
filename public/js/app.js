@@ -44221,7 +44221,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("p", [
             _vm._v(
-              "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi dolorum, earum facilis in incidunt iure labore laudantium neque nesciunt non nostrum numquam quidem quo quos sint voluptas. Illo, voluptatum!"
+              "With the virtual tachistoscope we measure the level of memory, attention and conciseness of your advertising material, packaging, logos etc. Since motifs of this kind are viewed only very fleetingly in most cases, it is important to know what the viewer subconsciously perceives in such short time intervals and whether the first fleeting impression corresponds to your ideas."
             )
           ])
         ])
