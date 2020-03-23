@@ -1972,10 +1972,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Home2Component",
   data: function data() {
@@ -7453,7 +7449,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n}\n.fa-check-square[data-v-2cded535]{\n    font-size: 20px;\n    color: #2b6bde;\n}\n", ""]);
+exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n    padding:20px;\n    background: #f5f6fa;\n}\n.fa-check-square[data-v-2cded535]{\n    font-size: 19px;\n    color: #2b6bde;\n}\n.fm2[data-v-2cded535], h4[data-v-2cded535]{\n    min-width: 230px;\n    max-width: 230px;\n}\ni[data-v-2cded535]{\n    margin-top: 1px;\n    margin-left: 3px;\n    margin-right: 7px;\n}\n@media only screen and (max-width: 425px) {\n.justify-content-around[data-v-2cded535]{\n        flex-wrap: wrap;\n}\n}\n", ""]);
 
 // exports
 
@@ -39088,63 +39084,56 @@ var staticRenderFns = [
         }
       }),
       _vm._v(" "),
-      _c("div", { attrs: { id: "exp2" } }, [
-        _c("div", [
-          _c("i", { staticClass: "fas fa-check-square" }),
+      _c(
+        "div",
+        {
+          staticClass: "d-flex justify-content-around align-items-center",
+          attrs: { id: "exp2" }
+        },
+        [
+          _c("div", [
+            _c("div", { staticClass: "d-flex flex-row fm2" }, [
+              _c("i", { staticClass: "fas fa-check-square" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("First glimpse")])
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("h4", [_vm._v("First glimpse")]),
+          _c("div", [
+            _c("div", { staticClass: "d-flex flex-row ml-2 fm2" }, [
+              _c("i", { staticClass: "fas fa-check-square" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Legibility of writing")])
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Measuring the readability of headlines, texts, advertising messages, etc. and determining the time necessary for understanding"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
-            )
+          _c("div", [
+            _c("div", { staticClass: "d-flex flex-row ml-2 fm2" }, [
+              _c("i", { staticClass: "fas fa-check-square" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Advertising success forecast")])
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Compare the impression of the advertising material desired for your advertising goals with the actually realized perception"
+              )
+            ])
           ])
-        ]),
-        _vm._v(" "),
-        _c("div", [
-          _c("i", { staticClass: "fas fa-check-square" }),
-          _vm._v(" "),
-          _c("h4", [_vm._v("Memory and attention strength")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "What does the viewer remember after different short time intervals"
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", [
-          _c("i", { staticClass: "fas fa-check-square" }),
-          _vm._v(" "),
-          _c("h4", [_vm._v("Conciseness and urgency")]),
-          _vm._v(" "),
-          _c("p", [_vm._v("The motif or visual stimulus is concise")])
-        ]),
-        _vm._v(" "),
-        _c("div", [
-          _c("i", { staticClass: "fas fa-check-square" }),
-          _vm._v(" "),
-          _c("h4", [_vm._v("Legibility of writing")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "Measuring the readability of headlines, texts, advertising messages, etc. and determining the time necessary for understanding"
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", [
-          _c("i", { staticClass: "fas fa-check-square" }),
-          _vm._v(" "),
-          _c("h4", [_vm._v("Advertising success forecast")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "Compare the impression of the advertising material desired for your advertising goals with the actually realized perception"
-            )
-          ])
-        ])
-      ])
+        ]
+      )
     ])
   }
 ]
