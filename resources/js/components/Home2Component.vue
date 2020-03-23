@@ -42,6 +42,7 @@
  div#exp2{
      padding:20px;
      background: #f5f6fa;
+     margin-bottom: 30px;
  }
  .fa-check-square{
      font-size: 19px;

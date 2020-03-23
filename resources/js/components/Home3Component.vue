@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container mt-8">
         <h3>What you can measure with the Tachistoscope?</h3>
         <p>
             With the help of the tachistoscope, perception experiments can measure different effects of advertising materials, packaging designs and other motifs, which in reality are not perceived cognitively but only fleetingly and unconsciously. In this way it is possible to analyze which information is perceived and processed by the viewer at all.
@@ -16,5 +16,11 @@
 </script>
 
 <style scoped>
-
+    /*.container{*/
+    /*    font-family: 'Inconsolata', monospace;*/
+    /*}*/
+    h3{
+        margin-top: 30px;
+        color: #2b6bde;
+    }
 </style>

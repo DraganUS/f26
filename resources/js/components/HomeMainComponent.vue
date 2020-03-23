@@ -816,6 +816,9 @@
 </script>
 
 <style scoped>
+   h2{
+        font-family: 'Inconsolata', monospace;
+    }
 svg{
     height: auto;
     width: 49%;
