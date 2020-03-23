@@ -1963,6 +1963,14 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Home2Component",
   data: function data() {
@@ -39087,21 +39095,37 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("div", [
-          _c("h4", [_vm._v("First glimpse")]),
+          _c("h4", [_vm._v("Memory and attention strength")]),
           _vm._v(" "),
           _c("p", [
             _vm._v(
-              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+              "What does the viewer remember after different short time intervals"
             )
           ])
         ]),
         _vm._v(" "),
         _c("div", [
-          _c("h4", [_vm._v("First glimpse")]),
+          _c("h4", [_vm._v("Conciseness and urgency")]),
+          _vm._v(" "),
+          _c("p", [_vm._v("The motif or visual stimulus is concise")])
+        ]),
+        _vm._v(" "),
+        _c("div", [
+          _c("h4", [_vm._v("Legibility of writing")]),
           _vm._v(" "),
           _c("p", [
             _vm._v(
-              "Determination of the first spontaneous and unreflected impression and the emotional impression (positive or negative associations)"
+              "Measuring the readability of headlines, texts, advertising messages, etc. and determining the time necessary for understanding"
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", [
+          _c("h4", [_vm._v("Advertising success forecast")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "Compare the impression of the advertising material desired for your advertising goals with the actually realized perception"
             )
           ])
         ])
