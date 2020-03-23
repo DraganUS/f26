@@ -31,6 +31,6 @@
 
 <style scoped>
  div#exp2{
-     background: #f5f6fa;
+     
  }
 </style>

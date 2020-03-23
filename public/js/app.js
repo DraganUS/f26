@@ -7440,7 +7440,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n    background: #f5f6fa;\n}\n", ""]);
+exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n}\n", ""]);
 
 // exports
 
