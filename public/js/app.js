@@ -7449,7 +7449,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n    padding:20px;\n    background: #f5f6fa;\n}\n.fa-check-square[data-v-2cded535]{\n    font-size: 19px;\n    color: #2b6bde;\n}\n.fm2[data-v-2cded535], h4[data-v-2cded535]{\n    min-width: 230px;\n    max-width: 230px;\n}\ni[data-v-2cded535]{\n    margin-top: 1px;\n    margin-left: 3px;\n    margin-right: 7px;\n}\n@media only screen and (max-width: 425px) {\n.justify-content-around[data-v-2cded535]{\n        flex-wrap: wrap;\n}\n}\n", ""]);
+exports.push([module.i, "\ndiv#exp2[data-v-2cded535]{\n    padding:20px;\n    background: #f5f6fa;\n}\n.fa-check-square[data-v-2cded535]{\n    font-size: 19px;\n    color: #2b6bde;\n}\n.fm2[data-v-2cded535], h4[data-v-2cded535]{\n    min-width: 230px;\n    max-width: 230px;\n}\ni[data-v-2cded535]{\n    margin-top: 1px;\n    margin-left: 3px;\n    margin-right: 7px;\n}\n@media only screen and (max-width: 994px) {\n.justify-content-around[data-v-2cded535]{\n        flex-wrap: wrap;\n}\n}\n", ""]);
 
 // exports
 

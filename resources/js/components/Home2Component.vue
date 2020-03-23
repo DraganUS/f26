@@ -56,7 +56,7 @@
      margin-left: 3px;
      margin-right: 7px;
  }
- @media only screen and (max-width: 425px) {
+ @media only screen and (max-width: 994px) {
      .justify-content-around{
          flex-wrap: wrap;
      }
