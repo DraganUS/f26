@@ -4279,42 +4279,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "HomeMainComponent",
   data: function data() {
@@ -63091,6 +63055,8 @@ var render = function() {
             "svg",
             {
               attrs: {
+                width: "800px",
+                height: "600px",
                 viewBox: "0 0 800 600",
                 version: "1.1",
                 xmlns: "http://www.w3.org/2000/svg",
@@ -63098,9 +63064,9 @@ var render = function() {
               }
             },
             [
-              _c("title", [_vm._v("TAHI 26")]),
+              _c("title", [_vm._v("Artboard")]),
               _vm._v(" "),
-              _c("desc", [_vm._v("Created with Sketch, by Dragan Usic")]),
+              _c("desc", [_vm._v("Created with Sketch.")]),
               _vm._v(" "),
               _c(
                 "defs",
@@ -63129,10 +63095,10 @@ var render = function() {
                     "filter",
                     {
                       attrs: {
-                        x: "-41.4%",
-                        y: "-41.4%",
-                        width: "182.9%",
-                        height: "182.9%",
+                        x: "-27.1%",
+                        y: "-27.1%",
+                        width: "154.2%",
+                        height: "154.2%",
                         filterUnits: "objectBoundingBox",
                         id: "filter-2"
                       }
@@ -63285,9 +63251,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "12.9860287%",
-                        y1: "9.91156023%",
+                        y1: "9.86264551%",
                         x2: "108.731056%",
-                        y2: "78.8901153%",
+                        y2: "78.9253661%",
                         id: "linearGradient-9"
                       }
                     },
@@ -63415,9 +63381,9 @@ var render = function() {
                         cy: "35.7738471%",
                         fx: "51.3541261%",
                         fy: "35.7738471%",
-                        r: "203.59816%",
+                        r: "203.474062%",
                         gradientTransform:
-                          "translate(0.513541,0.357738),scale(0.261645,1.000000),translate(-0.513541,-0.357738)",
+                          "translate(0.513541,0.357738),scale(0.261804,1.000000),translate(-0.513541,-0.357738)",
                         id: "radialGradient-14"
                       }
                     },
@@ -63457,9 +63423,9 @@ var render = function() {
                         cy: "57.7634333%",
                         fx: "49.2084162%",
                         fy: "57.7634333%",
-                        r: "81.4657466%",
+                        r: "81.416091%",
                         gradientTransform:
-                          "translate(0.492084,0.577634),scale(0.781561,1.000000),translate(-0.492084,-0.577634)",
+                          "translate(0.492084,0.577634),scale(0.782037,1.000000),translate(-0.492084,-0.577634)",
                         id: "radialGradient-15"
                       }
                     },
@@ -63496,9 +63462,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "19.3246089%",
-                        y1: "28.6907216%",
+                        y1: "28.7429182%",
                         x2: "84.2448542%",
-                        y2: "67.6172262%",
+                        y2: "67.5740731%",
                         id: "linearGradient-16"
                       }
                     },
@@ -63522,9 +63488,9 @@ var render = function() {
                         cy: "28.6012852%",
                         fx: "49.9997083%",
                         fy: "28.6012852%",
-                        r: "71.4571506%",
+                        r: "71.5448281%",
                         gradientTransform:
-                          "translate(0.499997,0.286013),scale(0.701437,1.000000),translate(-0.499997,-0.286013)",
+                          "translate(0.499997,0.286013),scale(0.700577,1.000000),translate(-0.499997,-0.286013)",
                         id: "radialGradient-17"
                       }
                     },
@@ -63625,9 +63591,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "8.47490694%",
-                        y1: "18.8957916%",
+                        y1: "18.9719807%",
                         x2: "79.2996816%",
-                        y2: "69.2516759%",
+                        y2: "69.2045194%",
                         id: "linearGradient-18"
                       }
                     },
@@ -63997,9 +63963,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "20.962125%",
+                        x1: "19.6085575%",
                         y1: "52.8481305%",
-                        x2: "83.6396885%",
+                        x2: "85.2077642%",
                         y2: "43.2594047%",
                         id: "linearGradient-33"
                       }
@@ -64044,9 +64010,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "31.0075205%",
-                        y1: "44.3078366%",
+                        y1: "44.5058097%",
                         x2: "70.4549416%",
-                        y2: "57.1041581%",
+                        y2: "56.857076%",
                         id: "linearGradient-35"
                       }
                     },
@@ -64251,9 +64217,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "18.9680348%",
-                        y1: "34.3412185%",
+                        y1: "34.1902913%",
                         x2: "80.5022653%",
-                        y2: "65.8119253%",
+                        y2: "65.9643285%",
                         id: "linearGradient-44"
                       }
                     },
@@ -64319,10 +64285,10 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "-0.795826514%",
-                        y1: "79.3235594%",
-                        x2: "100.794463%",
-                        y2: "20.6737131%",
+                        x1: "-0.317767459%",
+                        y1: "79.3275592%",
+                        x2: "100.316416%",
+                        y2: "20.6697129%",
                         id: "linearGradient-47"
                       }
                     },
@@ -64362,10 +64328,10 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "-0.799236225%",
-                        y1: "79.3167404%",
-                        x2: "100.791735%",
-                        y2: "20.667576%",
+                        x1: "-0.321145079%",
+                        y1: "79.3207393%",
+                        x2: "100.313714%",
+                        y2: "20.663575%",
                         id: "linearGradient-48"
                       }
                     },
@@ -64405,9 +64371,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "30.3474869%",
+                        x1: "31.8301469%",
                         y1: "13.0956384%",
-                        x2: "65.5538238%",
+                        x2: "64.3803845%",
                         y2: "73.4531212%",
                         id: "linearGradient-49"
                       }
@@ -64429,9 +64395,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "-1.38109056%",
-                        y1: "54.8675789%",
+                        y1: "55.2647734%",
                         x2: "99.3104637%",
-                        y2: "48.2561256%",
+                        y2: "48.1138255%",
                         id: "linearGradient-50"
                       }
                     },
@@ -64452,9 +64418,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "14.3095495%",
-                        y1: "32.5822071%",
+                        y1: "32.684454%",
                         x2: "85.6905946%",
-                        y2: "67.4182149%",
+                        y2: "67.3159656%",
                         id: "linearGradient-51"
                       }
                     },
@@ -64497,9 +64463,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "26.6124373%",
+                        x1: "27.0551939%",
                         y1: "11.9108%",
-                        x2: "81.6316178%",
+                        x2: "81.0327907%",
                         y2: "79.5573333%",
                         id: "linearGradient-53"
                       }
@@ -64521,9 +64487,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "5.9765389%",
-                        y1: "3.07971687%",
+                        y1: "3.71078276%",
                         x2: "95.121742%",
-                        y2: "88.5388259%",
+                        y2: "88.0204885%",
                         id: "linearGradient-54"
                       }
                     },
@@ -64695,9 +64661,9 @@ var render = function() {
                         cy: "55.4787313%",
                         fx: "66.3323178%",
                         fy: "55.4787313%",
-                        r: "104.995618%",
+                        r: "105.300067%",
                         gradientTransform:
-                          "translate(0.663323,0.554787),scale(1.000000,0.836784),rotate(-67.869816),translate(-0.663323,-0.554787)",
+                          "translate(0.663323,0.554787),scale(1.000000,0.833966),rotate(-67.937167),translate(-0.663323,-0.554787)",
                         id: "radialGradient-59"
                       }
                     },
@@ -64746,9 +64712,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "21.7637318%",
-                        y1: "63.6988229%",
+                        y1: "63.7915388%",
                         x2: "87.4179348%",
-                        y2: "31.1774469%",
+                        y2: "31.0500526%",
                         id: "linearGradient-60"
                       }
                     },
@@ -64926,9 +64892,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "29.8734345%",
+                        x1: "29.4552313%",
                         y1: "25.2789967%",
-                        x2: "87.0696924%",
+                        x2: "87.8399512%",
                         y2: "91.435353%",
                         id: "linearGradient-67"
                       }
@@ -65694,9 +65660,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "20.0202996%",
+                        x1: "19.5484509%",
                         y1: "9.63776491%",
-                        x2: "75.8537496%",
+                        x2: "76.2606602%",
                         y2: "79.8391428%",
                         id: "linearGradient-99"
                       }
@@ -65721,9 +65687,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "27.4648379%",
+                        x1: "27.1101584%",
                         y1: "7.79148268%",
-                        x2: "69.836696%",
+                        x2: "70.1489045%",
                         y2: "73.8843319%",
                         id: "linearGradient-100"
                       }
@@ -65764,9 +65730,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "27.0219271%",
+                        x1: "26.6602766%",
                         y1: "8.91327733%",
-                        x2: "67.7893789%",
+                        x2: "68.0693649%",
                         y2: "77.4454339%",
                         id: "linearGradient-101"
                       }
@@ -65854,9 +65820,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "29.0809824%",
-                        y1: "89.4137783%",
+                        y1: "89.2329814%",
                         x2: "64.7863435%",
-                        y2: "7.55479159%",
+                        y2: "7.74949413%",
                         id: "linearGradient-104"
                       }
                     },
@@ -66456,9 +66422,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "20.9668504%",
-                        y1: "34.0486622%",
+                        y1: "33.7064909%",
                         x2: "78.4322681%",
-                        y2: "65.9513378%",
+                        y2: "66.2935091%",
                         id: "linearGradient-126"
                       }
                     },
@@ -67684,9 +67650,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "43.7450788%",
+                        x1: "43.7545291%",
                         y1: "50.5846219%",
-                        x2: "59.7520869%",
+                        x2: "59.7373529%",
                         y2: "44.3673657%",
                         id: "linearGradient-177"
                       }
@@ -67963,9 +67929,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "45.1763882%",
-                        y1: "42.0312152%",
+                        y1: "42.1291167%",
                         x2: "52.3025981%",
-                        y2: "58.1756886%",
+                        y2: "58.0752452%",
                         id: "linearGradient-187"
                       }
                     },
@@ -68032,9 +67998,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "23.4582892%",
-                        y1: "61.0919478%",
+                        y1: "61.0633892%",
                         x2: "69.3976421%",
-                        y2: "42.337868%",
+                        y2: "42.3575957%",
                         id: "linearGradient-190"
                       }
                     },
@@ -68055,9 +68021,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "36.7719884%",
-                        y1: "44.4902102%",
+                        y1: "44.5043963%",
                         x2: "73.8071213%",
-                        y2: "67.1684255%",
+                        y2: "67.1242217%",
                         id: "linearGradient-191"
                       }
                     },
@@ -68917,9 +68883,9 @@ var render = function() {
                     {
                       attrs: {
                         x1: "30.9921095%",
-                        y1: "45.4443412%",
+                        y1: "45.4742764%",
                         x2: "72.2110789%",
-                        y2: "55.3233733%",
+                        y2: "55.2883934%",
                         id: "linearGradient-224"
                       }
                     },
@@ -69013,9 +68979,9 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "35.5823332%",
+                        x1: "35.5482691%",
                         y1: "17.0391407%",
-                        x2: "73.4617538%",
+                        x2: "73.5171861%",
                         y2: "80.4775548%",
                         id: "linearGradient-227"
                       }
@@ -69036,34 +69002,11 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "-0.00154710687%",
-                        y1: "49.9989559%",
-                        x2: "100.000384%",
-                        y2: "49.9989559%",
-                        id: "linearGradient-228"
-                      }
-                    },
-                    [
-                      _c("stop", {
-                        attrs: { "stop-color": "#FDE1A7", offset: "0%" }
-                      }),
-                      _vm._v(" "),
-                      _c("stop", {
-                        attrs: { "stop-color": "#F9A144", offset: "100%" }
-                      })
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "linearGradient",
-                    {
-                      attrs: {
                         x1: "0.00125786176%",
                         y1: "49.9990914%",
                         x2: "100.000639%",
                         y2: "49.9990914%",
-                        id: "linearGradient-229"
+                        id: "linearGradient-228"
                       }
                     },
                     [
@@ -69086,6 +69029,29 @@ var render = function() {
                         y1: "50.000327%",
                         x2: "99.999436%",
                         y2: "50.000327%",
+                        id: "linearGradient-229"
+                      }
+                    },
+                    [
+                      _c("stop", {
+                        attrs: { "stop-color": "#FDE1A7", offset: "0%" }
+                      }),
+                      _vm._v(" "),
+                      _c("stop", {
+                        attrs: { "stop-color": "#F9A144", offset: "100%" }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "linearGradient",
+                    {
+                      attrs: {
+                        x1: "0.000268505031%",
+                        y1: "50.0011207%",
+                        x2: "99.9996644%",
+                        y2: "50.0011207%",
                         id: "linearGradient-230"
                       }
                     },
@@ -69105,103 +69071,11 @@ var render = function() {
                     "linearGradient",
                     {
                       attrs: {
-                        x1: "0.000171841478%",
-                        y1: "49.9998858%",
-                        x2: "100.000399%",
-                        y2: "49.9998858%",
-                        id: "linearGradient-231"
-                      }
-                    },
-                    [
-                      _c("stop", {
-                        attrs: { "stop-color": "#C7A0F6", offset: "0%" }
-                      }),
-                      _vm._v(" "),
-                      _c("stop", {
-                        attrs: { "stop-color": "#FF57BD", offset: "100%" }
-                      })
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "linearGradient",
-                    {
-                      attrs: {
-                        x1: "0.000268505031%",
-                        y1: "50.0011207%",
-                        x2: "99.9996644%",
-                        y2: "50.0011207%",
-                        id: "linearGradient-232"
-                      }
-                    },
-                    [
-                      _c("stop", {
-                        attrs: { "stop-color": "#FDE1A7", offset: "0%" }
-                      }),
-                      _vm._v(" "),
-                      _c("stop", {
-                        attrs: { "stop-color": "#F9A144", offset: "100%" }
-                      })
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "linearGradient",
-                    {
-                      attrs: {
-                        x1: "0%",
-                        y1: "50.0011962%",
-                        x2: "100%",
-                        y2: "50.0011962%",
-                        id: "linearGradient-233"
-                      }
-                    },
-                    [
-                      _c("stop", {
-                        attrs: { "stop-color": "#FDE1A7", offset: "0%" }
-                      }),
-                      _vm._v(" "),
-                      _c("stop", {
-                        attrs: { "stop-color": "#F9A144", offset: "100%" }
-                      })
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "linearGradient",
-                    {
-                      attrs: {
-                        x1: "23.692043%",
-                        y1: "41.4002692%",
-                        x2: "76.3092473%",
-                        y2: "58.5998714%",
-                        id: "linearGradient-234"
-                      }
-                    },
-                    [
-                      _c("stop", {
-                        attrs: { "stop-color": "#9F36AD", offset: "0%" }
-                      }),
-                      _vm._v(" "),
-                      _c("stop", {
-                        attrs: { "stop-color": "#43256F", offset: "100%" }
-                      })
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "linearGradient",
-                    {
-                      attrs: {
                         x1: "49.999299%",
                         y1: "100.000877%",
                         x2: "49.999299%",
                         y2: "0.00034965897%",
-                        id: "linearGradient-235"
+                        id: "linearGradient-231"
                       }
                     },
                     [
@@ -69224,7 +69098,7 @@ var render = function() {
                         y1: "49.9937814%",
                         x2: "100.007254%",
                         y2: "49.9937814%",
-                        id: "linearGradient-236"
+                        id: "linearGradient-232"
                       }
                     },
                     [
@@ -69247,7 +69121,7 @@ var render = function() {
                         y1: "49.9987958%",
                         x2: "99.9985836%",
                         y2: "49.9987958%",
-                        id: "linearGradient-237"
+                        id: "linearGradient-233"
                       }
                     },
                     [
@@ -69270,7 +69144,7 @@ var render = function() {
                         y1: "50.0002678%",
                         x2: "100.000172%",
                         y2: "50.0002678%",
-                        id: "linearGradient-238"
+                        id: "linearGradient-234"
                       }
                     },
                     [
@@ -69293,7 +69167,7 @@ var render = function() {
                         y1: "50.0002758%",
                         x2: "99.9991058%",
                         y2: "50.0002758%",
-                        id: "linearGradient-239"
+                        id: "linearGradient-235"
                       }
                     },
                     [
@@ -69316,7 +69190,7 @@ var render = function() {
                         y1: "49.9907251%",
                         x2: "99.9954722%",
                         y2: "49.9907251%",
-                        id: "linearGradient-240"
+                        id: "linearGradient-236"
                       }
                     },
                     [
@@ -69339,7 +69213,7 @@ var render = function() {
                         y1: "49.9981455%",
                         x2: "99.9971927%",
                         y2: "49.9981455%",
-                        id: "linearGradient-241"
+                        id: "linearGradient-237"
                       }
                     },
                     [
@@ -69362,7 +69236,7 @@ var render = function() {
                         y1: "49.9987769%",
                         x2: "100.001463%",
                         y2: "49.9987769%",
-                        id: "linearGradient-242"
+                        id: "linearGradient-238"
                       }
                     },
                     [
@@ -69385,7 +69259,7 @@ var render = function() {
                         y1: "50.0066911%",
                         x2: "99.9988068%",
                         y2: "50.0066911%",
-                        id: "linearGradient-243"
+                        id: "linearGradient-239"
                       }
                     },
                     [
@@ -69408,7 +69282,7 @@ var render = function() {
                         y1: "49.9962241%",
                         x2: "100.002153%",
                         y2: "49.9962241%",
-                        id: "linearGradient-244"
+                        id: "linearGradient-240"
                       }
                     },
                     [
@@ -69431,7 +69305,7 @@ var render = function() {
                         y1: "50.0008743%",
                         x2: "99.9961092%",
                         y2: "50.0008743%",
-                        id: "linearGradient-245"
+                        id: "linearGradient-241"
                       }
                     },
                     [
@@ -69454,7 +69328,7 @@ var render = function() {
                         y1: "50.0001522%",
                         x2: "100.000213%",
                         y2: "50.0001522%",
-                        id: "linearGradient-246"
+                        id: "linearGradient-242"
                       }
                     },
                     [
@@ -69477,7 +69351,7 @@ var render = function() {
                         y1: "22.7863963%",
                         x2: "81.5963615%",
                         y2: "80.6189993%",
-                        id: "linearGradient-247"
+                        id: "linearGradient-243"
                       }
                     },
                     [
@@ -69500,7 +69374,7 @@ var render = function() {
                         y1: "99.9999489%",
                         x2: "50.0002572%",
                         y2: "-0.000663207132%",
-                        id: "linearGradient-248"
+                        id: "linearGradient-244"
                       }
                     },
                     [
@@ -69523,7 +69397,7 @@ var render = function() {
                         y1: "100.000769%",
                         x2: "50.0001336%",
                         y2: "-0.000192758242%",
-                        id: "linearGradient-249"
+                        id: "linearGradient-245"
                       }
                     },
                     [
@@ -69546,7 +69420,7 @@ var render = function() {
                         y1: "2.21551138%",
                         x2: "97.7864885%",
                         y2: "97.7872885%",
-                        id: "linearGradient-250"
+                        id: "linearGradient-246"
                       }
                     },
                     [
@@ -69569,7 +69443,7 @@ var render = function() {
                         y1: "2.21311148%",
                         x2: "97.7880885%",
                         y2: "97.7904884%",
-                        id: "linearGradient-251"
+                        id: "linearGradient-247"
                       }
                     },
                     [
@@ -69592,7 +69466,7 @@ var render = function() {
                         y1: "2.21471141%",
                         x2: "97.7864885%",
                         y2: "97.7860886%",
-                        id: "linearGradient-252"
+                        id: "linearGradient-248"
                       }
                     },
                     [
@@ -69615,7 +69489,7 @@ var render = function() {
                         y1: "7.86811052%",
                         x2: "97.2790088%",
                         y2: "92.1330251%",
-                        id: "linearGradient-253"
+                        id: "linearGradient-249"
                       }
                     },
                     [
@@ -69638,7 +69512,7 @@ var render = function() {
                         y1: "50.01%",
                         x2: "100.000945%",
                         y2: "50.01%",
-                        id: "linearGradient-254"
+                        id: "linearGradient-250"
                       }
                     },
                     [
@@ -69661,7 +69535,7 @@ var render = function() {
                         y1: "100%",
                         x2: "49.996875%",
                         y2: "0.000515463918%",
-                        id: "linearGradient-255"
+                        id: "linearGradient-251"
                       }
                     },
                     [
@@ -69684,7 +69558,7 @@ var render = function() {
                         y1: "50%",
                         x2: "99.996875%",
                         y2: "50%",
-                        id: "linearGradient-256"
+                        id: "linearGradient-252"
                       }
                     },
                     [
@@ -69707,7 +69581,7 @@ var render = function() {
                         y1: "100%",
                         x2: "50%",
                         y2: "0.000660066007%",
-                        id: "linearGradient-257"
+                        id: "linearGradient-253"
                       }
                     },
                     [
@@ -69738,7 +69612,7 @@ var render = function() {
                         y1: "50.0011215%",
                         x2: "100%",
                         y2: "50.0011215%",
-                        id: "linearGradient-258"
+                        id: "linearGradient-254"
                       }
                     },
                     [
@@ -69761,7 +69635,7 @@ var render = function() {
                         y1: "100%",
                         x2: "50%",
                         y2: "0.000809716599%",
-                        id: "linearGradient-259"
+                        id: "linearGradient-255"
                       }
                     },
                     [
@@ -69784,7 +69658,7 @@ var render = function() {
                         y1: "50.0016349%",
                         x2: "100%",
                         y2: "50.0016349%",
-                        id: "linearGradient-260"
+                        id: "linearGradient-256"
                       }
                     },
                     [
@@ -69807,7 +69681,7 @@ var render = function() {
                         y1: "100%",
                         x2: "50%",
                         y2: "0.00056022409%",
-                        id: "linearGradient-261"
+                        id: "linearGradient-257"
                       }
                     },
                     [
@@ -69830,7 +69704,7 @@ var render = function() {
                         y1: "50%",
                         x2: "100%",
                         y2: "50%",
-                        id: "linearGradient-262"
+                        id: "linearGradient-258"
                       }
                     },
                     [
@@ -69853,7 +69727,7 @@ var render = function() {
                         y1: "100%",
                         x2: "50%",
                         y2: "0.00110497238%",
-                        id: "linearGradient-263"
+                        id: "linearGradient-259"
                       }
                     },
                     [
@@ -69876,7 +69750,7 @@ var render = function() {
                         y1: "50%",
                         x2: "100%",
                         y2: "50%",
-                        id: "linearGradient-264"
+                        id: "linearGradient-260"
                       }
                     },
                     [
@@ -69899,7 +69773,7 @@ var render = function() {
                         y1: "26.309819%",
                         x2: "89.8593298%",
                         y2: "73.6904326%",
-                        id: "linearGradient-265"
+                        id: "linearGradient-261"
                       }
                     },
                     [
@@ -69922,7 +69796,7 @@ var render = function() {
                         y1: "50%",
                         x2: "100.000922%",
                         y2: "50%",
-                        id: "linearGradient-266"
+                        id: "linearGradient-262"
                       }
                     },
                     [
@@ -69945,7 +69819,7 @@ var render = function() {
                         y1: "49.9998443%",
                         x2: "100.001875%",
                         y2: "49.9998443%",
-                        id: "linearGradient-267"
+                        id: "linearGradient-263"
                       }
                     },
                     [
@@ -69968,7 +69842,7 @@ var render = function() {
                         y1: "50.0003674%",
                         x2: "99.999848%",
                         y2: "50.0003674%",
-                        id: "linearGradient-268"
+                        id: "linearGradient-264"
                       }
                     },
                     [
@@ -69991,7 +69865,7 @@ var render = function() {
                         y1: "50.0001973%",
                         x2: "100.00116%",
                         y2: "50.0001973%",
-                        id: "linearGradient-269"
+                        id: "linearGradient-265"
                       }
                     },
                     [
@@ -70014,7 +69888,7 @@ var render = function() {
                         y1: "49.9987705%",
                         x2: "100.000144%",
                         y2: "49.9987705%",
-                        id: "linearGradient-270"
+                        id: "linearGradient-266"
                       }
                     },
                     [
@@ -70037,7 +69911,7 @@ var render = function() {
                         y1: "50%",
                         x2: "100%",
                         y2: "50%",
-                        id: "linearGradient-271"
+                        id: "linearGradient-267"
                       }
                     },
                     [
@@ -70060,7 +69934,7 @@ var render = function() {
                         y1: "21.7506265%",
                         x2: "73.849882%",
                         y2: "73.8422249%",
-                        id: "linearGradient-272"
+                        id: "linearGradient-268"
                       }
                     },
                     [
@@ -70091,7 +69965,7 @@ var render = function() {
                         y1: "24.5261241%",
                         x2: "90.6624053%",
                         y2: "75.4739046%",
-                        id: "linearGradient-273"
+                        id: "linearGradient-269"
                       }
                     },
                     [
@@ -70114,7 +69988,7 @@ var render = function() {
                         y1: "50.01%",
                         x2: "100%",
                         y2: "50.01%",
-                        id: "linearGradient-274"
+                        id: "linearGradient-270"
                       }
                     },
                     [
@@ -70137,7 +70011,7 @@ var render = function() {
                         y1: "100.000546%",
                         x2: "50.0001734%",
                         y2: "0.000576370804%",
-                        id: "linearGradient-275"
+                        id: "linearGradient-271"
                       }
                     },
                     [
@@ -70160,7 +70034,7 @@ var render = function() {
                         y1: "50.0006276%",
                         x2: "100.000162%",
                         y2: "50.0006276%",
-                        id: "linearGradient-276"
+                        id: "linearGradient-272"
                       }
                     },
                     [
@@ -70183,7 +70057,7 @@ var render = function() {
                         y1: "50%",
                         x2: "100.000113%",
                         y2: "50%",
-                        id: "linearGradient-277"
+                        id: "linearGradient-273"
                       }
                     },
                     [
@@ -70206,7 +70080,7 @@ var render = function() {
                         y1: "50.0013097%",
                         x2: "100.000897%",
                         y2: "50.0013097%",
-                        id: "linearGradient-278"
+                        id: "linearGradient-274"
                       }
                     },
                     [
@@ -70229,7 +70103,7 @@ var render = function() {
                         y1: "21.5238209%",
                         x2: "81.9260098%",
                         y2: "72.5188955%",
-                        id: "linearGradient-279"
+                        id: "linearGradient-275"
                       }
                     },
                     [
@@ -70252,7 +70126,7 @@ var render = function() {
                         y1: "49.9998208%",
                         x2: "100.00199%",
                         y2: "49.9998208%",
-                        id: "linearGradient-280"
+                        id: "linearGradient-276"
                       }
                     },
                     [
@@ -70275,7 +70149,7 @@ var render = function() {
                         y1: "50.0030105%",
                         x2: "99.999382%",
                         y2: "50.0030105%",
-                        id: "linearGradient-281"
+                        id: "linearGradient-277"
                       }
                     },
                     [
@@ -70298,7 +70172,7 @@ var render = function() {
                         y1: "49.9996454%",
                         x2: "100.00105%",
                         y2: "49.9996454%",
-                        id: "linearGradient-282"
+                        id: "linearGradient-278"
                       }
                     },
                     [
@@ -70321,7 +70195,7 @@ var render = function() {
                         y1: "49.9951302%",
                         x2: "100.000945%",
                         y2: "49.9951302%",
-                        id: "linearGradient-283"
+                        id: "linearGradient-279"
                       }
                     },
                     [
@@ -70344,7 +70218,7 @@ var render = function() {
                         y1: "20.9501593%",
                         x2: "85.3076355%",
                         y2: "97.0685839%",
-                        id: "linearGradient-284"
+                        id: "linearGradient-280"
                       }
                     },
                     [
@@ -70367,7 +70241,7 @@ var render = function() {
                         y1: "50.0016528%",
                         x2: "100.00387%",
                         y2: "50.0016528%",
-                        id: "linearGradient-285"
+                        id: "linearGradient-281"
                       }
                     },
                     [
@@ -70402,7 +70276,7 @@ var render = function() {
                         y1: "50.0019665%",
                         x2: "99.9994571%",
                         y2: "50.0019665%",
-                        id: "linearGradient-286"
+                        id: "linearGradient-282"
                       }
                     },
                     [
@@ -70425,7 +70299,7 @@ var render = function() {
                         y1: "50.0009567%",
                         x2: "100%",
                         y2: "50.0009567%",
-                        id: "linearGradient-287"
+                        id: "linearGradient-283"
                       }
                     },
                     [
@@ -70448,7 +70322,7 @@ var render = function() {
                         y1: "50.000052%",
                         x2: "100.000676%",
                         y2: "50.000052%",
-                        id: "linearGradient-288"
+                        id: "linearGradient-284"
                       }
                     },
                     [
@@ -70471,7 +70345,7 @@ var render = function() {
                         y1: "13.8559051%",
                         x2: "68.3381149%",
                         y2: "79.3978243%",
-                        id: "linearGradient-289"
+                        id: "linearGradient-285"
                       }
                     },
                     [
@@ -70494,7 +70368,7 @@ var render = function() {
                         y1: "49.9984197%",
                         x2: "100%",
                         y2: "49.9984197%",
-                        id: "linearGradient-290"
+                        id: "linearGradient-286"
                       }
                     },
                     [
@@ -70517,7 +70391,7 @@ var render = function() {
                         y1: "50.0026372%",
                         x2: "99.9999307%",
                         y2: "50.0026372%",
-                        id: "linearGradient-291"
+                        id: "linearGradient-287"
                       }
                     },
                     [
@@ -70540,7 +70414,7 @@ var render = function() {
                         y1: "50.0021256%",
                         x2: "99.9975727%",
                         y2: "50.0021256%",
-                        id: "linearGradient-292"
+                        id: "linearGradient-288"
                       }
                     },
                     [
@@ -70563,7 +70437,7 @@ var render = function() {
                         y1: "50.0011168%",
                         x2: "100.00065%",
                         y2: "50.0011168%",
-                        id: "linearGradient-293"
+                        id: "linearGradient-289"
                       }
                     },
                     [
@@ -70586,7 +70460,7 @@ var render = function() {
                         y1: "50.0002709%",
                         x2: "100.001906%",
                         y2: "50.0002709%",
-                        id: "linearGradient-294"
+                        id: "linearGradient-290"
                       }
                     },
                     [
@@ -70609,7 +70483,7 @@ var render = function() {
                         y1: "50.0005956%",
                         x2: "100.00036%",
                         y2: "50.0005956%",
-                        id: "linearGradient-295"
+                        id: "linearGradient-291"
                       }
                     },
                     [
@@ -70632,7 +70506,7 @@ var render = function() {
                         y1: "21.7052882%",
                         x2: "91.0286979%",
                         y2: "78.2966452%",
-                        id: "linearGradient-296"
+                        id: "linearGradient-292"
                       }
                     },
                     [
@@ -70655,7 +70529,7 @@ var render = function() {
                         y1: "21.7036861%",
                         x2: "91.029931%",
                         y2: "78.2963139%",
-                        id: "linearGradient-297"
+                        id: "linearGradient-293"
                       }
                     },
                     [
@@ -70678,7 +70552,7 @@ var render = function() {
                         y1: "38.5120936%",
                         x2: "76.1187341%",
                         y2: "64.5318183%",
-                        id: "linearGradient-298"
+                        id: "linearGradient-294"
                       }
                     },
                     [
@@ -70701,7 +70575,7 @@ var render = function() {
                         y1: "22.2383315%",
                         x2: "55.1116882%",
                         y2: "74.3552379%",
-                        id: "linearGradient-299"
+                        id: "linearGradient-295"
                       }
                     },
                     [
@@ -70724,7 +70598,7 @@ var render = function() {
                         y1: "40.2514446%",
                         x2: "76.074564%",
                         y2: "61.9846077%",
-                        id: "linearGradient-300"
+                        id: "linearGradient-296"
                       }
                     },
                     [
@@ -70747,7 +70621,7 @@ var render = function() {
                         y1: "17.3034291%",
                         x2: "58.9953851%",
                         y2: "78.7627336%",
-                        id: "linearGradient-301"
+                        id: "linearGradient-297"
                       }
                     },
                     [
@@ -70770,7 +70644,7 @@ var render = function() {
                         y1: "49.9995821%",
                         x2: "99.9995754%",
                         y2: "49.9995821%",
-                        id: "linearGradient-302"
+                        id: "linearGradient-298"
                       }
                     },
                     [
@@ -70793,7 +70667,7 @@ var render = function() {
                         y1: "23.6495066%",
                         x2: "63.9761196%",
                         y2: "89.296847%",
-                        id: "linearGradient-303"
+                        id: "linearGradient-299"
                       }
                     },
                     [
@@ -70824,7 +70698,7 @@ var render = function() {
                         y1: "50.0004497%",
                         x2: "100.003608%",
                         y2: "50.0004497%",
-                        id: "linearGradient-304"
+                        id: "linearGradient-300"
                       }
                     },
                     [
@@ -70847,7 +70721,7 @@ var render = function() {
                         y1: "26.0776043%",
                         x2: "63.3122767%",
                         y2: "80.273023%",
-                        id: "linearGradient-305"
+                        id: "linearGradient-301"
                       }
                     },
                     [
@@ -70870,7 +70744,7 @@ var render = function() {
                         y1: "50.0006333%",
                         x2: "99.9991136%",
                         y2: "50.0006333%",
-                        id: "linearGradient-306"
+                        id: "linearGradient-302"
                       }
                     },
                     [
@@ -70893,7 +70767,7 @@ var render = function() {
                         y1: "3.72734726%",
                         x2: "83.6611382%",
                         y2: "80.2057965%",
-                        id: "linearGradient-307"
+                        id: "linearGradient-303"
                       }
                     },
                     [
@@ -70916,7 +70790,7 @@ var render = function() {
                         y1: "50.0009875%",
                         x2: "100.000304%",
                         y2: "50.0009875%",
-                        id: "linearGradient-308"
+                        id: "linearGradient-304"
                       }
                     },
                     [
@@ -70947,7 +70821,7 @@ var render = function() {
                         y1: "50.000519%",
                         x2: "99.9982276%",
                         y2: "50.000519%",
-                        id: "linearGradient-309"
+                        id: "linearGradient-305"
                       }
                     },
                     [
@@ -70970,7 +70844,7 @@ var render = function() {
                         y1: "50.0002666%",
                         x2: "100.001753%",
                         y2: "50.0002666%",
-                        id: "linearGradient-310"
+                        id: "linearGradient-306"
                       }
                     },
                     [
@@ -71013,7 +70887,7 @@ var render = function() {
                     {
                       attrs: {
                         id: "Background",
-                        transform: "translate(0.000000, -10.000000)",
+                        transform: "translate(-130.000000, -60.000000)",
                         opacity: "0.600000024"
                       }
                     },
@@ -71024,7 +70898,7 @@ var render = function() {
                           fill: "#127570",
                           filter: "url(#filter-1)",
                           cx: "181",
-                          cy: "241",
+                          cy: "181",
                           r: "181"
                         }
                       }),
@@ -71034,9 +70908,9 @@ var render = function() {
                           id: "Oval",
                           fill: "#127570",
                           filter: "url(#filter-2)",
-                          cx: "252",
-                          cy: "191",
-                          r: "181"
+                          cx: "476.5",
+                          cy: "341",
+                          r: "276.5"
                         }
                       }),
                       _vm._v(" "),
@@ -71045,8 +70919,8 @@ var render = function() {
                           id: "Oval",
                           fill: "#4D3EAD",
                           filter: "url(#filter-3)",
-                          cx: "381",
-                          cy: "219",
+                          cx: "471",
+                          cy: "609",
                           r: "181"
                         }
                       }),
@@ -71056,8 +70930,8 @@ var render = function() {
                           id: "Oval",
                           fill: "#4D3EAD",
                           filter: "url(#filter-4)",
-                          cx: "341",
-                          cy: "439",
+                          cx: "471",
+                          cy: "489",
                           r: "181"
                         }
                       }),
@@ -71067,8 +70941,8 @@ var render = function() {
                           id: "Oval",
                           fill: "#4D3EAD",
                           filter: "url(#filter-5)",
-                          cx: "631",
-                          cy: "209",
+                          cx: "761",
+                          cy: "259",
                           r: "181"
                         }
                       }),
@@ -71078,8 +70952,8 @@ var render = function() {
                           id: "Oval",
                           fill: "#9ED1FB",
                           filter: "url(#filter-6)",
-                          cx: "632",
-                          cy: "181",
+                          cx: "762",
+                          cy: "231",
                           r: "181"
                         }
                       }),
@@ -71089,8 +70963,8 @@ var render = function() {
                           id: "Oval",
                           fill: "#F6EBFF",
                           filter: "url(#filter-7)",
-                          cx: "373",
-                          cy: "449",
+                          cx: "503",
+                          cy: "499",
                           r: "181"
                         }
                       })
@@ -71112,7 +70986,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "background_x5F_2",
-                            transform: "translate(113.760000, 147.240000)"
+                            transform: "translate(135.000000, 174.000000)"
                           }
                         },
                         [
@@ -71120,7 +70994,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M60.66,4.5 C77.88888,10.7784 102.53268,23.166 113.95152,26.11116 C130.93164,30.49092 168.72012,28.08 171,45 C172.28268,54.51984 165.33,60.03 151.92,63.54 C141.00012,66.39804 128.79864,66.70908 126,72.54 C122.76,79.29 133.92,83.52 132.12,92.16 C130.17312,101.50596 108.5526,106.44336 85.68,104.04 C60.84,101.43 40.21416,94.45788 39.08916,81.08928 C38.43,73.26 48.41424,60.52284 31.41,58.68 C22.0086,57.6612 11.52,55.8 3.84372,44.37432 C-1.78776,35.99244 -0.65124,22.46292 5.9886,13.9932 C17.1,-0.18 39.42,-3.24 60.66,4.5 Z",
+                                  "M71.592907,5.31428571 C91.9269921,12.7287771 121.012407,27.3579429 134.489294,30.8360366 C154.529784,36.0083246 199.128979,33.1611429 201.819767,53.1428571 C203.333628,64.3853349 195.127849,70.8925714 179.30093,75.0377143 C166.412932,78.4129234 152.012348,78.7802469 148.709302,85.6662857 C144.885349,93.6377143 158.056744,98.6331429 155.932326,108.836571 C153.634554,119.873705 128.117313,125.704539 101.122326,122.866286 C71.8053488,119.784 47.4620609,111.550258 46.1342993,95.7625783 C45.3563372,86.5165714 57.1400623,71.474592 37.0711047,69.2982857 C25.9752663,68.0951314 13.5962791,65.8971429 4.53648349,52.4039589 C-2.10997256,42.5053577 -0.768614651,26.5276389 7.0679407,16.5253029 C20.1819767,-0.212571429 46.5247674,-3.82628571 71.592907,5.31428571 Z",
                                 id: "Path",
                                 fill: "url(#linearGradient-8)"
                               }
@@ -71129,7 +71003,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M171,45 C169.05492,30.564 141.264,30.19932 122.5998,27.68328 L154.99296,62.66124 C166.3794,59.12604 172.1808,53.7624 171,45 Z",
+                                  "M201.819767,53.1428571 C199.524121,36.0946286 166.724372,35.6639589 144.696276,32.6926354 L182.927738,73.9999406 C196.366385,69.8250377 203.213386,63.4908343 201.819767,53.1428571 Z",
                                 id: "Path",
                                 fill: "url(#linearGradient-9)"
                               }
@@ -71138,7 +71012,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M160.51284,60.60132 L124.90452,27.9792 C121.40208,27.55044 118.15344,27.07164 115.36452,26.44884 L115.3638,26.44884 L148.10544,64.43892 C149.38308,64.1646 150.66,63.86976 151.92,63.54 C155.1744,62.68824 158.04468,61.71768 160.51284,60.60132 Z",
+                                  "M189.44248,71.5672731 L147.416381,33.0421029 C143.282687,32.5357577 139.448537,31.9703177 136.156963,31.2348206 L136.156113,31.2348206 L174.798862,76.099296 C176.306775,75.7753371 177.813837,75.4271451 179.30093,75.0377143 C183.141879,74.0318263 186.529477,72.8856411 189.44248,71.5672731 Z",
                                 id: "Path",
                                 fill: "#3369FF"
                               }
@@ -71149,7 +71023,7 @@ var render = function() {
                                 id: "Path",
                                 fill: "url(#linearGradient-10)",
                                 points:
-                                  "144.42084 45.18036 133.77996 45.18036 142.53048 54.84024 155.00484 54.84024"
+                                  "170.450177 53.3558537 157.891464 53.3558537 168.219113 64.763712 182.941759 64.763712"
                               }
                             }),
                             _vm._v(" "),
@@ -71158,14 +71032,14 @@ var render = function() {
                                 id: "Path",
                                 fill: "url(#linearGradient-11)",
                                 points:
-                                  "133.128 44.46036 143.63208 44.46036 134.72172 36.32832 125.76168 36.32832"
+                                  "157.122 52.505568 169.519257 52.505568 159.00296 42.902016 148.428029 42.902016"
                               }
                             }),
                             _vm._v(" "),
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M143.50896,55.92024 L150.69096,63.84888 L150.69096,63.84888 C151.10208,63.7488 151.51212,63.64656 151.92,63.54 C155.412,62.62596 158.46156,61.57476 161.04672,60.354 L156.18852,55.92024 L143.50896,55.92024 Z",
+                                  "M169.373947,66.0391406 L177.850377,75.4024869 L177.850377,75.4024869 C178.335594,75.2842971 178.819537,75.1635566 179.30093,75.0377143 C183.422302,73.9582766 187.021492,72.7168594 190.072582,71.2752 L184.338777,66.0391406 L169.373947,66.0391406 Z",
                                 id: "Path",
                                 fill: "url(#linearGradient-12)"
                               }
@@ -71174,7 +71048,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M125.10936,35.60832 L133.9326,35.60832 L125.67528,28.07208 C122.60772,27.70596 119.72016,27.30816 117.14544,26.8164 L117.14544,26.8164 L125.10936,35.60832 Z",
+                                  "M147.65814,42.0517303 L158.071615,42.0517303 L148.326057,33.1517897 C144.705623,32.7194194 141.297631,32.2496366 138.258862,31.6688914 L138.258862,31.6688914 L147.65814,42.0517303 Z",
                                 id: "Path",
                                 fill: "url(#linearGradient-13)"
                               }
@@ -71183,7 +71057,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M118.62,70.74 C107.16696,73.2366 91.09692,72.25704 85.32,71.82 C79.54308,71.38296 60.57,69.21 59.22,76.68 C58.16196,82.53612 66.42,87.75 79.74,88.02 C95.63256,88.3422 115.51788,81.57096 130.04496,83.81988 C127.5048,79.93008 123.9948,76.71744 126,72.54 C126.59904,71.29188 127.63152,70.29792 128.98764,69.4764 C126.14688,69.47676 122.73228,69.8436 118.62,70.74 Z",
+                                  "M139.999186,83.5405714 C126.481935,86.4889371 107.515551,85.3321234 100.697442,84.816 C93.8793328,84.2998766 71.486686,81.7337143 69.8933721,90.5554286 C68.6446388,97.4712274 78.3910465,103.628571 94.1117442,103.947429 C112.868661,104.327931 136.337963,96.3314194 153.483296,98.9872869 C150.485316,94.3936183 146.3427,90.5996434 148.709302,85.6662857 C149.416309,84.1923154 150.634875,83.018496 152.235412,82.04832 C148.882655,82.0487451 144.852633,82.4819657 139.999186,83.5405714 Z",
                                 id: "Path",
                                 fill: "url(#radialGradient-14)",
                                 opacity: "0.4"
@@ -71193,7 +71067,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M43.011,64.26612 C43.5888,64.40112 44.0676,64.69812 44.35956,65.10204 C44.65152,65.5056 44.72136,65.96856 44.55648,66.40488 L43.97904,67.93308 L46.05516,68.41872 L46.63296,66.89052 C46.9332,66.09672 46.83132,65.25936 46.35828,64.50948 C46.43388,64.44828 46.51128,64.38744 46.58616,64.32552 C46.92816,64.04076 47.26044,63.74808 47.58372,63.44748 C48.22956,62.84484 48.84048,62.20872 49.40892,61.53084 C50.5386,60.17508 51.525,58.64832 52.0866,56.86488 C52.36128,55.9854 52.54416,54.96444 52.4124,53.87004 C52.28892,52.77816 51.78924,51.58692 50.90544,50.63364 C50.57712,50.27328 50.20776,49.95144 49.81104,49.66812 C51.97608,46.61136 53.56872,44.31672 53.75988,43.92036 C54.54,42.30072 52.56,41.76036 52.56,41.76036 L41.87988,41.76036 L19.83276,56.4858 C23.69916,57.72636 27.64152,58.27176 31.41,58.68036 C36.46728,59.22828 39.13704,60.74064 40.40964,62.79984 C42.51528,59.87736 45.03708,56.3688 47.32308,53.16588 C47.34036,53.17992 47.36088,53.19216 47.3778,53.2062 C47.6874,53.46972 47.91024,53.80776 48.03084,54.2754 C48.14856,54.74628 48.14424,55.30572 48.02004,55.94112 C47.77884,57.1986 47.16072,58.48812 46.33884,59.7024 C45.927,60.31116 45.46404,60.9048 44.96184,61.47576 C44.71092,61.76124 44.44992,62.04168 44.18136,62.31384 L43.77276,62.71524 C43.7652,62.7228 43.75656,62.73036 43.74864,62.73792 C43.70004,62.72532 43.65288,62.70984 43.60356,62.69832 C42.50952,62.44272 41.39604,62.52804 40.44888,62.86788 C40.75092,63.37116 40.97232,63.90684 41.1246,64.46844 C41.65812,64.2006 42.34356,64.11024 43.011,64.26612 Z",
+                                  "M50.7629826,75.8952274 C51.4449209,76.054656 52.0100163,76.4053989 52.354597,76.8824091 C52.6991777,77.3589943 52.7816051,77.905728 52.5870084,78.4210011 L51.9054949,80.2257326 L54.3557993,80.7992503 L55.0377377,78.9945189 C55.3920907,78.0570789 55.2718486,77.0681966 54.7135514,76.182624 C54.802777,76.1103497 54.894127,76.0385006 54.9825028,75.965376 C55.3861423,75.629088 55.77831,75.2834469 56.1598556,74.9284526 C56.922097,74.2167634 57.6431247,73.465536 58.314016,72.664992 C59.6473012,71.063904 60.8114826,69.2608731 61.4743012,67.1547154 C61.7984874,66.1160914 62.0143284,64.9103863 61.8588209,63.617952 C61.7130858,62.3284937 61.1233472,60.921696 60.0802577,59.7959177 C59.6927637,59.3703497 59.256833,58.990272 58.7886112,58.6556846 C61.3438619,55.0457966 63.2235474,52.335936 63.4491607,51.8678537 C64.3698837,49.955136 62.0330233,49.3169966 62.0330233,49.3169966 L49.4279979,49.3169966 L23.4072691,66.70704 C27.9705202,68.1720823 32.6234219,68.8161737 37.0711047,69.2987109 C43.0398712,69.9457783 46.1908088,71.7318034 47.6927728,74.1636206 C50.1779177,70.7123109 53.1542281,66.5688686 55.8522398,62.7863726 C55.8726342,62.8029531 55.8968526,62.817408 55.9168221,62.8339886 C56.2822221,63.1451931 56.5452251,63.5444023 56.6875612,64.0966629 C56.8264981,64.6527497 56.8213995,65.3134217 56.6748147,66.0637989 C56.3901426,67.5488229 55.6606172,69.0716846 54.6906077,70.5056914 C54.2045407,71.224608 53.6581402,71.9256686 53.0654274,72.5999451 C52.7692835,72.9370834 52.4612428,73.2682697 52.1442795,73.5896777 L51.6620365,74.063712 C51.653114,74.07264 51.6429167,74.081568 51.6335693,74.090496 C51.57621,74.075616 51.5205502,74.0573349 51.4623412,74.0437303 C50.1711195,73.7418789 48.8569542,73.8426377 47.7390851,74.2439726 C48.0955626,74.8383223 48.356866,75.4709349 48.5365919,76.1341577 C49.1662695,75.8178514 49.9752481,75.7111406 50.7629826,75.8952274 Z",
                                 id: "Path",
                                 fill: "url(#radialGradient-15)",
                                 opacity: "0.4"
@@ -71208,14 +71082,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "background_x5F_1_1_",
-                            transform: "translate(34.920000, 12.240000)"
+                            transform: "translate(41.000000, 14.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.36012,9.60012 C35.44956,2.09016 58.70268,-2.40624 76.86,1.62 C97.56,6.21 107.91,16.65 129.06,15.12 C146.72808,13.842 180,14.4 192.42,16.02 C204.84,17.64 229.08024,19.8 229.140099,40.68 C229.1814,55.19988 216.2466,57.77424 209.88,61.02 C202.53096,64.76652 193.91976,67.05 193.91976,75.78 C193.91976,82.8 201.64608,85.8726 206.28,89.46 C211.86,93.78 219.14784,99.59832 215.99964,109.98 C213.65892,117.69876 205.6248,123.90588 197.27496,124.50384 C193.74768,124.75656 181.20636,126.51516 166.8348,120.41172 C158.51952,116.88012 151.31952,109.32012 148.76964,102.42 C143.70696,88.7202 143.12088,90.855 136.07964,91.98 C118.6596,94.76316 108.71964,102.87 98.99964,114.84 C89.271,126.82044 77.46228,137.7792 62.45964,137.34 C44.00964,136.8 44.66412,119.95704 36.71964,110.34 C26.45964,97.92 3.67488,87.32952 0.59976,56.76012 C-1.44,36.47988 5.4,22.43988 24.36012,9.60012 Z",
+                                "M28.8084897,11.3392722 C41.9229579,2.46881217 69.4222998,-2.84215304 90.8953043,1.91347826 C115.375304,7.335 127.615304,19.6663043 152.627478,17.8591304 C173.521903,16.3496087 212.869565,17.0086957 227.557565,18.9221739 C242.245565,20.8356522 270.912284,23.3869565 270.983074,48.0495652 C271.031917,65.1998583 255.73511,68.2405878 248.205913,72.0743478 C239.514874,76.4995852 229.331194,79.1967391 229.331194,89.5082609 C229.331194,97.8 238.468408,101.42923 243.948522,105.666522 C250.547478,110.76913 259.166141,117.641494 255.443053,129.903913 C252.674897,139.020999 243.173677,146.352597 233.299083,147.058883 C229.127691,147.357386 214.296217,149.434573 197.300285,142.225437 C187.466563,138.054055 178.95178,129.12449 175.93627,120.974348 C169.949101,104.7927 169.255997,107.314239 160.928966,108.643043 C140.327875,111.930399 128.572792,121.50587 117.077835,135.644348 C105.572661,149.795157 91.6075659,162.7392 73.8653134,162.220435 C52.046183,161.582609 52.8201767,141.688388 43.4249656,130.32913 C31.2914003,115.65913 4.34594504,103.150085 0.709281391,67.0427504 C-1.70295652,43.0885539 6.38608696,26.5050757 28.8084897,11.3392722 Z",
                               id: "Path",
                               fill: "url(#linearGradient-16)"
                             }
@@ -71226,14 +71100,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(98.280000, 9.000000)"
+                                transform: "translate(116.226783, 10.630435)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M12.45024,17.64 C18.95472,17.64 24.282,12.61404 24.7698,6.23412 C15.69168,5.9148 8.55108,3.32172 1.12464,0.32868 C0.4608,1.845 0.09,3.51864 0.09,5.27976 C0.09,12.10608 5.62356,17.64 12.45024,17.64 Z",
+                                    "M14.7237621,20.8356522 C22.4160167,20.8356522 28.7161043,14.8991922 29.2929809,7.36348957 C18.5571172,6.98632174 10.1125816,3.92348087 1.33000904,0.388223478 C0.544946087,2.17923913 0.106434783,4.15607478 0.106434783,6.23623826 C0.106434783,14.2992104 6.65047096,20.8356522 14.7237621,20.8356522 Z",
                                   id: "Path",
                                   fill: "url(#radialGradient-17)"
                                 }
@@ -71242,7 +71116,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M12.45024,13.32 C16.68096,13.32 20.14596,10.0512 20.46384,5.90184 C14.89392,5.23764 9.99648,3.73176 5.15232,1.90584 C4.67712,2.9322 4.41,4.07448 4.41,5.27976 C4.41,9.72036 8.00964,13.32 12.45024,13.32 Z",
+                                    "M14.7237621,15.7330435 C19.7270483,15.7330435 23.8247875,11.8720696 24.2007151,6.97101391 C17.6136793,6.18648783 11.8219242,4.40780348 6.09317843,2.25110087 C5.53120278,3.46339565 5.21530435,4.81261043 5.21530435,6.23623826 C5.21530435,11.4812948 9.47226991,15.7330435 14.7237621,15.7330435 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-18)"
                                 }
@@ -71251,7 +71125,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M9.75024,5.94 C10.79712,5.94 11.66112,5.14692 11.77596,4.13028 C11.65572,4.09608 11.53692,4.059 11.4174,4.02408 C11.3526,4.89168 10.63368,5.58 9.75024,5.58 C8.82396,5.58 8.07012,4.82652 8.07012,3.89988 C8.07012,3.58488 8.16264,3.29364 8.31384,3.04128 C8.19612,3.00132 8.0784,2.96136 7.96104,2.92104 C7.8012,3.21192 7.71012,3.54528 7.71012,3.89988 C7.71012,5.02488 8.62524,5.94 9.75024,5.94 Z",
+                                    "M11.5307186,7.01608696 C12.768768,7.01608696 13.7905419,6.07933304 13.9263527,4.87851913 C13.7841558,4.83812348 13.6436619,4.79432609 13.5023165,4.75308 C13.4256835,5.77785391 12.5754824,6.59086957 11.5307186,6.59086957 C10.4352918,6.59086957 9.54379409,5.70088957 9.54379409,4.60638 C9.54379409,4.23431478 9.65320904,3.89031391 9.83201948,3.59223652 C9.69280278,3.54503739 9.55358609,3.49783826 9.41479513,3.45021391 C9.22576696,3.79378957 9.11805496,4.18754087 9.11805496,4.60638 C9.11805496,5.93518435 10.2002838,7.01608696 11.5307186,7.01608696 Z",
                                   id: "Path",
                                   fill: "#CFDBA8"
                                 }
@@ -71260,7 +71134,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M15.64236,10.76076 C14.87664,10.76076 14.22576,10.43244 13.85676,9.86004 C13.20732,8.85204 13.65768,7.4016 14.86008,6.62652 C15.34644,6.31332 15.8904,6.14772 16.43364,6.14772 C17.19972,6.14772 17.8506,6.47604 18.21924,7.0488 C18.86868,8.0568 18.41868,9.50724 17.21592,10.28196 C16.72956,10.59552 16.18524,10.76076 15.64236,10.76076 Z M16.43328,6.50772 C15.95952,6.50772 15.48288,6.65352 15.05484,6.92892 C14.01912,7.59636 13.617,8.8236 14.15916,9.66456 C14.46048,10.1322 15.00084,10.4004 15.642,10.4004 C16.11576,10.4004 16.59276,10.2546 17.02044,9.9792 C18.05616,9.31176 18.45828,8.08452 17.91612,7.24356 C17.61516,6.77592 17.0748,6.50772 16.43328,6.50772 Z",
+                                    "M18.498791,12.710173 C17.5932438,12.710173 16.8235075,12.3223748 16.3871249,11.6462791 C15.6190915,10.4556704 16.1516911,8.74246957 17.5736598,7.82697652 C18.1488334,7.45703739 18.7921252,7.26143739 19.4345656,7.26143739 C20.3405384,7.26143739 21.1102748,7.64923565 21.5462317,8.32575652 C22.314265,9.51636522 21.7820911,11.2295661 20.3596967,12.1446339 C19.7845231,12.5149983 19.1408056,12.710173 18.498791,12.710173 Z M19.4341398,7.68665478 C18.8738671,7.68665478 18.3101885,7.85886783 17.8039847,8.18415913 C16.5791332,8.97251217 16.1035826,10.4220783 16.7447457,11.4153861 C17.1010894,11.9677435 17.7401238,12.2845304 18.4983652,12.2845304 C19.0586379,12.2845304 19.6227423,12.1123174 20.1285203,11.7870261 C21.3533718,10.998673 21.8289224,9.54910696 21.1877593,8.55579913 C20.8318414,8.00344174 20.192807,7.68665478 19.4341398,7.68665478 Z",
                                   id: "Shape",
                                   fill: "#FDE1A7"
                                 }
@@ -71269,7 +71143,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M7.14132,11.36844 L6.92892,11.07756 C7.36992,10.75536 7.623,10.26216 7.623,9.7236 C7.623,8.79732 6.86916,8.04348 5.94288,8.04348 C5.62572,8.04348 5.3136,8.136 5.04036,8.31096 L4.84632,8.00784 C5.17752,7.7958 5.55696,7.68348 5.94288,7.68348 C7.06788,7.68348 7.983,8.5986 7.983,9.7236 C7.983,10.37844 7.67628,10.97784 7.14132,11.36844 Z",
+                                    "M8.44538713,13.42794 L8.19420104,13.0843643 C8.71573148,12.7037948 9.01502609,12.121247 9.01502609,11.4851217 C9.01502609,10.3910374 8.12352835,9.50063217 7.02810157,9.50063217 C6.65302539,9.50063217 6.28390957,9.60991304 5.96077357,9.8165687 L5.73130017,9.45853565 C6.12298017,9.20808261 6.57170922,9.07541478 7.02810157,9.07541478 C8.35853635,9.07541478 9.44076522,10.1563174 9.44076522,11.4851217 C9.44076522,12.2585922 9.07803548,12.9665791 8.44538713,13.42794 Z",
                                   id: "Path",
                                   fill: "#D5DCA8"
                                 }
@@ -71280,7 +71154,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M31.86,8.28 L26.4906,8.28 C25.73964,8.7084 25.02648,9.14868 24.35976,9.60012 C10.39572,19.05696 3.01284,29.16792 0.90324,41.94 L31.86,41.94 L31.86,8.28 Z",
+                                "M37.677913,9.78 L31.3280139,9.78 C30.4399221,10.2860087 29.5965329,10.8060496 28.808064,11.3392722 C12.2940689,22.5093078 3.56301078,34.4519635 1.06817948,49.5378261 L37.677913,49.5378261 L37.677913,9.78 Z",
                               id: "Path",
                               fill: "url(#linearGradient-19)"
                             }
@@ -71289,7 +71163,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M215.99964,100.65816 L215.99964,109.98 C217.09728,106.36092 216.92376,103.29804 215.99964,100.65816 Z",
+                                "M255.443053,118.893334 L255.443053,129.903913 C256.741131,125.629203 256.535925,122.011453 255.443053,118.893334 Z",
                               id: "Path",
                               fill: "url(#linearGradient-20)"
                             }
@@ -71298,7 +71172,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M37.62,17.82 L37.62,3.66444 C32.3784,5.247 27.78732,7.2792 24.36012,9.60012 C18.0504,13.87332 13.08996,18.28116 9.3456,23.0058 L33.66,21.78 C35.847,21.78 37.62,20.007 37.62,17.82 Z",
+                                "M44.4897391,21.0482609 L44.4897391,4.32828783 C38.2909774,6.19754348 32.8615263,8.59789565 28.8084897,11.3392722 C21.34656,16.3866026 15.4803005,21.5929643 11.0521878,27.1735174 L39.8066087,25.7256522 C42.3929739,25.7256522 44.4897391,23.6314565 44.4897391,21.0482609 Z",
                               id: "Path",
                               fill: "url(#linearGradient-21)"
                             }
@@ -71307,7 +71181,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M34.31988,15.95988 L34.31988,4.75308 C30.45096,6.14052 27.04608,7.78068 24.35976,9.59976 C20.21148,12.4092 16.64352,15.27588 13.62168,18.25272 L32.51988,17.75952 C33.5142,17.75988 34.31988,16.9542 34.31988,15.95988 Z",
+                                "M40.5869885,18.8511626 L40.5869885,5.61414522 C36.0115701,7.25293304 31.9849294,9.19022348 28.808064,11.338847 C23.902272,14.6572435 19.6827715,18.0432496 16.1091172,21.5593722 L38.4582929,20.9768243 C39.6341843,20.9772496 40.5869885,20.025613 40.5869885,18.8511626 Z",
                               id: "Path",
                               fill: "#052D3C"
                             }
@@ -71318,7 +71192,7 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(193.320000, 17.280000)"
+                                transform: "translate(228.621913, 20.410435)"
                               }
                             },
                             [
@@ -71326,7 +71200,7 @@ var render = function() {
                                 "g",
                                 {
                                   attrs: {
-                                    transform: "translate(0.360000, 58.320000)",
+                                    transform: "translate(0.425739, 68.885217)",
                                     id: "Path"
                                   }
                                 },
@@ -71334,7 +71208,7 @@ var render = function() {
                                   _c("path", {
                                     attrs: {
                                       d:
-                                        "M12.6,13.86 C7.96608,10.2726 0.23976,7.2 0.23976,0.18 L0.23976,49.17564 C1.71036,49.07664 2.85408,48.95712 3.59496,48.90384 C11.94444,48.30588 19.97892,42.09912 22.31964,34.38 L22.31964,25.05816 C20.592,20.12544 16.23492,16.67412 12.6,13.86 Z",
+                                        "M14.9008696,16.3708696 C9.42075548,12.1335783 0.283542261,8.50434783 0.283542261,0.212608696 L0.283542261,58.0842704 C2.02268661,57.9673357 3.37525983,57.8261635 4.25143096,57.7632313 C14.1255986,57.0569452 23.6272445,49.7257722 26.3954003,40.6082609 L26.3954003,29.5976817 C24.3522783,23.771353 19.1995576,19.6947939 14.9008696,16.3708696 Z",
                                       fill: "url(#linearGradient-22)"
                                     }
                                   }),
@@ -71342,7 +71216,7 @@ var render = function() {
                                   _c("path", {
                                     attrs: {
                                       d:
-                                        "M6.21,19.3392 L6.21,48.53052 C13.56948,46.98072 20.22516,41.28768 22.31964,34.37964 C25.101,25.20792 19.73736,19.59912 14.60196,15.43716 L8.73,16.81884 C7.33824,16.8192 6.21,17.94744 6.21,19.3392 Z",
+                                        "M7.344,22.8426783 L7.344,57.3222809 C16.047385,55.49172 23.9184501,48.7673322 26.3954003,40.6078357 C29.6846609,29.7745722 23.3415736,23.1496852 17.2684049,18.233747 L10.3241739,19.8657313 C8.67826643,19.8661565 7.344,21.1987878 7.344,22.8426783 Z",
                                       fill: "url(#linearGradient-23)"
                                     }
                                   }),
@@ -71350,7 +71224,7 @@ var render = function() {
                                   _c("path", {
                                     attrs: {
                                       d:
-                                        "M7.29,19.3392 C7.29,18.54504 7.93584,17.8992 8.73,17.8992 L8.85564,17.8992 L15.64308,16.30188 C14.9364,15.69996 14.22396,15.12792 13.52628,14.58108 L8.59392,15.74172 C6.67152,15.81372 5.13,17.39952 5.13,19.3392 L5.13,48.73032 C5.85648,48.61872 6.5772,48.46428 7.29,48.27312 L7.29,19.3392 L7.29,19.3392 Z",
+                                        "M8.62121739,22.8426783 C8.62121739,21.9046487 9.38499339,21.1418087 10.3241739,21.1418087 L10.4727569,21.1418087 L18.4996424,19.2551191 C17.6639165,18.5441557 16.8213788,17.8684852 15.9962963,17.22258 L10.1632445,18.5934809 C7.88979757,18.6785243 6.06678261,20.551607 6.06678261,22.8426783 L6.06678261,57.5582765 C6.92592417,57.4264591 7.77825391,57.2440409 8.62121739,57.0182504 L8.62121739,22.8426783 L8.62121739,22.8426783 Z",
                                       fill: "#3369FF"
                                     }
                                   })
@@ -71361,7 +71235,7 @@ var render = function() {
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M24.17976,4.84848 L24.17976,28.08 L35.3142,28.08 C35.64216,26.6724 35.82504,25.12296 35.8201015,23.4 C35.793,13.932 30.79404,8.31348 24.17976,4.84848 Z",
+                                      "M28.5951944,5.72682783 L28.5951944,33.1669565 L41.76288,33.1669565 C42.1507283,31.5043565 42.3670038,29.6742209 42.3611635,27.6391304 C42.329113,16.455913 36.4172995,9.81954522 28.5951944,5.72682783 Z",
                                     id: "Path",
                                     fill: "#003451"
                                   }
@@ -71370,7 +71244,7 @@ var render = function() {
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M25.2,28.08 L25.2,5.4108 C20.196,2.53836 14.11092,1.02024 8.51976,0.06264 L8.51976,28.08 L25.2,28.08 Z",
+                                      "M29.8017391,33.1669565 L29.8017391,6.39101739 C23.8839652,2.99820783 16.6876967,1.20506609 10.0755423,0.0739878261 L10.0755423,33.1669565 L29.8017391,33.1669565 Z",
                                     id: "Path",
                                     fill: "url(#linearGradient-24)"
                                   }
@@ -71380,10 +71254,10 @@ var render = function() {
                                   attrs: {
                                     id: "Rectangle",
                                     fill: "#003451",
-                                    x: "4.73976",
-                                    y: "18.42012",
-                                    width: "1.08",
-                                    height: "8.28"
+                                    x: "5.60528139",
+                                    y: "21.7570983",
+                                    width: "1.27721739",
+                                    height: "9.78"
                                   }
                                 }),
                                 _vm._v(" "),
@@ -71391,17 +71265,17 @@ var render = function() {
                                   attrs: {
                                     id: "Rectangle",
                                     fill: "#003451",
-                                    x: "16.38",
-                                    y: "12.42",
-                                    width: "1.08",
-                                    height: "8.28"
+                                    x: "19.3711304",
+                                    y: "14.67",
+                                    width: "1.27721739",
+                                    height: "9.78"
                                   }
                                 }),
                                 _vm._v(" "),
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M22.67964,41.04756 C28.89936,38.27232 35.8506,34.0506 35.8201007,23.4 C35.81244,20.64744 35.38044,18.22284 34.61436,16.0794 L22.67964,16.0794 L22.67964,41.04756 L22.67964,41.04756 Z",
+                                      "M26.8211395,48.4837122 C34.1766344,45.2057113 42.3972313,40.219187 42.3611625,27.6391304 C42.352103,24.3879183 41.841216,21.5240791 40.9352431,18.9923348 L26.8211395,18.9923348 L26.8211395,48.4837122 L26.8211395,48.4837122 Z",
                                     id: "Path",
                                     fill: "#003451"
                                   }
@@ -71410,7 +71284,7 @@ var render = function() {
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M0.59976,27.2394 L0.59976,58.5 C0.59976,49.77 9.21096,47.48652 16.56,43.74 C18.25632,42.87528 20.42028,42.05592 22.67964,41.04756 L22.67964,16.07904 L0.59976,27.2394 Z",
+                                      "M0.709281391,32.1740739 L0.709281391,69.0978261 C0.709281391,58.7863043 10.8929614,56.0891504 19.584,51.663913 C21.5900828,50.6425409 24.1492007,49.6747461 26.8211395,48.4837122 L26.8211395,18.9919096 L0.709281391,32.1740739 Z",
                                     id: "Path",
                                     fill: "url(#linearGradient-25)"
                                   }
@@ -71421,7 +71295,7 @@ var render = function() {
                                     id: "Path",
                                     fill: "url(#linearGradient-26)",
                                     points:
-                                      "0.59976 29.7 22.67964 18.54 22.67964 16.0794 0.59976 27.2394"
+                                      "0.709281391 35.0804348 26.8211395 21.8986957 26.8211395 18.9923348 0.709281391 32.1740739"
                                   }
                                 }),
                                 _vm._v(" "),
@@ -71429,14 +71303,14 @@ var render = function() {
                                   "g",
                                   {
                                     attrs: {
-                                      transform: "translate(0.000000, 4.320000)"
+                                      transform: "translate(0.000000, 5.102609)"
                                     }
                                   },
                                   [
                                     _c("path", {
                                       attrs: {
                                         d:
-                                          "M0.99,15.705 C0.99,16.10244 1.035,17.1 1.71,16.83 L19.53,8.19 C20.05488,7.98012 20.25,7.46244 20.25,7.065 L20.25,1.71 C20.25,1.31256 19.91988,0.87012 19.53,0.99 L1.71,9.63 C1.19232,9.92268 0.99,10.49256 0.99,10.89 L0.99,15.705 Z",
+                                          "M1.17078261,18.5501087 C1.17078261,19.0195487 1.224,20.1978261 2.02226087,19.878913 L23.0963478,9.67369565 C23.7170755,9.42579391 23.9478261,8.8143313 23.9478261,8.3448913 L23.9478261,2.01978261 C23.9478261,1.55034261 23.5574233,1.02775043 23.0963478,1.16934783 L2.02226087,11.3745652 C1.410048,11.720267 1.17078261,12.3933861 1.17078261,12.8628261 L1.17078261,18.5501087 Z",
                                         id: "Path",
                                         fill: "url(#linearGradient-27)"
                                       }
@@ -71445,7 +71319,7 @@ var render = function() {
                                     _c("path", {
                                       attrs: {
                                         d:
-                                          "M1.49904,17.59572 C1.49868,17.59572 1.49868,17.59572 1.49904,17.59572 C1.12932,17.59572 0.27,17.4114 0.27,15.705 L0.27,10.89 C0.27,10.30284 0.5544,9.45612 1.35576,9.00324 L1.39608,8.982 L19.26576,0.31824 L19.31832,0.30204 C19.43028,0.26748 19.54548,0.2502 19.66068,0.2502 C20.44404,0.2502 20.97036,1.00512 20.97036,1.71036 L20.97036,7.06536 C20.97036,7.67016 20.6694,8.49564 19.82412,8.84808 L1.97784,17.49888 C1.8162,17.56296 1.65528,17.59572 1.49904,17.59572 Z M2.0484,10.26612 C1.80072,10.4166 1.71,10.71972 1.71,10.89 L1.71,15.705 C1.71,15.83532 1.71612,15.94008 1.72476,16.02252 L19.26252,7.52148 C19.5228,7.41744 19.53,7.10064 19.53,7.065 L19.53,1.79028 L2.0484,10.26612 Z",
+                                          "M1.77277774,20.7833504 C1.772352,20.7833504 1.772352,20.7833504 1.77277774,20.7833504 C1.33554365,20.7833504 0.319304348,20.5656391 0.319304348,18.5501087 L0.319304348,12.8628261 C0.319304348,12.1692965 0.655638261,11.1691852 1.60333357,10.6342617 L1.65101635,10.6091739 L22.7838553,0.375892174 L22.8460132,0.356757391 C22.9784181,0.315936522 23.1146546,0.295526087 23.2508911,0.295526087 C24.1772995,0.295526087 24.7997301,1.18720696 24.7997301,2.02020783 L24.7997301,8.34531652 C24.7997301,9.05968174 24.4438122,10.0347052 23.4441767,10.450993 L2.33901078,20.668967 C2.14785391,20.7446557 1.95754852,20.7833504 1.77277774,20.7833504 Z M2.42245565,12.1259243 C2.12954713,12.3036652 2.02226087,12.6616983 2.02226087,12.8628261 L2.02226087,18.5501087 C2.02226087,18.7040374 2.02949843,18.8277757 2.03971617,18.9251504 L22.7800237,8.88406696 C23.087833,8.76117913 23.0963478,8.38698783 23.0963478,8.3448913 L23.0963478,2.11460609 L2.42245565,12.1259243 Z",
                                         id: "Shape",
                                         fill: "url(#linearGradient-28)"
                                       }
@@ -71456,7 +71330,7 @@ var render = function() {
                                 _c("path", {
                                   attrs: {
                                     d:
-                                      "M22.67964,16.0794 L22.67964,18.54 L35.31384,18.54 C35.12808,17.68068 34.89408,16.86096 34.61472,16.0794 L22.67964,16.0794 Z",
+                                      "M26.8211395,18.9923348 L26.8211395,21.8986957 L41.7624543,21.8986957 C41.5427729,20.8837017 41.2660424,19.9154817 40.9356689,18.9923348 L26.8211395,18.9923348 Z",
                                     id: "Path",
                                     fill: "url(#linearGradient-29)"
                                   }
@@ -71467,7 +71341,7 @@ var render = function() {
                                   {
                                     attrs: {
                                       transform:
-                                        "translate(11.520000, 25.920000)",
+                                        "translate(13.623652, 30.615652)",
                                       id: "Path"
                                     }
                                   },
@@ -71475,7 +71349,7 @@ var render = function() {
                                     _c("path", {
                                       attrs: {
                                         d:
-                                          "M7.2,1.17 L1.8,3.69 C1.40256,3.69 1.08,4.01256 1.08,4.41 L1.08,19.71288 C2.40336,19.09836 3.74148,18.48204 5.04,17.82 C5.89644,17.38368 6.87384,16.95852 7.92,16.51536 L7.92,1.89 C7.92,1.49256 7.59744,1.17 7.2,1.17 Z",
+                                          "M8.51478261,1.38195652 L2.12869565,4.35847826 C1.65867965,4.35847826 1.27721739,4.73947304 1.27721739,5.20891304 L1.27721739,23.2840539 C2.84223443,22.5582078 4.42470678,21.8302357 5.96034783,21.0482609 C6.97318122,20.5328974 8.12906296,20.0307157 9.36626087,19.507273 L9.36626087,2.2323913 C9.36626087,1.7629513 8.98479861,1.38195652 8.51478261,1.38195652 Z",
                                         fill: "url(#linearGradient-30)"
                                       }
                                     }),
@@ -71484,14 +71358,14 @@ var render = function() {
                                       attrs: {
                                         fill: "url(#linearGradient-31)",
                                         points:
-                                          "7.92 9.11484 1.08 11.64024 1.08 12.79188 7.92 10.26612"
+                                          "9.36626087 10.7660791 1.27721739 13.7489791 1.27721739 15.1092496 9.36626087 12.1259243"
                                       }
                                     }),
                                     _vm._v(" "),
                                     _c("path", {
                                       attrs: {
                                         d:
-                                          "M7.2,0.27 L7.0002,0.27 L1.56312,2.80728 C0.78156,2.92212 0.17964,3.59712 0.17964,4.41 L0.17964,20.13228 C0.77544,19.85292 1.37736,19.575 1.97964,19.29456 L1.97964,4.59 L7.01964,2.24712 L7.01964,16.90056 C7.5942,16.65108 8.19792,16.39728 8.81964013,16.13556 L8.81964013,1.89 C8.82,0.99684 8.09316,0.27 7.2,0.27 Z",
+                                          "M8.51478261,0.318913043 L8.27849739,0.318913043 L1.8485593,3.31584522 C0.924279652,3.45148957 0.212443826,4.24877217 0.212443826,5.20891304 L0.212443826,23.7794322 C0.917042087,23.4494635 1.62887791,23.1211957 2.34113948,22.7899513 L2.34113948,5.42152174 L8.3014873,2.65420696 L8.3014873,19.9622557 C8.98096696,19.66758 9.69493148,19.3678017 10.4301831,19.0586687 L10.4301831,2.2323913 C10.4306087,1.17742696 9.57104139,0.318913043 8.51478261,0.318913043 Z",
                                         fill: "url(#linearGradient-32)"
                                       }
                                     })
@@ -71508,14 +71382,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "robot_x5F_arm_x5F_2",
-                            transform: "translate(95.400000, 190.800000)"
+                            transform: "translate(113.000000, 226.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M2.45556,17.74656 L1.86804,15.66864 L3.72996,15.14196 C4.78044,14.84496 5.39424,13.7484 5.09688,12.69756 C4.79988,11.64708 3.7044,11.03364 2.65248,11.33064 L0.8136,11.8512 L0.22536,9.77292 L2.06496,9.252 C4.26384,8.63136 6.55452,9.91404 7.17588,12.11004 C7.79652,14.30748 6.5142,16.59924 4.31784,17.21988 L2.45556,17.74656 Z",
+                                "M2.93082968,20.70432 L2.22959613,18.28008 L4.45188774,17.66562 C5.70568645,17.31912 6.43828645,16.0398 6.0833729,14.81382 C5.72888903,13.58826 4.42138065,12.87258 3.16586323,13.21908 L0.971070968,13.8264 L0.268978065,11.40174 L2.46462968,10.794 C5.08909935,10.06992 7.82313677,11.56638 8.56476,14.12838 C9.30552387,16.69206 7.7750129,19.36578 5.15355097,20.08986 L2.93082968,20.70432 Z",
                               id: "Path",
                               fill: "url(#linearGradient-33)"
                             }
@@ -71524,7 +71398,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M27.46548,0.1728 C24.05556,2.58804 20.57904,4.89204 16.98552,6.89904 C15.19092,7.8948 11.268,10.1016 8.84988,10.55988 C8.09568,10.70244 7.00236,10.72548 6.36768,10.64052 L6.36768,10.6416 C5.99364,11.09916 5.83452,13.3812 7.13412,14.25024 C7.28388,14.25852 7.4322,14.265 7.57728,14.26644 C8.24112,14.27112 8.8632,14.2074 9.46404,14.1156 C10.66212,13.92624 11.77344,13.6188 12.8502,13.26816 C14.99832,12.55824 17.0082,11.6676 18.97128,10.71504 C22.88628,8.79768 26.60472,6.60816 30.23676,4.32072 L27.46548,0.1728 Z",
+                                "M32.7813794,0.2016 C28.7114748,3.01938 24.56208,5.70738 20.27304,8.04888 C18.1310981,9.2106 13.4489032,11.7852 10.56276,12.31986 C9.66258581,12.48618 8.35765548,12.51306 7.60013419,12.41394 L7.60013419,12.4152 C7.15369935,12.94902 6.96378194,15.6114 8.51491742,16.62528 C8.69366323,16.63494 8.87069032,16.6425 9.04385032,16.64418 C9.83617548,16.64964 10.5786581,16.5753 11.2957897,16.4682 C12.7257561,16.24728 14.0521703,15.8886 15.3373355,15.47952 C17.9012206,14.65128 20.3001097,13.6122 22.6431406,12.50088 C27.3158826,10.26396 31.7540206,7.70952 36.0890361,5.04084 L32.7813794,0.2016 Z",
                               id: "Path",
                               fill: "url(#linearGradient-34)"
                             }
@@ -71533,7 +71407,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.74204,14.04504 C10.71936,14.04504 10.69668,14.04072 10.67436,14.03208 C10.11708,13.806 9.71712,13.39884 9.48564,12.82212 C9.14652,11.97684 9.25488,10.90044 9.53676,10.27404 C9.57744,10.18332 9.68364,10.14192 9.77472,10.18368 C9.86544,10.22436 9.90576,10.33092 9.86508,10.42164 C9.62028,10.96524 9.52128,11.94408 9.81972,12.6882 C10.0134,13.17096 10.3464,13.5108 10.80936,13.69836 C10.90152,13.7358 10.9458,13.84092 10.90872,13.93272 C10.88064,14.00256 10.81296,14.04504 10.74204,14.04504 Z",
+                                "M12.8211445,16.38588 C12.7940748,16.38588 12.7670052,16.38084 12.7403652,16.37076 C12.0752245,16.107 11.5978529,15.63198 11.3215703,14.95914 C10.9168142,13.97298 11.0461471,12.71718 11.3825845,11.98638 C11.4311381,11.88054 11.5578929,11.83224 11.6666013,11.88096 C11.77488,11.92842 11.8230039,12.05274 11.7744503,12.15858 C11.4822697,12.79278 11.3641084,13.93476 11.720311,14.8029 C11.9514774,15.36612 12.348929,15.7626 12.9014942,15.98142 C13.0114916,16.0251 13.0643419,16.14774 13.0200852,16.25484 C12.9865703,16.33632 12.905791,16.38588 12.8211445,16.38588 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71542,7 +71416,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M14.40864,12.8934 C14.37444,12.8934 14.33988,12.88368 14.30928,12.86316 C13.57704,12.37608 13.11372,11.59884 13.00464,10.67436 C12.90708,9.85068 13.10616,8.98812 13.48812,8.57736 C13.55544,8.50392 13.66956,8.4996 13.74264,8.568 C13.81536,8.63568 13.81968,8.74944 13.752,8.82216 C13.49244,9.10152 13.2678,9.83124 13.36212,10.63224 C13.43052,11.21076 13.68504,12.01572 14.50872,12.56364 C14.59152,12.61836 14.61384,12.73032 14.55912,12.81312 C14.5242,12.86532 14.46696,12.8934 14.40864,12.8934 Z",
+                                "M17.197409,15.0423 C17.1565897,15.0423 17.1153406,15.03096 17.0788181,15.00702 C16.2048542,14.43876 15.6518594,13.53198 15.5216671,12.45342 C15.4052245,11.49246 15.6428361,10.48614 16.0987239,10.00692 C16.1790735,9.92124 16.3152813,9.9162 16.4025058,9.996 C16.4893006,10.07496 16.4944568,10.20768 16.4136774,10.29252 C16.10388,10.61844 15.8357613,11.46978 15.9483368,12.40428 C16.0299755,13.07922 16.3337574,14.01834 17.3168594,14.65758 C17.4156852,14.72142 17.4423252,14.85204 17.3770142,14.94864 C17.3353355,15.00954 17.2670168,15.0423 17.197409,15.0423 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71555,14 +71429,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "robot_x5F_body",
-                            transform: "translate(111.600000, 182.160000)"
+                            transform: "translate(132.000000, 215.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.65812,14.74236 L46.845,4.095 C46.70064,3.39444 46.48536,2.81376 46.20564,2.33532 C45.26352,0.72468 43.59132,0.27 41.445,0.27 L24.23988,0.27 C21.45636,0.27 21.465,0.765 16.758,3.76236 L2.23092,13.51044 L32.65812,14.74236 Z",
+                                "M38.7815175,17.19942 L55.6284375,4.7775 C55.45701,3.96018 55.201365,3.28272 54.8691975,2.72454 C53.75043,0.84546 51.7646925,0.315 49.2159375,0.315 L28.7848575,0.315 C25.4794275,0.315 25.4896875,0.8925 19.900125,4.38942 L2.6492175,15.76218 L38.7815175,17.19942 Z",
                               id: "Path",
                               fill: "url(#linearGradient-35)"
                             }
@@ -71571,7 +71445,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M45.55764,1.5084 L45.55692,1.50552 L29.43,14.4 L33.57,23.76 L47.91744,9 L46.845,4.095 C46.60416,2.92536 46.16352,2.09268 45.55764,1.5084 Z",
+                                "M54.0996975,1.7598 L54.0988425,1.75644 L34.948125,16.8 L39.864375,27.72 L56.90196,10.5 L55.6284375,4.7775 C55.34244,3.41292 54.81918,2.44146 54.0996975,1.7598 Z",
                               id: "Path",
                               fill: "url(#linearGradient-36)"
                             }
@@ -71580,7 +71454,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M45.46116,9.5238 C44.60184,7.51248 42.27516,6.57864 40.26384,7.43796 L39.76704,7.65 C37.75608,8.50932 36.82224,10.83636 37.6812,12.84732 L39.66444,17.48988 L46.05516,10.9152 L45.46116,9.5238 Z",
+                                "M53.9851275,11.1111 C52.964685,8.76456 50.2017525,7.67508 47.81331,8.67762 L47.22336,8.925 C44.835345,9.92754 43.72641,12.64242 44.746425,14.98854 L47.1015225,20.40486 L54.6905025,12.7344 L53.9851275,11.1111 Z",
                               id: "Path",
                               fill: "url(#linearGradient-37)"
                             }
@@ -71589,7 +71463,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M33.57,23.76 L33.57,17.63244 C33.57,14.84892 31.31352,12.59244 28.53,12.59244 L5.13,12.59244 C2.34648,12.59244 0.09,14.84892 0.09,17.63244 L0.09,23.76 L33.57,23.76 Z",
+                                "M39.864375,27.72 L39.864375,20.57118 C39.864375,17.32374 37.184805,14.69118 33.879375,14.69118 L6.091875,14.69118 C2.786445,14.69118 0.106875,17.32374 0.106875,20.57118 L0.106875,27.72 L39.864375,27.72 Z",
                               id: "Path",
                               fill: "url(#linearGradient-38)"
                             }
@@ -71598,7 +71472,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.42,19.68012 L22.02012,19.68012 C24.80364,19.68012 27.06012,17.42364 27.06012,14.64012 L27.06012,12.59244 L7.38,12.59244 L7.38,14.64012 C7.38,17.42364 9.63648,19.68012 12.42,19.68012 Z",
+                                "M14.74875,22.96014 L26.1488925,22.96014 C29.4543225,22.96014 32.1338925,20.32758 32.1338925,17.08014 L32.1338925,14.69118 L8.76375,14.69118 L8.76375,17.08014 C8.76375,20.32758 11.44332,22.96014 14.74875,22.96014 Z",
                               id: "Path",
                               fill: "url(#linearGradient-39)"
                             }
@@ -71611,14 +71485,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "robot_x5F_head",
-                            transform: "translate(118.080000, 156.600000)"
+                            transform: "translate(140.000000, 185.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M33.12864,9.675 C32.90148,9.35676 32.69772,9.07452 32.52996,8.84736 C29.90232,5.28732 28.26,2.81232 26.82,1.46232 C25.4376,0.16632 23.74524,0.11988 22.95,0.11988 L14.175,0.11988 C12.735,0.11988 12.30732,1.52964 12.66012,2.36952 L17.03412,9.67464 L33.12864,9.67464 L33.12864,9.675 Z",
+                                "M39.1520291,11.4890625 C38.8835673,11.1111525 38.64276,10.7759925 38.4444982,10.50624 C35.3391055,6.2786925 33.3981818,3.33963 31.6963636,1.736505 C30.0626182,0.197505 28.0625564,0.1423575 27.1227273,0.1423575 L16.7522727,0.1423575 C15.0504545,0.1423575 14.5450145,1.8164475 14.96196,2.813805 L20.1312327,11.488635 L39.1520291,11.488635 L39.1520291,11.4890625 Z",
                               id: "Path",
                               fill: "url(#linearGradient-40)"
                             }
@@ -71627,7 +71501,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M3.77712,12.02544 C5.82012,10.68012 15.43392,7.53408 28.08,8.34012 C38.90988,9.03024 42.7644,12.80088 43.38,14.58036 C43.92,16.1406 43.65,17.73036 42.75288,18.85464 C41.82624,20.016 36.65592,25.07256 32.51808,26.57628 C28.38024,28.08 36.00036,19.79964 33.36012,16.67988 C30.71988,13.56012 27.30312,10.53432 15.54012,11.27988 C3.77712,12.02544 3.77712,12.02544 3.77712,12.02544 Z",
+                                "M4.46386909,14.28021 C6.87832364,12.6826425 18.2400873,8.94672 33.1854545,9.9038925 C45.9844036,10.72341 50.5397455,15.201045 51.2672727,17.3141775 C51.9054545,19.1669625 51.5863636,21.0548025 50.5261309,22.389885 C49.4310109,23.769 43.3206327,29.773665 38.4304582,31.5593325 C33.5402836,33.345 42.54588,23.5120725 39.4255964,19.8073575 C36.3053127,16.1026425 32.2673236,12.509505 18.3655964,13.3948575 C4.46386909,14.28021 4.46386909,14.28021 4.46386909,14.28021 Z",
                               id: "Path",
                               fill: "url(#linearGradient-41)"
                             }
@@ -71636,7 +71510,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.31108,8.8128 C31.03488,8.60256 29.63124,8.43876 28.08,8.34012 C23.78556,8.06652 19.84212,8.2494 16.425,8.66196 L12.30012,10.86048 L17.31672,11.19564 C20.53512,11.08908 23.0652,11.2932 25.09416,11.71512 L27.57024,11.88036 L32.31108,8.8128 Z",
+                                "M38.1858218,10.4652 C36.6775855,10.21554 35.0187382,10.0210275 33.1854545,9.9038925 C28.1102073,9.5789925 23.4497782,9.7961625 19.4113636,10.2860775 L14.5365055,12.89682 L20.4652145,13.2948225 C24.2687782,13.1682825 27.2588727,13.410675 29.6567345,13.911705 L32.5830109,14.1079275 L38.1858218,10.4652 Z",
                               id: "Path",
                               fill: "url(#linearGradient-42)"
                             }
@@ -71645,7 +71519,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.03456,25.56 C9.25452,28.83708 11.97504,31.42836 15.30756,31.42836 L27.29736,31.42836 C30.62988,31.42836 33.3504,28.83708 33.57036,25.56 L9.03456,25.56 L9.03456,25.56 Z",
+                                "M10.6772073,30.3525 C10.93716,34.2440325 14.15232,37.3211775 18.0907527,37.3211775 L32.2605164,37.3211775 C36.1989491,37.3211775 39.4141091,34.2440325 39.6740618,30.3525 L10.6772073,30.3525 L10.6772073,30.3525 Z",
                               id: "Path",
                               fill: "url(#linearGradient-43)"
                             }
@@ -71654,7 +71528,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M35.5806,21.93012 C34.38,25.56036 32.81184,26.73 30.99024,27.24012 C27.99036,28.08 24.75036,28.29024 17.85132,28.29024 C12.21768,28.29024 6.12036,26.88012 6.12036,26.88012 C1.86048,25.86024 1.23768,24.39 0.42048,20.94012 C0.42048,20.94012 0.13716,19.20492 0.06048,18.33372 C-0.35964,13.56012 2.27088,12.42324 5.5206,11.43036 C8.7606,10.44036 11.22048,9.87048 17.28072,9.84024 C24.12072,9.80604 30.3606,11.7 30.3606,11.7 C34.03944,13.02768 35.88264,14.42412 36.081,17.82252 C36.15012,19.01988 35.8884,20.99916 35.5806,21.93012 Z",
+                                "M42.0498,26.0420175 C40.6309091,30.3529275 38.7776291,31.741875 36.6248291,32.3476425 C33.0795164,33.345 29.2504255,33.59466 21.0970145,33.59466 C14.4390764,33.59466 7.23315273,31.9201425 7.23315273,31.9201425 C2.19874909,30.709035 1.46271273,28.963125 0.496930909,24.8663925 C0.496930909,24.8663925 0.162098182,22.8058425 0.0714763636,21.7712925 C-0.425029091,16.1026425 2.68376727,14.7525975 6.52434545,13.5735525 C10.3534364,12.3979275 13.2605673,11.721195 20.4226691,11.685285 C28.5063055,11.6446725 35.8807091,13.89375 35.8807091,13.89375 C40.2284291,15.47037 42.4067564,17.1286425 42.6411818,21.1642425 C42.7228691,22.5861075 42.4135636,24.9365025 42.0498,26.0420175 Z",
                               id: "Path",
                               fill: "url(#linearGradient-44)"
                             }
@@ -71663,7 +71537,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M3.69,15.075 C4.79736,14.28804 10.50012,12.3606 18.06012,12.42036 C25.62012,12.48012 31.74012,14.30964 32.64012,16.34976 C33.54012,18.38988 32.26968,22.92552 31.0698,24.1254 C29.86992,25.32528 24.84,26.1 18.54,25.83 C12.24,25.56 5.36112,24.58224 4.20012,23.10012 C2.79,21.30012 1.98,16.29 3.69,15.075 Z",
+                                "M4.36090909,17.9015625 C5.66960727,16.9670475 12.4092327,14.6782125 21.3437782,14.7491775 C30.2783236,14.8201425 37.5110509,16.9926975 38.5746873,19.41534 C39.6383236,21.8379825 38.1368945,27.224055 36.7188545,28.6489125 C35.3008145,30.07377 29.3563636,30.99375 21.9109091,30.673125 C14.4654545,30.3525 6.33586909,29.19141 4.96377818,27.4313925 C3.29727273,25.2938925 2.34,19.344375 4.36090909,17.9015625 Z",
                               id: "Path",
                               fill: "url(#linearGradient-45)"
                             }
@@ -71672,7 +71546,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M42.75288,18.85464 C43.65,17.73036 43.92,16.1406 43.38,14.58036 C43.26408,14.2452 43.03332,13.83984 42.66324,13.39812 C40.10112,13.98204 38.187,16.2702 38.187,19.00944 L38.187,21.76956 C38.187,22.19508 38.23632,22.60836 38.3238,23.00724 C40.4892,21.26952 42.24888,19.48608 42.75288,18.85464 Z",
+                                "M50.5261309,22.389885 C51.5863636,21.0548025 51.9054545,19.1669625 51.2672727,17.3141775 C51.1302764,16.916175 50.85756,16.43481 50.4201927,15.9102675 C47.3922327,16.6036725 45.1300909,19.3208625 45.1300909,22.57371 L45.1300909,25.8513525 C45.1300909,26.3566575 45.1883782,26.8474275 45.2917636,27.3210975 C47.8508727,25.257555 49.9304945,23.13972 50.5261309,22.389885 Z",
                               id: "Path",
                               fill: "url(#linearGradient-46)"
                             }
@@ -71681,7 +71555,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.99,23.73048 C17.44164,23.73048 16.1064,24.51168 15.4656,25.64388 C16.48764,25.7238 17.5212,25.78644 18.54,25.83 C19.97964,25.89192 21.35124,25.89804 22.62744,25.85808 C22.04172,24.61032 20.63448,23.73048 18.99,23.73048 Z",
+                                "M22.4427273,28.179945 C20.6128473,28.179945 19.0348364,29.10762 18.2775273,30.4521075 C19.4853927,30.5470125 20.7068727,30.6213975 21.9109091,30.673125 C23.6123018,30.746655 25.2332836,30.7539225 26.74152,30.70647 C26.0493055,29.224755 24.3862036,28.179945 22.4427273,28.179945 Z",
                               id: "Path",
                               fill: "#FFFFFF"
                             }
@@ -71692,7 +71566,7 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(7.920000, 17.280000)"
+                                transform: "translate(9.360000, 20.520000)"
                               }
                             },
                             [
@@ -71701,14 +71575,14 @@ var render = function() {
                                   id: "Path",
                                   fill: "url(#linearGradient-47)",
                                   points:
-                                    "5.69952 1.45404 4.68108 0.43596 3.06 2.0574 1.43892 0.43596 0.42048 1.45404 2.04192 3.07548 0.42048 4.69656 1.43892 5.71464 3.06 4.09356 4.68108 5.71464 5.69952 4.69656 4.07808 3.07548"
+                                    "6.73579636 1.7266725 5.53218545 0.5177025 3.61636364 2.4431625 1.70054182 0.5177025 0.496930909 1.7266725 2.41317818 3.6521325 0.496930909 5.577165 1.70054182 6.786135 3.61636364 4.8611025 5.53218545 6.786135 6.73579636 5.577165 4.81954909 3.6521325"
                                 }
                               }),
                               _vm._v(" "),
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M4.68108,5.89464 C4.635,5.89464 4.58892,5.877 4.55364,5.84208 L3.05964,4.34844 L1.56564,5.84208 C1.49544,5.91228 1.38132,5.91228 1.31112,5.84208 L0.29304,4.824 C0.2592,4.79016 0.24048,4.74444 0.24048,4.69656 C0.24048,4.64868 0.25956,4.60296 0.29304,4.56912 L1.78704,3.07548 L0.29304,1.58148 C0.22284,1.51128 0.22284,1.39716 0.29304,1.32696 L1.31112,0.30888 C1.3788,0.2412 1.49832,0.2412 1.56564,0.30888 L3.05964,1.80288 L4.55364,0.30888 C4.62132,0.2412 4.74084,0.2412 4.80816,0.30888 L5.82624,1.32696 C5.89644,1.39716 5.89644,1.51128 5.82624,1.58148 L4.33224,3.07548 L5.82624,4.56912 C5.86008,4.60296 5.8788,4.64868 5.8788,4.69656 C5.8788,4.74444 5.85972,4.79016 5.82624,4.824 L4.80816,5.84208 C4.77324,5.877 4.72716,5.89464 4.68108,5.89464 Z M3.06,3.91356 C3.10608,3.91356 3.15216,3.9312 3.18744,3.96612 L4.68144,5.45976 L5.445,4.6962 L3.951,3.20256 C3.8808,3.13236 3.8808,3.01824 3.951,2.94804 L5.445,1.45404 L4.68144,0.69048 L3.18744,2.18448 C3.11976,2.25216 3.00024,2.25216 2.93292,2.18448 L1.43892,0.69048 L0.67536,1.45404 L2.16936,2.94804 C2.2032,2.98188 2.22192,3.0276 2.22192,3.07548 C2.22192,3.12336 2.20284,3.16908 2.16936,3.20292 L0.67536,4.69656 L1.43892,5.46012 L2.93292,3.96648 C2.96784,3.9312 3.01392,3.91356 3.06,3.91356 Z",
+                                    "M5.53218545,6.999885 C5.47772727,6.999885 5.42326909,6.9789375 5.38157455,6.93747 L3.61593818,5.1637725 L1.85030182,6.93747 C1.76733818,7.0208325 1.63246909,7.0208325 1.54950545,6.93747 L0.34632,5.7285 C0.306327273,5.688315 0.284203636,5.6340225 0.284203636,5.577165 C0.284203636,5.5203075 0.306752727,5.466015 0.34632,5.42583 L2.11195636,3.6521325 L0.34632,1.8780075 C0.263356364,1.794645 0.263356364,1.6591275 0.34632,1.575765 L1.54950545,0.366795 C1.62949091,0.286425 1.77074182,0.286425 1.85030182,0.366795 L3.61593818,2.14092 L5.38157455,0.366795 C5.46156,0.286425 5.60281091,0.286425 5.68237091,0.366795 L6.88555636,1.575765 C6.96852,1.6591275 6.96852,1.794645 6.88555636,1.8780075 L5.11992,3.6521325 L6.88555636,5.42583 C6.92554909,5.466015 6.94767273,5.5203075 6.94767273,5.577165 C6.94767273,5.6340225 6.92512364,5.688315 6.88555636,5.7285 L5.68237091,6.93747 C5.64110182,6.9789375 5.58664364,6.999885 5.53218545,6.999885 Z M3.61636364,4.6473525 C3.67082182,4.6473525 3.72528,4.6683 3.76697455,4.7097675 L5.53261091,6.483465 L6.435,5.5767375 L4.66936364,3.80304 C4.5864,3.7196775 4.5864,3.58416 4.66936364,3.5007975 L6.435,1.7266725 L5.53261091,0.819945 L3.76697455,2.59407 C3.68698909,2.67444 3.54573818,2.67444 3.46617818,2.59407 L1.70054182,0.819945 L0.798152727,1.7266725 L2.56378909,3.5007975 C2.60378182,3.5409825 2.62590545,3.595275 2.62590545,3.6521325 C2.62590545,3.70899 2.60335636,3.7632825 2.56378909,3.8034675 L0.798152727,5.577165 L1.70054182,6.4838925 L3.46617818,4.710195 C3.50744727,4.6683 3.56190545,4.6473525 3.61636364,4.6473525 Z",
                                   id: "Shape",
                                   fill: "#7E59D1"
                                 }
@@ -71721,7 +71595,7 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(23.760000, 18.000000)"
+                                transform: "translate(28.080000, 21.375000)"
                               }
                             },
                             [
@@ -71730,14 +71604,14 @@ var render = function() {
                                   id: "Path",
                                   fill: "url(#linearGradient-48)",
                                   points:
-                                    "5.78952 1.30356 4.77108 0.28548 3.15 1.90692 1.52892 0.28548 0.51048 1.30356 2.13192 2.925 0.51048 4.54608 1.52892 5.56416 3.15 3.94308 4.77108 5.56416 5.78952 4.54608 4.16808 2.925"
+                                    "6.84216 1.5479775 5.63854909 0.3390075 3.72272727 2.2644675 1.80690545 0.3390075 0.603294545 1.5479775 2.51954182 3.4734375 0.603294545 5.39847 1.80690545 6.60744 3.72272727 4.6824075 5.63854909 6.60744 6.84216 5.39847 4.92591273 3.4734375"
                                 }
                               }),
                               _vm._v(" "),
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M4.77108,5.74416 C4.725,5.74416 4.67892,5.72652 4.64364,5.6916 L3.14964,4.19796 L1.65564,5.6916 C1.58544,5.7618 1.47132,5.7618 1.40112,5.6916 L0.38304,4.67352 C0.3492,4.63968 0.33048,4.59396 0.33048,4.54608 C0.33048,4.4982 0.34956,4.45248 0.38304,4.41864 L1.87704,2.925 L0.38304,1.431 C0.31284,1.3608 0.31284,1.24668 0.38304,1.17648 L1.40112,0.1584 C1.4688,0.09072 1.58832,0.09072 1.65564,0.1584 L3.14964,1.6524 L4.64364,0.1584 C4.71132,0.09072 4.83084,0.09072 4.89816,0.1584 L5.91624,1.17648 C5.98644,1.24668 5.98644,1.3608 5.91624,1.431 L4.42224,2.925 L5.91624,4.41864 C5.95008,4.45248 5.9688,4.4982 5.9688,4.54608 C5.9688,4.59396 5.94972,4.63968 5.91624,4.67352 L4.89816,5.6916 C4.86324,5.72652 4.81716,5.74416 4.77108,5.74416 Z M3.15,3.76308 C3.19608,3.76308 3.24216,3.78072 3.27744,3.81564 L4.77144,5.30928 L5.535,4.54572 L4.041,3.05208 C3.9708,2.98188 3.9708,2.86776 4.041,2.79756 L5.535,1.30356 L4.77144,0.54 L3.27744,2.034 C3.20976,2.10168 3.09024,2.10168 3.02292,2.034 L1.52892,0.54 L0.76536,1.30356 L2.25936,2.79756 C2.2932,2.8314 2.31192,2.87712 2.31192,2.925 C2.31192,2.97288 2.29284,3.0186 2.25936,3.05244 L0.76536,4.54608 L1.52892,5.30964 L3.02292,3.816 C3.05784,3.78072 3.10392,3.76308 3.15,3.76308 Z",
+                                    "M5.63854909,6.82119 C5.58409091,6.82119 5.52963273,6.8002425 5.48793818,6.758775 L3.72230182,4.9850775 L1.95666545,6.758775 C1.87370182,6.8421375 1.73883273,6.8421375 1.65586909,6.758775 L0.452683636,5.549805 C0.412690909,5.50962 0.390567273,5.4553275 0.390567273,5.39847 C0.390567273,5.3416125 0.413116364,5.28732 0.452683636,5.247135 L2.21832,3.4734375 L0.452683636,1.6993125 C0.36972,1.61595 0.36972,1.4804325 0.452683636,1.39707 L1.65586909,0.1881 C1.73585455,0.10773 1.87710545,0.10773 1.95666545,0.1881 L3.72230182,1.962225 L5.48793818,0.1881 C5.56792364,0.10773 5.70917455,0.10773 5.78873455,0.1881 L6.99192,1.39707 C7.07488364,1.4804325 7.07488364,1.61595 6.99192,1.6993125 L5.22628364,3.4734375 L6.99192,5.247135 C7.03191273,5.28732 7.05403636,5.3416125 7.05403636,5.39847 C7.05403636,5.4553275 7.03148727,5.50962 6.99192,5.549805 L5.78873455,6.758775 C5.74746545,6.8002425 5.69300727,6.82119 5.63854909,6.82119 Z M3.72272727,4.4686575 C3.77718545,4.4686575 3.83164364,4.489605 3.87333818,4.5310725 L5.63897455,6.30477 L6.54136364,5.3980425 L4.77572727,3.624345 C4.69276364,3.5409825 4.69276364,3.405465 4.77572727,3.3221025 L6.54136364,1.5479775 L5.63897455,0.64125 L3.87333818,2.415375 C3.79335273,2.495745 3.65210182,2.495745 3.57254182,2.415375 L1.80690545,0.64125 L0.904516364,1.5479775 L2.67015273,3.3221025 C2.71014545,3.3622875 2.73226909,3.41658 2.73226909,3.4734375 C2.73226909,3.530295 2.70972,3.5845875 2.67015273,3.6247725 L0.904516364,5.39847 L1.80690545,6.3051975 L3.57254182,4.5315 C3.61381091,4.489605 3.66826909,4.4686575 3.72272727,4.4686575 Z",
                                   id: "Shape",
                                   fill: "#7E59D1"
                                 }
@@ -71748,7 +71622,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.44644,8.73396 C29.86848,5.23584 28.24416,2.79792 26.82,1.46268 C25.86384,0.56664 24.76008,0.2682 23.90688,0.1692 L31.29768,9.405 L32.44644,8.73396 Z",
+                                "M38.3457927,10.3715775 C35.2991127,6.21756 33.3794618,3.32253 31.6963636,1.7369325 C30.5663564,0.672885 29.2619127,0.3184875 28.2535855,0.200925 L36.9881673,11.1684375 L38.3457927,10.3715775 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71761,14 +71635,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "robot_x5F_arm_x5F_1",
-                            transform: "translate(149.400000, 190.440000)"
+                            transform: "translate(177.000000, 225.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.42288,5.69124 C12.16728,4.46076 11.52504,3.16944 10.53216,2.20428 C9.54612,1.23048 8.3088,0.6084 7.05348,0.306 C6.42168,0.153 5.77764,0.0756 5.1138,0.0773693129 C4.78116,0.07956 3.6018,0.19224 3.42324,0.23148 C3.41748,0.23256 3.41172,0.23544 3.40596,0.23688 C2.16612,0.46044 1.22472,1.54296 1.22472,2.84724 C1.22472,4.31352 2.41344,5.50224 3.87972,5.50224 C4.25016,5.50224 4.6026,5.42592 4.92264,5.28876 C5.24484,5.18184 5.6394,5.09472 6.04764,5.1462 C6.55488,5.2074 7.00812,5.38524 7.34544,5.64264 C7.68456,5.9004 7.94736,6.25464 8.12448,6.77268 C8.29872,7.29396 8.36316,7.93476 8.31744,8.6778 C8.23176,10.14912 7.776,11.71044 7.10856,13.21452 C6.77448,13.96836 6.38748,14.7114 5.95872,15.435 C5.74452,15.7968 5.51988,16.15392 5.2866,16.50312 L4.9302,17.01972 C4.81464,17.1828 4.6764,17.36748 4.581,17.49276 L6.939,19.58868 C7.14024,19.37448 7.28676,19.2096 7.45164,19.02024 C7.61148,18.83592 7.76664,18.65088 7.91928,18.46368 C8.2242,18.09 8.51796,17.7084 8.80164,17.31888 C9.36936,16.53948 9.89748,15.72588 10.3788,14.87088 C11.33424,13.16232 12.12624,11.27844 12.46608,9.16092 C12.63096,8.11656 12.68748,6.92316 12.42288,5.69124 Z",
+                                "M14.3340923,6.829488 C14.0391692,5.352912 13.2981231,3.803328 12.1524923,2.645136 C11.0147538,1.476576 9.58707692,0.73008 8.13863077,0.3672 C7.40963077,0.1836 6.66650769,0.09072 5.90053846,0.0928431755 C5.51672308,0.095472 4.15592308,0.230688 3.94989231,0.277776 C3.94324615,0.279072 3.9366,0.282528 3.92995385,0.284256 C2.49936923,0.552528 1.41313846,1.851552 1.41313846,3.416688 C1.41313846,5.176224 2.78473846,6.602688 4.4766,6.602688 C4.90403077,6.602688 5.31069231,6.511104 5.67996923,6.346512 C6.05173846,6.218208 6.507,6.113664 6.97804615,6.17544 C7.56332308,6.24888 8.08629231,6.462288 8.47550769,6.771168 C8.8668,7.08048 9.17003077,7.505568 9.3744,8.127216 C9.57544615,8.752752 9.6498,9.521712 9.59704615,10.41336 C9.49818462,12.178944 8.97230769,14.052528 8.20218462,15.857424 C7.81670769,16.762032 7.37016923,17.65368 6.87544615,18.522 C6.62829231,18.95616 6.36909231,19.384704 6.09992308,19.803744 L5.68869231,20.423664 C5.55535385,20.61936 5.39584615,20.840976 5.28576923,20.991312 L8.00653846,23.506416 C8.23873846,23.249376 8.4078,23.05152 8.59804615,22.824288 C8.78247692,22.603104 8.96150769,22.381056 9.13763077,22.156416 C9.48946154,21.708 9.82841538,21.25008 10.1557385,20.782656 C10.8108,19.847376 11.4201692,18.871056 11.9755385,17.845056 C13.0779692,15.794784 13.9918154,13.534128 14.3839385,10.993104 C14.5741846,9.739872 14.6394,8.307792 14.3340923,6.829488 Z",
                               id: "Path",
                               fill: "url(#linearGradient-49)"
                             }
@@ -71777,7 +71651,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M5.62536,5.31828 C5.5404,5.31828 5.4648,5.2578 5.4486,5.1714 C5.35608,4.67424 5.40792,2.95344 6.39216,1.8072 C6.9948,1.10556 7.82064,0.76896 8.85312,0.7992 C8.95248,0.80244 9.0306,0.8856 9.027,0.98496 C9.02376,1.08432 8.93124,1.15236 8.84124,1.1592 C7.92792,1.12932 7.19352,1.42632 6.66504,2.04156 C5.77728,3.07548 5.72148,4.67172 5.80248,5.10516 C5.82048,5.20272 5.75604,5.29704 5.65848,5.31504 C5.64732,5.31756 5.63616,5.31828 5.62536,5.31828 Z",
+                                "M6.4908,6.381936 C6.39276923,6.381936 6.30553846,6.30936 6.28684615,6.20568 C6.18009231,5.609088 6.23990769,3.544128 7.37556923,2.16864 C8.07092308,1.326672 9.02381538,0.922752 10.2151385,0.95904 C10.3297846,0.962928 10.4199231,1.06272 10.4157692,1.181952 C10.4120308,1.301184 10.3052769,1.382832 10.2014308,1.39104 C9.1476,1.355184 8.30021538,1.711584 7.69043077,2.449872 C6.66609231,3.690576 6.60170769,5.606064 6.69516923,6.126192 C6.71593846,6.243264 6.64158462,6.356448 6.52901538,6.378048 C6.51613846,6.381072 6.50326154,6.381936 6.4908,6.381936 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71786,7 +71660,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.19252,7.18668 C8.17596,7.18668 8.15904,7.18452 8.14248,7.17948 C8.04708,7.15176 7.992,7.05204 8.01972,6.95628 C8.20368,6.32232 9.11304,5.463 10.17396,5.19372 C10.81692,5.03028 11.76228,5.01552 12.60864,5.8716 C12.67848,5.94216 12.67776,6.05628 12.6072,6.12612 C12.53628,6.19632 12.42216,6.19524 12.35268,6.12468 C11.6262,5.38992 10.81512,5.40288 10.26252,5.54256 C9.33516,5.778 8.51868,6.52968 8.36532,7.05708 C8.34264,7.13556 8.27064,7.18668 8.19252,7.18668 Z",
+                                "M9.45290769,8.624016 C9.4338,8.624016 9.41427692,8.621424 9.39516923,8.615376 C9.28509231,8.582112 9.22153846,8.462448 9.25352308,8.347536 C9.46578462,7.586784 10.5150462,6.5556 11.7391846,6.232464 C12.4810615,6.036336 13.5718615,6.018624 14.5484308,7.04592 C14.6290154,7.130592 14.6281846,7.267536 14.5467692,7.351344 C14.4649385,7.435584 14.3332615,7.434288 14.2530923,7.349616 C13.4148462,6.467904 12.4789846,6.483456 11.8413692,6.651072 C10.7713385,6.9336 9.82924615,7.835616 9.65229231,8.468496 C9.62612308,8.562672 9.54304615,8.624016 9.45290769,8.624016 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71795,7 +71669,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.71404,12.186 C11.637,12.186 11.56572,12.13632 11.54196,12.05892 C11.35296,11.448 10.953,11.0142 10.35288,10.77012 C9.52452,10.43244 8.49492,10.55808 8.09928,10.77372 C8.01144,10.82088 7.90236,10.78848 7.8552,10.70172 C7.80768,10.61424 7.84008,10.50516 7.9272,10.45728 C8.37756,10.21176 9.50328,10.03536 10.4886,10.4364 C11.1834,10.719 11.66652,11.24352 11.88576,11.95272 C11.91528,12.04776 11.862,12.14856 11.76696,12.17772 C11.74932,12.18348 11.73132,12.186 11.71404,12.186 Z",
+                                "M13.5162,14.6232 C13.4273077,14.6232 13.3450615,14.563584 13.3176462,14.470704 C13.0995692,13.7376 12.6380769,13.21704 11.9456308,12.924144 C10.9898308,12.518928 9.80183077,12.669696 9.34532308,12.928464 C9.24396923,12.985056 9.11810769,12.946176 9.06369231,12.842064 C9.00886154,12.737088 9.04624615,12.606192 9.14676923,12.548736 C9.66641538,12.254112 10.9653231,12.042432 12.1022308,12.52368 C12.9039231,12.8628 13.4613692,13.492224 13.7143385,14.343264 C13.7484,14.457312 13.6869231,14.578272 13.5772615,14.613264 C13.5569077,14.620176 13.5361385,14.6232 13.5162,14.6232 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71804,7 +71678,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.05768,15.86268 C9.98352,15.86268 9.9144,15.8166 9.88812,15.7428 C9.54612,14.77872 8.89704,14.38308 8.41248,14.22036 C7.68204,13.9752 6.98328,14.12136 6.78816,14.24988 C6.70572,14.3046 6.5934,14.28156 6.53904,14.1984 C6.48468,14.11524 6.50736,14.00364 6.59052,13.94892 C6.88212,13.75704 7.7004,13.60152 8.52696,13.87908 C9.08712,14.06664 9.83664,14.52168 10.22724,15.62256 C10.26036,15.71616 10.2114,15.81912 10.1178,15.8526 C10.09764,15.85944 10.07748,15.86268 10.05768,15.86268 Z",
+                                "M11.6050154,19.035216 C11.5194462,19.035216 11.4396923,18.97992 11.4093692,18.89136 C11.0147538,17.734464 10.2658154,17.259696 9.70670769,17.064432 C8.86389231,16.77024 8.05763077,16.945632 7.83249231,17.099856 C7.73736923,17.16552 7.60776923,17.137872 7.54504615,17.03808 C7.48232308,16.938288 7.50849231,16.804368 7.60444615,16.738704 C7.94090769,16.508448 8.88507692,16.321824 9.8388,16.654896 C10.4851385,16.879968 11.3499692,17.426016 11.8006615,18.747072 C11.8388769,18.859392 11.7823846,18.982944 11.6743846,19.02312 C11.6511231,19.031328 11.6278615,19.035216 11.6050154,19.035216 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -71813,7 +71687,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.81172,24.7824 L6.68124,24.4278 L7.0272,22.3506 C7.12584,21.75768 6.9876,21.16152 6.6384,20.673 C6.28884,20.18412 5.77008,19.86012 5.17716,19.76148 C3.9546,19.5588 2.79216,20.38752 2.58804,21.61188 L2.24676,23.66388 L0.11592,23.30892 L0.45756,21.25728 C0.85716,18.8586 3.132,17.23104 5.53212,17.63136 C6.6942,17.82504 7.7112,18.45936 8.39592,19.41768 C9.081,20.37636 9.35136,21.54384 9.15804,22.70592 L8.81172,24.7824 Z",
+                                "M10.1673692,29.73888 L7.70912308,29.31336 L8.10830769,26.82072 C8.22212308,26.109216 8.06261538,25.393824 7.65969231,24.8076 C7.25635385,24.220944 6.65778462,23.832144 5.97364615,23.713776 C4.563,23.47056 3.22172308,24.465024 2.9862,25.934256 L2.59241538,28.396656 L0.133753846,27.970704 L0.527953846,25.508736 C0.989030769,22.63032 3.61384615,20.677248 6.38321538,21.157632 C7.72407692,21.390048 8.89753846,22.151232 9.6876,23.301216 C10.4780769,24.451632 10.7900308,25.852608 10.5669692,27.247104 L10.1673692,29.73888 Z",
                               id: "Path",
                               fill: "url(#linearGradient-50)"
                             }
@@ -71826,7 +71700,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "bulb_x5F_1",
-                            transform: "translate(170.640000, 20.160000)"
+                            transform: "translate(202.000000, 24.000000)"
                           }
                         },
                         [
@@ -71834,7 +71708,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M51.3,22.97772 C51.3,24.40044 50.14692,25.55352 48.72456,25.55352 L3.92544,25.55352 C2.50308,25.55352 1.35,24.40044 1.35,22.97772 L1.35,3.75228 C1.35,2.32956 2.50308,1.17648 3.92544,1.17648 L48.7242,1.17648 C50.14656,1.17648 51.3,2.32956 51.3,3.75228 L51.3,22.97772 L51.3,22.97772 Z",
+                                  "M60.9792453,27.2328533 C60.9792453,28.91904 59.608603,30.2856533 57.9178732,30.2856533 L4.66608906,30.2856533 C2.97535925,30.2856533 1.60471698,28.91904 1.60471698,27.2328533 L1.60471698,4.44714667 C1.60471698,2.76096 2.97535925,1.39434667 4.66608906,1.39434667 L57.9174453,1.39434667 C59.6081751,1.39434667 60.9792453,2.76096 60.9792453,4.44714667 L60.9792453,27.2328533 L60.9792453,27.2328533 Z",
                                 id: "Path",
                                 fill: "url(#linearGradient-51)"
                               }
@@ -71843,7 +71717,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M48.72456,26.63352 L3.92544,26.63352 C1.9098,26.63352 0.27,24.99336 0.27,22.97772 L0.27,3.75228 C0.27,1.73664 1.91016,0.09648 3.92544,0.09648 L48.7242,0.09648 C50.73984,0.09648 52.3796401,1.73664 52.3796401,3.75228 L52.3796401,22.97772 C52.3796401,24.99336 50.73984,26.63352 48.72456,26.63352 Z M3.92544,2.25648 C3.10068,2.25648 2.43,2.92752 2.43,3.75228 L2.43,22.97772 C2.43,23.80248 3.10068,24.47352 3.92544,24.47352 L48.7242,24.47352 C49.54896,24.47352 50.21964,23.80248 50.21964,22.97772 L50.21964,3.75228 C50.21964,2.92752 49.54896,2.25648 48.7242,2.25648 L3.92544,2.25648 Z",
+                                  "M57.9178732,31.5656533 L4.66608906,31.5656533 C2.27013962,31.5656533 0.320943396,29.62176 0.320943396,27.2328533 L0.320943396,4.44714667 C0.320943396,2.05824 2.27056755,0.114346667 4.66608906,0.114346667 L57.9174453,0.114346667 C60.3133947,0.114346667 62.262591,2.05824 62.262591,4.44714667 L62.262591,27.2328533 C62.262591,29.62176 60.3133947,31.5656533 57.9178732,31.5656533 Z M4.66608906,2.67434667 C3.68571396,2.67434667 2.88849057,3.46965333 2.88849057,4.44714667 L2.88849057,27.2328533 C2.88849057,28.2103467 3.68571396,29.0056533 4.66608906,29.0056533 L57.9174453,29.0056533 C58.8978204,29.0056533 59.6950438,28.2103467 59.6950438,27.2328533 L59.6950438,4.44714667 C59.6950438,3.46965333 58.8978204,2.67434667 57.9174453,2.67434667 L4.66608906,2.67434667 Z",
                                 id: "Shape",
                                 fill: "url(#linearGradient-52)"
                               }
@@ -71852,7 +71726,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M46.08,7.245 C46.08,7.66764 45.73764,8.01 45.315,8.01 L7.335,8.01 C6.91236,8.01 6.57,7.66764 6.57,7.245 L6.57,7.245 C6.57,6.82236 6.91236,6.48 7.335,6.48 L45.315,6.48 C45.73764,6.48 46.08,6.82236 46.08,7.245 L46.08,7.245 Z",
+                                  "M54.7743396,8.58666667 C54.7743396,9.08757333 54.3673834,9.49333333 53.865,9.49333333 L8.71896226,9.49333333 C8.21657887,9.49333333 7.80962264,9.08757333 7.80962264,8.58666667 L7.80962264,8.58666667 C7.80962264,8.08576 8.21657887,7.68 8.71896226,7.68 L53.865,7.68 C54.3673834,7.68 54.7743396,8.08576 54.7743396,8.58666667 L54.7743396,8.58666667 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71861,7 +71735,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M21.85488,11.79 L18.42012,11.79 L16.08012,11.79 L7.335,11.79 C6.91236,11.79 6.57,12.13236 6.57,12.555 C6.57,12.97764 6.91236,13.32 7.335,13.32 L16.08012,13.32 L18.42012,13.32 L21.85488,13.32 C22.27752,13.32 22.61988,12.97764 22.61988,12.555 C22.61988,12.13236 22.27752,11.79 21.85488,11.79 Z",
+                                  "M25.9784423,13.9733333 L21.8956143,13.9733333 L19.1141049,13.9733333 L8.71896226,13.9733333 C8.21657887,13.9733333 7.80962264,14.3790933 7.80962264,14.88 C7.80962264,15.3809067 8.21657887,15.7866667 8.71896226,15.7866667 L19.1141049,15.7866667 L21.8956143,15.7866667 L25.9784423,15.7866667 C26.4808257,15.7866667 26.8877819,15.3809067 26.8877819,14.88 C26.8877819,14.3790933 26.4808257,13.9733333 25.9784423,13.9733333 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71870,7 +71744,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M45.315,11.79 L39.72024,11.79 L39.06,11.79 L36.37476,11.79 C35.95212,11.79 35.60976,12.13236 35.60976,12.555 C35.60976,12.97764 35.95212,13.32 36.37476,13.32 L39.06,13.32 L39.72024,13.32 L45.315,13.32 C45.73764,13.32 46.08,12.97764 46.08,12.555 C46.08,12.13236 45.73764,11.79 45.315,11.79 Z",
+                                  "M53.865,13.9733333 L47.2146249,13.9733333 L46.4298113,13.9733333 L43.2379223,13.9733333 C42.7355389,13.9733333 42.3285826,14.3790933 42.3285826,14.88 C42.3285826,15.3809067 42.7355389,15.7866667 43.2379223,15.7866667 L46.4298113,15.7866667 L47.2146249,15.7866667 L53.865,15.7866667 C54.3673834,15.7866667 54.7743396,15.3809067 54.7743396,14.88 C54.7743396,14.3790933 54.3673834,13.9733333 53.865,13.9733333 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71879,7 +71753,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M31.51476,11.79 L30.48012,11.79 L28.62,11.79 L26.235,11.79 C25.81236,11.79 25.47,12.13236 25.47,12.555 C25.47,12.97764 25.81236,13.32 26.235,13.32 L28.62,13.32 L30.48012,13.32 L31.51476,13.32 C31.9374,13.32 32.27976,12.97764 32.27976,12.555 C32.27976,12.13236 31.9374,11.79 31.51476,11.79 Z",
+                                  "M37.4609411,13.9733333 L36.231086,13.9733333 L34.02,13.9733333 L31.185,13.9733333 C30.6826166,13.9733333 30.2756604,14.3790933 30.2756604,14.88 C30.2756604,15.3809067 30.6826166,15.7866667 31.185,15.7866667 L34.02,15.7866667 L36.231086,15.7866667 L37.4609411,15.7866667 C37.9633245,15.7866667 38.3702808,15.3809067 38.3702808,14.88 C38.3702808,14.3790933 37.9633245,13.9733333 37.4609411,13.9733333 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71888,7 +71762,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M45.315,17.1 L44.28036,17.1 L42.42024,17.1 L40.03524,17.1 C39.6126,17.1 39.27024,17.44236 39.27024,17.865 C39.27024,18.28764 39.6126,18.63 40.03524,18.63 L42.42024,18.63 L44.28036,18.63 L45.315,18.63 C45.73764,18.63 46.08,18.28764 46.08,17.865 C46.08,17.44236 45.73764,17.1 45.315,17.1 Z",
+                                  "M53.865,20.2666667 L52.6351449,20.2666667 L50.4240589,20.2666667 L47.5890589,20.2666667 C47.0866755,20.2666667 46.6797192,20.6724267 46.6797192,21.1733333 C46.6797192,21.67424 47.0866755,22.08 47.5890589,22.08 L50.4240589,22.08 L52.6351449,22.08 L53.865,22.08 C54.3673834,22.08 54.7743396,21.67424 54.7743396,21.1733333 C54.7743396,20.6724267 54.3673834,20.2666667 53.865,20.2666667 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71897,7 +71771,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M34.47,17.1 L21.555,17.1 L11.295,17.1 L7.335,17.1 C6.91236,17.1 6.57,17.44236 6.57,17.865 C6.57,18.28764 6.91236,18.63 7.335,18.63 L11.295,18.63 L21.555,18.63 L34.47,18.63 C34.89264,18.63 35.235,18.28764 35.235,17.865 C35.235,17.44236 34.89264,17.1 34.47,17.1 Z",
+                                  "M40.9737736,20.2666667 L25.6219811,20.2666667 L13.4261321,20.2666667 L8.71896226,20.2666667 C8.21657887,20.2666667 7.80962264,20.6724267 7.80962264,21.1733333 C7.80962264,21.67424 8.21657887,22.08 8.71896226,22.08 L13.4261321,22.08 L25.6219811,22.08 L40.9737736,22.08 C41.476157,22.08 41.8831132,21.67424 41.8831132,21.1733333 C41.8831132,20.6724267 41.476157,20.2666667 40.9737736,20.2666667 Z",
                                 id: "Path",
                                 fill: "#FDE1A7"
                               }
@@ -71911,14 +71785,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "bulb_x5F_2",
-                            transform: "translate(178.920000, 38.880000)"
+                            transform: "translate(212.000000, 46.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M22.05,10.98 C22.05,4.9158 17.1342,0 11.07,0 C5.0058,0 0.09,4.9158 0.09,10.98 C0.09,17.0442 5.0058,21.96 11.07,21.96 C11.25504,21.96 11.43864,21.95496 11.62152,21.94596 L11.62152,21.94596 L16.05096,27 L16.05096,20.76444 L16.05096,20.76444 C19.61064,18.9486 22.05,15.25032 22.05,10.98 Z",
+                                "M25.8847826,13.0133333 C25.8847826,5.82613333 20.1140609,0 12.9952174,0 C5.87637391,0 0.105652174,5.82613333 0.105652174,13.0133333 C0.105652174,20.2005333 5.87637391,26.0266667 12.9952174,26.0266667 C13.2124383,26.0266667 13.4279687,26.0206933 13.6426539,26.0100267 L13.6426539,26.0100267 L18.8424313,32 L18.8424313,24.6097067 L18.8424313,24.6097067 C23.0211861,22.4576 25.8847826,18.0744533 25.8847826,13.0133333 Z",
                               id: "Path",
                               fill: "url(#linearGradient-53)"
                             }
@@ -71927,7 +71801,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.3882,7.56504 C15.3882,8.14176 15.30576,8.66196 15.14052,9.126 C14.97528,9.59004 14.74308,9.99072 14.44428,10.3284 C14.14548,10.66608 13.78692,10.93644 13.3686,11.14056 C12.95028,11.34468 12.48804,11.47464 11.98152,11.5308 L11.89728,13.58748 C11.89008,13.7142 11.79,13.80888 11.59668,13.87224 C11.40336,13.9356 11.124,13.96728 10.75824,13.96728 C10.52604,13.96728 10.33092,13.96188 10.17288,13.95144 C10.01484,13.941 9.88992,13.92156 9.79848,13.89348 C9.70704,13.8654 9.64044,13.82652 9.59796,13.77756 C9.55584,13.7286 9.531,13.66524 9.52416,13.58784 L9.42912,11.0988 C9.42192,10.8738 9.43272,10.69128 9.4608,10.55052 C9.48888,10.40976 9.54,10.29744 9.6138,10.21284 C9.6876,10.12824 9.78084,10.07028 9.89316,10.03896 C10.00548,10.00764 10.1394,9.99144 10.29384,9.99144 L10.44144,9.99144 C10.81404,9.99144 11.13588,9.93168 11.4066,9.81216 C11.67732,9.69264 11.90052,9.5346 12.0762,9.33768 C12.25188,9.14112 12.3804,8.90892 12.46104,8.64144 C12.54204,8.37432 12.58236,8.08956 12.58236,7.78716 C12.58236,7.44948 12.53484,7.14024 12.4398,6.85908 C12.34476,6.57792 12.20076,6.33528 12.00744,6.13152 C11.81412,5.92776 11.57148,5.77152 11.27988,5.66208 C10.98792,5.553 10.6452,5.49864 10.25172,5.49864 C9.89316,5.49864 9.57672,5.53392 9.3024,5.60412 C9.02808,5.67432 8.79264,5.75172 8.59572,5.83632 C8.3988,5.92092 8.23536,5.99832 8.1054,6.06852 C7.97544,6.13872 7.875,6.174 7.8048,6.174 C7.75548,6.174 7.70976,6.15816 7.66764,6.12648 C7.62552,6.0948 7.59024,6.03684 7.56216,5.9526 C7.53408,5.86836 7.51104,5.74884 7.49376,5.59404 C7.47612,5.4396 7.46748,5.24232 7.46748,5.00328 C7.46748,4.75704 7.47792,4.57776 7.49916,4.46544 C7.5204,4.35312 7.56612,4.26168 7.63632,4.19112 C7.70652,4.12092 7.84008,4.03812 8.037,3.94344 C8.23392,3.84876 8.46936,3.76056 8.74368,3.67992 C9.018,3.59928 9.32364,3.53052 9.66132,3.47436 C9.999,3.4182 10.35036,3.39012 10.71612,3.39012 C11.54592,3.39012 12.25584,3.5046 12.8466,3.73284 C13.43736,3.96144 13.92048,4.26924 14.29668,4.65552 C14.67288,5.04216 14.949,5.48532 15.12468,5.98428 C15.30036,6.48216 15.3882,7.00956 15.3882,7.56504 Z M12.26628,16.60356 C12.26628,16.89192 12.2436,17.13456 12.19788,17.33112 C12.15216,17.52804 12.07116,17.68608 11.95524,17.8056 C11.83932,17.92548 11.68452,18.01116 11.4912,18.06408 C11.29788,18.117 11.06064,18.14328 10.77912,18.14328 C10.48392,18.14328 10.24128,18.117 10.05156,18.06408 C9.86184,18.01116 9.70884,17.92548 9.59292,17.8056 C9.477,17.68608 9.396,17.52804 9.35028,17.33112 C9.30456,17.13456 9.28188,16.89192 9.28188,16.60356 C9.28188,16.30836 9.30456,16.06032 9.35028,15.86016 C9.396,15.66 9.477,15.498 9.59292,15.37488 C9.70884,15.25212 9.86184,15.16392 10.05156,15.11136 C10.24128,15.0588 10.48392,15.03216 10.77912,15.03216 C11.06028,15.03216 11.29752,15.05844 11.4912,15.11136 C11.68488,15.16428 11.83932,15.25212 11.95524,15.37488 C12.07116,15.498 12.15216,15.65964 12.19788,15.86016 C12.2436,16.06068 12.26628,16.30836 12.26628,16.60356 Z",
+                                "M18.0644087,8.96597333 C18.0644087,9.64949333 17.9676313,10.2660267 17.7736539,10.816 C17.5796765,11.3659733 17.3070939,11.8408533 16.9563287,12.2410667 C16.6055635,12.64128 16.1846452,12.9617067 15.6935739,13.2036267 C15.2025026,13.4455467 14.659873,13.5995733 14.0652626,13.6661333 L13.9663722,16.10368 C13.95792,16.2538667 13.8404348,16.36608 13.6134939,16.4411733 C13.386553,16.5162667 13.0586087,16.5538133 12.6292383,16.5538133 C12.3566557,16.5538133 12.1276017,16.5474133 11.9420765,16.53504 C11.7565513,16.5226667 11.6099061,16.4996267 11.5025635,16.4663467 C11.3952209,16.4330667 11.3170383,16.3869867 11.2671704,16.32896 C11.2177252,16.2709333 11.1885652,16.19584 11.1805357,16.1041067 L11.068967,13.1541333 C11.0605148,12.8874667 11.073193,12.6711467 11.1061565,12.50432 C11.13912,12.3374933 11.1991304,12.2043733 11.2857652,12.1041067 C11.3724,12.00384 11.4818557,11.9351467 11.6137096,11.8980267 C11.7455635,11.8609067 11.9027739,11.8417067 12.084073,11.8417067 L12.2573426,11.8417067 C12.6947426,11.8417067 13.0725548,11.77088 13.3903565,11.6292267 C13.7081583,11.4875733 13.9701757,11.3002667 14.1764087,11.06688 C14.3826417,10.83392 14.533513,10.55872 14.6281774,10.2417067 C14.7232643,9.92512 14.7705965,9.58762667 14.7705965,9.22922667 C14.7705965,8.82901333 14.7148122,8.46250667 14.6032435,8.12928 C14.4916748,7.79605333 14.3226313,7.50848 14.0956904,7.26698667 C13.8687496,7.02549333 13.5839113,6.84032 13.2415983,6.71061333 C12.8988626,6.58133333 12.4965391,6.51690667 12.0346278,6.51690667 C11.6137096,6.51690667 11.2422365,6.55872 10.9202087,6.64192 C10.5981809,6.72512 10.3217948,6.81685333 10.0906278,6.91712 C9.85946087,7.01738667 9.66759652,7.10912 9.51503478,7.19232 C9.36247304,7.27552 9.24456522,7.31733333 9.16215652,7.31733333 C9.10425913,7.31733333 9.05058783,7.29856 9.00114261,7.26101333 C8.95169739,7.22346667 8.91028174,7.15477333 8.87731826,7.05493333 C8.84435478,6.95509333 8.81730783,6.81344 8.79702261,6.62997333 C8.77631478,6.44693333 8.76617217,6.21312 8.76617217,5.92981333 C8.76617217,5.63797333 8.77842783,5.42549333 8.80336174,5.29237333 C8.82829565,5.15925333 8.88196696,5.05088 8.96437565,4.96725333 C9.04678435,4.88405333 9.20357217,4.78592 9.43473913,4.67370667 C9.66590609,4.56149333 9.94229217,4.45696 10.26432,4.36138667 C10.5863478,4.26581333 10.9451426,4.18432 11.3415496,4.11776 C11.7379565,4.0512 12.1504226,4.01792 12.579793,4.01792 C13.5539061,4.01792 14.3872904,4.1536 15.0807913,4.42410667 C15.7742922,4.69504 16.341433,5.05984 16.7830591,5.51765333 C17.2246852,5.97589333 17.5488261,6.50112 17.7550591,7.09248 C17.9612922,7.68256 18.0644087,8.30762667 18.0644087,8.96597333 Z M14.3995461,19.6782933 C14.3995461,20.0200533 14.3729217,20.3076267 14.3192504,20.5405867 C14.2655791,20.7739733 14.1704922,20.96128 14.0344122,21.1029333 C13.8983322,21.2450133 13.7166104,21.34656 13.4896696,21.40928 C13.2627287,21.472 12.9842296,21.5031467 12.6537496,21.5031467 C12.3072104,21.5031467 12.0223722,21.472 11.7996574,21.40928 C11.5769426,21.34656 11.3973339,21.2450133 11.2612539,21.1029333 C11.1251739,20.96128 11.030087,20.7739733 10.9764157,20.5405867 C10.9227443,20.3076267 10.89612,20.0200533 10.89612,19.6782933 C10.89612,19.3284267 10.9227443,19.0344533 10.9764157,18.7972267 C11.030087,18.56 11.1251739,18.368 11.2612539,18.22208 C11.3973339,18.0765867 11.5769426,17.9720533 11.7996574,17.90976 C12.0223722,17.8474667 12.3072104,17.8158933 12.6537496,17.8158933 C12.983807,17.8158933 13.2623061,17.84704 13.4896696,17.90976 C13.717033,17.97248 13.8983322,18.0765867 14.0344122,18.22208 C14.1704922,18.368 14.2655791,18.5595733 14.3192504,18.7972267 C14.3729217,19.03488 14.3995461,19.3284267 14.3995461,19.6782933 Z",
                               id: "Shape",
                               fill: "#FDE1A7"
                             }
@@ -71940,14 +71814,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "right_hand",
-                            transform: "translate(163.800000, 87.120000)"
+                            transform: "translate(194.000000, 103.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.72012,9.36 C13.74012,5.15988 13.14036,4.74012 11.40012,3.06 C9.65988,1.37988 8.3934,0.08136 8.03988,0.24012 C7.57116,0.45 7.68024,1.68012 8.07012,2.73024 C8.46,3.78036 9.11988,4.32036 9.11988,4.32036 C9.11988,4.32036 7.95024,4.20048 5.46012,3.09024 C2.97,1.98 0.93024,0.24012 0.51012,0.66024 C0.09,1.08036 0.92988,2.52036 0.92988,2.52036 C0.92988,2.52036 0.2592,2.09268 0.09,2.58048 C0.00828,2.81592 0.3924,3.62916 0.72,4.14036 C1.01844,4.6062 1.82988,5.43024 1.82988,5.43024 C1.82988,5.43024 1.65024,5.79024 2.13012,6.57036 C2.61,7.35048 4.86,9.63036 7.2,10.73304 C8.95356,11.55924 10.77012,11.70072 10.77012,11.70072 C10.77012,11.70072 10.62252,13.67496 10.68948,16.92288 C12.32712,16.70004 15.0354,16.11576 17.49492,14.72688 C16.9182,12.56688 16.30368,10.59768 15.72012,9.36 Z",
+                                "M18.6676425,11.04 C16.3163925,6.08601231 15.6041775,5.59091077 13.5376425,3.60923077 C11.4711075,1.62755077 9.9671625,0.0959630769 9.5473575,0.283218462 C8.9907525,0.530769231 9.120285,1.98168 9.5832675,3.22028308 C10.04625,4.45888615 10.8298575,5.09580923 10.8298575,5.09580923 C10.8298575,5.09580923 9.44091,4.95441231 6.4838925,3.64489846 C3.526875,2.33538462 1.10466,0.283218462 0.6057675,0.778744615 C0.106875,1.27427077 1.1042325,2.97273231 1.1042325,2.97273231 C1.1042325,2.97273231 0.3078,2.46828923 0.106875,3.04364308 C0.0098325,3.32134154 0.465975,4.28054769 0.855,4.88350154 C1.2093975,5.43295385 2.1729825,6.40489846 2.1729825,6.40489846 C2.1729825,6.40489846 1.95966,6.82951385 2.5295175,7.74965538 C3.099375,8.66979692 5.77125,11.3588862 8.55,12.6594831 C10.6323525,13.6339754 12.7895175,13.8008492 12.7895175,13.8008492 C12.7895175,13.8008492 12.6142425,16.12944 12.6937575,19.96032 C14.638455,19.6974831 17.8545375,19.0083323 20.7752175,17.3701662 C20.0903625,14.8224738 19.36062,12.4998277 18.6676425,11.04 Z",
                               id: "Path",
                               fill: "url(#linearGradient-54)"
                             }
@@ -71956,7 +71830,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.00332,2.46636 C1.1484,2.6496 1.33848,2.8134 1.5228,2.97504 C1.71,3.1356 1.90296,3.2904 2.0988,3.4416 C2.49084,3.74256 2.89404,4.0338 3.3084,4.28976 C3.39336,4.34124 3.42072,4.45212 3.36924,4.53708 C3.3174,4.62204 3.20688,4.6494 3.12156,4.59756 C3.11868,4.59576 3.114,4.59288 3.11148,4.59072 C2.6946,4.29768 2.30652,3.98016 1.92672,3.65076 C1.73736,3.48588 1.55124,3.31704 1.37016,3.14208 C1.19052,2.9646 1.00908,2.79072 0.85608,2.57364 C0.82692,2.53224 0.83664,2.47572 0.87804,2.44656 C0.91764,2.41884 0.97236,2.42676 1.00188,2.4642 L1.00332,2.46636 Z",
+                                "M1.1914425,2.90904 C1.363725,3.12516923 1.589445,3.31836923 1.808325,3.50902154 C2.030625,3.6984 2.259765,3.88098462 2.492325,4.05932308 C2.9578725,4.41430154 3.4366725,4.75781538 3.928725,5.05971692 C4.029615,5.12043692 4.062105,5.25121846 4.0009725,5.35142769 C3.9394125,5.45163692 3.80817,5.48390769 3.7068525,5.42276308 C3.7034325,5.42064 3.697875,5.41724308 3.6948825,5.41469538 C3.1998375,5.06905846 2.7389925,4.69454769 2.28798,4.30602462 C2.063115,4.11155077 1.8420975,3.91240615 1.627065,3.70604308 C1.4137425,3.49670769 1.1982825,3.29161846 1.016595,3.03557538 C0.9819675,2.98674462 0.99351,2.92008 1.0426725,2.88568615 C1.0896975,2.85299077 1.1546775,2.86233231 1.1897325,2.90649231 L1.1914425,2.90904 Z",
                               id: "Path",
                               fill: "#1AA9E8"
                             }
@@ -71965,7 +71839,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.7766,5.355 C1.82556,5.3154 1.91376,5.2542 1.998,5.23332 C2.08188,5.20848 2.1708,5.2002 2.25432,5.20884 C2.42316,5.22324 2.57256,5.2812 2.7126,5.3442 C2.99088,5.47848 3.24396,5.62104 3.50136,5.7924 C3.75048,5.9652 3.98052,6.15384 4.21488,6.3234 C4.44528,6.48936 4.69548,6.65568 4.9212,6.69276 L4.92948,6.69384 C5.02776,6.71004 5.09436,6.80256 5.07816,6.90084 C5.06232,6.99876 4.96944,7.06572 4.87152,7.04952 C4.8672,7.0488 4.86288,7.04808 4.85856,7.047 C4.49964,6.96096 4.26168,6.75756 4.023,6.57432 C3.78792,6.38568 3.5694,6.18768 3.34152,6.01236 C3.11616,5.84496 2.85984,5.68368 2.61288,5.5494 C2.36376,5.41944 2.09232,5.33268 1.88316,5.50476 C1.84428,5.5368 1.78596,5.5314 1.75392,5.49216 C1.72188,5.45292 1.72728,5.39496 1.76652,5.36256 C1.76652,5.36256 1.76652,5.36256 1.76688,5.36256 L1.7766,5.355 Z",
+                                "M2.1097125,6.31615385 C2.1678525,6.26944615 2.27259,6.19726154 2.372625,6.17263385 C2.4722325,6.14333538 2.577825,6.13356923 2.677005,6.14376 C2.8775025,6.16074462 3.054915,6.22910769 3.2212125,6.30341538 C3.55167,6.46179692 3.8522025,6.62994462 4.157865,6.83206154 C4.453695,7.03587692 4.7268675,7.25837538 5.00517,7.45836923 C5.27877,7.65411692 5.5758825,7.85028923 5.843925,7.89402462 L5.8537575,7.89529846 C5.970465,7.91440615 6.0495525,8.02353231 6.030315,8.13945231 C6.011505,8.25494769 5.90121,8.33392615 5.78493,8.31481846 C5.7798,8.31396923 5.77467,8.31312 5.76954,8.31184615 C5.3433225,8.21036308 5.060745,7.97045538 4.7773125,7.75432615 C4.498155,7.53182769 4.2386625,7.29828923 3.968055,7.09150154 C3.70044,6.89405538 3.39606,6.70382769 3.102795,6.54544615 C2.806965,6.39216 2.48463,6.28982769 2.2362525,6.49279385 C2.1900825,6.53058462 2.1208275,6.52421538 2.08278,6.47793231 C2.0447325,6.43164923 2.051145,6.36328615 2.0977425,6.32507077 C2.0977425,6.32507077 2.0977425,6.32507077 2.09817,6.32507077 L2.1097125,6.31615385 Z",
                               id: "Path",
                               fill: "#1AA9E8"
                             }
@@ -71974,7 +71848,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.13968,4.257 C9.8388,4.42188 10.50804,4.74444 11.11356,5.13252 L11.11716,5.13468 C11.20104,5.18832 11.22552,5.29992 11.17152,5.3838 C11.11752,5.46768 11.00628,5.49216 10.9224,5.43816 C10.917,5.43492 10.91196,5.43096 10.90692,5.427 C10.36008,4.98852 9.76644,4.61844 9.10008,4.38228 C9.06552,4.37004 9.04752,4.33224 9.06012,4.29804 C9.07128,4.266 9.10476,4.24836 9.13716,4.25556 L9.13968,4.257 Z",
+                                "M10.85337,5.02107692 C11.683575,5.21555077 12.4782975,5.59600615 13.1973525,6.05374154 L13.2016275,6.05628923 C13.301235,6.11955692 13.330305,6.25118769 13.26618,6.35012308 C13.202055,6.44905846 13.0699575,6.47793231 12.97035,6.41424 C12.9639375,6.41041846 12.9579525,6.40574769 12.9519675,6.40107692 C12.302595,5.88389538 11.5976475,5.44739077 10.806345,5.16884308 C10.765305,5.15440615 10.74393,5.10982154 10.7588925,5.06948308 C10.772145,5.03169231 10.8119025,5.01088615 10.8503775,5.01937846 L10.85337,5.02107692 Z",
                               id: "Path",
                               fill: "#1AA9E8"
                             }
@@ -71983,7 +71857,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M30.3912,15.92136 C29.94012,14.4 28.17,14.22 28.17,14.22 C27.29988,15.3 20.04012,26.16012 20.04012,26.16012 C20.04012,26.16012 18.87588,19.89396 17.49528,14.72616 C15.03576,16.11468 12.32748,16.69932 10.68984,16.92216 C10.7442,19.53648 10.93752,22.9752 11.4606,26.88012 C12.55536,35.055 14.12964,37.83924 16.02036,38.22012 C18.18036,38.655 23.1606,36.42012 27.3006,33.60024 C31.4406,30.78036 30.84228,17.44236 30.3912,15.92136 Z",
+                                "M36.08955,18.77904 C35.5538925,16.9846154 33.451875,16.7723077 33.451875,16.7723077 C32.4186075,18.0461538 23.7976425,30.8555262 23.7976425,30.8555262 C23.7976425,30.8555262 22.4151075,23.4646708 20.775645,17.3693169 C17.854965,19.0070585 14.6388825,19.6966338 12.694185,19.9594708 C12.7587375,23.0430277 12.988305,27.0989538 13.6094625,31.7047569 C14.90949,41.3469231 16.7789475,44.6308985 19.0241775,45.0801415 C21.5891775,45.5930769 27.5032125,42.9570646 32.4194625,39.6310523 C37.3357125,36.30504 36.6252075,20.57304 36.08955,18.77904 Z",
                               id: "Path",
                               fill: "url(#linearGradient-55)"
                             }
@@ -71992,7 +71866,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.3682,34.74216 C17.08416,34.74216 16.85052,34.6698 16.6788,34.51284 C13.77468,31.86432 13.03164,17.06436 13.0014,16.4358 C12.99636,16.33644 13.07304,16.2522 13.1724,16.24752 C13.28256,16.2414 13.356,16.31952 13.36068,16.41888 C13.36824,16.57116 14.12604,31.698 16.92144,34.24716 C18.32436,35.52984 26.1558,28.95912 31.0752,24.23052 C31.14612,24.16176 31.26096,24.1632 31.32972,24.23556 C31.39848,24.3072 31.39668,24.42132 31.32468,24.49008 C30.1518,25.61724 20.55816,34.74216 17.3682,34.74216 Z",
+                                "M20.6247375,40.9779323 C20.28744,40.9779323 20.0099925,40.8925846 19.806075,40.7074523 C16.3574325,37.5835569 15.4750725,20.1271938 15.4391625,19.3858154 C15.4331775,19.2686215 15.524235,19.1692615 15.642225,19.1637415 C15.77304,19.1565231 15.86025,19.2486646 15.8658075,19.3658585 C15.874785,19.5454708 16.7746725,37.3873846 20.09421,40.3940862 C21.7601775,41.9069908 31.0600125,34.1569108 36.9018,28.5795877 C36.9860175,28.4984862 37.12239,28.5001846 37.2040425,28.5855323 C37.285695,28.6700308 37.2835575,28.8046338 37.1980575,28.8857354 C35.8052625,30.2152062 24.412815,40.9779323 20.6247375,40.9779323 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72003,14 +71877,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(10.440000, 18.360000)"
+                                transform: "translate(12.397500, 21.655385)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M5.3982,2.36664 L5.15268,1.11492 C5.06232,0.65448 4.61556,0.35388 4.15476,0.44424 C4.15476,0.44424 2.02284,1.10628 0.3546,1.3518 C0.40608,2.32632 0.47592,3.36492 0.5724,4.4676 C2.13588,4.38336 4.7268,3.36492 4.7268,3.36492 C5.18796,3.27492 5.48856,2.8278 5.3982,2.36664 Z",
+                                    "M6.4103625,2.79142154 L6.1188075,1.31503385 C6.011505,0.771950769 5.4809775,0.417396923 4.9337775,0.523975385 C4.9337775,0.523975385 2.4021225,1.30484308 0.4210875,1.59443077 C0.48222,2.74386462 0.565155,3.96888 0.679725,5.26947692 C2.5363575,5.17011692 5.613075,3.96888 5.613075,3.96888 C6.1607025,3.86272615 6.517665,3.33535385 6.4103625,2.79142154 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-56)"
                                 }
@@ -72019,7 +71893,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M0.57276,4.6476 C0.47988,4.6476 0.4014,4.57668 0.39348,4.48308 C0.30384,3.45996 0.2304,2.40948 0.17532,1.36116 C0.17028,1.26828 0.23688,1.18728 0.32868,1.1736 C1.9638,0.93312 4.0806,0.279 4.10148,0.27252 C4.18716,0.25488 4.25376,0.2484 4.31928,0.2484 C4.80996,0.2484 5.23476,0.59832 5.32944,1.08072 L5.57496,2.33244 C5.62788,2.6028 5.57244,2.87748 5.41872,3.10572 C5.265,3.33396 5.03208,3.48912 4.76172,3.54204 C4.68612,3.5748 2.15712,4.56264 0.58284,4.6476 C0.57888,4.6476 0.576,4.6476 0.57276,4.6476 Z M0.54324,1.5048 C0.594,2.43468 0.6588,3.36492 0.73656,4.275 C2.2662,4.13316 4.6368,3.20724 4.66128,3.19752 C4.86828,3.15396 5.01984,3.05316 5.11992,2.90448 C5.21964,2.7558 5.256,2.57688 5.22144,2.4012 L4.97592,1.14948 C4.90572,0.79344 4.55652,0.54684 4.1886,0.62064 C4.1868,0.6228 2.1798,1.24344 0.54324,1.5048 Z",
+                                    "M0.6801525,5.48178462 C0.5698575,5.48178462 0.4766625,5.39813538 0.4672575,5.28773538 C0.36081,4.08097846 0.2736,2.84195077 0.2081925,1.60547077 C0.2022075,1.49592 0.281295,1.40038154 0.3903075,1.38424615 C2.3320125,1.10060308 4.8457125,0.329076923 4.8705075,0.321433846 C4.9722525,0.300627692 5.05134,0.292984615 5.129145,0.292984615 C5.7118275,0.292984615 6.2162775,0.705710769 6.32871,1.27469538 L6.620265,2.75108308 C6.6831075,3.06996923 6.6172725,3.39395077 6.43473,3.66315692 C6.2521875,3.93236308 5.975595,4.11537231 5.6545425,4.17779077 C5.5647675,4.21643077 2.56158,5.38157538 0.6921225,5.48178462 C0.68742,5.48178462 0.684,5.48178462 0.6801525,5.48178462 Z M0.6450975,1.77489231 C0.705375,2.87167385 0.782325,3.96888 0.874665,5.04230769 C2.6911125,4.87500923 5.5062,3.78289846 5.53527,3.77143385 C5.7810825,3.72005538 5.96106,3.60116308 6.079905,3.42579692 C6.1983225,3.25043077 6.2415,3.03939692 6.20046,2.83218462 L5.908905,1.35579692 C5.8255425,0.935852308 5.4108675,0.644990769 4.9739625,0.732036923 C4.971825,0.734584615 2.5885125,1.46662154 0.6450975,1.77489231 Z",
                                   id: "Shape",
                                   fill: "#3369FF"
                                 }
@@ -72034,14 +71908,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "boy_x5F_head",
-                            transform: "translate(194.400000, 66.600000)"
+                            transform: "translate(230.000000, 79.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.00948,28.37052 C22.77,27.135 20.7,25.74 16.785,24.615 C12.87,23.49 1.53,24.57 0.225,27.675 C-1.08,30.78 4.33548,35.30448 8.91756,36.37224 C13.49964,37.44 24.72012,36 26.055,31.5 C26.38296,30.39408 24.00948,28.37052 24.00948,28.37052 Z",
+                                "M28.45568,33.7379157 C26.9866667,32.2686486 24.5333333,30.6097297 19.8933333,29.2718919 C15.2533333,27.9340541 1.81333333,29.2183784 0.266666667,32.9108108 C-1.28,36.6032432 5.13834667,41.9837059 10.56896,43.2534746 C15.9995733,44.5232432 29.29792,42.8108108 30.88,37.4594595 C31.2686933,36.1443114 28.45568,33.7379157 28.45568,33.7379157 Z",
                               id: "Path",
                               fill: "url(#linearGradient-57)"
                             }
@@ -72050,7 +71924,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.64,22.61988 C17.055,24.57 18.66024,32.58 19.32012,34.85988 C17.415,36.315 14.7366,36.93888 11.34,36.72 C7.155,36.45 5.4,34.80012 5.4,34.80012 C5.4,34.80012 7.785,31.995 8.33976,26.40024 C8.83116,21.44304 17.64,22.61988 17.64,22.61988 Z",
+                                "M20.9066667,26.8993168 C20.2133333,29.2183784 22.11584,38.7437838 22.89792,41.4549924 C20.64,43.1854054 17.4656,43.9273168 13.44,43.667027 C8.48,43.3459459 6.4,41.3839265 6.4,41.3839265 C6.4,41.3839265 9.22666667,38.0481081 9.88416,31.39488 C10.46656,25.4998314 20.9066667,26.8993168 20.9066667,26.8993168 Z",
                               id: "Path",
                               fill: "url(#linearGradient-58)"
                             }
@@ -72059,7 +71933,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M19.28016,19.8432 C21.1176,17.34768 23.16744,13.19364 19.92024,8.66988 C18.09,6.12 14.3982,5.01372 12.375,5.22 C7.4304,5.724 6.57036,8.37 6.57036,8.37 C4.29012,10.86012 0.81036,22.32 5.58,26.01 C9.68364,29.18484 14.86476,25.4016 16.74684,23.11164 C17.1036,23.40396 17.55972,23.57928 18.05688,23.57928 C19.19988,23.57928 20.12616,22.65264 20.12616,21.50964 C20.1258,20.82492 19.79244,20.22012 19.28016,19.8432 Z",
+                                "M22.85056,23.5973189 C25.0282667,20.6296735 27.4577067,15.6897341 23.6091733,10.3101276 C21.44,7.27783784 17.0645333,5.96226162 14.6666667,6.20756757 C8.8064,6.80691892 7.78709333,9.95351351 7.78709333,9.95351351 C5.08458667,12.9147373 0.960426667,26.5427027 6.61333333,30.9308108 C11.4769067,34.7062962 17.6174933,30.2073081 19.8481067,27.4841124 C20.2709333,27.8317362 20.81152,28.0402249 21.4007467,28.0402249 C22.7554133,28.0402249 23.8532267,26.9382746 23.8532267,25.5790314 C23.8528,24.7647697 23.4577067,24.0455481 22.85056,23.5973189 Z",
                               id: "Path",
                               fill: "url(#radialGradient-59)"
                             }
@@ -72068,7 +71942,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.30024,10.77012 C16.96752,10.79928 12.99744,12.52296 12.30768,11.31768 C11.62512,10.125 14.29056,8.75196 13.79268,7.89768 C13.185,6.85512 11.11068,7.97256 9.405,8.75268 C7.29,9.72036 5.79456,9.66924 3.735,7.515 C1.77732,5.46732 1.69488,2.97 2.79,2.16 C4.0716,1.21248 5.51988,1.50012 6.36768,2.00232 C7.22484,2.51064 8.3574,3.96252 9.33768,3.26232 C10.23012,2.62476 9.14652,0.93132 10.41768,0.33732 C11.68524,-0.25524 13.87512,0.62244 15.00012,2.12976 C16.12512,3.63708 16.15284,4.1778 17.93268,4.43232 C20.29536,4.77 24.94368,6.08292 25.20036,12.20976 C25.41024,17.21988 22.12164,19.1646 20.92536,19.91736 C19.72908,20.67012 21.10788,15.4512 20.79036,13.37976 C20.63268,12.35268 19.68048,10.73988 18.30024,10.77012 Z",
+                                "M21.6891733,12.8077103 C20.1096533,12.842387 15.4043733,14.8921686 14.58688,13.4588627 C13.77792,12.0405405 16.93696,10.4077362 16.34688,9.39183568 C15.6266667,8.15203459 13.1682133,9.48088216 11.1466667,10.4085924 C8.64,11.559347 6.86762667,11.4985557 4.42666667,8.93675676 C2.10645333,6.50167784 2.00874667,3.53189189 3.30666667,2.56864865 C4.8256,1.44186811 6.54208,1.78392649 7.54688,2.3811373 C8.56277333,2.98562595 9.90506667,4.71218595 11.06688,3.87951568 C12.1245867,3.12133622 10.84032,1.10751568 12.34688,0.401137297 C13.8491733,-0.303528649 16.4445867,0.740198919 17.77792,2.53268757 C19.1112533,4.32517622 19.1441067,4.96819459 21.2535467,5.27086703 C24.05376,5.67243243 29.56288,7.2337427 29.8670933,14.5197146 C30.11584,20.4776951 26.21824,22.7903351 24.8004267,23.6855092 C23.3826133,24.5806832 25.0167467,18.3744 24.6404267,15.9110659 C24.4535467,14.6896735 23.3250133,12.7717492 21.6891733,12.8077103 Z",
                               id: "Path",
                               fill: "url(#linearGradient-60)"
                             }
@@ -72077,7 +71951,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.30024,14.58 C8.94744,14.4036 6.95988,15.54012 5.64012,16.58988 C4.45572,17.53236 3.05748,18.04788 3.2238,18.684 C3.39012,19.32012 5.70024,20.04012 5.70024,20.04012 C5.70024,20.04012 6.15636,18.77724 7.29036,17.43012 C8.48988,16.00488 9.66024,14.76 9.30024,14.58 Z",
+                                "M11.0225067,17.3383784 C10.6043733,17.1286054 8.24874667,18.4801427 6.68458667,19.7285059 C5.28085333,20.849293 3.62368,21.4623438 3.8208,22.2188108 C4.01792,22.9752778 6.75584,23.8314941 6.75584,23.8314941 C6.75584,23.8314941 7.29642667,22.3296908 8.64042667,20.7277103 C10.06208,19.0328303 11.4491733,17.5524324 11.0225067,17.3383784 Z",
                               id: "Path",
                               fill: "url(#linearGradient-61)"
                             }
@@ -72086,7 +71960,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.48792,23.796 C6.37704,23.796 6.2568,23.78376 6.1272,23.75604 C4.9158,23.49756 4.42728,21.94416 4.5162,21.2184 C4.52808,21.11976 4.61844,21.04776 4.71672,21.06144 C4.81536,21.07332 4.88592,21.16332 4.87368,21.26196 C4.80744,21.80376 5.17968,23.1858 6.20244,23.40432 C7.01964,23.57748 7.21548,22.99536 7.2234,22.97052 C7.25364,22.87584 7.353,22.82184 7.44984,22.85388 C7.54452,22.88412 7.59672,22.98528 7.56648,23.07996 C7.47936,23.35248 7.14996,23.796 6.48792,23.796 Z",
+                                "M7.68938667,28.2979459 C7.55797333,28.2979459 7.41546667,28.2833903 7.26186667,28.2504259 C5.82613333,27.9430443 5.24714667,26.0957578 5.35253333,25.2326919 C5.36661333,25.1153903 5.47370667,25.0297686 5.59018667,25.0460368 C5.70709333,25.0601643 5.79072,25.1671914 5.77621333,25.284493 C5.69770667,25.9287957 6.13888,27.5723027 7.35104,27.8321643 C8.31957333,28.0380843 8.55168,27.3458335 8.56106667,27.3162941 C8.59690667,27.2037016 8.71466667,27.1394854 8.82944,27.177587 C8.94165333,27.2135481 9.00352,27.3338465 8.96768,27.4464389 C8.86442667,27.7705168 8.47402667,28.2979459 7.68938667,28.2979459 Z",
                               id: "Path",
                               fill: "#9F36AD"
                             }
@@ -72095,7 +71969,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.54052,18.50292 C11.21148,18.88452 10.63512,18.92664 10.25424,18.59724 L10.25424,18.59724 C9.87228,18.26748 9.83016,17.69148 10.15956,17.31024 L11.62224,15.6168 C11.95128,15.2352 12.52764,15.19308 12.90852,15.52248 L12.90852,15.52248 C13.29048,15.85224 13.3326,16.42824 13.0032,16.80948 L11.54052,18.50292 Z",
+                                "M13.6776533,22.0034724 C13.28768,22.457267 12.6045867,22.5073557 12.1531733,22.1156368 L12.1531733,22.1156368 C11.70048,21.7234897 11.65056,21.0385168 12.04096,20.5851503 L13.7745067,18.5713297 C14.16448,18.1175351 14.8475733,18.0674465 15.2989867,18.4591654 L15.2989867,18.4591654 C15.75168,18.8513124 15.8016,19.5362854 15.4112,19.9896519 L13.6776533,22.0034724 Z",
                               id: "Path",
                               fill: "#212F66"
                             }
@@ -72104,7 +71978,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.97712,17.85096 C10.85616,17.99136 10.64412,18.00684 10.50408,17.88588 L10.50408,17.88588 C10.36404,17.76492 10.34856,17.55324 10.46952,17.41284 L11.007,16.7904 C11.12832,16.65036 11.33964,16.63452 11.47968,16.75584 L11.47968,16.75584 C11.62008,16.8768 11.63556,17.08884 11.51424,17.22888 L10.97712,17.85096 Z",
+                                "M13.00992,21.2281686 C12.86656,21.3951308 12.6152533,21.4135395 12.44928,21.2696951 L12.44928,21.2696951 C12.2833067,21.1258508 12.26496,20.8741232 12.40832,20.7071611 L13.0453333,19.9669622 C13.18912,19.8004281 13.4395733,19.7815914 13.6055467,19.9258638 L13.6055467,19.9258638 C13.7719467,20.0697081 13.7902933,20.3218638 13.6465067,20.4883978 L13.00992,21.2281686 Z",
                               id: "Path",
                               fill: "#00E2EC"
                             }
@@ -72113,7 +71987,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.45624,14.87268 C6.13404,15.24636 5.56992,15.2874 5.19696,14.9652 L5.19696,14.9652 C4.82328,14.64264 4.78188,14.07852 5.10444,13.7052 L6.53652,12.0474 C6.85872,11.67372 7.42284,11.63232 7.7958,11.95488 L7.7958,11.95488 C8.16948,12.27744 8.21088,12.84156 7.88832,13.21488 L6.45624,14.87268 Z",
+                                "M7.65184,17.6864303 C7.26997333,18.1308065 6.60138667,18.1796108 6.15936,17.7964541 L6.15936,17.7964541 C5.71648,17.4128692 5.66741333,16.7420238 6.04970667,16.2980757 L7.74698667,14.3266378 C8.12885333,13.8822616 8.79744,13.8330292 9.23946667,14.2166141 L9.23946667,14.2166141 C9.68234667,14.6001989 9.73141333,15.2710443 9.34912,15.7149924 L7.65184,17.6864303 Z",
                               id: "Path",
                               fill: "#212F66"
                             }
@@ -72122,7 +71996,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M5.90472,14.23476 C5.78628,14.37192 5.57892,14.38704 5.4414,14.26896 L5.4414,14.26896 C5.30424,14.15016 5.28912,13.94316 5.40756,13.80564 L5.93388,13.19616 C6.05268,13.059 6.25932,13.04388 6.39684,13.16232 L6.39684,13.16232 C6.53436,13.28112 6.54948,13.48848 6.43068,13.62564 L5.90472,14.23476 Z",
+                                "M6.99818667,16.9278227 C6.85781333,17.0909319 6.61205333,17.1089124 6.44906667,16.968493 L6.44906667,16.968493 C6.28650667,16.8272173 6.26858667,16.5810551 6.40896,16.4175178 L7.03274667,15.6927308 C7.17354667,15.5296216 7.41845333,15.5116411 7.58144,15.6524886 L7.58144,15.6524886 C7.74442667,15.7937643 7.76234667,16.0403546 7.62154667,16.2034638 L6.99818667,16.9278227 Z",
                               id: "Path",
                               fill: "#00E2EC"
                             }
@@ -72131,7 +72005,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.00012,14.91012 C23.805,10.19268 18.30024,10.77012 18.30024,10.77012 C18.30024,10.77012 19.215,11.40768 19.53036,13.47012 C19.90656,15.93072 19.19592,18.36972 18.60156,19.51524 C19.16928,19.67004 19.63908,20.05956 19.9008,20.57436 C21.08196,19.90116 24.12288,17.87472 24.00012,14.91012 Z",
+                                "M28.4445867,17.7309535 C28.2133333,12.1210249 21.6891733,12.8077103 21.6891733,12.8077103 C21.6891733,12.8077103 22.7733333,13.5658897 23.1470933,16.0185211 C23.59296,18.94464 22.75072,21.8450724 22.0462933,23.2073124 C22.7191467,23.3913989 23.2759467,23.8546119 23.5861333,24.4668065 C24.9860267,23.6662443 28.59008,21.2564238 28.4445867,17.7309535 Z",
                               id: "Path",
                               fill: "url(#linearGradient-62)"
                             }
@@ -72144,14 +72018,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "boy_x5F_body",
-                            transform: "translate(189.360000, 100.080000)"
+                            transform: "translate(224.000000, 118.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M30.9402,104.73228 C30.91248,99.54756 30.89988,94.08708 30.89988,91.37988 C30.89988,85.43988 31.5,66.05964 30.96,60.59988 C30.42,55.14012 29.16,44.52012 29.16,44.52012 C29.16,44.52012 18.90972,45.76716 12.59424,45.28116 C5.82012,44.76024 2.48688,42.9354 2.48688,42.9354 C2.40192,44.46756 1.78524,59.7204 2.55996,68.67792 C3.57948,80.46216 5.82192,96.8346 6.894,104.265 C8.34804,104.79384 11.46024,105.2964 14.51592,104.53428 C14.7438,96.51096 15.12144,85.68828 15.23988,81.9 C15.41988,76.14 16.26012,66.06 16.26012,66.06 C16.26012,66.06 18.41976,80.63964 19.62,87.77988 C20.35332,92.142 21.4218,99.05472 22.266,104.74668 C24.18768,105.08796 27.63612,105.20352 30.9402,104.73228 Z",
+                                "M36.7414875,123.505047 C36.70857,117.390991 36.6936075,110.951745 36.6936075,107.759292 C36.6936075,100.754575 37.40625,77.9005189 36.765,71.4621226 C36.12375,65.0237264 34.6275,52.5001415 34.6275,52.5001415 C34.6275,52.5001415 22.4552925,53.9707075 14.95566,53.3975943 C6.9113925,52.7833019 2.95317,50.6313679 2.95317,50.6313679 C2.85228,52.4381604 2.1199725,70.425 3.0399525,80.9881132 C4.2506325,94.8846226 6.91353,114.191745 8.186625,122.954009 C9.9132975,123.577642 13.609035,124.170283 17.237655,123.271557 C17.5082625,113.810094 17.95671,101.0475 18.0973575,96.5801887 C18.3111075,89.7877358 19.3088925,77.9009434 19.3088925,77.9009434 C19.3088925,77.9009434 21.873465,95.0939151 23.29875,103.514009 C24.1695675,108.658019 25.4383875,116.809811 26.440875,123.522028 C28.72287,123.924481 32.8178925,124.060755 36.7414875,123.505047 Z",
                               id: "Path",
                               fill: "url(#linearGradient-63)"
                             }
@@ -72160,7 +72034,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.06452,41.81076 C2.3652,43.12368 6.939,46.8486 23.499,44.5986 C22.92912,38.8386 21.18024,26.75988 21.66012,22.14 C22.14,17.52012 23.75172,2.54232 23.75172,2.54232 C23.75172,2.54232 18.30024,3.83976 14.10012,2.93976 C9.9,2.03976 8.03988,0.36 8.03988,0.36 C8.03988,0.36 4.59,8.1 2.43,23.04 C0.27,37.98 1.06452,41.81076 1.06452,41.81076 Z",
+                                "M1.2641175,49.3051415 C2.808675,50.8533962 8.2400625,55.2459906 27.9050625,52.5926887 C27.22833,45.8002358 25.151535,31.5564623 25.7213925,26.1084906 C26.29125,20.6605189 28.2051675,2.99801887 28.2051675,2.99801887 C28.2051675,2.99801887 21.731535,4.52801887 16.7438925,3.46669811 C11.75625,2.40537736 9.5473575,0.424528302 9.5473575,0.424528302 C9.5473575,0.424528302 5.450625,9.55188679 2.885625,27.1698113 C0.320625,44.7877358 1.2641175,49.3051415 1.2641175,49.3051415 Z",
                               id: "Path",
                               fill: "url(#linearGradient-64)"
                             }
@@ -72169,7 +72043,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.15036,45.44424 C12.05568,45.44424 11.97684,45.37116 11.97072,45.2754 C11.6082,39.55356 13.39956,8.0136 13.9212,2.9214 C13.93128,2.8224 14.01912,2.7504 14.11848,2.76048 C14.21712,2.77056 14.28948,2.85912 14.27904,2.95776 C13.75812,8.04456 11.9682,39.54276 12.33,45.25272 C12.33648,45.35172 12.26124,45.4374 12.16152,45.44352 C12.15756,45.44424 12.15396,45.44424 12.15036,45.44424 Z",
+                                "M14.4285525,53.5899057 C14.31612,53.5899057 14.2224975,53.5037264 14.21523,53.3908019 C13.7847375,46.6433491 15.9119775,9.45 16.531425,3.44504717 C16.543395,3.32830189 16.647705,3.24339623 16.765695,3.25528302 C16.88283,3.26716981 16.9687575,3.37160377 16.95636,3.48792453 C16.3377675,9.48650943 14.2122375,46.6306132 14.641875,53.3640566 C14.64957,53.4808019 14.5602225,53.5818396 14.441805,53.5890566 C14.4371025,53.5899057 14.4328275,53.5899057 14.4285525,53.5899057 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -72178,7 +72052,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.46928,67.64832 C16.3818,67.64832 16.30512,67.58424 16.2918,67.49496 C16.12764,66.39876 15.90336,64.76256 15.68664,63.18036 C15.37812,60.92604 15.0282,58.37076 14.95116,58.158 C14.84064,57.87108 12.91104,56.11896 12.08124,55.44468 C12.0042,55.38204 11.99232,55.269 12.05532,55.1916 C12.11796,55.1142 12.231,55.10232 12.3084,55.16568 C12.71484,55.4958 15.1146,57.56832 15.28812,58.032 C15.37272,58.25808 15.63012,60.11712 16.0434,63.13212 C16.25976,64.71324 16.48368,66.348 16.64748,67.44204 C16.66224,67.54032 16.59456,67.63176 16.49628,67.64652 C16.48728,67.6476 16.47828,67.64832 16.46928,67.64832 Z",
+                                "M19.55727,79.7739623 C19.4533875,79.7739623 19.36233,79.6983962 19.3465125,79.5931132 C19.1515725,78.3004245 18.88524,76.3709434 18.627885,74.5051415 C18.2615175,71.8467453 17.8459875,68.8334434 17.7545025,68.5825472 C17.62326,68.2441981 15.33186,66.1780189 14.3464725,65.3828774 C14.2549875,65.3090094 14.24088,65.1757075 14.3156925,65.084434 C14.3900775,64.9931604 14.5243125,64.9791509 14.616225,65.0538679 C15.0988725,65.4431604 17.9485875,67.8871698 18.1546425,68.4339623 C18.255105,68.700566 18.5607675,70.8928302 19.0515375,74.4482547 C19.308465,76.312783 19.57437,78.240566 19.7688825,79.5307075 C19.78641,79.6466038 19.70604,79.754434 19.5893325,79.7718396 C19.578645,79.7731132 19.5679575,79.7739623 19.55727,79.7739623 Z",
                               id: "Path",
                               fill: "#212F66"
                             }
@@ -72187,7 +72061,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.69884,41.17896 C2.91312,42.36372 4.64544,43.04844 6.41952,43.48836 C8.20764,43.92396 10.08324,44.11296 11.96496,44.1774 C15.73776,44.29296 19.5516,43.9182 23.32944,43.35012 L23.6682,45.84708 C19.77336,46.30752 15.831,46.57536 11.85876,46.32984 C9.87516,46.19916 7.88076,45.9396 5.91768,45.39636 C4.9374,45.1224 3.9654,44.77536 3.02904,44.30556 C2.09808,43.83864 1.18332,43.22988 0.42984,42.44256 L1.69884,41.17896 Z",
+                                "M2.0173725,48.5600943 C3.45933,49.957217 5.51646,50.7646698 7.62318,51.2834434 C9.7465725,51.7971226 11.9738475,52.02 14.20839,52.0959906 C18.68859,52.2322642 23.217525,51.7903302 27.70371,51.1204245 L28.1059875,54.0649528 C23.480865,54.6079245 18.7993125,54.9237736 14.0822775,54.6342453 C11.7267525,54.4801415 9.3584025,54.1740566 7.027245,53.5334434 C5.8631625,53.2103774 4.7089125,52.8011321 3.596985,52.2471226 C2.49147,51.6965094 1.4051925,50.9786321 0.510435,50.0501887 L2.0173725,48.5600943 Z",
                               id: "Path",
                               fill: "url(#linearGradient-65)"
                             }
@@ -72196,7 +72070,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.33092,0.27792 C10.33776,0.28764 10.48608,0.40464 10.62612,0.48996 C10.77228,0.58176 10.93464,0.67248 11.10276,0.75816 C11.43936,0.93024 11.79972,1.08324 12.16692,1.21896 C12.90384,1.48932 13.67532,1.68696 14.45544,1.81476 C16.01748,2.07072 17.6184,2.03796 19.16064,1.72908 L19.59804,4.21092 C17.75016,4.50036 15.85404,4.45716 14.03208,4.07844 C13.12092,3.88908 12.2274,3.62016 11.36268,3.26052 C10.92996,3.07944 10.50444,2.87784 10.08396,2.64024 C9.87372,2.52108 9.66492,2.39328 9.45252,2.24712 C9.23832,2.09052 9.0306,1.95732 8.7534,1.64232 L10.33092,0.27792 Z",
+                                "M12.2679675,0.327735849 C12.27609,0.339198113 12.45222,0.477169811 12.6185175,0.577783019 C12.7920825,0.686037736 12.984885,0.793018868 13.1845275,0.894056604 C13.58424,1.09698113 14.0121675,1.27740566 14.4482175,1.43745283 C15.32331,1.75627358 16.2394425,1.98933962 17.165835,2.14004717 C19.0207575,2.44188679 20.92185,2.40325472 22.75326,2.03900943 L23.2726725,4.96570755 C21.078315,5.3070283 18.8266725,5.25608491 16.663095,4.80948113 C15.5810925,4.58617925 14.5200375,4.2690566 13.4931825,3.84495283 C12.9793275,3.63141509 12.4740225,3.39367925 11.9747025,3.11349057 C11.7250425,2.9729717 11.4770925,2.82226415 11.2248675,2.64990566 C10.970505,2.46523585 10.7238375,2.30816038 10.3946625,1.93669811 L12.2679675,0.327735849 Z",
                               id: "Path",
                               fill: "url(#linearGradient-66)"
                             }
@@ -72205,7 +72079,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M14.9562,46.60272 C13.89672,46.60272 12.85092,46.57104 11.84796,46.50912 C9.53496,46.35648 7.63596,46.05804 5.87016,45.56952 C4.77288,45.2628 3.81744,44.90208 2.94876,44.46648 C1.88928,43.93476 0.99792,43.29576 0.3006,42.56712 C0.23292,42.49656 0.234,42.38424 0.30384,42.31512 L1.57212,41.05152 C1.6416,40.9824 1.75392,40.98132 1.82484,41.05044 C2.85444,42.05484 4.37148,42.79572 6.46308,43.31376 C8.05536,43.70148 9.85752,43.9254 11.97144,43.9974 C12.4308,44.01144 12.89232,44.01864 13.35348,44.01864 C16.3026,44.01864 19.46448,43.74972 23.30352,43.17228 C23.35104,43.16472 23.4,43.17768 23.43816,43.20612 C23.47668,43.23528 23.50224,43.27812 23.50836,43.326 L23.84712,45.82296 C23.85396,45.87084 23.84064,45.91944 23.81112,45.9576 C23.7816,45.9954 23.73768,46.02024 23.6898,46.02564 C20.36016,46.41912 17.58492,46.60272 14.9562,46.60272 Z M0.68364,42.44364 C1.3338,43.09092 2.14884,43.66224 3.11004,44.14428 C3.95748,44.57016 4.89204,44.9226 5.96664,45.22284 C7.7076,45.70452 9.58392,45.999 11.871,46.14984 C12.86568,46.2114 13.90356,46.24272 14.95584,46.24272 C17.52192,46.24272 20.23056,46.06668 23.46552,45.6894 L23.17536,43.55496 C19.39968,44.11656 16.2738,44.37828 13.35276,44.37828 C12.88764,44.37828 12.42324,44.37108 11.9592,44.35704 C9.81972,44.28396 7.99344,44.0568 6.37668,43.6626 C4.30524,43.14924 2.77344,42.41808 1.70172,41.42952 L0.68364,42.44364 Z",
+                                "M17.7604875,54.9560377 C16.502355,54.9560377 15.2604675,54.9186792 14.0694525,54.8456604 C11.322765,54.6656604 9.0677025,54.3137264 6.970815,53.7376415 C5.667795,53.3759434 4.53321,52.950566 3.5016525,52.4368868 C2.24352,51.8098585 1.18503,51.0563208 0.3569625,50.1970755 C0.2765925,50.1138679 0.277875,49.9814151 0.36081,49.8999057 L1.8668925,48.4098113 C1.9494,48.3283019 2.08278,48.3270283 2.1669975,48.4085377 C3.3896475,49.5929717 5.1911325,50.4666509 7.6749075,51.0775472 C9.56574,51.5347642 11.705805,51.7988208 14.216085,51.8837264 C14.761575,51.900283 15.30963,51.9087736 15.8572575,51.9087736 C19.3593375,51.9087736 23.11407,51.5916509 27.67293,50.9107075 C27.72936,50.9017925 27.7875,50.9170755 27.832815,50.9506132 C27.8785575,50.985 27.90891,51.0355189 27.9161775,51.0919811 L28.318455,54.0365094 C28.3265775,54.0929717 28.31076,54.150283 28.275705,54.195283 C28.24065,54.2398585 28.188495,54.2691509 28.1316375,54.2755189 C24.17769,54.7395283 20.8820925,54.9560377 17.7604875,54.9560377 Z M0.8118225,50.0514623 C1.5838875,50.8147642 2.5517475,51.4884906 3.6931725,52.056934 C4.6995075,52.5591509 5.8092975,52.9747642 7.085385,53.3288208 C9.152775,53.8968396 11.380905,54.2441038 14.0968125,54.4219811 C15.277995,54.4945755 16.5104775,54.5315094 17.76006,54.5315094 C20.80728,54.5315094 24.02379,54.3239151 27.865305,53.8790094 L27.52074,51.3619811 C23.03712,52.0242453 19.3251375,52.3328774 15.8564025,52.3328774 C15.3040725,52.3328774 14.7525975,52.3243868 14.20155,52.3078302 C11.6609175,52.2216509 9.49221,51.9537736 7.5723075,51.4889151 C5.1124725,50.8835377 3.29346,50.0213208 2.0207925,48.855566 L0.8118225,50.0514623 Z",
                               id: "Shape",
                               fill: "#FFA2BA"
                             }
@@ -72214,7 +72088,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.17416,4.57956 C16.10244,4.57956 15.03324,4.47012 13.99608,4.25484 C13.05216,4.05864 12.14316,3.78 11.29392,3.42648 C10.81836,3.2274 10.39392,3.02148 9.99612,2.79684 C9.7632,2.66472 9.55224,2.53332 9.35136,2.39508 L9.26892,2.33532 C9.0756,2.196 8.87544,2.052 8.61912,1.76076 C8.58708,1.72476 8.57124,1.6776 8.57448,1.62936 C8.57772,1.58148 8.60004,1.53684 8.6364,1.50552 L10.21356,0.14148 C10.25244,0.108 10.30428,0.09324 10.35432,0.099 C10.40508,0.10548 10.4508,0.1332 10.4796,0.17532 C10.4796,0.17532 10.47996,0.17496 10.47996,0.17496 C10.48752,0.17496 10.6074,0.26676 10.72044,0.33588 C10.86084,0.42408 11.01636,0.51156 11.1852,0.5976 C11.49732,0.75708 11.84904,0.909 12.22992,1.04976 C12.94056,1.31076 13.69908,1.50804 14.48568,1.63692 C16.00884,1.88676 17.60112,1.85796 19.1268,1.55268 C19.1736,1.54332 19.22328,1.55304 19.2636,1.58076 C19.30356,1.60812 19.33092,1.65024 19.3392,1.69812 L19.7766,4.17996 C19.78488,4.22748 19.77372,4.2768 19.746,4.31568 C19.71792,4.35492 19.67508,4.38156 19.6272,4.38912 C18.81792,4.51512 17.99316,4.57956 17.17416,4.57956 Z M9.0126,1.65636 C9.18468,1.83132 9.32832,1.935 9.4788,2.04336 L9.55944,2.10168 C9.74736,2.23092 9.94968,2.35692 10.17324,2.48364 C10.55844,2.70108 10.97064,2.90088 11.43288,3.0942 C12.26052,3.43872 13.14792,3.71052 14.06916,3.90204 C15.79788,4.26132 17.622,4.31496 19.38924,4.06044 L19.01556,1.94076 C17.50464,2.22156 15.93288,2.23956 14.42664,1.9926 C13.61808,1.86012 12.83688,1.65672 12.10536,1.3878 C11.71044,1.24236 11.34576,1.08432 11.02104,0.91836 C10.8432,0.82764 10.67796,0.73476 10.53072,0.64224 C10.50012,0.62388 10.41552,0.56844 10.33632,0.5112 L9.0126,1.65636 Z",
+                                "M20.394315,5.40042453 C19.1216475,5.40042453 17.8519725,5.27136792 16.620345,5.0175 C15.49944,4.78613208 14.4200025,4.45754717 13.41153,4.04066038 C12.8468025,3.80589623 12.34278,3.56306604 11.8703925,3.29816038 C11.5938,3.14235849 11.343285,2.98740566 11.10474,2.82438679 L11.0068425,2.75391509 C10.777275,2.58962264 10.539585,2.41981132 10.235205,2.07636792 C10.1971575,2.03391509 10.1783475,1.97830189 10.182195,1.92141509 C10.1860425,1.86495283 10.2125475,1.81231132 10.255725,1.77537736 L12.1286025,0.166839623 C12.1747725,0.127358491 12.2363325,0.10995283 12.295755,0.116745283 C12.3560325,0.124386792 12.410325,0.157075472 12.444525,0.206745283 C12.444525,0.206745283 12.4449525,0.206320755 12.4449525,0.206320755 C12.45393,0.206320755 12.5962875,0.314575472 12.7305225,0.396084906 C12.8972475,0.50009434 13.0819275,0.603254717 13.282425,0.704716981 C13.6530675,0.892783019 14.070735,1.07193396 14.52303,1.23792453 C15.366915,1.54570755 16.2676575,1.77834906 17.201745,1.93033019 C19.0104975,2.22495283 20.90133,2.19099057 22.713075,1.83099057 C22.76865,1.81995283 22.827645,1.83141509 22.875525,1.86410377 C22.9229775,1.89636792 22.9554675,1.94603774 22.9653,2.0025 L23.4847125,4.92919811 C23.494545,4.98523585 23.4812925,5.04339623 23.448375,5.08924528 C23.41503,5.13551887 23.3641575,5.16693396 23.3073,5.17584906 C22.34628,5.32443396 21.3668775,5.40042453 20.394315,5.40042453 Z M10.7024625,1.95325472 C10.9068075,2.15957547 11.07738,2.28183962 11.256075,2.40962264 L11.351835,2.47839623 C11.57499,2.63080189 11.815245,2.77938679 12.0807225,2.92882075 C12.5381475,3.18523585 13.027635,3.42084906 13.576545,3.64882075 C14.5593675,4.05509434 15.613155,4.37561321 16.7071275,4.60146226 C18.7599825,5.02514151 20.926125,5.08839623 23.0247225,4.78825472 L22.5809775,2.28863208 C20.78676,2.61976415 18.920295,2.64099057 17.131635,2.34976415 C16.17147,2.19353774 15.243795,1.95367925 14.375115,1.6365566 C13.9061475,1.46504717 13.47309,1.27867925 13.087485,1.0829717 C12.8763,0.975990566 12.6800775,0.866462264 12.50523,0.757358491 C12.4688925,0.735707547 12.36843,0.670330189 12.27438,0.602830189 L10.7024625,1.95325472 Z",
                               id: "Shape",
                               fill: "#FFA2BA"
                             }
@@ -72227,14 +72101,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "boots",
-                            transform: "translate(187.200000, 204.120000)"
+                            transform: "translate(221.000000, 241.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.054,0.225 C9.13248,0.76824 9.20484,1.26756 9.27,1.71 C10.0476,7.0074 10.40364,9.34092 10.14012,10.14012 C8.48268,15.165 0.621,16.29036 0.36,17.16012 C0.135,17.91 0.51624,18.72936 0.945,19.035 C2.43,20.09268 12.95928,19.37448 14.34024,19.14012 C16.02,18.855 17.01,18.18 17.04024,17.64 C17.06364,17.2206 16.56036,13.07988 16.50024,9.36 C16.47972,8.08668 16.55748,4.66956 16.67592,0.49428 C13.62024,1.2564 10.50804,0.75384 9.054,0.225 Z",
+                                "M10.7384651,0.264130435 C10.831546,0.901846957 10.9173684,1.48800522 10.9946512,2.0073913 C11.9169209,8.22607826 12.3392009,10.9654278 12.026654,11.9036191 C10.060853,17.8023913 0.736534884,19.1234661 0.426976744,20.1444887 C0.160116279,21.0247826 0.612284651,21.98664 1.12081395,22.3454348 C2.88209302,23.5870591 15.3703088,22.7439548 17.0081916,22.4688365 C19.0004651,22.1341304 20.1746512,21.3417391 20.2105172,20.7078261 C20.2382707,20.215487 19.6413572,15.3546417 19.5700521,10.9878261 C19.5457144,9.49305913 19.6379414,5.48165739 19.7784167,0.580241739 C16.1542381,1.47490435 12.4630242,0.884942609 10.7384651,0.264130435 Z",
                               id: "Path",
                               fill: "url(#linearGradient-67)"
                             }
@@ -72243,7 +72117,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M26.82,16.74 C27.23976,18.06012 28.05012,18.18036 29.49012,18.87012 C30.93012,19.55988 37.14048,22.40964 39.57048,22.19976 C42.00048,21.98988 42.06024,21.30012 42.03036,20.7 C42.00048,20.09988 40.5306,18.51012 38.43036,16.92 C36.33012,15.32988 33.41988,13.38012 33.27012,12.93012 C33.1884,12.68496 33.13368,6.88536 33.1002,0.69228 C29.79576,1.16388 26.34732,1.04796 24.42564,0.70668 C24.96312,4.33116 25.40952,7.46244 25.61976,9.11988 C26.16012,13.38012 26.40024,15.41988 26.82,16.74 Z",
+                                "M31.8097674,19.6513043 C32.3076223,21.2010104 33.268747,21.3421617 34.976654,22.15188 C36.6845609,22.9615983 44.0503367,26.3069687 46.9324298,26.0605878 C49.8145228,25.814207 49.8854009,25.0044887 49.8499619,24.3 C49.8145228,23.5955113 48.0711767,21.7292713 45.5801944,19.8626087 C43.0892121,17.9959461 39.6375321,15.7070974 39.4599098,15.1788365 C39.362986,14.89104 39.2980856,8.08281391 39.2583767,0.812676522 C35.3391572,1.36629391 31.249147,1.23021391 28.9699451,0.82958087 C29.6074214,5.08440522 30.1368726,8.76025565 30.386227,10.7059461 C31.0271191,15.7070974 31.3119126,18.1015983 31.8097674,19.6513043 Z",
                               id: "Path",
                               fill: "url(#linearGradient-68)"
                             }
@@ -72252,7 +72126,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M29.49012,18.87012 C30.93012,19.55988 37.14048,22.40964 39.57048,22.19976 C42.00048,21.98988 42.06024,21.30012 42.03036,20.7 C42.02424,20.57616 41.95368,20.4084 41.83236,20.20968 C41.3064,20.58912 40.266,21.06108 38.49012,20.82024 C34.4484,20.27268 27.29628,16.6968 26.55648,15.7086 C26.63892,16.10028 26.72496,16.44012 26.82,16.74 C27.23976,18.06012 28.05012,18.18036 29.49012,18.87012 Z",
+                                "M34.976654,22.15188 C36.6845609,22.9615983 44.0503367,26.3069687 46.9324298,26.0605878 C49.8145228,25.814207 49.8854009,25.0044887 49.8499619,24.3 C49.8427033,24.1546226 49.7590158,23.957687 49.6151247,23.724407 C48.9913116,24.1698365 47.7573488,24.7238765 45.6510726,24.4411513 C40.8574047,23.7983635 32.3746577,19.6005913 31.4972205,18.4405304 C31.5949981,18.9003287 31.6970456,19.2992713 31.8097674,19.6513043 C32.3076223,21.2010104 33.268747,21.3421617 34.976654,22.15188 Z",
                               id: "Path",
                               fill: "url(#linearGradient-69)"
                             }
@@ -72261,7 +72135,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.945,19.035 C2.43,20.09268 12.95928,19.37448 14.34024,19.14012 C16.02,18.855 17.01,18.18 17.04024,17.64 C17.04708,17.52192 17.01144,17.10756 16.95636,16.49052 C16.00164,16.92576 14.0544,17.63172 10.8,18.045 C5.31,18.74268 0.96732,17.91 0.36,17.16012 C0.135,17.91 0.51624,18.72936 0.945,19.035 Z",
+                                "M1.12081395,22.3454348 C2.88209302,23.5870591 15.3703088,22.7439548 17.0081916,22.4688365 C19.0004651,22.1341304 20.1746512,21.3417391 20.2105172,20.7078261 C20.2186298,20.5692104 20.1763591,20.0827878 20.1110316,19.3584365 C18.9786893,19.8693704 16.6691721,20.6981061 12.8093023,21.1832609 C6.29790698,22.0022765 1.14728651,21.0247826 0.426976744,20.1444887 C0.160116279,21.0247826 0.612284651,21.98664 1.12081395,22.3454348 Z",
                               id: "Path",
                               fill: "url(#linearGradient-70)"
                             }
@@ -72272,14 +72146,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(27.720000, 4.320000)"
+                                transform: "translate(32.877209, 5.071304)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M5.42232,2.37024 C5.41584,1.6524 5.40972,0.89604 5.40396,0.11268 L2.76912,0.11268 C1.485,0.11268 0.43596,1.10916 0.34668,2.37024 L5.42232,2.37024 Z",
+                                    "M6.43112372,2.78245565 C6.42343814,1.93977391 6.41617953,1.05187304 6.40934791,0.132276522 L3.28430512,0.132276522 C1.76127907,0.132276522 0.517068837,1.30205739 0.411178605,2.78245565 L6.43112372,2.78245565 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-71)"
                                 }
@@ -72288,7 +72162,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M5.45616,5.4 C5.44752,4.76784 5.43888,4.06188 5.43132,3.30012 L0.33768,3.30012 L0.33768,5.4 L5.45616,5.4 Z",
+                                    "M6.47125953,6.33913043 C6.46101209,5.59702957 6.45076465,4.76829391 6.44179814,3.87405391 L0.400504186,3.87405391 L0.400504186,6.33913043 L6.47125953,6.33913043 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-72)"
                                 }
@@ -72297,7 +72171,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M5.47056,6.32988 L0.33768,6.32988 C0.34272,7.66872 1.42848,8.75232 2.76876,8.75232 L5.64588,8.75232 C5.59872,8.69688 5.56236,8.64648 5.54976,8.60976 C5.52024,8.51976 5.4936,7.67268 5.47056,6.32988 Z",
+                                    "M6.4883386,7.4307287 L0.400504186,7.4307287 C0.40648186,9.00241043 1.69424372,10.2744626 3.28387814,10.2744626 L6.69627628,10.2744626 C6.64034233,10.2093809 6.59721767,10.1502157 6.58227349,10.1071096 C6.5472614,10.0014574 6.51566512,9.00705913 6.4883386,7.4307287 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-73)"
                                 }
@@ -72310,14 +72184,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(9.360000, 3.600000)"
+                                transform: "translate(11.101395, 4.226087)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M3.57588,3.015 L3.57588,2.1924 C3.57588,1.09188 2.6838,0.20016 1.584,0.20016 L0.21636,0.20016 C0.37656,1.29888 0.50904,2.22696 0.612,3.015 L3.57588,3.015 Z",
+                                    "M4.24116,3.53934783 L4.24116,2.57368696 C4.24116,1.28177217 3.18311163,0.234970435 1.87869767,0.234970435 L0.256613023,0.234970435 C0.446617674,1.52477217 0.603745116,2.61425739 0.725860465,3.53934783 L4.24116,3.53934783 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-74)"
                                 }
@@ -72326,7 +72200,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M0.72864,3.96 C0.88668,5.3334 0.91332,6.1362 0.78012,6.54012 C0.69516,6.79752 0.5904,7.04268 0.47448,7.27992 L1.58364,7.27992 C2.6838,7.27992 3.57552,6.38784 3.57552,5.28768 L3.57552,3.96 L0.72864,3.96 Z",
+                                    "M0.86420093,4.64869565 C1.05164372,6.26094783 1.08324,7.20336522 0.925258605,7.67753217 C0.824492093,7.97969739 0.70024186,8.26749391 0.562755349,8.54599304 L1.8782707,8.54599304 C3.18311163,8.54599304 4.24073302,7.4987687 4.24073302,6.20727652 L4.24073302,4.64869565 L0.86420093,4.64869565 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-75)"
                                 }
@@ -72341,14 +72215,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "cloak_x5F_2",
-                            transform: "translate(179.280000, 93.960000)"
+                            transform: "translate(212.000000, 111.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.18,8.21988 C17.03484,11.75724 15.21396,20.82636 14.33988,30.42 C13.40496,40.68216 12.87,46.10988 12.78,59.69988 C12.65832,78.06744 14.778,90.17532 14.58,90.59976 C14.265,91.27476 7.38,89.28 4.68,87.84 C1.98,86.4 0,84.6 0,84.6 C0,84.6 3.6,60.48 5.94,46.44 C8.28,32.4 11.88,19.08 12.15,15.39 C12.42,11.7 12.69,7.38 12.69,7.38 C12.69,7.38 13.77,6.12 15.75,6.39 C17.73,6.66 18.18,8.21988 18.18,8.21988 Z",
+                                "M21.4854545,9.75546198 C20.1320836,13.9536475 17.9801345,24.7169987 16.9471309,36.1028571 C15.8422255,48.282124 15.21,54.7238136 15.1036364,70.8526048 C14.9598327,92.6514673 17.4649091,107.021259 17.2309091,107.52499 C16.8586364,108.326089 8.72181818,105.958681 5.53090909,104.24967 C2.34,102.540659 0,100.404396 0,100.404396 C0,100.404396 4.25454545,71.7784615 7.02,55.1156044 C9.78545455,38.4527473 14.04,22.6443956 14.3590909,18.2650549 C14.6781818,13.8857143 14.9972727,8.75868132 14.9972727,8.75868132 C14.9972727,8.75868132 16.2736364,7.2632967 18.6136364,7.58373626 C20.9536364,7.90417582 21.4854545,9.75546198 21.4854545,9.75546198 Z",
                               id: "Path",
                               fill: "url(#linearGradient-76)"
                             }
@@ -72357,7 +72231,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.71396,31.6836 L10.64844,32.92812 C10.62432,33.52428 10.69524,34.03548 11.62512,34.68024 L13.75596,36.22932 C13.88664,35.01252 14.01948,33.75288 14.15088,32.41476 L11.8368,30.64824 C11.14524,30.33 10.73808,31.08744 10.71396,31.6836 Z",
+                                "M12.6619527,37.6025143 L12.58452,39.079527 C12.5560145,39.7870576 12.6398291,40.3937565 13.7387782,41.1589662 L16.2570436,42.9974347 C16.4114836,41.5533204 16.5684764,40.0583631 16.7237673,38.4702646 L13.9889455,36.3737354 C13.1716473,35.996044 12.6904582,36.8949837 12.6619527,37.6025143 Z",
                               id: "Path",
                               fill: "url(#linearGradient-77)"
                             }
@@ -72366,7 +72240,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.4658,19.63764 C12.6,19.305 12.36708,20.0772 12.34296,20.673 L12.27744,21.91752 C12.25332,22.51368 12.51864,22.88916 13.31244,23.41476 L14.99004,24.57612 C15.1488,23.3586 15.31836,22.16844 15.49512,21.01788 L13.4658,19.63764 Z",
+                                "M15.9141273,23.3062101 C14.8909091,22.9114286 14.61564,23.8278857 14.5871345,24.534989 L14.5097018,26.0120018 C14.4811964,26.7195323 14.7947564,27.1651569 15.7328836,27.7889459 L17.7155018,29.1672633 C17.9031273,27.7222945 18.1035164,26.3097969 18.3124145,24.9442971 L15.9141273,23.3062101 Z",
                               id: "Path",
                               fill: "url(#linearGradient-78)"
                             }
@@ -72375,7 +72249,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.345,0.315 C15.255,3.825 20.475,4.14 21.06,4.92012 C21.90924,6.05268 18.78012,12.35988 17.82,12.24 C16.85988,12.12012 15.1902,9.29844 14.445,8.505 C13.74732,7.76232 13.05,6.975 13.095,6.525 C13.14,6.075 14.56848,1.31976 15.345,0.315 Z",
+                                "M18.135,0.373846154 C18.0286364,4.53956044 24.1977273,4.91340659 24.8890909,5.8392633 C25.8927382,7.18340044 22.1946873,14.6688686 21.06,14.5265934 C19.9253127,14.3843182 17.9520545,11.0355112 17.0713636,10.0938462 C16.2468327,9.21242374 15.4227273,8.27802198 15.4759091,7.74395604 C15.5290909,7.20989011 17.2172945,1.56630857 18.135,0.373846154 Z",
                               id: "Path",
                               fill: "url(#linearGradient-79)"
                             }
@@ -72384,7 +72258,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.97472,11.87964 C16.93116,11.87964 16.8876,11.86416 16.85268,11.83212 C16.7796,11.7648 16.77492,11.65104 16.84224,11.5776 C18.43704,9.84348 20.24784,6.67044 19.84608,5.922 C19.73916,5.72328 19.19016,5.4414 18.6084,5.1426 C17.02008,4.32684 14.61996,3.09456 14.82552,0.71136 C14.83416,0.61236 14.9256,0.53928 15.02028,0.54756 C15.11928,0.55584 15.19272,0.64332 15.18408,0.74232 C14.9994,2.88432 17.27028,4.05036 18.77292,4.8222 C19.48716,5.18904 20.0034,5.454 20.16288,5.75136 C20.74032,6.8274 18.51264,10.2924 17.1072,11.82096 C17.07192,11.85984 17.02332,11.87964 16.97472,11.87964 Z",
+                                "M20.0610327,14.0989134 C20.0095527,14.0989134 19.9580727,14.0805415 19.9168036,14.042516 C19.8304364,13.9626198 19.8249055,13.8276079 19.9044655,13.7404484 C21.7892291,11.6823719 23.9292655,7.91656615 23.4544582,7.02830769 C23.3280982,6.79246418 22.67928,6.45792527 21.9917455,6.10330549 C20.11464,5.13515077 17.2781345,3.67266462 17.5210691,0.844251429 C17.53128,0.726756923 17.6393455,0.640024615 17.75124,0.649851429 C17.86824,0.659678242 17.9550327,0.763500659 17.9448218,0.880995165 C17.7265636,3.42314901 20.4103309,4.80702066 22.1861782,5.72305055 C23.03028,6.1584211 23.6403818,6.47287912 23.8288582,6.82578989 C24.5112873,8.10284835 21.8785745,12.215156 20.2176,14.0292712 C20.1759055,14.0754145 20.1184691,14.0989134 20.0610327,14.0989134 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72397,14 +72271,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "cloak_x5F_1",
-                            transform: "translate(204.840000, 94.680000)"
+                            transform: "translate(242.000000, 112.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.255,11.745 C5.805,13.5 3.47508,31.05396 2.99988,49.08024 C2.5254,67.07988 2.92824,91.56852 3.6,92.52 C4.32036,93.54024 11.01024,91.41012 15.36012,90 C19.48536,88.6626 23.04,86.51988 23.04,86.51988 C23.04,86.51988 22.56012,65.64024 22.56012,57.48012 C22.56012,49.32 19.71,12.42 19.71,12.42 C19.71,12.42 17.1504,9.18972 12.78,8.55 C8.4096,7.91028 6.255,11.745 6.255,11.745 Z",
+                                "M7.2975,13.8919355 C6.7725,15.9677419 4.05426,36.7304903 3.49986,58.0518968 C2.9463,79.3417935 3.41628,108.306852 4.2,109.432258 C5.04042,110.638994 12.84528,108.119497 17.92014,106.451613 C22.73292,104.869742 26.88,102.335342 26.88,102.335342 C26.88,102.335342 26.32014,77.6389935 26.32014,67.9872387 C26.32014,58.3354839 22.995,14.6903226 22.995,14.6903226 C22.995,14.6903226 20.0088,10.8695613 14.91,10.1129032 C9.8112,9.35624516 7.2975,13.8919355 7.2975,13.8919355 Z",
                               id: "Path",
                               fill: "url(#linearGradient-80)"
                             }
@@ -72413,7 +72287,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.55,20.46096 L1.30536,23.29596 C0.33012,23.68512 0.24624,24.19704 0.27036,24.7932 L0.33588,26.03772 C0.36,26.63352 0.72036,27.21024 1.45872,27.07308 L8.12052,24.20748 C8.25732,22.9014 8.40024,21.6504 8.55,20.46096 Z",
+                                "M9.975,24.2011355 L1.52292,27.5543613 C0.38514,28.0146581 0.28728,28.6201548 0.31542,29.3252903 L0.39186,30.7973032 C0.42,31.5020129 0.84042,32.1841548 1.70184,32.0219226 L9.47394,28.6325032 C9.63354,27.0876774 9.80028,25.608 9.975,24.2011355 Z",
                               id: "Path",
                               fill: "url(#linearGradient-81)"
                             }
@@ -72422,7 +72296,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.39944,32.39856 L1.29276,34.28424 C0.31752,34.6734 0.23364,35.18532 0.25776,35.78148 L0.32328,37.026 C0.3474,37.6218 0.70776,38.19852 1.44612,38.06136 L7.14636,36.08424 C7.22592,34.83432 7.31052,33.6042 7.39944,32.39856 Z",
+                                "M8.63268,38.3208774 L1.50822,40.5512516 C0.37044,41.0115484 0.27258,41.6170452 0.30072,42.3221806 L0.37716,43.7941935 C0.4053,44.4989032 0.82572,45.1810452 1.68714,45.0188129 L8.33742,42.6802839 C8.43024,41.2018839 8.52894,39.7469032 8.63268,38.3208774 Z",
                               id: "Path",
                               fill: "url(#linearGradient-82)"
                             }
@@ -72431,7 +72305,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.05948,27.25524 C0.98244,27.25524 0.91152,27.20556 0.8874,27.12852 C0.846,26.9946 0.82188,26.85204 0.81576,26.7048 L0.7506,25.46244 C0.72576,24.85584 0.79416,24.22908 1.89828,23.78844 L8.316,21.27708 C8.40924,21.24072 8.51328,21.28644 8.54928,21.37932 C8.58528,21.4722 8.53992,21.57624 8.4474,21.6126 L2.03076,24.1236 C1.14228,24.47784 1.08828,24.91344 1.10988,25.44588 L1.17504,26.68824 C1.18008,26.80668 1.19844,26.91828 1.23084,27.02232 C1.26036,27.11736 1.20744,27.21816 1.1124,27.24732 C1.09512,27.25272 1.07712,27.25524 1.05948,27.25524 Z",
+                                "M1.23606,32.2373806 C1.14618,32.2373806 1.06344,32.1786194 1.0353,32.0874968 C0.987,31.9290968 0.95886,31.7604774 0.95172,31.5863226 L0.8757,30.1168645 C0.84672,29.3993806 0.92652,28.6580516 2.21466,28.1368645 L9.702,25.1664387 C9.81078,25.1234323 9.93216,25.1775097 9.97416,25.2873677 C10.01616,25.3972258 9.96324,25.5202839 9.8553,25.5632903 L2.36922,28.5332903 C1.33266,28.9522839 1.26966,29.4675097 1.29486,30.0972774 L1.37088,31.5667355 C1.37676,31.7068258 1.39818,31.8388258 1.43598,31.9618839 C1.47042,32.0742968 1.40868,32.1935226 1.2978,32.2280129 C1.27764,32.2344 1.25664,32.2373806 1.23606,32.2373806 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72440,7 +72314,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.04688,38.24352 C0.96984,38.24352 0.89892,38.19384 0.8748,38.1168 C0.8334,37.98288 0.80928,37.84032 0.80316,37.69308 L0.738,36.45072 C0.71316,35.84412 0.78156,35.21736 1.88568,34.77672 L7.34472,33.09048 C7.43976,33.06132 7.5402,33.11424 7.56972,33.20928 C7.59924,33.30432 7.54596,33.40512 7.45092,33.43428 L2.00556,35.11548 C1.12968,35.4654 1.07568,35.901 1.09764,36.43344 L1.1628,37.6758 C1.16784,37.79424 1.1862,37.90584 1.2186,38.00988 C1.24812,38.10492 1.1952,38.20572 1.10016,38.23488 C1.08252,38.241 1.06452,38.24352 1.04688,38.24352 Z",
+                                "M1.22136,45.234271 C1.13148,45.234271 1.04874,45.1755097 1.0206,45.0843871 C0.9723,44.9259871 0.94416,44.7573677 0.93702,44.5832129 L0.861,43.1137548 C0.83202,42.396271 0.91182,41.6549419 2.19996,41.1337548 L8.56884,39.1392774 C8.67972,39.1047871 8.7969,39.1673806 8.83134,39.2797935 C8.86578,39.3922065 8.80362,39.5114323 8.69274,39.5459226 L2.33982,41.5344387 C1.31796,41.9483226 1.25496,42.4635484 1.28058,43.0933161 L1.3566,44.5627742 C1.36248,44.7028645 1.3839,44.8348645 1.4217,44.9579226 C1.45614,45.0703355 1.3944,45.1895613 1.28352,45.2240516 C1.26294,45.2312903 1.24194,45.234271 1.22136,45.234271 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72449,7 +72323,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.3818,92.52936 C7.29324,92.52936 7.2162,92.46384 7.20396,92.37384 C4.82328,75.01572 6.255,23.03532 10.26864,10.29564 C10.29816,10.20096 10.39932,10.14804 10.49436,10.17792 C10.5894,10.2078 10.6416,10.30896 10.61172,10.40364 C6.60816,23.112 5.18364,74.99412 7.56036,92.32452 C7.57404,92.42316 7.50528,92.51388 7.40664,92.5272 C7.39836,92.52936 7.39008,92.52936 7.3818,92.52936 Z",
+                                "M8.6121,109.443329 C8.50878,109.443329 8.4189,109.365832 8.40462,109.259381 C5.62716,88.728271 7.2975,27.2460774 11.98008,12.1776387 C12.01452,12.0656516 12.13254,12.0030581 12.24342,12.0384 C12.3543,12.0737419 12.4152,12.1933935 12.38034,12.3053806 C7.70952,27.3367742 6.04758,88.7027226 8.82042,109.201045 C8.83638,109.317716 8.75616,109.425019 8.64108,109.440774 C8.63142,109.443329 8.62176,109.443329 8.6121,109.443329 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72458,7 +72332,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.9316,89.22492 C17.84736,89.22492 17.77212,89.16516 17.7552,89.07912 C15.35976,76.66128 17.22492,42.58908 17.838,31.39308 L17.94024,29.51064 C17.94564,29.41164 18.03348,29.33424 18.12924,29.3400206 C18.2286,29.34576 18.30456,29.43036 18.29952,29.52972 L18.19728,31.41216 C17.58492,42.59772 15.7212,76.63644 18.10872,89.01072 C18.12744,89.10828 18.06372,89.2026 17.96616,89.22168 C17.95428,89.22384 17.94312,89.22492 17.9316,89.22492 Z",
+                                "M20.9202,105.534852 C20.82192,105.534852 20.73414,105.464168 20.7144,105.3624 C17.91972,90.6746323 20.09574,50.3741806 20.811,37.1316 L20.93028,34.9050581 C20.93658,34.7879613 21.03906,34.6964129 21.15078,34.7032501 C21.2667,34.7100387 21.35532,34.8101032 21.34944,34.9276258 L21.23016,37.1541677 C20.51574,50.3844 18.3414,90.6452516 21.12684,105.281497 C21.14868,105.39689 21.07434,105.508452 20.96052,105.531019 C20.94666,105.533574 20.93364,105.534852 20.9202,105.534852 Z",
                               id: "Path",
                               fill: "#9F36AD"
                             }
@@ -72467,7 +72341,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M22.34844,51.3018 C18.84528,52.36704 13.4424,54.05976 11.23524,55.01988 C10.54512,55.32012 10.08,55.8486 10.08,56.44512 L10.08,62.03988 C10.08,62.6364 10.51884,62.955 11.11536,62.955 L22.56084,57.95136 C22.56048,57.79044 22.56012,57.6324 22.56012,57.48012 C22.56012,56.11932 22.48056,53.95644 22.34844,51.3018 Z",
+                                "M26.07318,60.6795484 C21.98616,61.9395097 15.6828,63.9416516 13.10778,65.0772774 C12.30264,65.4324 11.76,66.0574839 11.76,66.7630452 L11.76,73.3805032 C11.76,74.0860645 12.27198,74.4629032 12.96792,74.4629032 L26.32098,68.5446194 C26.32056,68.3542839 26.32014,68.1673548 26.32014,67.9872387 C26.32014,66.3776903 26.22732,63.8194452 26.07318,60.6795484 Z",
                               id: "Path",
                               fill: "url(#linearGradient-83)"
                             }
@@ -72476,7 +72350,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.28168,63.06552 C11.22048,63.06552 11.16036,63.03384 11.12652,62.97732 C11.0322,62.8182 10.98288,62.63208 10.97928,62.42436 L10.87884,56.83068 C10.86732,56.17908 11.32884,55.57644 12.11364,55.21824 C13.87908,54.4122 17.73324,53.08812 20.65608,52.11972 C20.75004,52.08804 20.85264,52.13988 20.8836,52.23384 C20.91492,52.32816 20.86344,52.43004 20.76948,52.46136 C16.59096,53.84664 13.64976,54.91332 12.26376,55.54584 C11.61324,55.84248 11.23056,56.32056 11.2392,56.82456 L11.33964,62.41824 C11.34216,62.56296 11.37492,62.68932 11.4372,62.79408 C11.48796,62.8794 11.45952,62.98992 11.37384,63.04104 C11.34468,63.05724 11.313,63.06552 11.28168,63.06552 Z",
+                                "M13.16196,74.5936258 C13.09056,74.5936258 13.02042,74.5561548 12.98094,74.4893032 C12.8709,74.3010968 12.81336,74.0809548 12.80916,73.8352645 L12.69198,67.2190839 C12.67854,66.4483742 13.21698,65.7355742 14.13258,65.3118968 C16.19226,64.3585161 20.68878,62.7924 24.09876,61.6469806 C24.20838,61.6095097 24.32808,61.6708258 24.3642,61.7819613 C24.40074,61.8935226 24.34068,62.0140258 24.23106,62.051071 C19.35612,63.6895742 15.92472,64.9512387 14.30772,65.6993806 C13.54878,66.0502452 13.10232,66.6157161 13.1124,67.2118452 L13.22958,73.8280258 C13.23252,73.9992 13.27074,74.1486581 13.3434,74.2725677 C13.40262,74.3734839 13.36944,74.5042065 13.26948,74.564671 C13.23546,74.5838323 13.1985,74.5936258 13.16196,74.5936258 Z",
                               id: "Path",
                               fill: "#9F36AD"
                             }
@@ -72485,7 +72359,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.71024,62.00064 C13.61088,62.00064 13.53024,61.92 13.53024,61.82064 L13.53024,57.84012 C13.53024,57.13704 14.11596,56.601 14.69664,56.3814 L15.0138,56.25936 C15.73956,55.97784 16.83612,55.55232 17.6094,55.48608 C17.94312,55.458 18.23184,55.54476 18.44424,55.73988 C18.66096,55.9386 18.78012,56.24028 18.78012,56.58948 L18.78012,59.6826 C18.78012,59.78196 18.69948,59.8626 18.60012,59.8626 C18.50076,59.8626 18.42012,59.78196 18.42012,59.6826 L18.42012,56.58948 C18.42012,56.33892 18.34416,56.1366 18.20124,56.0052 C18.0648,55.87956 17.86932,55.82556 17.64036,55.84464 C16.9182,55.90692 15.85044,56.32092 15.14412,56.59488 L14.82372,56.71836 C14.35896,56.89368 13.88988,57.30912 13.88988,57.84012 L13.88988,61.82064 C13.89024,61.92 13.8096,62.00064 13.71024,62.00064 Z",
+                                "M15.99528,73.3340903 C15.87936,73.3340903 15.78528,73.2387097 15.78528,73.1211871 L15.78528,68.4130452 C15.78528,67.5814452 16.46862,66.9474194 17.14608,66.6876774 L17.5161,66.543329 C18.36282,66.2103484 19.64214,65.7070452 20.5443,65.6286968 C20.93364,65.5954839 21.27048,65.6981032 21.51828,65.9288903 C21.77112,66.1639355 21.91014,66.5207613 21.91014,66.9337935 L21.91014,70.5923226 C21.91014,70.7098452 21.81606,70.8052258 21.70014,70.8052258 C21.58422,70.8052258 21.49014,70.7098452 21.49014,70.5923226 L21.49014,66.9337935 C21.49014,66.6374323 21.40152,66.398129 21.23478,66.2427097 C21.0756,66.0941032 20.84754,66.0302323 20.58042,66.0528 C19.7379,66.1264645 18.49218,66.6161419 17.66814,66.9401806 L17.29434,67.0862323 C16.75212,67.2936 16.20486,67.7849806 16.20486,68.4130452 L16.20486,73.1211871 C16.20528,73.2387097 16.1112,73.3340903 15.99528,73.3340903 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72496,14 +72370,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(0.720000, 0.000000)"
+                                transform: "translate(0.840000, 0.000000)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M1.08,5.22 C1.82232,4.47768 4.86828,4.79304 8.16012,4.25988 C11.86488,3.65976 13.5,3.105 13.74012,2.27988 C14.04144,1.24524 12.6,0.05976 12.6,0.05976 C12.6,0.05976 15.90012,1.98 15.84,2.81988 C15.77988,3.65976 13.74012,9.18 13.74012,9.18 C13.74012,9.18 9.84024,11.04012 7.08012,12.24 C4.32,13.43988 1.62036,15.23988 0.78012,14.82012 C-0.06012,14.40036 0.06012,6.23988 1.08,5.22 Z",
+                                    "M1.26,6.17419355 C2.12604,5.29618065 5.67966,5.6691871 9.52014,5.03856774 C13.84236,4.32874839 15.75,3.67258065 16.03014,2.69663226 C16.38168,1.47286452 14.7,0.070683871 14.7,0.070683871 C14.7,0.070683871 18.55014,2.34193548 18.48,3.33534194 C18.40986,4.32874839 16.03014,10.8580645 16.03014,10.8580645 C16.03014,10.8580645 11.48028,13.0582065 8.26014,14.4774194 C5.04,15.8966323 1.89042,18.0256645 0.91014,17.5291742 C-0.07014,17.0326839 0.07014,7.38050323 1.26,6.17419355 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-84)"
                                 }
@@ -72512,7 +72386,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M1.5228,14.81004 C1.30104,13.77612 1.25676,12.74004 1.2276,11.70504 C1.20888,10.67004 1.23084,9.63432 1.3284,8.60076 C1.37952,8.0838 1.44468,7.56756 1.55808,7.05312 C1.61676,6.79608 1.68372,6.53904 1.79388,6.28416 C1.85148,6.15708 1.91484,6.02892 2.02824,5.9076 C2.13984,5.79312 2.27772,5.7168 2.40336,5.66172 C2.92032,5.44932 3.43836,5.3892 3.95424,5.32044 C4.47012,5.25924 4.98456,5.21892 5.49828,5.18004 C6.52572,5.10372 7.55064,5.0382 8.56656,4.91364 C9.57924,4.78728 10.5894,4.59216 11.57364,4.32396 C12.06432,4.18644 12.54996,4.02804 13.014,3.82572 C13.46904,3.6216 13.93848,3.38004 14.23188,3.01068 C14.52744,2.6442 14.38596,2.10852 14.14908,1.68264 C13.90932,1.24524 13.58172,0.84384 13.22532,0.4806 C13.212,0.468 13.21092,0.44712 13.22316,0.4338 C13.23468,0.4212 13.25484,0.42048 13.26816,0.4302 C13.67352,0.75564 14.03928,1.13328 14.31936,1.58508 C14.45868,1.81044 14.56776,2.06208 14.61204,2.33748 C14.6574,2.60784 14.60808,2.92932 14.427,3.15504 C14.0742,3.59964 13.58784,3.83796 13.1166,4.05828 C12.63852,4.27104 12.14424,4.43628 11.64564,4.57992 C10.64628,4.86036 9.63108,5.06412 8.60328,5.20056 C7.57656,5.33448 6.54732,5.40756 5.52276,5.4918 C5.01084,5.53428 4.49928,5.57856 3.99384,5.64228 C3.49308,5.71032 2.97648,5.78304 2.54016,5.96844 C2.31336,6.06384 2.20176,6.18768 2.10744,6.4206 C2.0142,6.63876 1.95084,6.88284 1.89756,7.12728 C1.79316,7.61904 1.73232,8.12592 1.68624,8.63352 C1.59948,9.6498 1.5696,10.67472 1.5894,11.69748 C1.6164,12.717 1.66284,13.74948 1.87344,14.73048 L1.87452,14.73408 C1.8954,14.83128 1.83348,14.92704 1.73628,14.94792 C1.63944,14.96916 1.54368,14.90724 1.5228,14.81004 L1.5228,14.81004 Z",
+                                    "M1.7766,17.5172516 C1.51788,16.2943355 1.46622,15.0688645 1.4322,13.844671 C1.41036,12.6204774 1.43598,11.3954323 1.5498,10.1729419 C1.60944,9.56148387 1.68546,8.95087742 1.81776,8.3424 C1.88622,8.03837419 1.96434,7.73434839 2.09286,7.43287742 C2.16006,7.28256774 2.23398,7.13098065 2.36628,6.98748387 C2.49648,6.85207742 2.65734,6.76180645 2.80392,6.69665806 C3.40704,6.44543226 4.01142,6.37432258 4.61328,6.29299355 C5.21514,6.22060645 5.81532,6.17291613 6.41466,6.12692903 C7.61334,6.03665806 8.80908,5.95916129 9.99432,5.81183226 C11.17578,5.66237419 12.3543,5.4315871 13.50258,5.11436129 C14.07504,4.95170323 14.64162,4.76434839 15.183,4.52504516 C15.71388,4.2836129 16.26156,3.99789677 16.60386,3.56101935 C16.94868,3.12754839 16.78362,2.49394839 16.50726,1.99021935 C16.22754,1.47286452 15.84534,0.998090323 15.42954,0.568451613 C15.414,0.553548387 15.41274,0.528851613 15.42702,0.513096774 C15.44046,0.498193548 15.46398,0.497341935 15.47952,0.50883871 C15.95244,0.893767742 16.37916,1.34043871 16.70592,1.87482581 C16.86846,2.14138065 16.99572,2.43901935 17.04738,2.76476129 C17.1003,3.08454194 17.04276,3.4647871 16.8315,3.73176774 C16.4199,4.25763871 15.85248,4.53952258 15.3027,4.80011613 C14.74494,5.05176774 14.16828,5.2472129 13.58658,5.41710968 C12.42066,5.7488129 11.23626,5.98981935 10.03716,6.1512 C8.83932,6.3096 7.63854,6.39603871 6.44322,6.49567742 C5.84598,6.54592258 5.24916,6.59829677 4.65948,6.67366452 C4.07526,6.75414194 3.47256,6.84015484 2.96352,7.05944516 C2.69892,7.17228387 2.56872,7.31876129 2.45868,7.59425806 C2.3499,7.85229677 2.27598,8.14099355 2.21382,8.43011613 C2.09202,9.01176774 2.02104,9.61130323 1.96728,10.2116903 C1.86606,11.4137419 1.8312,12.6260129 1.8543,13.835729 C1.8858,15.0416129 1.93998,16.2628258 2.18568,17.4231484 L2.18694,17.4274065 C2.2113,17.5423742 2.13906,17.6556387 2.02566,17.6803355 C1.91268,17.7054581 1.80096,17.6322194 1.7766,17.5172516 L1.7766,17.5172516 Z",
                                   id: "Path",
                                   fill: "#3369FF"
                                 }
@@ -72521,7 +72395,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M9.44964,11.46132 C9.43128,11.46132 9.41256,11.45844 9.3942,11.45268 C9.29952,11.42208 9.24804,11.32056 9.27864,11.22588 C9.79236,9.64296 11.27016,4.56516 11.28492,4.51404 C11.31228,4.41828 11.41128,4.36284 11.50812,4.39164 C11.60388,4.41936 11.6586,4.51908 11.63088,4.61484 C11.61576,4.66596 10.13616,9.74916 9.621,11.33712 C9.59616,11.41308 9.5256,11.46132 9.44964,11.46132 Z",
+                                    "M11.02458,13.5564 C11.00316,13.5564 10.98132,13.5529935 10.9599,13.5461806 C10.84944,13.5099871 10.78938,13.3899097 10.82508,13.2779226 C11.42442,11.4056516 13.14852,5.39965161 13.16574,5.3391871 C13.19766,5.22592258 13.31316,5.16034839 13.42614,5.1944129 C13.53786,5.2272 13.6017,5.34514839 13.56936,5.4584129 C13.55172,5.51887742 11.82552,11.5312645 11.2245,13.4094968 C11.19552,13.4993419 11.1132,13.5564 11.02458,13.5564 Z",
                                   id: "Path",
                                   fill: "#3369FF"
                                 }
@@ -72536,14 +72410,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "left_hand",
-                            transform: "translate(218.520000, 106.920000)"
+                            transform: "translate(258.000000, 126.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.56964,48.44736 C15.56532,48.07692 15.4026,34.98732 14.22036,27.18 C12.8862,18.3708 8.57988,1.62 6.03,0.18 C4.73292,-0.55224 0.20196,3.48048 0.12024,12.71988 C0.05976,19.55988 2.39544,25.02108 3.90024,31.19976 C5.31,36.9882 7.83288,46.278 8.22024,48.83976 C8.2332,48.92508 8.24436,49.00176 8.25696,49.08348 C9.95652,48.4812 13.23468,48.27384 15.56964,48.44736 Z",
+                                "M18.16458,57.0428594 C18.15954,56.6066961 17.9697,41.1947477 16.59042,32.0022581 C15.0339,21.6301355 10.00986,1.90741935 7.035,0.211935484 C5.52174,-0.650218065 0.23562,4.09798452 0.14028,14.9766329 C0.06972,23.0301813 2.79468,29.4603039 4.55028,36.7352013 C6.195,43.5506226 9.13836,54.4886129 9.59028,57.5048787 C9.6054,57.6053361 9.61842,57.6956206 9.63312,57.7918394 C11.61594,57.0827032 15.44046,56.8385535 18.16458,57.0428594 Z",
                               id: "Path",
                               fill: "url(#linearGradient-85)"
                             }
@@ -72554,14 +72428,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(11.880000, 38.160000)"
+                                transform: "translate(13.860000, 44.930323)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M0.40896,0.44784 L0.82584,4.37292 L3.52944,4.23108 L3.38868,0.98964 C3.38868,0.99 2.58768,0.41544 0.40896,0.44784 Z",
+                                    "M0.47712,0.527295484 L0.96348,5.14876065 L4.11768,4.98175548 L3.95346,1.16522129 C3.95346,1.16564516 3.01896,0.489147097 0.47712,0.527295484 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-86)"
                                 }
@@ -72570,7 +72444,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M0.82584,4.55292 C0.73404,4.55292 0.65664,4.48416 0.64692,4.392 L0.23004,0.46692 C0.22464,0.41652 0.24048,0.36648 0.27432,0.32832 C0.3078,0.29088 0.35604,0.26856 0.40608,0.26784 L0.58464,0.2664 C2.66436,0.2664 3.46068,0.82008 3.49344,0.84384 C3.53844,0.87588 3.56616,0.927 3.56868,0.98244 L3.70944,4.22388 C3.71376,4.32252 3.63744,4.4064 3.5388,4.41144 L0.8352,4.55328 C0.83232,4.55292 0.82908,4.55292 0.82584,4.55292 Z M0.60876,0.6264 L0.98676,4.18428 L3.34152,4.0608 L3.213,1.09512 C2.98764,0.97416 2.205,0.63 0.60876,0.6264 Z",
+                                    "M0.96348,5.36069613 C0.85638,5.36069613 0.76608,5.27973677 0.75474,5.17122581 L0.26838,0.549760645 C0.26208,0.49041871 0.28056,0.431500645 0.32004,0.386570323 C0.3591,0.342487742 0.41538,0.316207742 0.47376,0.31536 L0.68208,0.313664516 C3.10842,0.313664516 4.03746,0.965578065 4.07568,0.993553548 C4.12818,1.03127806 4.16052,1.09146774 4.16346,1.15674387 L4.32768,4.97327806 C4.33272,5.08941871 4.24368,5.18818065 4.1286,5.19411484 L0.9744,5.36112 C0.97104,5.36069613 0.96726,5.36069613 0.96348,5.36069613 Z M0.71022,0.737535484 L1.15122,4.92665226 L3.89844,4.78126452 L3.7485,1.28941548 C3.48558,1.14699484 2.5725,0.741774194 0.71022,0.737535484 Z",
                                   id: "Shape",
                                   fill: "#3369FF"
                                 }
@@ -72581,7 +72455,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.34,59.49 C12.08988,59.24988 11.835,56.025 11.835,56.025 C11.835,56.025 12.35304,56.29536 13.11804,57.87036 C13.88304,59.44536 15.17472,62.15904 15.885,61.875 C16.335,61.695 16.245,60.40512 16.245,60.40512 C16.245,60.40512 16.875,60.345 17.01,59.13 C17.16048,57.7764 17.19,53.955 16.56,51.525 C15.93,49.095 15.57,48.465 15.57,48.465 C15.57,48.465 15.57,48.45276 15.56964,48.44736 C13.23468,48.27384 9.95652,48.4812 8.25696,49.08384 C8.6706,51.83712 8.71776,52.44624 8.96472,53.86572 C9.32544,55.94148 10.64484,59.71248 11.34,59.49 Z",
+                                "M13.23,70.0446774 C14.10486,69.7619555 13.8075,65.9649194 13.8075,65.9649194 C13.8075,65.9649194 14.41188,66.2832465 15.30438,68.1376819 C16.19688,69.9921174 17.70384,73.1872568 18.5325,72.8528226 C19.0575,72.6408871 18.9525,71.1221574 18.9525,71.1221574 C18.9525,71.1221574 19.6875,71.051371 19.845,69.6208065 C20.02056,68.0270516 20.055,63.5276613 19.32,60.6665323 C18.585,57.8054032 18.165,57.063629 18.165,57.063629 C18.165,57.063629 18.165,57.0492174 18.16458,57.0428594 C15.44046,56.8385535 11.61594,57.0827032 9.63312,57.7922632 C10.1157,61.0340284 10.17072,61.7512181 10.45884,63.4225413 C10.87968,65.8665813 12.41898,70.3066297 13.23,70.0446774 Z",
                               id: "Path",
                               fill: "url(#linearGradient-87)"
                             }
@@ -72590,7 +72464,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.2982,57.01752 C15.63372,57.528 15.85692,58.08456 16.03044,58.65192 C16.20072,59.22036 16.30728,59.80644 16.34616,60.39648 C16.35012,60.45228 16.30764,60.50088 16.25148,60.50484 C16.19712,60.50844 16.1496,60.46776 16.14348,60.41412 C16.0794,59.84244 15.95088,59.2794 15.76188,58.73868 C15.57144,58.20084 15.32952,57.6738 15.00192,57.22308 C14.94324,57.1428 14.96088,57.03012 15.0408,56.97144 C15.12144,56.91276 15.23376,56.9304 15.29244,57.01032 C15.29424,57.01212 15.29676,57.01536 15.2982,57.01752 Z",
+                                "M17.8479,67.1335316 C18.23934,67.7345806 18.49974,68.3898852 18.70218,69.0579058 C18.90084,69.7271981 19.02516,70.41726 19.07052,71.1119845 C19.07514,71.1776845 19.02558,71.2349071 18.96006,71.2395697 C18.89664,71.2438084 18.8412,71.195911 18.83406,71.1327542 C18.7593,70.4596471 18.60936,69.7967129 18.38886,69.1600587 C18.16668,68.5267955 17.88444,67.9062484 17.50224,67.3755619 C17.43378,67.2810387 17.45436,67.1483671 17.5476,67.0792761 C17.64168,67.0101852 17.77272,67.0309548 17.84118,67.1250542 C17.84328,67.1271735 17.84622,67.1309884 17.8479,67.1335316 Z",
                               id: "Path",
                               fill: "#B75334"
                             }
@@ -72599,7 +72473,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.98908,54.13716 C11.93508,54.25488 11.91888,54.42768 11.90592,54.5922 C11.8944,54.75888 11.89116,54.92988 11.89188,55.10052 C11.89404,55.44252 11.91312,55.78704 11.93832,56.1312 C11.94264,56.18376 11.90304,56.22984 11.85048,56.23416 C11.80044,56.23812 11.75616,56.20212 11.7486,56.15352 C11.69496,55.809 11.64744,55.4634 11.61684,55.11276 C11.60172,54.9378 11.59056,54.7614 11.5884,54.58212 C11.59056,54.40212 11.58372,54.22068 11.6514,54.01224 L11.65356,54.00612 C11.68452,53.91108 11.78604,53.85924 11.88108,53.88984 C11.97576,53.9208 12.0276,54.02232 11.997,54.11736 C11.99412,54.12456 11.9916,54.13068 11.98908,54.13716 Z",
+                                "M13.98726,63.74214 C13.92426,63.8807458 13.90536,64.0842039 13.89024,64.2779129 C13.8768,64.4741652 13.87302,64.6755039 13.87386,64.8764187 C13.87638,65.2790961 13.89864,65.6847406 13.92804,66.0899613 C13.93308,66.1518465 13.88688,66.2061019 13.82556,66.2111884 C13.76718,66.215851 13.71552,66.1734639 13.7067,66.1162413 C13.64412,65.7105968 13.58868,65.3036806 13.55298,64.8908303 C13.53534,64.684829 13.52232,64.4771323 13.5198,64.2660445 C13.52232,64.054109 13.51434,63.8404781 13.5933,63.5950568 L13.59582,63.587851 C13.63194,63.475949 13.75038,63.4149116 13.86126,63.4509406 C13.97172,63.4873935 14.0322,63.6069252 13.9965,63.7188271 C13.99314,63.7273045 13.9902,63.7345103 13.98726,63.74214 Z",
                               id: "Path",
                               fill: "#B75334"
                             }
@@ -72608,7 +72482,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.02948,48.57984 C13.0284,48.57984 13.02732,48.57984 13.02624,48.57984 C12.92724,48.57804 12.84768,48.49632 12.84948,48.3966 C12.9672,41.3748 8.82288,9.61956 2.62332,2.61828 C2.55708,2.54376 2.56428,2.43 2.6388,2.36412 C2.7126,2.2986 2.82636,2.30508 2.8926,2.3796 C9.1458,9.441 13.32792,41.3514 13.20948,48.40272 C13.20768,48.50136 13.12776,48.57984 13.02948,48.57984 Z",
+                                "M15.20106,57.1988439 C15.1998,57.1988439 15.19854,57.1988439 15.19728,57.1988439 C15.08178,57.1967245 14.98896,57.1005058 14.99106,56.9830935 C15.1284,48.7154903 10.29336,11.3262561 3.06054,3.08281355 C2.98326,2.99507226 2.99166,2.86112903 3.0786,2.78356065 C3.1647,2.70641613 3.29742,2.71404581 3.3747,2.8017871 C10.6701,11.1160161 15.54924,48.6879387 15.41106,56.9902994 C15.40896,57.10644 15.31572,57.1988439 15.20106,57.1988439 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72621,14 +72495,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "monitor",
-                            transform: "translate(34.920000, 40.320000)"
+                            transform: "translate(41.000000, 48.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M78.84,0.10512 L2.72592,6.72084 C0.40788,13.23648 -0.2286,20.44368 0.60012,28.68012 C3.67524,59.24952 26.46,69.84 36.72,82.26 C37.00944,82.61064 37.28628,82.97136 37.55412,83.34 L78.84,66.87 L78.84,0.10512 Z",
+                                "M92.8116456,0.123891429 L3.20899443,7.92099 C0.480162532,15.6001371 -0.269111392,24.0943371 0.70647038,33.80157 C4.32654835,69.8297914 31.1491139,82.3114286 43.2273418,96.9492857 C43.5680749,97.36254 43.8939752,97.7876743 44.2092805,98.2221429 L92.8116456,78.8110714 L92.8116456,0.123891429 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72637,7 +72511,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M76.48884,3.06 L1.67256,10.19124 C0.23616,15.77988 -0.08424,21.87756 0.60012,28.67976 C3.53484,57.85236 24.41844,68.8302 35.23752,80.56656 L76.48884,65.64492 L76.48884,3.06 Z",
+                                "M90.0438243,3.60642857 L1.96896304,12.0111043 C0.278011139,18.5977157 -0.0991686076,25.7842671 0.70647038,33.8011457 C4.16126734,68.1831386 28.7457585,81.1213071 41.4821438,94.9534457 L90.0438243,77.3672271 L90.0438243,3.60642857 Z",
                               id: "Path",
                               fill: "url(#linearGradient-88)"
                             }
@@ -72646,7 +72520,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M39.05244,71.4402 C33.96852,70.35588 25.89516,65.28276 24.48972,55.7514 C23.73444,50.62896 24.50412,46.40616 25.24824,42.32196 C25.9236,38.61576 26.56152,35.11476 26.01864,31.17312 C25.19064,25.16508 20.43576,21.83292 18.03708,20.91024 L18.68328,19.23012 C21.62736,20.36268 26.86104,24.1002 27.80172,30.92724 C28.3842,35.15436 27.69012,38.96208 27.01944,42.64452 C26.30124,46.58508 25.55856,50.65992 26.27064,55.4886 C27.54216,64.1124 34.83576,68.70024 39.42792,69.6798 L39.05244,71.4402 Z",
+                                "M45.9731256,84.1973786 C39.9882577,82.91943 30.4841757,76.9403957 28.8296704,65.7070071 C27.9405433,59.6698457 28.8466223,54.6929743 29.7226116,49.8794529 C30.5176557,45.5114314 31.2686248,41.3852529 30.6295382,36.7397486 C29.6548041,29.6588443 24.0572871,25.7316557 21.2335246,24.6442114 L21.994241,22.66407 C25.4600567,23.9988729 31.6212243,28.4038071 32.7286071,36.4499614 C33.4143114,41.4319243 32.5972299,45.9195943 31.8076952,50.2596129 C30.9622192,54.9038443 30.0879251,59.7063343 30.9261965,65.3972786 C32.4230491,75.5610429 41.0091858,80.96814 46.4151463,82.1226214 L45.9731256,84.1973786 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72659,14 +72533,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "hairs_x5F_2",
-                            transform: "translate(84.240000, 37.440000)"
+                            transform: "translate(99.000000, 44.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M41.67,5.31 C41.49,7.56 40.61736,17.97372 41.33988,24.59988 C42.77988,37.8 36.99828,40.55904 36.16884,45.44568 C35.6292,48.62592 38.16,50.76 38.16,50.76 C38.16,50.76 35.03988,54.65988 20.7,52.26012 C6.36012,49.86036 0.24012,42.36012 0.24012,42.36012 C0.24012,42.36012 14.88024,26.16012 16.68024,15.48 C18.48024,4.79988 20.26332,-0.28908 29.87172,0.21564 C39.48012,0.72036 41.67,5.31 41.67,5.31 Z",
+                                "M49.6071429,6.29333333 C49.3928571,8.96 48.354,21.3021867 49.2141429,29.1554133 C50.9284286,44.8 44.0455714,48.0699733 43.0581429,53.8615467 C42.4157143,57.63072 45.4285714,60.16 45.4285714,60.16 C45.4285714,60.16 41.7141429,64.78208 24.6428571,61.93792 C7.57157143,59.09376 0.285857143,50.2045867 0.285857143,50.2045867 C0.285857143,50.2045867 17.7145714,31.0045867 19.8574286,18.3466667 C22.0002857,5.68874667 24.123,-0.342613333 35.5615714,0.255573333 C47.0001429,0.85376 49.6071429,6.29333333 49.6071429,6.29333333 Z",
                               id: "Path",
                               fill: "url(#linearGradient-89)"
                             }
@@ -72675,7 +72549,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M38.16,50.76 C38.16,50.76 35.6292,48.62592 36.1692,45.44568 C36.99864,40.55904 42.78024,37.8 41.34024,24.59988 C40.61736,17.97372 41.49036,7.56 41.67036,5.31 C41.67036,5.31 41.38128,4.70952 40.56228,3.92004 C40.0428,7.80192 40.5,15.5574 40.5,18.72 C40.5,22.23 41.4,29.16 35.1,35.55 C29.37096,41.36076 28.8522,46.1304 29.34648,53.03808 C36.38016,52.9794 38.16,50.76 38.16,50.76 Z",
+                                "M45.4285714,60.16 C45.4285714,60.16 42.4157143,57.63072 43.0585714,53.8615467 C44.046,48.0699733 50.9288571,44.8 49.2145714,29.1554133 C48.354,21.3021867 49.3932857,8.96 49.6075714,6.29333333 C49.6075714,6.29333333 49.2634286,5.58165333 48.2884286,4.64597333 C47.67,9.24672 48.2142857,18.4384 48.2142857,22.1866667 C48.2142857,26.3466667 49.2857143,34.56 41.7857143,42.1333333 C34.9654286,49.02016 34.3478571,54.6730667 34.9362857,62.8599467 C43.3097143,62.7904 45.4285714,60.16 45.4285714,60.16 Z",
                               id: "Path",
                               fill: "#13E7ED"
                             }
@@ -72684,7 +72558,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M22.45428,35.9622 C22.63392,31.77468 26.19,31.59 29.07,19.17 C30.96,11.01996 29.71908,5.17032 26.92224,0.26136 C19.86696,0.92952 18.27756,6.00048 16.67988,15.48 C14.87988,26.16012 0.23976,42.36012 0.23976,42.36012 C0.23976,42.36012 6.35976,49.86 20.69964,52.26012 C21.75804,52.43724 22.74804,52.5762 23.68764,52.68888 C27.17892,45.80892 22.275,40.13964 22.45428,35.9622 Z",
+                                "M26.7312857,42.6218667 C26.9451429,37.65888 31.1785714,37.44 34.6071429,22.72 C36.8571429,13.0606933 35.3798571,6.12778667 32.0502857,0.30976 C23.6511429,1.10165333 21.759,7.11168 19.857,18.3466667 C17.7141429,31.0045867 0.285428571,50.2045867 0.285428571,50.2045867 C0.285428571,50.2045867 7.57114286,59.0933333 24.6424286,61.93792 C25.9024286,62.14784 27.081,62.3125333 28.1995714,62.44608 C32.3558571,54.2920533 26.5178571,47.5729067 26.7312857,42.6218667 Z",
                               id: "Path",
                               fill: "url(#linearGradient-90)"
                             }
@@ -72697,14 +72571,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "body",
-                            transform: "translate(69.480000, 61.560000)"
+                            transform: "translate(82.000000, 73.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M36.64404,21.2868 C35.94672,19.44864 35.11656,17.90424 34.11,16.92 C31.51296,14.38056 26.31528,14.01912 23.76,14.13 C23.76,14.13 22.5,14.76 19.69704,12.5892 C16.89408,10.4184 12.24,1.89 7.92,0.45 C3.6,-0.99 0.15408,1.30248 1.37376,8.77608 C2.81988,17.64 -2.16,28.55988 2.7,36.36 C7.8534,44.63064 18.68436,44.54604 21.15,43.47 C21.573,41.80608 23.46948,36.64584 24.48,35.41464 L24.48,35.41464 C25.61616,33.42348 30.98772,22.8564 36.64404,21.2868 Z",
+                                "M43.5766962,25.07112 C42.7474508,22.906176 41.7602335,21.087216 40.5632432,19.928 C37.4748714,16.937104 31.2938465,16.511408 28.2551351,16.642 C28.2551351,16.642 26.7567568,17.384 23.423507,14.82728 C20.0902573,12.27056 14.5556757,2.226 9.41837838,0.53 C4.28108108,-1.166 0.18323027,1.534032 1.63366054,10.336272 C3.35337081,20.776 -2.56864865,33.637192 3.21081081,42.824 C9.33917838,52.564976 22.2192389,52.465336 25.1513514,51.198 C25.6543784,49.238272 27.9096519,43.160656 29.1113514,41.710576 L29.1113514,41.710576 C30.4624605,39.365432 36.8502616,26.91976 43.5766962,25.07112 Z",
                               id: "Path",
                               fill: "url(#linearGradient-91)"
                             }
@@ -72713,7 +72587,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M23.76,14.13 C23.76,14.13 22.5,14.76 19.69704,12.5892 C16.89408,10.4184 12.24,1.89 7.92,0.45 C5.37984,-0.39672 3.14352,0.04896 1.97856,2.07756 C4.76208,8.8416 12.11256,22.32468 14.31,23.22 C16.60212,24.15384 28.26072,22.44384 35.16624,18.24372 C34.8372,17.7336 34.48584,17.28756 34.11,16.92 C31.51296,14.38056 26.31528,14.01912 23.76,14.13 Z",
+                                "M28.2551351,16.642 C28.2551351,16.642 26.7567568,17.384 23.423507,14.82728 C20.0902573,12.27056 14.5556757,2.226 9.41837838,0.53 C6.39764757,-0.467248 3.73824,0.057664 2.35288216,2.446904 C5.66301405,10.41344 14.4041254,26.293512 17.0172973,27.348 C19.7430616,28.447856 33.6073427,26.433856 41.8193124,21.487048 C41.4280216,20.88624 41.0101881,20.360904 40.5632432,19.928 C37.4748714,16.937104 31.2938465,16.511408 28.2551351,16.642 Z",
                               id: "Path",
                               fill: "url(#linearGradient-92)"
                             }
@@ -72722,7 +72596,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.3548,23.64876 C15.40404,23.64876 14.67288,23.562 14.24232,23.38632 C14.15016,23.34888 14.10588,23.24376 14.14368,23.15196 C14.18112,23.0598 14.28624,23.01552 14.37804,23.05332 C16.72416,24.00912 28.26288,22.23432 35.0748,18.09144 C35.16012,18.03996 35.27028,18.06696 35.32212,18.15156 C35.37396,18.23616 35.3466,18.34704 35.262,18.39888 C29.60748,21.83796 20.69712,23.64876 16.3548,23.64876 Z",
+                                "M19.4489514,27.852984 C18.3183178,27.852984 17.4488303,27.7508 16.936813,27.543888 C16.8272173,27.499792 16.77456,27.375984 16.8195114,27.267864 C16.8640346,27.15932 16.9890422,27.107168 17.0982097,27.151688 C19.8881903,28.277408 33.6099114,26.187088 41.710573,21.307696 C41.8120346,21.247064 41.9430357,21.278864 42.0046832,21.378504 C42.0663308,21.478144 42.0337946,21.608736 41.9331892,21.669792 C35.2088951,25.720264 24.6127914,27.852984 19.4489514,27.852984 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -72731,7 +72605,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.1402,43.07724 C11.10168,43.07724 11.06244,43.06464 11.02932,43.03908 C10.9512,42.97788 10.93716,42.86484 10.99836,42.78636 C13.36752,39.7548 13.8114,31.04352 13.6206,28.81512 C13.44096,26.71992 13.75956,23.78628 14.87628,21.95604 C17.07084,18.35892 19.94076,15.59628 21.90852,13.8312 C21.98232,13.7646 22.09608,13.77072 22.16268,13.84488 C22.22928,13.91904 22.2228,14.0328 22.149,14.09904 C20.19816,15.849 17.3538,18.58644 15.18372,22.14324 C14.10948,23.904 13.80492,26.74728 13.97952,28.78416 C14.17356,31.04496 13.71132,39.89916 11.2824,43.00776 C11.24676,43.05348 11.19384,43.07724 11.1402,43.07724 Z",
+                                "M13.2478054,50.735416 C13.2019978,50.735416 13.1553341,50.720576 13.1159481,50.690472 C13.0230486,50.618392 13.0063524,50.485256 13.0791308,50.392824 C15.8965103,46.82232 16.4243676,36.562368 16.1974703,33.937808 C15.9838443,31.470128 16.36272,28.014952 17.6907114,25.859336 C20.3004584,21.622728 23.7133362,18.368952 26.0533751,16.29008 C26.1411373,16.21164 26.2764195,16.218848 26.3556195,16.306192 C26.4348195,16.393536 26.4271135,16.52752 26.3393514,16.605536 C24.0194335,18.6666 20.6369514,21.890696 18.0563157,26.079816 C16.7788411,28.1536 16.4166616,31.502352 16.6242941,33.901344 C16.8550443,36.564064 16.3053535,46.992344 13.4169081,50.653584 C13.3745254,50.707432 13.3115935,50.735416 13.2478054,50.735416 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -72742,14 +72616,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(8.640000, 32.400000)"
+                                transform: "translate(10.274595, 38.160000)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M9.39816,3.44484 C9.35496,3.94164 8.91684,4.3092 8.42004,4.26564 L1.15056,3.62916 C0.65412,3.5856 0.28656,3.14784 0.33012,2.6514 L0.4482,1.30248 C0.4914,0.80568 0.92952,0.43848 1.42596,0.48168 L8.69544,1.11816 C9.19224,1.16172 9.55944,1.59948 9.51624,2.09592 L9.39816,3.44484 Z",
+                                    "M11.1761903,4.057256 C11.1248173,4.642376 10.6038097,5.07528 10.0130205,5.023976 L1.36823351,4.274344 C0.777872432,4.22304 0.340774054,3.707456 0.392575135,3.12276 L0.532994595,1.534032 C0.584367568,0.948912 1.10537514,0.516432 1.69573622,0.567312 L10.3405232,1.316944 C10.9313124,1.368248 11.3679827,1.883832 11.3166097,2.468528 L11.1761903,4.057256 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-93)"
                                 }
@@ -72758,7 +72632,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M8.49996,4.44924 C8.46864,4.44924 8.4366,4.4478 8.40456,4.44492 L1.13508,3.80844 C0.84708,3.78324 0.58608,3.64752 0.39996,3.42576 C0.21384,3.20436 0.12564,2.92356 0.15084,2.63556 L0.26892,1.28664 C0.31968,0.70092 0.8478,0.24912 1.4418,0.3024 L8.71128,0.93888 C8.99928,0.96408 9.26064,1.0998 9.4464,1.32156 C9.63252,1.54332 9.72072,1.82376 9.69552,2.11176 L9.57744,3.46068 C9.52956,4.01508 9.0558,4.44924 8.49996,4.44924 Z M1.34676,0.65844 C0.97596,0.65844 0.65988,0.94824 0.62784,1.31832 L0.50976,2.66724 C0.49284,2.85948 0.55224,3.04704 0.67608,3.19464 C0.80028,3.3426 0.97452,3.43332 1.16676,3.44988 L8.43624,4.08636 C8.83548,4.1202 9.1854,3.82032 9.21924,3.429 L9.33732,2.08008 C9.35424,1.88784 9.29484,1.70028 9.171,1.55268 C9.04716,1.40508 8.87256,1.314 8.68032,1.29744 L1.41084,0.66096 C1.38924,0.65916 1.36764,0.65844 1.34676,0.65844 Z",
+                                    "M10.1080605,5.240216 C10.0708151,5.240216 10.0327135,5.23852 9.99461189,5.235128 L1.34982486,4.485496 C1.00733838,4.455816 0.69696,4.295968 0.475628108,4.034784 C0.254296216,3.774024 0.14940973,3.443304 0.179377297,3.104104 L0.319796757,1.515376 C0.38016,0.825528 1.00819459,0.293408 1.71457297,0.35616 L10.35936,1.105792 C10.7018465,1.135472 11.012653,1.29532 11.2335568,1.556504 C11.4548886,1.817688 11.5597751,2.147984 11.5298076,2.487184 L11.3893881,4.075912 C11.3324497,4.728872 10.7690595,5.240216 10.1080605,5.240216 Z M1.60155243,0.775496 C1.16060108,0.775496 0.784722162,1.116816 0.746620541,1.552688 L0.606201081,3.141416 C0.58608,3.367832 0.656717838,3.588736 0.803987027,3.762576 C0.951684324,3.93684 1.15888865,4.043688 1.38749838,4.063192 L10.0322854,4.812824 C10.5070573,4.85268 10.9231784,4.499488 10.9634205,4.0386 L11.10384,2.449872 C11.1239611,2.223456 11.0533232,2.002552 10.9060541,1.828712 C10.7587849,1.654872 10.5511524,1.5476 10.3225427,1.528096 L1.67775568,0.778464 C1.65206919,0.776344 1.6263827,0.775496 1.60155243,0.775496 Z",
                                   id: "Shape",
                                   fill: "#00CFFF"
                                 }
@@ -72769,7 +72643,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.61336,44.33508 C13.13388,44.33508 6.21288,42.678 2.39472,36.55044 C-0.6102,31.72788 0.11376,25.39476 0.8136,19.27044 C1.25928,15.37056 1.72008,11.33784 1.15632,7.88256 C1.12428,7.68636 1.25748,7.50132 1.45368,7.46928 C1.64916,7.43724 1.83492,7.57044 1.86696,7.76664 C2.44692,11.32056 1.98036,15.40368 1.52892,19.35216 C0.84312,25.35408 0.13392,31.56012 3.006,36.16956 C8.00532,44.19288 18.5058,44.23104 21.00636,43.13988 C21.18744,43.05996 21.40092,43.14312 21.48012,43.326 C21.55968,43.50816 21.47652,43.72056 21.294,43.79976 C20.5848,44.10936 19.26432,44.33508 17.61336,44.33508 Z",
+                                "M20.9456173,52.216872 C15.6186681,52.216872 7.38828973,50.2652 2.84777514,43.048296 C-0.725643243,37.368392 0.135282162,29.909384 0.967524324,22.696296 C1.49752216,18.103104 2.04550054,13.353456 1.37508324,9.283904 C1.33698162,9.052824 1.49538162,8.834888 1.72870054,8.797152 C1.96116324,8.759416 2.18206703,8.916296 2.22016865,9.147376 C2.90985081,13.333104 2.3550227,18.142112 1.81817514,22.792544 C1.00262919,29.861472 0.159256216,37.170808 3.5747027,42.599704 C9.51984,52.049392 22.0068973,52.094336 24.9805362,50.809192 C25.1958746,50.715064 25.4497427,50.813008 25.5439265,51.0284 C25.6385384,51.242944 25.5396454,51.493104 25.3225946,51.586384 C24.4792216,51.951024 22.9089211,52.216872 20.9456173,52.216872 Z",
                               id: "Path",
                               fill: "#3369FF"
                             }
@@ -72782,14 +72656,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "hand",
-                            transform: "translate(93.600000, 73.080000)"
+                            transform: "translate(110.000000, 86.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.54216,23.70816 C1.64988,24.86988 4.59,35.46 6.12,42.48 C7.65,49.5 11.79,55.98 17.46,55.53 C23.13,55.08 29.88,45.09 35.19,37.62 C40.5,30.15 50.445,13.68 50.445,13.68 C50.445,13.68 54.92556,14.22216 60.18768,14.01768 C65.97036,13.79268 68.98536,12.19464 70.92036,11.63268 C73.17468,10.97784 75.38292,10.76436 75.73536,10.35 C76.11804,9.9 75.78036,9.45 75.33036,9.225 C76.45536,9.18 79.29864,7.78212 79.38036,7.02 C79.44804,6.39 78.39252,6.6276 78.39252,6.6276 C78.39252,6.6276 80.10036,5.96232 79.9416,5.3406 C79.77348,4.68288 75.24036,4.95 73.93536,4.95 C72.63036,4.95 69.71112,4.78296 67.09536,4.725 C64.41048,4.6656 61.50024,4.77 59.98536,4.995 C61.87536,4.365 64.93536,1.53972 64.44036,0.405 C64.08036,-0.42012 61.24536,1.08 59.35536,1.485 C57.46536,1.89 53.3286,2.67624 49.80024,4.43988 C46.08036,6.3 43.08012,9.29988 38.34036,15.71976 C33.6006,22.13964 19.53036,36.80964 19.53036,36.80964 C19.53036,36.80964 17.52048,31.97952 16.38036,27.17964 C15.52356,23.57244 14.63292,15.32412 12.5244,9.76644 C6.86808,11.33604 1.49652,21.90312 0.36036,23.89428 L0.36036,23.89428 C0.4248,23.81616 0.48564,23.7528 0.54216,23.70816 Z",
+                                "M0.643815,27.94176 C1.9592325,29.31093 5.450625,41.7921429 7.2675,50.0657143 C9.084375,58.3392857 14.000625,65.9764286 20.73375,65.4460714 C27.466875,64.9157143 35.4825,53.1417857 41.788125,44.3378571 C48.09375,35.5339286 59.9034375,16.1228571 59.9034375,16.1228571 C59.9034375,16.1228571 65.2241025,16.7618314 71.47287,16.5208371 C78.3398025,16.2556586 81.920115,14.3722543 84.2179275,13.7099443 C86.8949325,12.9381686 89.5172175,12.6865671 89.93574,12.1982143 C90.3901725,11.6678571 89.9891775,11.1375 89.4548025,10.8723214 C90.79074,10.8192857 94.167135,9.17178429 94.2641775,8.27357143 C94.3445475,7.53107143 93.0911175,7.8111 93.0911175,7.8111 C93.0911175,7.8111 95.1191775,7.02702 94.93065,6.29427857 C94.7310075,5.51910857 89.3479275,5.83392857 87.79824,5.83392857 C86.2485525,5.83392857 82.781955,5.63706 79.67574,5.56875 C76.487445,5.49874286 73.031535,5.62178571 71.232615,5.88696429 C73.47699,5.14446429 77.11074,1.81467 76.5229275,0.477321429 C76.0954275,-0.495141429 72.728865,1.27285714 70.48449,1.75017857 C68.240115,2.2275 63.3277125,3.15414 59.137785,5.23271571 C54.7204275,7.425 51.1576425,10.9605729 45.5291775,18.52686 C39.9007125,26.0931471 23.1923025,43.38279 23.1923025,43.38279 C23.1923025,43.38279 20.80557,37.6901486 19.4516775,32.0331471 C18.4342275,27.7818043 17.3765925,18.06057 14.872725,11.5104471 C8.155845,13.3603329 1.7771175,25.8143914 0.4279275,28.1611157 L0.4279275,28.1611157 C0.50445,28.0690457 0.5766975,27.9943714 0.643815,27.94176 Z",
                               id: "Path",
                               fill: "url(#linearGradient-94)"
                             }
@@ -72798,7 +72672,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M40.79988,17.57988 C37.37988,22.07988 35.39988,26.82 32.76,30.29976 C30.12012,33.77952 21.24972,45.91584 16.79256,45.34632 C13.14,44.88012 11.16,40.56012 9.65988,34.56 C8.36136,29.36592 7.24068,19.72584 4.22604,17.424 C2.29932,20.25468 0.882,22.97988 0.36,23.89464 C0.42444,23.81616 0.48564,23.7528 0.54216,23.70816 C1.64988,24.86988 4.59,35.46 6.12,42.48 C7.65,49.5 11.79,55.98 17.46,55.53 C23.13,55.08 29.88,45.09 35.19,37.62 C40.5,30.15 50.445,13.68 50.445,13.68 C47.45988,13.56012 44.21988,13.07988 40.79988,17.57988 Z",
+                                "M48.4498575,20.7191443 C44.3886075,26.0227157 42.0373575,31.6092857 38.9025,35.7104314 C35.7676425,39.8115771 25.2340425,54.1150971 19.941165,53.4438771 C15.60375,52.8944271 13.2525,47.8029986 11.4711075,40.7314286 C9.929115,34.6098343 8.5983075,23.2483114 5.0184225,20.5354286 C2.7304425,23.8715871 1.047375,27.08343 0.4275,28.16154 C0.5040225,28.0690457 0.5766975,27.9943714 0.643815,27.94176 C1.9592325,29.31093 5.450625,41.7921429 7.2675,50.0657143 C9.084375,58.3392857 14.000625,65.9764286 20.73375,65.4460714 C27.466875,64.9157143 35.4825,53.1417857 41.788125,44.3378571 C48.09375,35.5339286 59.9034375,16.1228571 59.9034375,16.1228571 C56.3586075,15.98157 52.5111075,15.4155729 48.4498575,20.7191443 Z",
                               id: "Path",
                               fill: "url(#linearGradient-95)"
                             }
@@ -72807,7 +72681,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M19.36728,55.23048 C19.31472,55.23048 19.26216,55.20744 19.22688,55.16316 C14.25492,48.9834 17.40348,39.01932 19.3932,36.69264 C19.458,36.6174 19.57176,36.60876 19.647,36.67284 C19.72224,36.73728 19.73124,36.85104 19.6668,36.92664 C17.72676,39.19464 14.65848,48.91032 19.50732,54.93708 C19.5696,55.01448 19.55736,55.12788 19.47996,55.19016 C19.44684,55.21752 19.40688,55.23048 19.36728,55.23048 Z",
+                                "M22.998645,65.0930657 C22.93623,65.0930657 22.873815,65.0659114 22.83192,65.0137243 C16.9277175,57.7304357 20.6666325,45.9870557 23.029425,43.2448971 C23.106375,43.1562214 23.241465,43.1460386 23.3308125,43.2215614 C23.42016,43.2975086 23.4308475,43.4315829 23.354325,43.5206829 C21.0505275,46.1936829 17.406945,57.6443057 23.1649425,64.7472729 C23.2389,64.8384943 23.224365,64.9721443 23.1324525,65.0455457 C23.0931225,65.0777914 23.04567,65.0930657 22.998645,65.0930657 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -72816,7 +72690,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.0946,45.5454 C16.98408,45.5454 16.87572,45.53856 16.76988,45.52524 C13.47264,45.10404 11.29428,41.83776 9.48564,34.60356 C9.17136,33.3468 8.86788,31.83084 8.5464,30.22596 C7.56828,25.34328 6.35112,19.2672 4.1166,17.5626 C4.0374,17.50248 4.02228,17.38944 4.08276,17.31024 C4.14288,17.2314 4.25592,17.21556 4.33512,17.2764 C6.67764,19.06308 7.85808,24.95592 8.89956,30.15504 C9.22032,31.7556 9.52308,33.2676 9.8352,34.51644 C11.57832,41.48892 13.73112,44.77392 16.81596,45.16812 C20.9232,45.69192 29.06928,34.89552 32.13432,30.8304 L32.61708,30.1914 C33.84288,28.57572 34.93188,26.67564 36.08496,24.66396 C37.43316,22.31172 38.82744,19.8792 40.65732,17.47116 C43.91172,13.18932 47.07612,13.34088 49.8672,13.47372 C50.0634,13.48308 50.25852,13.49244 50.45292,13.50036 C50.55228,13.50432 50.62968,13.5882 50.6255324,13.68756 C50.62104,13.78692 50.53284,13.86756 50.43816,13.86 C50.24304,13.85244 50.04684,13.84272 49.84956,13.83336 C47.01456,13.698 44.08344,13.5576 40.94352,17.68896 C39.12768,20.07828 37.73952,22.50036 36.39708,24.84288 C35.23824,26.865 34.14348,28.7748 32.90364,30.40884 L32.4216,31.04712 C29.39796,35.0568 21.48984,45.5454 17.0946,45.5454 Z",
+                                "M20.2998375,53.6785071 C20.168595,53.6785071 20.0399175,53.6704457 19.9142325,53.6547471 C15.99876,53.1583329 13.4119575,49.3087886 11.2641975,40.7827671 C10.89099,39.3015857 10.5306075,37.5149186 10.14885,35.6234529 C8.9873325,29.8688657 7.541955,22.7077714 4.8884625,20.6987786 C4.7944125,20.6279229 4.7764575,20.4946971 4.8482775,20.4013543 C4.91967,20.3084357 5.053905,20.2897671 5.147955,20.3614714 C7.9296975,22.4672014 9.33147,29.4123343 10.5682275,35.5398686 C10.94913,37.4262429 11.3086575,39.2082429 11.6793,40.68009 C13.749255,48.8976557 16.305705,52.7692629 19.9689525,53.2338557 C24.8463,53.8511914 34.51977,41.1268629 38.159505,36.3358286 L38.7327825,35.5827214 C40.18842,33.6785271 41.4816075,31.4391471 42.85089,29.0682386 C44.4518775,26.2959557 46.107585,23.4290571 48.2805675,20.59101 C52.1451675,15.5445557 55.9028925,15.72318 59.2173,15.8797414 C59.4502875,15.8907729 59.6819925,15.9018043 59.9128425,15.9111386 C60.0308325,15.9158057 60.122745,16.0146643 60.1178197,16.1317671 C60.112485,16.24887 60.0077475,16.34391 59.895315,16.335 C59.66361,16.32609 59.4306225,16.3146343 59.1963525,16.3036029 C55.82979,16.1440714 52.349085,15.9786 48.62043,20.8477029 C46.46412,23.6636871 44.81568,26.5182814 43.2215325,29.2791086 C41.84541,31.6623214 40.5453825,33.9131571 39.0730725,35.83899 L38.50065,36.5912486 C34.9100775,41.3169429 25.519185,53.6785071 20.2998375,53.6785071 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -72825,7 +72699,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M75.48372,9.31356 C75.03876,9.19944 74.57364,9.19224 74.1132,9.21024 C73.65204,9.23184 73.19052,9.27468 72.73152,9.3402 C71.81352,9.4734 70.9002,9.648 69.99192,9.84996 L67.26348,10.4706 C67.03812,10.51884 66.79656,10.56744 66.55896,10.58472 C66.31344,10.602 66.07692,10.5948 65.83896,10.57212 C65.367,10.52064 64.89648,10.42416 64.46412,10.21752 C64.4382,10.20528 64.4274,10.17432 64.43964,10.14876 C64.45116,10.12464 64.47888,10.11348 64.50336,10.12212 L64.50552,10.12284 C64.93572,10.27656 65.39832,10.33884 65.85408,10.36224 C66.0816,10.37376 66.31308,10.36908 66.53232,10.34316 C66.7602,10.31796 66.97404,10.2564 67.20408,10.20636 C68.10876,9.99216 69.0138,9.7524 69.93036,9.56556 C70.84584,9.37404 71.76708,9.19584 72.70164,9.09864 C73.63008,9.00756 74.59416,8.9352 75.51396,9.20412 C75.5442,9.21276 75.56148,9.24444 75.55248,9.27468 C75.54384,9.3042 75.51324,9.32112 75.48372,9.31356 Z",
+                                "M89.6369175,10.9766957 C89.1085275,10.8421971 88.5561975,10.8337114 88.009425,10.8549257 C87.4617975,10.8803829 86.9137425,10.9308729 86.36868,11.0080929 C85.278555,11.1650786 84.1939875,11.3708571 83.115405,11.6088814 L79.8753825,12.34035 C79.6077675,12.3972043 79.320915,12.4544829 79.038765,12.4748486 C78.74721,12.4952143 78.4663425,12.4867286 78.183765,12.4599986 C77.6233125,12.3993257 77.06457,12.2856171 76.5511425,12.0420771 C76.5203625,12.0276514 76.5075375,11.9911629 76.5220725,11.9610386 C76.5357525,11.9326114 76.56867,11.9194586 76.59774,11.9296414 L76.600305,11.93049 C77.1111675,12.11166 77.660505,12.1850614 78.20172,12.21264 C78.4719,12.2262171 78.7467825,12.2207014 79.00713,12.1901529 C79.2777375,12.1604529 79.5316725,12.0879 79.804845,12.0289243 C80.8791525,11.7764743 81.9538875,11.4939 83.0423025,11.2736957 C84.129435,11.0479757 85.2234075,10.8379543 86.3331975,10.7233971 C87.43572,10.6160529 88.580565,10.5307714 89.6728275,10.8477129 C89.7087375,10.8578957 89.7292575,10.8952329 89.71857,10.9308729 C89.70831,10.9656643 89.6719725,10.9856057 89.6369175,10.9766957 Z",
                               id: "Path",
                               fill: "#668DE7"
                             }
@@ -72834,7 +72708,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M71.01072,7.15104 C72.33084,7.11612 73.638,6.94764 74.94876,6.7806 C75.6036,6.6906 76.25916,6.59664 76.91976,6.52752 C77.57928,6.46092 78.24888,6.39576 78.92244,6.48 C78.9534,6.48396 78.975,6.51204 78.9714,6.543 C78.9678,6.57072 78.94512,6.59124 78.91848,6.59232 L78.9156,6.59232 C78.26292,6.62292 77.61348,6.74676 76.95972,6.83676 C76.30668,6.93684 75.6504,7.02972 74.99124,7.1082 C73.67616,7.27416 72.34056,7.38936 71.00928,7.30908 C70.96572,7.30692 70.93188,7.26984 70.93404,7.22628 C70.9362,7.18488 70.97076,7.15284 71.01072,7.15104 Z",
+                                "M84.32523,8.42801143 C85.8928725,8.38685571 87.445125,8.18829 89.0016525,7.99142143 C89.779275,7.88535 90.5577525,7.77461143 91.342215,7.69314857 C92.125395,7.61465571 92.920545,7.53786 93.7203975,7.63714286 C93.7571625,7.64181 93.7828125,7.67490429 93.7785375,7.71139286 C93.7742625,7.74406286 93.74733,7.76824714 93.715695,7.76952 L93.712275,7.76952 C92.9372175,7.80558429 92.1660075,7.95153857 91.3896675,8.05761 C90.6141825,8.17556143 89.83485,8.28502714 89.0520975,8.37752143 C87.49044,8.57311714 85.904415,8.70888857 84.32352,8.61427286 C84.2717925,8.61172714 84.2316075,8.56802571 84.2341725,8.51668714 C84.2367375,8.46789429 84.2777775,8.43013286 84.32523,8.42801143 Z",
                               id: "Path",
                               fill: "#668DE7"
                             }
@@ -72843,7 +72717,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.36,24.07464 C0.32976,24.07464 0.29916,24.06708 0.27072,24.05088 C0.18432,24.00156 0.15444,23.89176 0.20376,23.80536 C0.29988,23.63724 0.42624,23.40756 0.58032,23.12676 C2.22372,20.1384 7.22484,11.0448 12.47364,9.5868 C12.56904,9.56052 12.66876,9.61632 12.6954,9.71208 C12.72204,9.80784 12.66588,9.9072 12.57012,9.93384 C7.46748,11.35152 2.52108,20.34504 0.89568,23.30028 C0.74016,23.58288 0.61308,23.81436 0.51624,23.98392 C0.48312,24.04224 0.42264,24.07464 0.36,24.07464 Z",
+                                "M0.4275,28.3736829 C0.39159,28.3736829 0.3552525,28.3647729 0.32148,28.34568 C0.21888,28.2875529 0.1833975,28.1581457 0.241965,28.0563171 C0.3561075,27.8581757 0.50616,27.5874814 0.68913,27.2565386 C2.6406675,23.7345429 8.5794975,13.0170857 14.8124475,11.2987286 C14.925735,11.2677557 15.0441525,11.33352 15.0757875,11.44638 C15.1074225,11.55924 15.0407325,11.6763429 14.9270175,11.70774 C8.8676325,13.3785771 2.9937825,23.9780829 1.06362,27.4610443 C0.87894,27.7941086 0.7280325,28.0669243 0.613035,28.2667629 C0.573705,28.3354971 0.501885,28.3736829 0.4275,28.3736829 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -72854,14 +72728,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(11.880000, 42.120000)"
+                                transform: "translate(14.107500, 49.641429)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M9.27,3.96 C9.27,5.35176 8.14176,6.48 6.75,6.48 L2.97,6.48 C1.57824,6.48 0.45,5.35176 0.45,3.96 L0.45,2.88 C0.45,1.48824 1.57824,0.36 2.97,0.36 L6.75,0.36 C8.14176,0.36 9.27,1.48824 9.27,2.88 L9.27,3.96 Z",
+                                    "M11.008125,4.66714286 C11.008125,6.30743143 9.66834,7.63714286 8.015625,7.63714286 L3.526875,7.63714286 C1.87416,7.63714286 0.534375,6.30743143 0.534375,4.66714286 L0.534375,3.39428571 C0.534375,1.75399714 1.87416,0.424285714 3.526875,0.424285714 L8.015625,0.424285714 C9.66834,0.424285714 11.008125,1.75399714 11.008125,3.39428571 L11.008125,4.66714286 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-96)"
                                 }
@@ -72870,7 +72744,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M6.75,6.66 L2.97,6.66 C1.48104,6.66 0.27,5.44896 0.27,3.96 L0.27,2.88 C0.27,1.39104 1.48104,0.18 2.97,0.18 L6.75,0.18 C8.23896,0.18 9.45,1.39104 9.45,2.88 L9.45,3.96 C9.45,5.44896 8.23896,6.66 6.75,6.66 Z M2.97,0.54 C1.67976,0.54 0.63,1.58976 0.63,2.88 L0.63,3.96 C0.63,5.25024 1.67976,6.3 2.97,6.3 L6.75,6.3 C8.04024,6.3 9.09,5.25024 9.09,3.96 L9.09,2.88 C9.09,1.58976 8.04024,0.54 6.75,0.54 L2.97,0.54 Z",
+                                    "M8.015625,7.84928571 L3.526875,7.84928571 C1.758735,7.84928571 0.320625,6.42198857 0.320625,4.66714286 L0.320625,3.39428571 C0.320625,1.63944 1.758735,0.212142857 3.526875,0.212142857 L8.015625,0.212142857 C9.783765,0.212142857 11.221875,1.63944 11.221875,3.39428571 L11.221875,4.66714286 C11.221875,6.42198857 9.783765,7.84928571 8.015625,7.84928571 Z M3.526875,0.636428571 C1.994715,0.636428571 0.748125,1.87364571 0.748125,3.39428571 L0.748125,4.66714286 C0.748125,6.18778286 1.994715,7.425 3.526875,7.425 L8.015625,7.425 C9.547785,7.425 10.794375,6.18778286 10.794375,4.66714286 L10.794375,3.39428571 C10.794375,1.87364571 9.547785,0.636428571 8.015625,0.636428571 L3.526875,0.636428571 Z",
                                   id: "Shape",
                                   fill: "#00CFFF"
                                 }
@@ -72883,14 +72757,14 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(27.720000, 24.480000)"
+                                transform: "translate(32.917500, 28.851429)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M6.55704,7.66656 C6.15276,8.10504 5.46948,8.13276 5.03064,7.72848 C5.03064,7.72848 0.49464,4.86 0.24372,3.31416 C0.77616,2.73024 2.04732,1.10232 2.78244,0.513 C3.825,2.15964 7.59312,4.94928 7.59312,4.94928 C8.0316,5.35356 8.05932,6.03684 7.65504,6.47532 L6.55704,7.66656 Z",
+                                    "M7.786485,9.03558857 C7.3064025,9.55236857 6.4950075,9.58503857 5.973885,9.10856571 C5.973885,9.10856571 0.587385,5.72785714 0.2894175,3.90597429 C0.92169,3.21778286 2.4311925,1.29916286 3.3041475,0.604607143 C4.5421875,2.54529 9.01683,5.83308 9.01683,5.83308 C9.537525,6.30955286 9.5704425,7.11484714 9.09036,7.63162714 L7.786485,9.03558857 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-97)"
                                 }
@@ -72899,7 +72773,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M5.76288,8.19432 C5.44572,8.19432 5.14224,8.07588 4.90896,7.86096 C4.7466,7.76196 0.32724,4.95036 0.06624,3.34332 L0.0522,3.25764 L0.11088,3.1932 C0.26568,3.02364 0.48276,2.76552 0.73152,2.47032 C1.35756,1.72656 2.1366,0.801 2.67048,0.37296 L2.82744,0.24696 L2.93508,0.41688 C3.94776,2.01672 7.66332,4.77684 7.70076,4.80456 C7.9632,5.04504 8.10684,5.35572 8.12052,5.69232 C8.1342,6.02856 8.01612,6.35004 7.78788,6.59736 L6.68988,7.78824 C6.45156,8.04672 6.11388,8.19432 5.76288,8.19432 Z M0.43884,3.36672 C0.76032,4.58892 3.91176,6.80796 5.12676,7.57656 C5.53248,7.94196 6.10164,7.89552 6.42456,7.54452 L7.52256,6.35364 C7.68564,6.17688 7.76988,5.94756 7.76016,5.70708 C7.75044,5.46696 7.64748,5.24484 7.47108,5.08176 C7.33572,4.98276 3.92184,2.44656 2.74536,0.7812 C2.241,1.2348 1.53504,2.0736 1.0062,2.70144 C0.78624,2.96388 0.58968,3.19716 0.43884,3.36672 Z",
+                                    "M6.84342,9.65759143 C6.4667925,9.65759143 6.10641,9.51800143 5.82939,9.26470286 C5.6365875,9.14802429 0.3885975,5.83435286 0.07866,3.94034143 L0.0619875,3.83936143 L0.13167,3.76341429 C0.315495,3.56357571 0.5732775,3.25936286 0.86868,2.91144857 C1.6121025,2.03487429 2.5372125,0.944035714 3.171195,0.43956 L3.357585,0.29106 L3.4854075,0.491322857 C4.687965,2.37684857 9.1001925,5.62984714 9.1446525,5.66251714 C9.4563,5.94594 9.6268725,6.31209857 9.6431175,6.70880571 C9.6593625,7.10508857 9.5191425,7.48397571 9.2481075,7.77546 L7.9442325,9.17899714 C7.6612275,9.48363429 7.2602325,9.65759143 6.84342,9.65759143 Z M0.5211225,3.96792 C0.90288,5.40837 4.645215,8.02366714 6.0880275,8.92951714 C6.56982,9.36016714 7.2456975,9.30543429 7.629165,8.89175571 L8.93304,7.48821857 C9.1266975,7.27989429 9.2267325,7.00962429 9.21519,6.72620143 C9.2036475,6.44320286 9.0813825,6.18141857 8.8719075,5.98921714 C8.7111675,5.87253857 4.657185,2.88344571 3.260115,0.9207 C2.6611875,1.4553 1.82286,2.44388571 1.1948625,3.18384 C0.93366,3.49314429 0.700245,3.76808143 0.5211225,3.96792 Z",
                                   id: "Shape",
                                   fill: "#00CFFF"
                                 }
@@ -72914,14 +72788,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "head",
-                            transform: "translate(87.840000, 37.440000)"
+                            transform: "translate(104.000000, 44.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.1,31.86 C15.3,33.54012 7.67988,39.35988 7.67988,39.35988 C7.67988,39.35988 2.52,39.89988 0.47988,39.47976 C-1.56024,39.05964 10.62,24.3 10.62,24.3 L17.1,31.86 Z",
+                                "M20.25,37.4355 C18.1184211,39.409641 9.09459474,46.247859 9.09459474,46.247859 C9.09459474,46.247859 2.98421053,46.882359 0.568278947,46.388718 C-1.84765263,45.895077 12.5763158,28.5525 12.5763158,28.5525 L20.25,37.4355 Z",
                               id: "Path",
                               fill: "url(#linearGradient-98)"
                             }
@@ -72930,7 +72804,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M37.08,5.13 C37.44,9.06012 37.08,34.02 24.39,34.47 C14.94612,34.8048 9.9,27.42012 9.9,27.42012 C9.9,27.42012 10.35,3.24 12.15,1.98 C13.95,0.72 25.83,-0.36 29.79,0.54 C33.75,1.44 37.08,5.13 37.08,5.13 Z",
+                                "M43.9105263,6.02775 C44.3368421,10.645641 43.9105263,39.9735 28.8828947,40.50225 C17.6993526,40.89564 11.7236842,32.218641 11.7236842,32.218641 C11.7236842,32.218641 12.2565789,3.807 14.3881579,2.3265 C16.5197368,0.846 30.5881579,-0.423 35.2776316,0.6345 C39.9671053,1.692 43.9105263,6.02775 43.9105263,6.02775 Z",
                               id: "Path",
                               fill: "url(#linearGradient-99)"
                             }
@@ -72939,7 +72813,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M21.735,9.55044 L21.735,14.33232 C21.735,15.36372 22.5,16.18488 23.58,16.13988 C24.9192,16.08408 25.34004,14.96052 25.54128,13.94928 C25.71336,13.0842 25.99056,10.80756 26.16876,9.26892 C24.79932,9.1188 22.70088,9.39672 21.735,9.55044 Z",
+                                "M25.7388158,11.221767 L25.7388158,16.840476 C25.7388158,18.052371 26.6447368,19.017234 27.9236842,18.964359 C29.5095789,18.898794 30.0079421,17.578611 30.2462526,16.390404 C30.4500316,15.373935 30.7782947,12.698883 30.9893211,10.890981 C29.3676158,10.71459 26.8826211,11.041146 25.7388158,11.221767 Z",
                               id: "Path",
                               fill: "url(#linearGradient-100)"
                             }
@@ -72948,7 +72822,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M25.21512,11.68488 L22.77,13.70988 C22.77,13.70988 23.01012,15.12 24.18012,14.76 C25.18524,14.45076 25.21512,11.68488 25.21512,11.68488 Z",
+                                "M29.8600105,13.729734 L26.9644737,16.109109 C26.9644737,16.109109 27.2488263,17.766 28.6343526,17.343 C29.8246263,16.979643 29.8600105,13.729734 29.8600105,13.729734 Z",
                               id: "Path",
                               fill: "#5097FF"
                             }
@@ -72957,7 +72831,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M33.2226,10.17 L33.2226,14.89752 C33.2226,15.86016 33.93648,16.6266 34.94484,16.58484 C36.19476,16.53264 36.58752,15.48396 36.77544,14.54004 C36.936,13.73256 36.87372,12.24072 37.0404,10.80468 C35.70768,10.305 34.22232,10.15164 33.2226,10.17 Z",
+                                "M39.3425526,11.94975 L39.3425526,17.504586 C39.3425526,18.635688 40.1879368,19.536255 41.3820474,19.487187 C42.8622158,19.425852 43.3273263,18.193653 43.5498632,17.084547 C43.74,16.135758 43.6662474,14.382846 43.8636316,12.695499 C42.2854105,12.108375 40.5264316,11.928177 39.3425526,11.94975 Z",
                               id: "Path",
                               fill: "url(#linearGradient-101)"
                             }
@@ -72966,7 +72840,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M36.40356,12.53916 L34.12116,14.42916 C34.12116,14.42916 34.34544,15.74496 35.43732,15.40908 C36.37548,15.12036 36.40356,12.53916 36.40356,12.53916 Z",
+                                "M43.1094789,14.733513 L40.4066368,16.954263 C40.4066368,16.954263 40.6722316,18.500328 41.9652474,18.105669 C43.0762263,17.766423 43.1094789,14.733513 43.1094789,14.733513 Z",
                               id: "Path",
                               fill: "#5097FF"
                             }
@@ -72975,7 +72849,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M30.89988,9.63 C31.32,10.71 33.64488,19.8 33.255,20.43 C32.86512,21.06 28.845,21.26268 28.845,21.26268 C28.845,21.26268 29.71188,19.39212 30.15,16.59024 C30.62268,13.56768 30.89988,9.63 30.89988,9.63 Z",
+                                "M36.5919632,11.31525 C37.0894737,12.58425 39.8426211,23.265 39.3809211,24.00525 C38.9192211,24.7455 34.1585526,24.983649 34.1585526,24.983649 C34.1585526,24.983649 35.1851211,22.785741 35.7039474,19.493532 C36.2637,15.942024 36.5919632,11.31525 36.5919632,11.31525 Z",
                               id: "Path",
                               fill: "url(#linearGradient-102)"
                             }
@@ -72984,7 +72858,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M22.20768,25.04268 C22.45536,24.72768 25.20036,25.60536 27.58536,25.78536 C28.59588,25.86168 29.76804,25.89804 29.76804,25.89804 C29.76804,25.89804 28.32804,29.58804 25.80804,29.52072 C23.12964,29.44836 21.96,25.35768 22.20768,25.04268 Z",
+                                "M26.2985684,29.425149 C26.5918737,29.055024 29.8425316,30.086298 32.6668737,30.297798 C33.8635421,30.387474 35.2516263,30.430197 35.2516263,30.430197 C35.2516263,30.430197 33.5463632,34.765947 30.5621526,34.686846 C27.3903632,34.601823 26.0052632,29.795274 26.2985684,29.425149 Z",
                               id: "Path",
                               fill: "#FFFFFF"
                             }
@@ -72997,14 +72871,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "hairs_x5F_1",
-                            transform: "translate(63.000000, 24.120000)"
+                            transform: "translate(74.000000, 29.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M43.38,18.11988 C45.65988,16.79976 56.58012,16.02 64.98,21.29976 C66.6,15.83964 63.42444,1.1664 45.54756,0.20988 C28.17,-0.72 21.12012,10.08 13.92012,20.76012 C8.2152,29.22192 3.2994,31.73256 0.07452,32.36256 C1.32012,32.61024 3.16368,34.17408 4.80024,37.32012 C7.18632,41.90652 9.72036,55.35 13.20012,60.60024 C16.40052,65.42856 20.28024,66.24036 20.28024,66.24036 C20.28024,66.24036 19.93824,64.04868 21.29328,62.06796 C23.58036,58.72536 33.66036,51.9606 37.647,43.76808 C43.38216,31.98096 40.92012,24.95988 43.38,18.11988 Z",
+                                "M51.2672727,21.3652316 C53.9616764,19.8086722 66.8674145,18.8892537 76.7945455,25.1146424 C78.7090909,18.6765904 74.9561564,1.37530746 53.8289345,0.247470448 C33.2918182,-0.848955224 24.9601418,11.8853731 16.4510509,24.4783504 C9.70887273,34.4556967 3.89929091,37.4160036 0.0880690909,38.1588394 C1.56014182,38.45088 3.73889455,40.2948107 5.67301091,44.0043206 C8.49292364,49.4121654 11.4876982,65.2634328 15.6001418,71.4540143 C19.3824327,77.1471081 23.9675564,78.1043051 23.9675564,78.1043051 C23.9675564,78.1043051 23.5633745,75.5200854 25.1647855,73.1846096 C27.8676982,69.2433349 39.7804255,61.2669761 44.4919091,51.6071391 C51.2698255,37.7088931 48.3601418,29.4303063 51.2672727,21.3652316 Z",
                               id: "Path",
                               fill: "url(#linearGradient-103)"
                             }
@@ -73013,7 +72887,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M64.98,21.30012 C65.5074,19.5228 65.52576,16.76988 64.6956,13.83156 C64.50264,14.6358 64.09656,15.41484 63.24012,15.48 C59.7726,15.74316 59.22288,10.5102 56.52,10.37988 C54.02988,10.26 53.03988,12.65976 52.38,14.15988 C51.72012,15.66 50.22,16.79976 48.48228,17.16912 L48.48192,17.16984 C53.0064,16.99884 59.52348,17.8704 64.98,21.30012 Z",
+                                "M76.7945455,25.1150669 C77.4178364,23.0194209 77.4395345,19.7734406 76.4584364,16.3088543 C76.2303927,17.2571373 75.75048,18.1757069 74.7383236,18.2525373 C70.6403455,18.5628304 69.9906764,12.3926239 66.7963636,12.238963 C63.8534945,12.0976119 62.6834945,14.9271797 61.9036364,16.6959779 C61.1237782,18.4647761 59.3509091,19.8086722 57.29724,20.2441863 L57.2968145,20.2450352 C62.6439273,20.0434084 70.3459309,21.0710687 76.7945455,25.1150669 Z",
                               id: "Path",
                               fill: "#00FFFF"
                             }
@@ -73022,7 +72896,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M41.49,16.02 C39.22704,22.42332 40.59144,25.92072 38.7,30.24 C36,36.405 25.42248,37.52532 24.21,42.21 C23.55012,44.75988 26.01,44.75988 25.56,47.43 C24.6312,52.94016 15.64776,52.30332 11.80332,57.98016 C12.25224,58.97952 12.71664,59.87088 13.19976,60.59988 C16.40016,65.4282 20.27988,66.24 20.27988,66.24 C20.27988,66.24 19.93788,64.04832 21.29292,62.0676 C23.58,58.725 33.66,51.96024 37.64664,43.76772 C43.38216,31.98132 40.92012,24.96024 43.38,18.12024 C44.91,11.47536 48.42,7.74036 48.42,7.74036 C48.42,7.74036 43.75296,9.61668 41.49,16.02 Z",
+                                "M49.0336364,18.8892537 C46.3592291,26.439437 47.9717018,30.563237 45.7363636,35.6561194 C42.5454545,42.9252985 30.0447491,44.2462728 28.6118182,49.77 C27.83196,52.7765749 30.7390909,52.7765749 30.2072727,55.9249254 C29.1096,62.4219797 18.4928073,61.6710788 13.9493782,68.3646663 C14.47992,69.5430161 15.0287564,70.5940227 15.5997164,71.4535899 C19.3820073,77.1466836 23.9671309,78.1038806 23.9671309,78.1038806 C23.9671309,78.1038806 23.5629491,75.5196609 25.16436,73.1841851 C27.8672727,69.2429104 39.78,61.2665516 44.4914836,51.6067146 C51.2698255,37.7093176 48.3601418,29.4307307 51.2672727,21.3656561 C53.0754545,13.5306484 57.2236364,9.12669313 57.2236364,9.12669313 C57.2236364,9.12669313 51.7080436,11.3390704 49.0336364,18.8892537 Z",
                               id: "Path",
                               fill: "#00FFFF"
                             }
@@ -73031,7 +72905,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.96,34.11 C15.67548,23.80824 21.72168,9.8118 30.6,4.68 C39.47832,-0.4518 45.55152,0.06048 52.45884,1.55232 C52.45884,1.55232 54.47304,2.1978 54.47304,2.1978 C52.01676,1.12032 49.06836,0.39816 45.54756,0.20988 C28.17,-0.72 21.12012,10.08 13.92012,20.76012 C8.2152,29.22192 3.2994,31.73256 0.07452,32.36256 C1.32012,32.61024 3.16368,34.17408 4.80024,37.32012 C5.71536,39.07944 6.6528,42.14304 7.65648,45.54648 C7.65648,45.54648 10.19988,44.57988 12.96,34.11 Z",
+                                "M15.3163636,40.2192537 C18.5255673,28.0724024 25.6710764,11.5691373 36.1636364,5.51820896 C46.6561964,-0.532719403 53.8336145,0.0713122388 61.9968109,1.83034746 C61.9968109,1.83034746 64.3772291,2.59143582 64.3772291,2.59143582 C61.4743527,1.32097433 57.98988,0.469472239 53.8289345,0.247470448 C33.2918182,-0.848955224 24.9601418,11.8853731 16.4510509,24.4783504 C9.70887273,34.4556967 3.89929091,37.4160036 0.0880690909,38.1588394 C1.56014182,38.45088 3.73889455,40.2948107 5.67301091,44.0043206 C6.75451636,46.0787427 7.8624,49.6910472 9.04856727,53.7040585 C9.04856727,53.7040585 12.0544036,52.5643361 15.3163636,40.2192537 Z",
                               id: "Path",
                               fill: "url(#linearGradient-104)"
                             }
@@ -73044,14 +72918,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "headset",
-                            transform: "translate(86.760000, 32.400000)"
+                            transform: "translate(102.000000, 38.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.43544,22.023 L7.5978,22.33404 L7.74792,22.60908 C7.848,22.78728 7.96032,22.97952 8.0766,23.1588 C8.30772,23.52348 8.55756,23.87988 8.82684,24.22368 C9.36648,24.91056 9.97524,25.55424 10.64268,26.13636 C11.31012,26.71776 12.0366,27.23976 12.81348,27.66456 C13.58856,28.08468 14.42232,28.4238 15.27048,28.52856 L15.23844,29.34072 C14.21424,29.3544 13.23936,29.09808 12.31668,28.7532 C11.39364,28.40184 10.5192,27.9396 9.69336,27.3996 C8.86788,26.85852 8.091,26.23716 7.37244,25.54344 C7.01352,25.19604 6.67116,24.82848 6.34536,24.44328 C6.1794,24.25032 6.02712,24.05736 5.86764,23.84748 L5.63652,23.53464 L5.43312,23.24844 L7.43544,22.023 Z",
+                                "M8.922528,26.1523125 L9.11736,26.5216725 L9.297504,26.8482825 C9.4176,27.059895 9.552384,27.28818 9.69192,27.501075 C9.969264,27.9341325 10.269072,28.3573575 10.592208,28.76562 C11.239776,29.58129 11.970288,30.34566 12.771216,31.0369275 C13.572144,31.72734 14.44392,32.347215 15.376176,32.851665 C16.306272,33.3505575 17.306784,33.7532625 18.324576,33.877665 L18.286128,34.842105 C17.057088,34.85835 15.887232,34.55397 14.780016,34.144425 C13.672368,33.727185 12.62304,33.178275 11.632032,32.537025 C10.641456,31.8944925 9.7092,31.1566275 8.846928,30.332835 C8.416224,29.9202975 8.005392,29.48382 7.614432,29.026395 C7.41528,28.797255 7.232544,28.568115 7.041168,28.3188825 L6.763824,27.947385 L6.519744,27.6075225 L8.922528,26.1523125 Z",
                               id: "Path",
                               fill: "url(#linearGradient-105)"
                             }
@@ -73060,7 +72934,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.20744,0.39708 C9.3816,1.539 8.59716,2.67552 7.9992,3.879 C7.38828,5.07348 6.94332,6.31476 6.6618,7.58088 C6.37956,8.84844 6.27444,10.14048 6.27264,11.4354 C6.282,12.73176 6.41556,14.03136 6.6078,15.32988 L3.29184,15.72012 C3.16044,14.24484 3.17376,12.7422 3.36024,11.25 C3.53376,9.75816 3.90816,8.2764 4.47876,6.88212 C5.04468,5.48604 5.83164,4.18968 6.77124,3.06108 C7.2468,2.49984 7.75512,1.97712 8.2836,1.48824 C8.82144,1.00764 9.37512,0.5562 9.9522,0.14328 L10.20744,0.39708 Z",
+                                "M12.248928,0.4715325 C11.25792,1.8275625 10.316592,3.17718 9.59904,4.6063125 C8.865936,6.0247575 8.331984,7.4987775 7.99416,9.002295 C7.655472,10.5075225 7.529328,12.04182 7.527168,13.5795375 C7.5384,15.118965 7.698672,16.66224 7.92936,18.2042325 L3.950208,18.6676425 C3.792528,16.9157475 3.808512,15.1313625 4.032288,13.359375 C4.240512,11.587815 4.689792,9.828225 5.374512,8.1725175 C6.053616,6.5146725 6.997968,4.975245 8.125488,3.6350325 C8.69616,2.96856 9.306144,2.34783 9.94032,1.767285 C10.585728,1.1965725 11.250144,0.6604875 11.94264,0.170145 L12.248928,0.4715325 Z",
                               id: "Path",
                               fill: "url(#linearGradient-106)"
                             }
@@ -73069,7 +72943,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M19.75752,30.10788 C19.57068,30.8808 18.79272,31.35636 18.0198,31.16988 L14.52024,30.32496 C13.74732,30.13848 13.27176,29.36052 13.45824,28.58724 L13.46868,28.54332 C13.65552,27.7704 14.43348,27.29484 15.20676,27.48132 L18.70596,28.32624 C19.47888,28.51308 19.95444,29.29104 19.76796,30.06396 L19.75752,30.10788 Z",
+                                "M23.709024,35.7531075 C23.484816,36.67095 22.551264,37.2356775 21.62376,37.0142325 L17.424288,36.01089 C16.496784,35.789445 15.926112,34.8656175 16.149888,33.9473475 L16.162416,33.8951925 C16.386624,32.97735 17.320176,32.4126225 18.248112,32.6340675 L22.447152,33.63741 C23.374656,33.8592825 23.945328,34.78311 23.721552,35.7009525 L23.709024,35.7531075 Z",
                               id: "Path",
                               fill: "url(#linearGradient-107)"
                             }
@@ -73078,26 +72952,27 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.97412,30.06144 C13.72716,29.50452 13.8924,28.74708 14.42376,28.33164 C14.68044,28.1214 15.01308,28.00224 15.3504,27.99144 C15.51492,27.98316 15.69924,28.0188 15.84,28.05408 L16.28136,28.15632 C16.86744,28.30104 17.45244,28.45008 18.03276,28.61964 C18.32328,28.70208 18.61236,28.79172 18.90108,28.8828 C19.04148,28.93284 19.1934,28.97604 19.33236,29.03508 C19.4778,29.09736 19.60884,29.18376 19.71972,29.2878 C19.58544,29.21472 19.4454,29.16216 19.30536,29.12688 C19.15668,29.09304 19.0116,29.07972 18.85968,29.05452 C18.56124,29.00412 18.26352,28.95192 17.96724,28.89288 C17.3736,28.77912 16.78464,28.64484 16.19712,28.50588 L15.75792,28.39536 C15.60672,28.35396 15.49188,28.33452 15.35328,28.33092 C15.08616,28.32264 14.8194,28.40796 14.59044,28.55628 C14.364,28.70748 14.1786,28.93212 14.07456,29.19384 C13.95684,29.46456 13.92588,29.75904 13.97412,30.06144 Z",
+                                "M16.768944,35.69796 C16.472592,35.0366175 16.67088,34.1371575 17.308512,33.6438225 C17.616528,33.3941625 18.015696,33.25266 18.42048,33.239835 C18.617904,33.2300025 18.839088,33.272325 19.008,33.31422 L19.537632,33.43563 C20.240928,33.607485 20.942928,33.78447 21.639312,33.9858225 C21.987936,34.08372 22.334832,34.1901675 22.681296,34.298325 C22.849776,34.3577475 23.03208,34.4090475 23.198832,34.4791575 C23.37336,34.553115 23.530608,34.655715 23.663664,34.7792625 C23.502528,34.69248 23.33448,34.630065 23.166432,34.58817 C22.988016,34.547985 22.81392,34.5321675 22.631616,34.5022425 C22.273488,34.4423925 21.916224,34.380405 21.560688,34.310295 C20.84832,34.175205 20.141568,34.0157475 19.436544,33.8507325 L18.909504,33.71949 C18.728064,33.6703275 18.590256,33.6472425 18.423936,33.6429675 C18.103392,33.633135 17.78328,33.7344525 17.508528,33.9105825 C17.2368,34.0901325 17.01432,34.3568925 16.889472,34.667685 C16.748208,34.989165 16.711056,35.33886 16.768944,35.69796 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-108)",
-                              cx: "5.76",
-                              cy: "18.45",
-                              r: "5.58"
+                              cx: "6.912",
+                              cy: "21.909375",
+                              rx: "6.696",
+                              ry: "6.62625"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.56748,12.92796 C7.24968,13.11156 7.89228,13.44636 8.45856,13.88268 C9.01872,14.328 9.49464,14.88384 9.85068,15.5124 C10.56744,16.77204 10.7298,18.32616 10.33632,19.72548 C9.92376,21.12156 8.95212,22.3416 7.68348,23.03676 C7.0506,23.38416 6.35436,23.60916 5.64408,23.69592 C4.93344,23.7708 4.21092,23.72364 3.53196,23.52744 C4.91904,23.76972 6.37164,23.51556 7.54488,22.797 C8.72064,22.08852 9.6282,20.94336 9.99072,19.6254 C10.38672,18.31788 10.23588,16.86276 9.60804,15.64272 C8.98524,14.4162 7.88148,13.437 6.56748,12.92796 Z",
+                                "M7.880976,15.3519525 C8.699616,15.5699775 9.470736,15.9675525 10.150272,16.4856825 C10.822464,17.0145 11.393568,17.67456 11.820816,18.420975 C12.680928,19.9167975 12.87576,21.762315 12.403584,23.4240075 C11.908512,25.0818525 10.742544,26.53065 9.220176,27.3561525 C8.46072,27.76869 7.625232,28.0358775 6.772896,28.138905 C5.920128,28.227825 5.053104,28.1718225 4.238352,27.938835 C5.902848,28.2265425 7.645968,27.9247275 9.053856,27.0714375 C10.464768,26.2301175 11.55384,24.87024 11.988864,23.3051625 C12.464064,21.7524825 12.283056,20.0245275 11.529648,18.57573 C10.782288,17.1192375 9.457776,15.9564375 7.880976,15.3519525 Z",
                               id: "Path",
                               fill: "#00CFFF"
                             }
@@ -73108,24 +72983,25 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(2.160000, 15.840000)"
+                                transform: "translate(2.592000, 18.810000)"
                               }
                             },
                             [
-                              _c("circle", {
+                              _c("ellipse", {
                                 attrs: {
                                   id: "Oval",
                                   fill: "url(#linearGradient-109)",
-                                  cx: "2.79",
-                                  cy: "2.745",
-                                  r: "2.565"
+                                  cx: "3.348",
+                                  cy: "3.2596875",
+                                  rx: "3.078",
+                                  ry: "3.0459375"
                                 }
                               }),
                               _vm._v(" "),
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M2.79,5.49 C1.2762,5.49 0.045,4.2588 0.045,2.745 C0.045,1.2312 1.2762,0 2.79,0 C4.3038,0 5.535,1.2312 5.535,2.745 C5.535,4.2588 4.3038,5.49 2.79,5.49 Z M2.79,0.36 C1.47492,0.36 0.405,1.42992 0.405,2.745 C0.405,4.06008 1.47492,5.13 2.79,5.13 C4.10508,5.13 5.175,4.06008 5.175,2.745 C5.175,1.42992 4.10508,0.36 2.79,0.36 Z",
+                                    "M3.348,6.519375 C1.53144,6.519375 0.054,5.057325 0.054,3.2596875 C0.054,1.46205 1.53144,0 3.348,0 C5.16456,0 6.642,1.46205 6.642,3.2596875 C6.642,5.057325 5.16456,6.519375 3.348,6.519375 Z M3.348,0.4275 C1.769904,0.4275 0.486,1.69803 0.486,3.2596875 C0.486,4.821345 1.769904,6.091875 3.348,6.091875 C4.926096,6.091875 6.21,4.821345 6.21,3.2596875 C6.21,1.69803 4.926096,0.4275 3.348,0.4275 Z",
                                   id: "Shape",
                                   fill: "#00CFFF"
                                 }
@@ -73140,14 +73016,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "tablet",
-                            transform: "translate(139.680000, 48.240000)"
+                            transform: "translate(165.000000, 57.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.59512,13.57056 C32.59512,15.78492 30.81744,17.57988 28.62396,17.57988 L4.70628,17.57988 C2.51316,17.57988 0.73512,15.78492 0.73512,13.57056 L0.73512,4.54932 C0.73512,2.33496 2.51316,0.54 4.70628,0.54 L28.62396,0.54 C30.81744,0.54 32.59512,2.33496 32.59512,4.54932 L32.59512,13.57056 Z",
+                                "M38.3472,15.9653647 C38.3472,18.5704941 36.2558118,20.6822118 33.6752471,20.6822118 L5.5368,20.6822118 C2.95665882,20.6822118 0.864847059,18.5704941 0.864847059,15.9653647 L0.864847059,5.35214118 C0.864847059,2.74701176 2.95665882,0.635294118 5.5368,0.635294118 L33.6752471,0.635294118 C36.2558118,0.635294118 38.3472,2.74701176 38.3472,5.35214118 L38.3472,15.9653647 Z",
                               id: "Path",
                               fill: "url(#linearGradient-110)"
                             }
@@ -73156,7 +73032,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M27.73512,9.96012 C27.73512,12.14712 25.96212,13.92012 23.77512,13.92012 L9.55512,13.92012 C7.36812,13.92012 5.59512,12.14712 5.59512,9.96012 L5.59512,8.28 C5.59512,6.093 7.36812,4.32 9.55512,4.32 L23.77512,4.32 C25.96212,4.32 27.73512,6.093 27.73512,8.28 L27.73512,9.96012 Z",
+                                "M32.6295529,11.7177882 C32.6295529,14.2907294 30.5436706,16.3766118 27.9707294,16.3766118 L11.2413176,16.3766118 C8.66837647,16.3766118 6.58249412,14.2907294 6.58249412,11.7177882 L6.58249412,9.74117647 C6.58249412,7.16823529 8.66837647,5.08235294 11.2413176,5.08235294 L27.9707294,5.08235294 C30.5436706,5.08235294 32.6295529,7.16823529 32.6295529,9.74117647 L32.6295529,11.7177882 Z",
                               id: "Path",
                               fill: "url(#linearGradient-111)"
                             }
@@ -73165,7 +73041,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M23.77512,4.32 L14.27976,4.32 C16.46676,4.32 18.23976,6.093 18.23976,8.28 L18.23976,9.96012 C18.23976,12.14712 16.46676,13.92012 14.27976,13.92012 L23.77512,13.92012 C25.96212,13.92012 27.73512,12.14712 27.73512,9.96012 L27.73512,8.28 C27.73512,6.093 25.96212,4.32 23.77512,4.32 Z",
+                                "M27.9707294,5.08235294 L16.7997176,5.08235294 C19.3726588,5.08235294 21.4585412,7.16823529 21.4585412,9.74117647 L21.4585412,11.7177882 C21.4585412,14.2907294 19.3726588,16.3766118 16.7997176,16.3766118 L27.9707294,16.3766118 C30.5436706,16.3766118 32.6295529,14.2907294 32.6295529,11.7177882 L32.6295529,9.74117647 C32.6295529,7.16823529 30.5436706,5.08235294 27.9707294,5.08235294 Z",
                               id: "Path",
                               fill: "url(#linearGradient-112)"
                             }
@@ -73175,10 +73051,10 @@ var render = function() {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-113)",
-                              cx: "16.66512",
-                              cy: "31.60044",
-                              rx: "7.71012",
-                              ry: "1.99944"
+                              cx: "19.6060235",
+                              cy: "37.1769882",
+                              rx: "9.07072941",
+                              ry: "2.35228235"
                             }
                           }),
                           _vm._v(" "),
@@ -73186,10 +73062,10 @@ var render = function() {
                             attrs: {
                               id: "Oval",
                               fill: "#FDE1A7",
-                              cx: "16.66512",
-                              cy: "31.24044",
-                              rx: "3.66084",
-                              ry: "1"
+                              cx: "19.6060235",
+                              cy: "36.7534588",
+                              rx: "4.30687059",
+                              ry: "1.11684706"
                             }
                           }),
                           _vm._v(" "),
@@ -73198,7 +73074,7 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(0.000000, 12.600000)",
+                                transform: "translate(0.000000, 14.823529)",
                                 fill: "#FDE1A7"
                               }
                             },
@@ -73206,7 +73082,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M6.59988,5.51988 L4.69476,5.51988 C2.21328,5.51988 0.19476,3.50136 0.19476,1.01988 L0.19476,0.29988 L1.27476,0.29988 L1.27476,1.01988 C1.27476,2.90556 2.80908,4.43988 4.69476,4.43988 L6.59988,4.43988 L6.59988,5.51988 Z",
+                                    "M7.76456471,6.49397647 L5.52324706,6.49397647 C2.60385882,6.49397647 0.229129412,4.11924706 0.229129412,1.19985882 L0.229129412,0.3528 L1.49971765,0.3528 L1.49971765,1.19985882 C1.49971765,3.41830588 3.3048,5.22338824 5.52324706,5.22338824 L7.76456471,5.22338824 L7.76456471,6.49397647 Z",
                                   id: "Path"
                                 }
                               }),
@@ -73214,7 +73090,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M28.63512,5.51988 L26.57988,5.51988 L26.57988,4.43988 L28.63512,4.43988 C30.5208,4.43988 32.05512,2.90556 32.05512,1.01988 L32.05512,0.29988 L33.13512,0.29988 L33.13512,1.01988 C33.13512,3.50136 31.1166,5.51988 28.63512,5.51988 Z",
+                                    "M33.6883765,6.49397647 L31.2704471,6.49397647 L31.2704471,5.22338824 L33.6883765,5.22338824 C35.9068235,5.22338824 37.7119059,3.41830588 37.7119059,1.19985882 L37.7119059,0.3528 L38.9824941,0.3528 L38.9824941,1.19985882 C38.9824941,4.11924706 36.6077647,6.49397647 33.6883765,6.49397647 Z",
                                   id: "Path"
                                 }
                               })
@@ -73225,7 +73101,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M1.27512,5.28012 L0.19512,5.28012 L0.19512,4.5 C0.19512,2.01852 2.21364,0 4.69512,0 L6.60024,0 L6.60024,1.08 L4.69512,1.08 C2.80944,1.08 1.27512,2.61432 1.27512,4.5 L1.27512,5.28012 Z",
+                                  "M1.50014118,6.21190588 L0.229552941,6.21190588 L0.229552941,5.29411765 C0.229552941,2.37472941 2.60428235,0 5.52367059,0 L7.76498824,0 L7.76498824,1.27058824 L5.52367059,1.27058824 C3.30522353,1.27058824 1.50014118,3.07567059 1.50014118,5.29411765 L1.50014118,6.21190588 Z",
                                 id: "Path"
                               }
                             }),
@@ -73233,7 +73109,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M33.13512,5.28012 L32.05512,5.28012 L32.05512,4.5 C32.05512,2.61432 30.5208,1.08 28.63512,1.08 L26.57988,1.08 L26.57988,0 L28.63512,0 C31.1166,0 33.13512,2.01852 33.13512,4.5 L33.13512,5.28012 Z",
+                                  "M38.9824941,6.21190588 L37.7119059,6.21190588 L37.7119059,5.29411765 C37.7119059,3.07567059 35.9068235,1.27058824 33.6883765,1.27058824 L31.2704471,1.27058824 L31.2704471,0 L33.6883765,0 C36.6077647,0 38.9824941,2.37472941 38.9824941,5.29411765 L38.9824941,6.21190588 Z",
                                 id: "Path"
                               }
                             })
@@ -73244,7 +73120,7 @@ var render = function() {
                               id: "Path",
                               fill: "url(#linearGradient-114)",
                               points:
-                                "29.55024 17.57268 3.66012 17.57268 13.00428 31.24044 20.31768 31.24044"
+                                "34.7649882 20.6737412 4.30602353 20.6737412 15.2991529 36.7534588 23.9031529 36.7534588"
                             }
                           })
                         ]
@@ -73257,7 +73133,7 @@ var render = function() {
                     {
                       attrs: {
                         id: "Success",
-                        transform: "translate(524.000000, 11.000000)"
+                        transform: "translate(455.000000, 7.000000)"
                       }
                     },
                     [
@@ -73266,7 +73142,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "background",
-                            transform: "translate(28.080000, 27.720000)",
+                            transform: "translate(36.000000, 36.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73274,7 +73150,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M152.64,9.47988 C157.62816,13.96476 162.72,22.91976 159.84,36.59976 C156.96,50.27976 155.49768,58.25448 158.51988,65.27988 C164.43,79.02 218.83716,102.60072 218.521381,140.04 C218.16,182.52 174.78,184.32 163.62,198 C155.3994,208.07712 154.62,235.44 129.06,251.64 C106.78788,265.75596 62.49528,268.02576 34.56,243.9 C14.76,226.8 15.72012,205.92 16.67988,197.16012 C17.63964,188.40024 25.89948,161.80272 12.52728,142.2594 C-3.36024,119.03976 -1.51524,101.18808 3.96648,82.16856 C9.18,64.08 23.35356,35.79732 58.79988,15.95988 C98.03988,-6.00012 139.56012,-2.27988 152.64,9.47988 Z",
+                                "M196.550137,12.1832678 C202.973247,17.947106 209.529863,29.4558132 205.82137,47.0369539 C202.112877,64.6180946 200.229889,74.8669743 204.121489,83.8958154 C211.731781,101.554221 281.790316,131.85948 281.383696,179.975361 C280.918356,234.56943 225.059178,236.882738 210.688767,254.463878 C200.103337,267.414702 199.099726,302.580684 166.186849,323.400456 C137.507681,341.54188 80.4733742,344.458962 44.5019178,313.453232 C19.0060274,291.476806 20.2423463,264.642433 21.4782016,253.384489 C22.714057,242.126544 33.3500153,207.94418 16.1310181,182.82767 C-4.32688438,152.98646 -1.95113096,130.043996 5.10752219,105.600659 C11.8208219,82.3537643 30.0717074,46.0056812 75.714914,20.5111766 C126.243133,-7.71118084 179.707552,-2.93003589 196.550137,12.1832678 Z",
                               id: "Path",
                               fill: "url(#linearGradient-115)"
                             }
@@ -73284,17 +73160,17 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#C7A0F6",
-                              x: "130.14",
-                              y: "23.49036",
-                              width: "13.32",
-                              height: "13.31892"
+                              x: "167.577534",
+                              y: "30.1891319",
+                              width: "17.1517808",
+                              height: "17.1170911"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M27.18,71.1 L7.90092,71.1 C6.2244,75.0636 4.93956,78.79356 3.96684,82.16856 C1.2456,91.61028 -0.57816,100.76436 0.21744,110.43 L27.18,110.43 L27.18,71.1 Z",
+                                "M34.9989041,91.3756654 L10.1737874,91.3756654 C8.01498082,96.4695696 6.36052932,101.263206 5.10798575,105.600659 C1.60392329,117.734885 -0.74448,129.499444 0.279991233,141.921445 L34.9989041,141.921445 L34.9989041,91.3756654 Z",
                               id: "Path",
                               fill: "url(#linearGradient-116)"
                             }
@@ -73304,10 +73180,10 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#FDE1A7",
-                              x: "134.586",
-                              y: "23.49036",
-                              width: "4.42836",
-                              height: "4.428"
+                              x: "173.302521",
+                              y: "30.1891319",
+                              width: "5.70227178",
+                              height: "5.69073764"
                             }
                           }),
                           _vm._v(" "),
@@ -73315,10 +73191,10 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#FF57BC",
-                              x: "134.586",
-                              y: "32.38164",
-                              width: "4.42836",
-                              height: "4.428"
+                              x: "173.302521",
+                              y: "41.615948",
+                              width: "5.70227178",
+                              height: "5.69073764"
                             }
                           }),
                           _vm._v(" "),
@@ -73326,10 +73202,10 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#FF9BBB",
-                              x: "130.14",
-                              y: "27.936",
-                              width: "4.42836",
-                              height: "4.428"
+                              x: "167.577534",
+                              y: "35.9025399",
+                              width: "5.70227178",
+                              height: "5.69073764"
                             }
                           }),
                           _vm._v(" "),
@@ -73337,17 +73213,17 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#1AA9E8",
-                              x: "139.03164",
-                              y: "27.936",
-                              width: "4.42836",
-                              height: "4.428"
+                              x: "179.027043",
+                              y: "35.9025399",
+                              width: "5.70227178",
+                              height: "5.69073764"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M149.64012,65.7 L149.64012,46.44 C149.64012,46.24128 149.4792,46.08 149.28012,46.08 L146.88,46.08 C146.68092,46.08 146.52,46.24128 146.52,46.44 L146.52,65.7 L149.64012,65.7 Z",
+                                "M192.687278,84.4357414 L192.687278,59.683346 C192.687278,59.4279568 192.480066,59.2206844 192.223716,59.2206844 L189.133151,59.2206844 C188.876801,59.2206844 188.669589,59.4279568 188.669589,59.683346 L188.669589,84.4357414 L192.687278,84.4357414 Z",
                               id: "Path",
                               fill: "#05C5DA"
                             }
@@ -73356,7 +73232,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M146.52,65.7 L146.52,44.64 C146.52,43.44732 145.55268,42.48 144.36,42.48 L142.2,42.48 C141.00732,42.48 140.04,43.44732 140.04,44.64 L140.04,65.7 L146.52,65.7 Z",
+                                "M188.669589,84.4357414 L188.669589,57.370038 C188.669589,55.8372402 187.423999,54.5940684 185.888219,54.5940684 L183.106849,54.5940684 C181.57107,54.5940684 180.325479,55.8372402 180.325479,57.370038 L180.325479,84.4357414 L188.669589,84.4357414 Z",
                               id: "Path",
                               fill: "#FDE1A7"
                             }
@@ -73366,17 +73242,17 @@ var render = function() {
                             attrs: {
                               id: "Rectangle",
                               fill: "#C7A0F6",
-                              x: "140.04",
-                              y: "46.91988",
-                              width: "6.48",
-                              height: "2.04012"
+                              x: "180.325479",
+                              y: "60.3000739",
+                              width: "8.34410959",
+                              height: "2.62190327"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M131.44608,65.45988 L138.02112,65.45988 L131.48388,40.52412 C131.33268,39.94704 130.74228,39.6018 130.1652,39.753 L126.10296,40.81788 C125.52552,40.96908 125.18064,41.55948 125.33184,42.13656 L131.44608,65.45988 Z",
+                                "M169.259336,84.1271462 L177.725826,84.1271462 L169.30801,52.080428 C169.113314,51.3387814 168.353073,50.895089 167.609984,51.0894068 L162.379154,52.4579598 C161.635601,52.6522777 161.191509,53.4110427 161.386205,54.1526893 L169.259336,84.1271462 Z",
                               id: "Path",
                               fill: "#1AA9E8"
                             }
@@ -73385,29 +73261,27 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M131.44608,65.45988 L124.66224,39.58308 C124.61148,39.39084 124.41492,39.27564 124.22268,39.3264 L120.39192,40.3308 C120.19932,40.3812 120.08448,40.57812 120.13488,40.77036 L126.60732,65.46024 L131.44608,65.46024 L131.44608,65.45988 Z",
+                                "M169.259336,84.1271462 L160.52398,50.8710306 C160.458618,50.6239693 160.205513,50.4759176 159.957972,50.5411529 L155.025212,51.8319787 C154.777207,51.8967513 154.62933,52.1498272 154.694229,52.3968885 L163.028604,84.1276088 L169.259336,84.1276088 L169.259336,84.1271462 Z",
                               id: "Path",
                               fill: "#FF9BBB"
                             }
                           }),
                           _vm._v(" "),
-                          _c("rect", {
+                          _c("polygon", {
                             attrs: {
                               id: "Rectangle",
                               fill: "#0090B2",
                               transform:
-                                "translate(131.236579, 52.122687) rotate(-14.690778) translate(-131.236579, -52.122687) ",
-                              x: "128.056727",
-                              y: "47.0528523",
-                              width: "6.35970356",
-                              height: "10.13967"
+                                "translate(168.989567, 66.986572) rotate(-14.690778) translate(-168.989567, -66.986572) ",
+                              points:
+                                "164.892366 60.4682006 173.08055 60.4721011 173.086769 73.5049424 164.898584 73.5010419"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.54,84.6 C14.93964,85.87764 9.63,86.4 7.2,91.26 C4.60332,96.45336 7.74,98.865 7.92,101.88 C8.07768,104.52024 6.19776,106.61544 3.9528,107.82 L24.39,107.82 L24.39,80.856 C23.20272,82.13472 21.50532,83.54772 18.54,84.6 Z",
+                                "M23.8734247,108.725475 C19.2373447,110.367461 12.400274,111.038783 9.27123288,117.284715 C5.92756274,123.959071 9.96657534,127.058441 10.1983562,130.933232 C10.4013962,134.326392 7.98067726,137.019083 5.08990685,138.567148 L31.4063014,138.567148 L31.4063014,103.913795 C29.8774751,105.557169 27.6917819,107.373115 23.8734247,108.725475 Z",
                               id: "Path",
                               fill: "url(#linearGradient-117)"
                             }
@@ -73416,7 +73290,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M113.28012,194.64012 C123.35292,195.01524 152.01,197.64 150.00012,211.20012 C148.24332,223.05348 132.33024,226.2492 117.36,228.00024 C101.37744,229.86972 96.21,228.51 85.92012,235.92024 C76.03164,243.0414 67.14,248.04 52.08012,241.2 C40.82868,236.0898 41.23764,222.94584 43.29,220.41 C49.02012,213.32988 57.18276,214.07976 62.16012,211.92012 C66.24,210.15 73.22508,201.77532 82.32012,198.24012 C91.41516,194.70492 107.31312,194.418 113.28012,194.64012 Z",
+                                "M145.867552,250.145858 C158.838007,250.627951 195.738904,254.001217 193.150839,271.428291 C190.888659,286.661887 170.397843,290.768934 151.121096,293.01932 C130.540813,295.421922 123.886849,293.674449 110.636867,303.197875 C97.9037556,312.349784 86.4542466,318.77384 67.0620723,309.98327 C52.5739167,303.415789 53.1005227,286.523551 55.7432877,283.264563 C63.1217984,274.165397 73.6325951,275.129121 80.0417984,272.353614 C85.2953425,270.078707 94.289829,259.31581 106.00125,254.772474 C117.712672,250.229137 138.184018,249.860395 145.867552,250.145858 Z",
                               id: "Path",
                               fill: "url(#linearGradient-118)",
                               opacity: "0.3"
@@ -73426,7 +73300,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M119.99988,65.79 L119.99988,0.08352 C119.24784,0.06552 118.48716,0.05724 117.72,0.05652 L117.72,65.79 L119.99988,65.79 Z",
+                                "M154.520393,84.5514068 L154.520393,0.10733749 C153.552013,0.0842044106 152.572507,0.0735631939 151.584658,0.0726378707 L151.584658,84.5514068 L154.520393,84.5514068 Z",
                               id: "Path",
                               fill: "url(#linearGradient-119)"
                             }
@@ -73435,7 +73309,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.615,81.405 C18.225,80.01 13.455,75.51 17.91,73.71 L6.84,73.71 C6.18372,75.3894 5.59728,77.0202 5.07636,78.59052 C5.4288,78.4386 5.80284,78.33132 6.21,78.3 C10.305,77.985 10.96452,83.8908 15.615,81.405 Z",
+                                "M20.1069863,104.619354 C23.4678082,102.82654 17.3256164,97.04327 23.0621918,94.729962 L8.80767123,94.729962 C7.96259836,96.8882783 7.20745644,98.9841354 6.53668274,101.002265 C6.99050959,100.807022 7.47215014,100.669149 7.99643836,100.628897 C13.2694521,100.224068 14.118697,107.814032 20.1069863,104.619354 Z",
                               id: "Path",
                               fill: "#1AA9E8"
                             }
@@ -73444,7 +73318,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M115.17012,11.63988 L115.17012,11.75976 L154.82736,11.75976 C154.11312,10.90296 153.37584,10.1412 152.64,9.47988 L117.33012,9.47988 C116.13744,9.47988 115.17012,10.4472 115.17012,11.63988 Z",
+                                "M148.30125,14.9592374 L148.30125,15.1133037 L199.366738,15.1133037 C198.447031,14.0121691 197.497657,13.0331772 196.550137,12.1832678 L151.08262,12.1832678 C149.546841,12.1832678 148.30125,13.4264395 148.30125,14.9592374 Z",
                               id: "Path",
                               fill: "url(#linearGradient-120)"
                             }
@@ -73453,7 +73327,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M115.17012,37.62 L115.17012,37.73988 L159.6006,37.73988 C159.67944,37.36404 159.759,36.98496 159.84,36.60012 C159.921,36.216 159.99336,35.83656 160.06176,35.46 L117.33012,35.46 C116.13744,35.46 115.17012,36.42732 115.17012,37.62 Z",
+                                "M148.30125,48.3481369 L148.30125,48.5022032 L205.513101,48.5022032 C205.614621,48.0191845 205.717068,47.5320018 205.82137,47.0374166 C205.925671,46.5437567 206.018847,46.0561113 206.106924,45.5721673 L151.08262,45.5721673 C149.546841,45.5721673 148.30125,46.815339 148.30125,48.3481369 Z",
                               id: "Path",
                               fill: "url(#linearGradient-121)"
                             }
@@ -73462,7 +73336,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M115.17012,66.93012 L115.17012,67.05 L159.5106,67.05 C159.10344,66.44304 158.76612,65.85228 158.51988,65.27988 C158.44716,65.11068 158.37912,64.9404 158.31144,64.76976 L117.33012,64.76976 C116.13744,64.77012 115.17012,65.73744 115.17012,66.93012 Z",
+                                "M148.30125,86.0166561 L148.30125,86.1707224 L205.397211,86.1707224 C204.872923,85.390675 204.438565,84.6314473 204.121489,83.8958154 C204.02785,83.6783644 203.940237,83.4595255 203.853087,83.2402239 L151.08262,83.2402239 C149.546841,83.2406865 148.30125,84.4838583 148.30125,86.0166561 Z",
                               id: "Path",
                               fill: "url(#linearGradient-122)"
                             }
@@ -73471,19 +73345,20 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.92,101.88 C7.74,98.865 4.60332,96.45336 7.2,91.26 C9.63,86.4 14.93964,85.87764 18.54,84.6 C21.50532,83.54772 23.20272,82.13472 24.39,80.856 L24.39,73.71 L17.91,73.71 C13.455,75.51 18.225,80.01 15.615,81.405 C10.96452,83.8908 10.305,77.985 6.21,78.3 C5.80248,78.33132 5.42844,78.4386 5.07636,78.59052 C4.66812,79.821 4.29912,81.01584 3.96684,82.1682 C1.49184,90.756 -0.2412,99.1062 0.06408,107.81964 L3.9528,107.81964 C6.19776,106.61544 8.07768,104.52024 7.92,101.88 Z",
+                                "M10.1983562,130.933232 C9.96657534,127.058441 5.92756274,123.959071 9.27123288,117.284715 C12.400274,111.038783 19.2373447,110.367461 23.8734247,108.725475 C27.6917819,107.373115 29.8774751,105.557169 31.4063014,103.913795 L31.4063014,94.729962 L23.0621918,94.729962 C17.3256164,97.04327 23.4678082,102.82654 20.1069863,104.619354 C14.118697,107.814032 13.2694521,100.224068 7.99643836,100.628897 C7.47168658,100.669149 6.99004603,100.807022 6.53668274,101.002265 C6.01100384,102.583643 5.53585315,104.119216 5.10798575,105.600196 C1.92099945,116.636989 -0.310586301,127.368424 0.0825139726,138.566686 L5.08990685,138.566686 C7.98067726,137.019083 10.4013962,134.326392 10.1983562,130.933232 Z",
                               id: "Path",
                               fill: "url(#linearGradient-123)"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-124)",
-                              cx: "15.48",
-                              cy: "96.12",
-                              r: "3.84012"
+                              cx: "19.9331507",
+                              cy: "123.530646",
+                              rx: "4.94481205",
+                              ry: "4.93521125"
                             }
                           })
                         ]
@@ -73494,7 +73369,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "flowerpot",
-                            transform: "translate(45.360000, 238.320000)",
+                            transform: "translate(59.000000, 307.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73502,7 +73377,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.98964,8.42292 C3.2886,16.4556 8.00784,25.29216 17.28,33.3 C19.19592,34.95456 21.19068,36.4806 23.24808,37.89144 L28.38204,8.42328 L0.98964,8.42328 L0.98964,8.42292 Z",
+                                "M1.26264414,10.8611337 C4.1958,21.2190632 10.2168993,32.6135747 22.0468966,42.9394737 C24.4913462,45.0729853 27.0363848,47.0407737 29.6613434,48.8600147 L36.2115683,10.8615979 L1.26264414,10.8615979 L1.26264414,10.8611337 Z",
                               id: "Path",
                               fill: "url(#linearGradient-125)"
                             }
@@ -73511,7 +73386,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M28.41624,9.00972 C28.41624,4.176 21.57912,0.2592 13.14576,0.2592 C7.578,0.2592 2.70792,1.96632 0.0396,4.51692 C0.77112,8.14392 1.95984,12.00816 3.825,15.93936 C6.4044,17.07984 9.6354,17.75988 13.14576,17.75988 C21.57912,17.76024 28.41624,13.84416 28.41624,9.00972 Z",
+                                "M36.2552028,11.6177968 C36.2552028,5.38484211 27.5319807,0.334231579 16.7721766,0.334231579 C9.66848276,0.334231579 3.45493241,2.53551789 0.0505241379,5.82444947 C0.983842759,10.5013705 2.50048552,15.4842063 4.88017241,20.5533853 C8.17113103,22.0240042 12.2934414,22.9008979 16.7721766,22.9008979 C27.5319807,22.9013621 36.2552028,17.85168 36.2552028,11.6177968 Z",
                               id: "Path",
                               fill: "#FF9BBB"
                             }
@@ -73520,7 +73395,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M25.49988,8.61048 C25.49988,4.815 19.92492,1.74024 13.05036,1.74024 C6.83208,1.74024 1.6794,4.25484 0.75024,7.54308 C1.13292,8.97732 1.59264,10.43964 2.13876,11.92032 C4.25736,14.04288 8.34876,15.48036 13.05036,15.48036 C19.92528,15.48036 25.49988,12.40596 25.49988,8.61048 Z",
+                                "M32.5343297,11.1029874 C32.5343297,6.20881579 25.4214497,2.24399368 16.6504593,2.24399368 C8.71679172,2.24399368 2.14268276,5.48650421 0.957202759,9.72660316 C1.44544966,11.5760179 2.03198897,13.4616411 2.72876276,15.3709389 C5.43180414,18.1079242 10.6518662,19.9615168 16.6504593,19.9615168 C25.421909,19.9615168 32.5343297,15.9971589 32.5343297,11.1029874 Z",
                               id: "Path",
                               fill: "url(#linearGradient-126)"
                             }
@@ -73533,7 +73408,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "flower",
-                            transform: "translate(36.720000, 178.200000)",
+                            transform: "translate(47.000000, 229.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73541,7 +73416,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.21972,1.65456 C14.75352,2.65464 15.44796,3.63708 16.758,4.17348 C18.24624,4.7826 19.37808,4.68 19.88352,6.02172 C20.38896,7.3638 20.02608,8.9064 20.91636,8.8967257 C21.807,8.88732 23.28984,5.2146 21.64608,2.52396 C19.989,-0.19008 16.28424,-0.62964 15.21972,1.65456 Z",
+                                "M19.531974,2.13714 C18.933684,3.42891 19.824882,4.697895 21.5061,5.390745 C23.416008,6.177525 24.868536,6.045 25.517184,7.778055 C26.165832,9.511575 25.700136,11.5041 26.842662,11.491604 C27.98565,11.479455 29.888628,6.735525 27.779136,3.260115 C25.65255,-0.24552 20.898108,-0.813285 19.531974,2.13714 Z",
                               id: "Path",
                               fill: "url(#linearGradient-127)"
                             }
@@ -73550,7 +73425,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M23.76,55.305 C24.48,53.325 31.815,42.975 44.685,41.985 C56.31084,41.09076 60.90372,46.42488 59.76,48.78 C58.995,50.355 56.25,49.905 55.125,49.59 C54,49.275 52.02612,48.14676 50.715,48.825 C49.41,49.5 49.56552,51.228 48.24,51.8849964 C45.86364,53.06292 43.41744,51.0948 41.4,50.31 C38.97,49.365 34.875,48.51 31.95,51.21 C28.36908,54.51588 27.62028,57.37356 26.49996,62.39196 C25.37964,67.41036 24.85008,69.89256 24.615,70.2 C24.32232,70.58268 23.85,71.01 22.59,70.515 C21.33,70.02 22.95,63.585 22.815,60.975 C22.68,58.365 23.76,55.305 23.76,55.305 Z",
+                                "M30.492,71.435625 C31.416,68.878125 40.82925,55.509375 57.34575,54.230625 C72.265578,53.075565 78.159774,59.96547 76.692,63.0075 C75.71025,65.041875 72.1875,64.460625 70.74375,64.05375 C69.3,63.646875 66.766854,62.189565 65.08425,63.065625 C63.4095,63.9375 63.609084,66.1695 61.908,67.018125 C58.858338,68.539605 55.719048,65.99745 53.13,64.98375 C50.0115,63.763125 44.75625,62.65875 41.0025,66.14625 C36.406986,70.416345 35.446026,74.107515 34.008282,80.589615 C32.570538,87.071715 31.890936,90.27789 31.58925,90.675 C31.213644,91.169295 30.6075,91.72125 28.9905,91.081875 C27.3735,90.4425 29.4525,82.130625 29.27925,78.759375 C29.106,75.388125 30.492,71.435625 30.492,71.435625 Z",
                               id: "Path",
                               fill: "url(#linearGradient-128)"
                             }
@@ -73559,7 +73434,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M26.73,70.29 C26.74116,69.82848 28.35,66.81024 28.665,63.945 C29.0754,60.21108 30.9384,56.27628 32.625,54.765 C34.65,52.95024 37.26072,52.07616 38.385,53.46 C39.35988,54.66024 38.40012,56.85048 37.26,57.96 C35.80056,59.3802 29.10852,63.30348 30.26988,65.46024 C30.89988,66.63024 32.04936,64.90116 32.58,64.08036 C33.50988,62.64036 35.07876,61.22556 36.06012,61.86024 C37.08,62.52012 36.75024,64.56024 34.53012,65.85012 C32.35716,67.11264 30.42468,68.15736 29.49012,69.21036 C28.60632,70.20612 29.46024,70.17012 28.98,70.74036 C28.4274,71.39664 26.70012,71.52012 26.73,70.29 Z",
+                                "M34.3035,90.79125 C34.317822,90.19512 36.3825,86.29656 36.78675,82.595625 C37.31343,77.772645 39.70428,72.690195 41.86875,70.738125 C44.4675,68.39406 47.817924,67.26504 49.26075,69.0525 C50.511846,70.60281 49.280154,73.43187 47.817,74.865 C45.944052,76.699425 37.355934,81.766995 38.846346,84.55281 C39.654846,86.06406 41.130012,83.830665 41.811,82.770465 C43.004346,80.910465 45.017742,79.083015 46.277154,79.90281 C47.586,80.755155 47.162808,83.39031 44.313654,85.056405 C41.525022,86.68716 39.045006,88.03659 37.845654,89.396715 C36.711444,90.682905 37.807308,90.636405 37.191,91.372965 C36.48183,92.22066 34.265154,92.380155 34.3035,90.79125 Z",
                               id: "Path",
                               fill: "url(#linearGradient-129)"
                             }
@@ -73568,7 +73443,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.28,70.245 C17.86932,69.89472 17.325,66.735 16.2,65.16 C15.075,63.585 12.96,62.82 12.96,61.695 C12.96,60.57 13.51692,59.5782 12.87,58.185 C12.285,56.925 9.99,57.42 9.9,55.395 C9.81,53.37 10.8396,50.87376 11.62656,46.46556 C12.33,42.525 11.6892,41.16672 10.665,40.545 C9.405,39.78 9.135,37.935 10.08,35.325 C10.73808,33.50808 10.3644,22.07088 6.345,21.78 C2.925,21.53232 1.5156,27.62496 1.485,30.735 C1.44,35.30268 3.20256,36.43884 2.52,38.79 C1.71,41.58 0.60012,41.96988 0.36,45.045 C0.16236,47.57868 0.18,51.03 5.49,57.51 C10.51488,63.64224 13.82364,66.27492 14.715,67.545 C15.81012,69.10524 16.245,70.86024 17.28,70.245 Z",
+                                "M22.176,90.733125 C22.932294,90.28068 22.23375,86.199375 20.79,84.165 C19.34625,82.130625 16.632,81.1425 16.632,79.689375 C16.632,78.23625 17.346714,76.955175 16.5165,75.155625 C15.76575,73.528125 12.8205,74.1675 12.705,71.551875 C12.5895,68.93625 13.91082,65.71194 14.920752,60.018015 C15.8235,54.928125 15.00114,53.17368 13.68675,52.370625 C12.06975,51.3825 11.72325,48.999375 12.936,45.628125 C13.780536,43.28127 13.30098,28.50822 8.14275,28.1325 C3.75375,27.81258 1.94502,35.68224 1.90575,39.699375 C1.848,45.599295 4.109952,47.066835 3.234,50.10375 C2.1945,53.7075 0.770154,54.211095 0.462,58.183125 C0.208362,61.455795 0.231,65.91375 7.0455,74.28375 C13.494096,82.20456 17.740338,85.605105 18.88425,87.245625 C20.289654,89.260935 20.84775,91.52781 22.176,90.733125 Z",
                               id: "Path",
                               fill: "url(#linearGradient-130)"
                             }
@@ -73577,7 +73452,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M21.69,70.02 C21.69,67.77 22.68,60.48 20.61,56.61 C18.54,52.74 17.37,48.78 18.36,44.46 C19.35,40.14 24.21,31.815 23.85,28.935 C23.49,26.055 22.005,21.195 24.66,11.79 C26.6706,4.66812 31.23324,-0.16668 34.38,1.8 C36.54,3.15 35.55,8.19 34.47,10.08 C33.39,11.97 31.51332,15.26796 31.87332,17.15796 C32.23332,19.04796 33.41808,19.25352 33.31764,21.81924 C33.12036,26.865 26.05536,34.605 24.39036,41.49 C23.00868,47.20284 22.50036,54.09 23.94036,54.36 C25.38036,54.63 23.8428,68.18328 23.1714,69.57432 C22.5,70.96536 21.69,70.02 21.69,70.02 Z",
+                                "M27.8355,90.4425 C27.8355,87.53625 29.106,78.12 26.4495,73.12125 C23.793,68.1225 22.2915,63.0075 23.562,57.4275 C24.8325,51.8475 31.0695,41.094375 30.6075,37.374375 C30.1455,33.654375 28.23975,27.376875 31.647,15.22875 C34.22727,6.029655 40.082658,-0.215295 44.121,2.325 C46.893,4.06875 45.6225,10.57875 44.2365,13.02 C42.8505,15.46125 40.442094,19.721115 40.904094,22.162365 C41.366094,24.603615 42.886536,24.86913 42.757638,28.183185 C42.504462,34.700625 33.437712,44.698125 31.300962,53.59125 C29.527806,60.970335 28.875462,69.86625 30.723462,70.215 C32.571462,70.56375 30.59826,88.07007 29.73663,89.86683 C28.875,91.66359 27.8355,90.4425 27.8355,90.4425 Z",
                               id: "Path",
                               fill: "url(#linearGradient-131)"
                             }
@@ -73586,7 +73461,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.34012,9.78048 C18.69012,10.68012 18.84024,12.84012 18.30024,14.34024 C17.76024,15.84036 17.26308,16.53228 17.40024,17.52048 C17.55036,18.60012 19.62036,18.96012 20.28024,21.18024 C20.94012,23.40036 19.86012,27.83988 18.72036,31.02012 C17.5806,34.20036 17.88048,36.54036 19.02024,36.72036 C20.16,36.90036 21.18024,35.34012 21.54024,33.42024 C21.90024,31.50036 21.72816,23.04324 26.82036,24.54012 C28.86048,25.13988 28.71036,28.58976 27.42048,31.02012 C26.4258,32.89392 23.0706,36.99 21.3606,42.54012 C19.77876,47.67444 18.53424,51.74856 21.66048,52.38036 C24.3306,52.92 25.80048,49.92012 26.16048,48.00024 C26.52048,46.08036 27.7434,39.4758 33.66036,40.62024 C36.45036,41.15988 34.70796,47.93508 30.60036,51.48036 C27.79956,53.89776 24.2424,56.90808 23.22036,61.08012 C22.11048,65.61 23.70024,70.26012 23.04036,71.16012 C22.38048,72.06012 19.80036,71.52048 19.86048,70.92036 C19.9206,70.32024 20.58048,69.12 19.32048,68.10012 C18.06048,67.08024 15.13008,65.6694 13.14036,64.26036 C11.15064,62.85132 11.34036,60.66036 12.36024,59.88024 C13.38012,59.10012 14.55804,60.0822 15.00012,60.60024 C15.87024,61.62012 17.88012,67.81536 20.28024,66.18024 C21.80772,65.13948 19.36116,60.04188 17.64036,57.72024 C15.06024,54.23976 9.27036,52.92 6.00048,48.54024 C3.6954,45.45288 5.04972,41.9904 6.6006,41.40036 C8.73072,40.59 10.683,42.51924 11.10852,44.46792 C11.6784,47.0772 12.82788,51.2244 15.90048,48.9006 C19.4706,46.20024 14.0958,41.11488 11.4606,38.22084 C6.57072,32.85036 4.23072,24.42024 8.46072,23.10084 C10.34388,22.51332 11.9106,25.14024 12.3606,28.14084 C12.8772,31.58388 15.40944,42.6024 17.64072,41.3406 C19.0206,40.56012 15.9606,37.92096 15.84072,35.70084 C15.72084,33.48072 16.02072,30.30048 14.94072,27.4806 C13.86072,24.66072 11.02464,17.19792 12.5406,12.78072 C13.92012,8.75988 16.73928,9.38016 17.34012,9.78048 Z",
+                                "M22.253154,12.63312 C23.985654,13.795155 24.178308,16.585155 23.485308,18.52281 C22.792308,20.460465 22.154286,21.354195 22.330308,22.63062 C22.522962,24.025155 25.179462,24.490155 26.026308,27.35781 C26.873154,30.225465 25.487154,35.959845 24.024462,40.067655 C22.56177,44.175465 22.946616,47.197965 24.409308,47.430465 C25.872,47.662965 27.181308,45.647655 27.643308,43.16781 C28.105308,40.687965 27.884472,29.764185 34.419462,31.697655 C37.037616,32.472345 36.844962,36.92844 35.189616,40.067655 C33.91311,42.48798 29.60727,47.77875 27.41277,54.947655 C25.382742,61.579485 23.785608,66.84189 27.797616,67.657965 C31.22427,68.355 33.110616,64.480155 33.572616,62.00031 C34.034616,59.520465 35.60403,50.989575 43.197462,52.46781 C46.777962,53.164845 44.541882,61.916145 39.270462,66.495465 C35.676102,69.61794 31.11108,73.50627 29.799462,78.895155 C28.375116,84.74625 30.415308,90.752655 29.568462,91.915155 C28.721616,93.077655 25.410462,92.38062 25.487616,91.605465 C25.56477,90.83031 26.411616,89.28 24.794616,87.962655 C23.177616,86.64531 19.416936,84.822975 16.863462,83.002965 C14.309988,81.182955 14.553462,78.352965 15.862308,77.34531 C17.171154,76.337655 18.682818,77.606175 19.250154,78.27531 C20.366808,79.592655 22.946154,87.59484 26.026308,85.48281 C27.986574,84.138495 24.846822,77.554095 22.638462,74.55531 C19.327308,70.05969 11.896962,68.355 7.700616,62.69781 C4.74243,58.70997 6.480474,54.2376 8.47077,53.475465 C11.204424,52.42875 13.70985,54.920685 14.255934,57.43773 C14.98728,60.80805 16.462446,66.16485 20.405616,63.163275 C24.98727,59.67531 18.08961,53.10672 14.70777,49.368585 C8.432424,42.431715 5.429424,31.54281 10.857924,29.838585 C13.274646,29.079705 15.28527,32.47281 15.86277,36.348585 C16.52574,40.795845 19.775448,55.0281 22.638924,53.398275 C24.40977,52.390155 20.48277,48.98124 20.328924,46.113585 C20.175078,43.24593 20.559924,39.13812 19.173924,35.495775 C17.787924,31.85343 14.148288,22.21398 16.09377,16.50843 C17.864154,11.314845 21.482076,12.11604 22.253154,12.63312 Z",
                               id: "Path",
                               fill: "url(#linearGradient-132)"
                             }
@@ -73595,7 +73470,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M47.09268,54.47268 C48.33036,55.05768 47.90268,56.92536 45.63684,58.58352 C43.49304,60.15204 40.41864,60.2136 40.34268,59.38992 C40.26708,58.56588 41.99256,58.5162 43.40268,57.17268 C44.8128,55.82844 45.44496,53.69364 47.09268,54.47268 Z",
+                                "M60.435606,70.360545 C62.023962,71.11617 61.475106,73.52859 58.567278,75.67038 C55.816068,77.696385 51.870588,77.7759 51.773106,76.71198 C51.676086,75.647595 53.890452,75.583425 55.700106,73.848045 C57.50976,72.111735 58.321032,69.354285 60.435606,70.360545 Z",
                               id: "Path",
                               fill: "url(#linearGradient-133)"
                             }
@@ -73608,14 +73483,14 @@ var render = function() {
                         {
                           attrs: {
                             id: "monitor",
-                            transform: "translate(149.760000, 107.280000)"
+                            transform: "translate(193.000000, 138.000000)"
                           }
                         },
                         [
                           _c("path", {
                             attrs: {
                               d:
-                                "M68.39352,0.18612 L66.71988,0.19188 L66.71988,42.35976 L69.59988,42.35976 C70.79256,42.35976 71.75988,41.3928 71.75988,40.19976 L71.75988,3.105 C71.75988,1.62 70.83,0.18612 68.39352,0.18612 Z",
+                                "M88.34163,0.241266667 L86.179845,0.248733333 L86.179845,54.9108 L89.899845,54.9108 C91.44039,54.9108 92.689845,53.6573333 92.689845,52.1108 L92.689845,4.025 C92.689845,2.1 91.48875,0.241266667 88.34163,0.241266667 Z",
                               id: "Path",
                               fill: "#9180E6",
                               "fill-rule": "nonzero"
@@ -73625,7 +73500,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M40.5,52.47 C45.45,48.06036 42.84,42.36012 42.12,41.58 L30.73464,41.58 C31.45464,42.36012 34.06464,48.06036 29.11464,52.47 L40.5,52.47 Z",
+                                "M52.3125,68.0166667 C58.70625,62.3004667 55.335,54.9112667 54.405,53.9 L39.69891,53.9 C40.62891,54.9112667 44.00016,62.3004667 37.60641,68.0166667 L52.3125,68.0166667 Z",
                               id: "Path",
                               fill: "url(#linearGradient-134)",
                               "fill-rule": "nonzero"
@@ -73635,7 +73510,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M40.9428,53.11584 L40.02084,51.93252 C41.71284,50.4252 42.62184,48.61692 42.72228,46.55844 C42.83568,44.23356 41.86224,42.363 41.59044,42.06852 L42.64848,41.09184 C43.23888,41.7312 44.28828,44.0118 44.16012,46.62864 C44.0424,49.05288 42.9066,51.36696 40.9428,53.11584 Z",
+                                "M52.88445,68.8538667 L51.693585,67.3199333 C53.879085,65.366 55.05321,63.0219333 55.182945,60.3535333 C55.32942,57.3398 54.07206,54.915 53.720985,54.5332667 L55.08762,53.2672 C55.85022,54.096 57.205695,57.0523333 57.040155,60.4445333 C56.8881,63.5870667 55.421025,66.5868 52.88445,68.8538667 Z",
                               id: "Path",
                               fill: "#9180E6",
                               "fill-rule": "nonzero"
@@ -73645,7 +73520,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M40.93488,53.1054 C40.93488,53.1054 40.65732,51.975 40.39812,51.56712 L20.80584,51.56712 C19.61316,51.56712 18.64584,52.53444 18.64584,53.72712 L18.64584,53.847 L40.93488,53.847 L40.93488,53.1054 Z",
+                                "M52.87422,68.8403333 C52.87422,68.8403333 52.515705,67.375 52.180905,66.8462667 L26.87421,66.8462667 C25.333665,66.8462667 24.08421,68.1002 24.08421,69.6462667 L24.08421,69.8016667 L52.87422,69.8016667 L52.87422,68.8403333 Z",
                               id: "Path",
                               fill: "#9180E6",
                               "fill-rule": "nonzero"
@@ -73655,7 +73530,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.11988,40.20012 C0.11988,41.39316 1.0872,42.36012 2.27988,42.36012 L68.15988,42.36012 C69.35256,42.36012 70.31988,41.39316 70.31988,40.20012 L70.31988,2.27988 C70.31988,1.0872 69.35256,0.11988 68.15988,0.11988 L2.27988,2.81988 C1.0872,2.81988 0.11988,3.7872 0.11988,4.97988 L0.11988,40.20012 L0.11988,40.20012 Z",
+                                "M0.154845,52.1112667 C0.154845,53.6578 1.4043,54.9112667 2.944845,54.9112667 L88.039845,54.9112667 C89.58039,54.9112667 90.829845,53.6578 90.829845,52.1112667 L90.829845,2.9554 C90.829845,1.40933333 89.58039,0.1554 88.039845,0.1554 L2.944845,3.6554 C1.4043,3.6554 0.154845,4.90933333 0.154845,6.4554 L0.154845,52.1112667 L0.154845,52.1112667 Z",
                               id: "Path",
                               fill: "url(#linearGradient-135)",
                               "fill-rule": "nonzero"
@@ -73668,14 +73543,14 @@ var render = function() {
                               fill: "url(#linearGradient-136)",
                               "fill-rule": "nonzero",
                               points:
-                                "2.88 37.08 66.48012 36 66.48012 3.71988 2.88 6.41988"
+                                "3.72 48.0666667 85.870155 46.6666667 85.870155 4.82206667 3.72 8.32206667"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M62.8056,9.03204 C62.83152,9.73836 62.20836,10.33488 61.41384,10.36404 L25.80192,11.7198 C25.0074,11.74932 24.34176,11.19996 24.31584,10.49364 L24.28632,9.69408 C24.2604,8.98776 24.88356,8.39124 25.67844,8.36172 L61.29,7.00596 C62.08488,6.9768 62.75016,7.5258 62.77608,8.23212 L62.8056,9.03204 Z",
+                                "M81.1239,11.7082 C81.15738,12.6238 80.352465,13.3970667 79.32621,13.4348667 L33.32748,15.1923333 C32.301225,15.2306 31.44144,14.5184667 31.40796,13.6028667 L31.36983,12.5664 C31.33635,11.6508 32.141265,10.8775333 33.167985,10.8392667 L79.16625,9.0818 C80.19297,9.044 81.05229,9.75566667 81.08577,10.6712667 L81.1239,11.7082 Z",
                               id: "Path",
                               fill: "url(#linearGradient-137)",
                               "fill-rule": "nonzero"
@@ -73688,7 +73563,7 @@ var render = function() {
                               attrs: {
                                 id: "https://tahi26.com",
                                 transform:
-                                  "translate(42.000000, 10.449974) rotate(-2.000000) translate(-42.000000, -10.449974) ",
+                                  "translate(54.250000, 13.546262) rotate(-2.000000) translate(-54.250000, -13.546262) ",
                                 "font-family":
                                   "BanglaSangamMN, Bangla Sangam MN",
                                 "font-size": "3.01",
@@ -73699,7 +73574,7 @@ var render = function() {
                             [
                               _c(
                                 "tspan",
-                                { attrs: { x: "30.5787549", y: "10.1999736" } },
+                                { attrs: { x: "42.8287549", y: "12.6295954" } },
                                 [_vm._v("https://tahi26.com")]
                               )
                             ]
@@ -73708,43 +73583,46 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M51.75,29.97 C51.75,30.36744 51.42744,30.69 51.03,30.69 L19.44,31.23 C19.04256,31.23 18.72,30.90744 18.72,30.51 L18.72,16.29 C18.72,15.89256 19.04256,15.57 19.44,15.57 L51.03,15.03 C51.42744,15.03 51.75,15.35256 51.75,15.75 L51.75,29.97 Z",
+                                "M66.84375,38.85 C66.84375,39.3652 66.42711,39.7833333 65.91375,39.7833333 L25.11,40.4833333 C24.59664,40.4833333 24.18,40.0652 24.18,39.55 L24.18,21.1166667 C24.18,20.6014667 24.59664,20.1833333 25.11,20.1833333 L65.91375,19.4833333 C66.42711,19.4833333 66.84375,19.9014667 66.84375,20.4166667 L66.84375,38.85 Z",
                               id: "Path",
                               fill: "#FF9BBB",
                               "fill-rule": "nonzero"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "#FBBB6C",
                               "fill-rule": "nonzero",
-                              cx: "8.523",
-                              cy: "10.46556",
-                              r: "1.68012"
+                              cx: "11.008875",
+                              cy: "13.5664667",
+                              rx: "2.170155",
+                              ry: "2.17793333"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "#5265F9",
                               "fill-rule": "nonzero",
-                              cx: "14.17356",
-                              cy: "10.33956",
-                              r: "1.68012"
+                              cx: "18.307515",
+                              cy: "13.4031333",
+                              rx: "2.170155",
+                              ry: "2.17793333"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "#EA4D81",
                               "fill-rule": "nonzero",
-                              cx: "19.82412",
-                              cy: "10.21356",
-                              r: "1.68012"
+                              cx: "25.606155",
+                              cy: "13.2398",
+                              rx: "2.170155",
+                              ry: "2.17793333"
                             }
                           })
                         ]
@@ -73755,7 +73633,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "robot_arm",
-                            transform: "translate(140.400000, 106.920000)",
+                            transform: "translate(181.000000, 138.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73763,7 +73641,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M57.0888,19.60308 C52.11,19.53 34.56,19.98 28.62,19.26 C22.68,18.54 15.84756,15.99948 13.41,13.95 C13.22856,13.79772 13.077,13.65156 12.94416,13.50792 C13.38012,15.06024 13.995,16.47 13.56012,18.72 C13.21416,20.51028 11.4102,23.06124 8.94276,24.1326 C9.99972,24.62148 11.12256,25.09776 12.24,25.49988 C16.74,27.11988 25.74288,27.95976 31.74012,27.95976 C37.73736,27.95976 57.18024,27.95976 57.18024,27.95976 L57.0888,19.60308 Z",
+                                "M73.8217241,25.0108262 C67.3836207,24.9175862 44.6896552,25.4917241 37.0086207,24.5731034 C29.3275862,23.6544828 20.4925345,20.4131297 17.3405172,17.7982759 C17.1058966,17.6039876 16.9099138,17.4175076 16.7381379,17.2342428 C17.3018793,19.214789 18.0969828,21.0134483 17.5346379,23.8841379 C17.0872759,26.1682883 14.754569,29.4229614 11.5639138,30.789869 C12.9306724,31.4136124 14.3826207,32.02128 15.8275862,32.5343297 C21.6465517,34.6012262 33.2882069,35.6727972 41.0432586,35.6727972 C48.7983103,35.6727972 73.9399655,35.6727972 73.9399655,35.6727972 L73.8217241,25.0108262 Z",
                               id: "Path",
                               fill: "url(#linearGradient-138)"
                             }
@@ -73772,7 +73650,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M57.0888,19.60308 C55.602,19.58112 52.9902,19.60596 49.90572,19.6326 L49.90572,19.6326 C50.67,20.295 52.785,23.65488 50.13,27.96012 C54.15804,27.96012 57.18024,27.96012 57.18024,27.96012 L57.0888,19.60308 Z",
+                                "M73.8217241,25.0108262 C71.8991379,24.9828083 68.5218103,25.0145007 64.5332586,25.0484897 L64.5332586,25.0484897 C65.5215517,25.8936207 68.2564655,30.1803641 64.8232759,35.6732566 C70.0319483,35.6732566 73.9399655,35.6732566 73.9399655,35.6732566 L73.8217241,25.0108262 Z",
                               id: "Path",
                               fill: "url(#linearGradient-139)"
                             }
@@ -73781,7 +73659,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.56012,18.72 C13.995,16.47 13.38012,15.05988 12.94416,13.50792 C12.10896,12.60504 12.08556,11.80044 11.115,10.17 C10.10016,8.46468 9.56736,6.97752 9.47988,6.03 C9.29988,4.07988 10.49508,2.50668 10.34496,1.24668 C10.20204,0.04608 7.06356,-0.41796 6.03,1.35 C5.10012,2.94012 5.57532,5.31684 5.715,6.165 C5.91012,7.35012 5.76,7.83 5.76,7.83 C5.76,7.83 2.79,11.565 2.655,14.58 C2.52,17.595 3.15,21.06 3.15,21.06 C3.15,21.06 5.74344,22.65336 8.94276,24.1326 C11.4102,23.06124 13.21416,20.51028 13.56012,18.72 Z",
+                                "M17.5346379,23.8841379 C18.0969828,21.0134483 17.3018793,19.2143297 16.7381379,17.2342428 C15.6581379,16.0822924 15.6278793,15.0557338 14.3728448,12.9755172 C13.0605517,10.7997641 12.3715862,8.9023531 12.2584655,7.69344828 C12.0257069,5.20536414 13.5712241,3.19817793 13.3771034,1.59059172 C13.1922931,0.0587917241 9.13391379,-0.53325931 7.79741379,1.72241379 C6.59498276,3.75118759 7.20946552,6.78355448 7.39008621,7.86568966 C7.64239655,9.37773931 7.44827586,9.99 7.44827586,9.99 C7.44827586,9.99 3.60775862,14.7553448 3.43318966,18.602069 C3.25862069,22.4487931 4.07327586,26.8696552 4.07327586,26.8696552 C4.07327586,26.8696552 7.42686207,28.9025628 11.5639138,30.789869 C14.754569,29.4229614 17.0872759,26.1682883 17.5346379,23.8841379 Z",
                               id: "Path",
                               fill: "url(#linearGradient-140)"
                             }
@@ -73790,7 +73668,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M43.38504,27.96012 C42.2208,24.87492 39.24216,22.68 35.74944,22.68 C32.30496,22.68 29.36088,24.81552 28.16388,27.8334 C29.727,27.91728 31.22424,27.96012 32.56956,27.96012 C34.84116,27.96012 39.04236,27.96012 43.38504,27.96012 Z",
+                                "M56.1013448,35.6732566 C54.5958621,31.7369669 50.7441724,28.9365517 46.2277241,28.9365517 C41.7736552,28.9365517 37.9666552,31.6611807 36.4188103,35.5115793 C38.4400862,35.6185986 40.3761724,35.6732566 42.1158103,35.6732566 C45.0532241,35.6732566 50.4858103,35.6732566 56.1013448,35.6732566 Z",
                               id: "Path",
                               fill: "url(#linearGradient-141)"
                             }
@@ -73799,7 +73677,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M43.38504,28.23012 C43.27596,28.23012 43.17336,28.16352 43.13232,28.05552 C41.97996,25.002 39.0132,22.95 35.74944,22.95 C32.49432,22.95 29.6154,24.90588 28.4148,27.93312 C28.35972,28.07172 28.20348,28.13904 28.06416,28.08468 C27.92556,28.0296 27.85788,27.87264 27.9126,27.73404 C29.19528,24.4998 32.27148,22.41 35.74944,22.41 C39.2364,22.41 42.4062,24.60204 43.63776,27.86472 C43.69032,28.00404 43.61976,28.15992 43.48008,28.21248 C43.44876,28.22436 43.41672,28.23012 43.38504,28.23012 Z",
+                                "M56.1013448,36.0177393 C55.9602931,36.0177393 55.8276207,35.9327669 55.7745517,35.7949738 C54.284431,31.8991034 50.4481034,29.2810345 46.2277241,29.2810345 C42.0185172,29.2810345 38.2957759,31.7764676 36.7432759,35.6388083 C36.6720517,35.8156428 36.4700172,35.9015338 36.2898621,35.8321779 C36.1106379,35.7619034 36.0231207,35.5616441 36.0938793,35.3848097 C37.7525172,31.2583655 41.7303621,28.592069 46.2277241,28.592069 C50.7367241,28.592069 54.8356034,31.3888097 56.4281379,35.5515393 C56.4961034,35.7292924 56.4048621,35.9281738 56.2242414,35.9952331 C56.1837414,36.0103903 56.1423103,36.0177393 56.1013448,36.0177393 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73808,7 +73686,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M37.69848,28.23012 C37.58256,28.23012 37.47564,28.15524 37.44,28.0386 C37.19448,27.2304 36.46224,26.68752 35.61732,26.68752 C34.7724,26.68752 34.04016,27.2304 33.79464,28.0386 C33.75108,28.18116 33.59916,28.26108 33.45768,28.2186 C33.31512,28.17504 33.23448,28.0242 33.27768,27.88164 C33.59268,26.84448 34.53264,26.14752 35.61696,26.14752 C36.70128,26.14752 37.64124,26.84448 37.95624,27.88164 C37.99944,28.0242 37.9188,28.17504 37.77624,28.2186 C37.75068,28.22616 37.7244,28.23012 37.69848,28.23012 Z",
+                                "M48.7480345,36.0177393 C48.5981379,36.0177393 48.4598793,35.9222028 48.4137931,35.7733862 C48.0963103,34.7422345 47.1494483,34.0495945 46.0568793,34.0495945 C44.9643103,34.0495945 44.0174483,34.7422345 43.6999655,35.7733862 C43.6436379,35.9552731 43.4471897,36.05724 43.2642414,36.0030414 C43.0798966,35.9474648 42.9756207,35.7550138 43.0314828,35.5731269 C43.4388103,34.2498538 44.6542759,33.360629 46.0564138,33.360629 C47.4585517,33.360629 48.6740172,34.2498538 49.0813448,35.5731269 C49.1372069,35.7550138 49.032931,35.9474648 48.8485862,36.0030414 C48.8155345,36.0126869 48.7815517,36.0177393 48.7480345,36.0177393 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73817,7 +73695,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.765,12.93768 C0.585,12.57768 -0.24768,10.05768 1.46268,8.775 C3.08664,7.55712 5.15844,7.36524 6.30036,8.19 C7.16544,8.81496 8.51832,9.9864 8.55036,11.655 C8.57304,12.825 7.67268,13.86 7.67268,13.86 C7.67268,13.86 8.50536,14.76 8.46036,15.885 C8.40636,17.23464 7.51536,18.045 7.51536,18.045 C7.51536,18.045 7.98804,20.45268 6.63768,20.97 C5.54508,21.38868 4.725,20.72232 4.005,20.745 C3.37356,20.7648 3.40812,21.21516 3.40812,21.21516 C3.40812,21.21516 1.90872,21.3012 1.44,20.52 C0.83232,19.50732 1.305,18 1.305,18 C1.305,18 0.23004,16.51428 0.18,14.94 C0.135,13.52268 0.765,12.93768 0.765,12.93768 Z",
+                                "M0.989224138,16.5066952 C0.756465517,16.0473848 -0.320275862,12.8322124 1.89139655,11.1956897 C3.99134483,9.64184276 6.67039655,9.39703034 8.14701724,10.4493103 C9.26565517,11.2466731 11.015069,12.741269 11.0565,14.8701724 C11.0858276,16.362931 9.92156897,17.6834483 9.92156897,17.6834483 C9.92156897,17.6834483 10.9983103,18.8317241 10.9401207,20.267069 C10.8702931,21.9890234 9.71813793,23.022931 9.71813793,23.022931 C9.71813793,23.022931 10.3293621,26.0947986 8.5832069,26.7548276 C7.17036207,27.2890055 6.10991379,26.4388221 5.17887931,26.4677586 C4.36236207,26.4930207 4.40705172,27.0676179 4.40705172,27.0676179 C4.40705172,27.0676179 2.46817241,27.1773931 1.86206897,26.1806897 C1.07627586,24.8886497 1.6875,22.9655172 1.6875,22.9655172 C1.6875,22.9655172 0.297465517,21.0699434 0.232758621,19.0613793 C0.174568966,17.2530745 0.989224138,16.5066952 0.989224138,16.5066952 Z",
                               id: "Path",
                               fill: "url(#linearGradient-142)"
                             }
@@ -73826,7 +73704,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.63768,20.97 C7.98768,20.45232 7.51536,18.045 7.51536,18.045 C7.51536,18.045 8.40636,17.23464 8.46036,15.885 C8.50536,14.76 7.67268,13.86 7.67268,13.86 C7.67268,13.86 8.57268,12.825 8.55036,11.655 C8.51832,9.9864 7.16544,8.81496 6.30036,8.19 C5.83812,7.85628 5.22252,7.69176 4.5468,7.69176 C5.04144,8.28252 5.535,9.4284 5.28804,10.50732 C4.95144,11.9754 3.69036,12.16584 3.69036,12.16584 C3.69036,12.16584 4.72536,13.005 4.63536,14.535 C4.54536,16.065 3.6,16.67988 3.6,16.67988 C3.6,16.67988 4.86036,17.415 4.72536,18.72 C4.59036,20.025 3.63852,20.83104 3.63852,20.83104 L3.63852,20.8314 C3.72492,20.78424 3.84192,20.74968 4.00536,20.74464 C4.725,20.72268 5.54472,21.38868 6.63768,20.97 Z",
+                                "M8.5832069,26.7548276 C10.3288966,26.0943393 9.71813793,23.022931 9.71813793,23.022931 C9.71813793,23.022931 10.8702931,21.9890234 10.9401207,20.267069 C10.9983103,18.8317241 9.92156897,17.6834483 9.92156897,17.6834483 C9.92156897,17.6834483 11.0853621,16.362931 11.0565,14.8701724 C11.015069,12.741269 9.26565517,11.2466731 8.14701724,10.4493103 C7.5492931,10.0235297 6.75325862,9.81362483 5.87948276,9.81362483 C6.51910345,10.5673531 7.15732759,12.0293379 6.83798276,13.405891 C6.40272414,15.2789586 4.77201724,15.5219338 4.77201724,15.5219338 C4.77201724,15.5219338 6.11037931,16.5925862 5.994,18.5446552 C5.87762069,20.4967241 4.65517241,21.2812262 4.65517241,21.2812262 C4.65517241,21.2812262 6.28494828,22.2191379 6.11037931,23.8841379 C5.93581034,25.5491379 4.70498276,26.5775338 4.70498276,26.5775338 L4.70498276,26.5779931 C4.8167069,26.5178234 4.968,26.4737297 5.17934483,26.4672993 C6.10991379,26.4392814 7.16989655,27.2890055 8.5832069,26.7548276 Z",
                               id: "Path",
                               fill: "url(#linearGradient-143)"
                             }
@@ -73835,7 +73713,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.4788,6.00696 C9.31032,4.06764 10.49436,2.502 10.34496,1.24704 C10.20204,0.04644 7.06356,-0.4176 6.03,1.35036 C5.10732,2.92788 5.56776,5.27724 5.71104,6.14304 C6.29352,6.59304 7.1532,6.9678 7.94988,6.99048 C8.54496,7.00704 9.11592,6.453 9.4788,6.00696 Z",
+                                "M12.257069,7.66405241 C12.0392069,5.18974759 13.5702931,3.1922069 13.3771034,1.59105103 C13.1922931,0.0592510345 9.13391379,-0.5328 7.79741379,1.7228731 C6.6042931,3.73557103 7.19968966,6.73303034 7.38496552,7.83767172 C8.13817241,8.41180966 9.24982759,8.88995172 10.2800172,8.91888828 C11.0495172,8.94001655 11.7878276,8.23313793 12.257069,7.66405241 Z",
                               id: "Path",
                               fill: "url(#linearGradient-144)"
                             }
@@ -73844,7 +73722,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M19.47816,21.63312 C19.70568,19.52424 19.0224,17.58816 18.3672,16.60104 C16.20684,15.74352 14.42592,14.80428 13.40964,13.95 C13.2282,13.79772 13.07664,13.65156 12.9438,13.50792 C13.37976,15.06024 13.99464,16.47 13.55976,18.72 C13.2138,20.51028 11.40984,23.06124 8.9424,24.1326 C9.99936,24.62148 11.1222,25.09776 12.23964,25.49988 C13.46148,25.9398 15.01632,26.3214 16.75116,26.64504 C17.21448,26.22132 19.19376,24.26832 19.47816,21.63312 Z",
+                                "M25.1872759,27.6008772 C25.4814828,24.9102372 24.597931,22.4400662 23.7506897,21.1806372 C20.9571207,20.08656 18.6542069,18.8882193 17.3400517,17.7982759 C17.105431,17.6039876 16.9094483,17.4175076 16.7376724,17.2342428 C17.3014138,19.214789 18.0965172,21.0134483 17.5341724,23.8841379 C17.0868103,26.1682883 14.7541034,29.4229614 11.5634483,30.789869 C12.9302069,31.4136124 14.3821552,32.02128 15.8271207,32.5343297 C17.4070862,33.0956069 19.4176552,33.5824759 21.6609828,33.9953959 C22.2601034,33.4547876 24.8195172,30.963029 25.1872759,27.6008772 Z",
                               id: "Path",
                               fill: "url(#linearGradient-145)"
                             }
@@ -73853,7 +73731,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M50.12964,28.23012 C50.0814,28.23012 50.03244,28.21716 49.98816,28.1898 C49.86108,28.11168 49.82184,27.94536 49.89996,27.81828 C52.48764,23.62212 50.3874,20.40732 49.7286,19.83672 C49.61592,19.73916 49.60368,19.56852 49.7016,19.45584 C49.79952,19.34316 49.97016,19.33092 50.08248,19.42848 C50.81004,20.0592 53.14572,23.58432 50.36004,28.1016 C50.30892,28.1844 50.22036,28.23012 50.12964,28.23012 Z",
+                                "M64.8228103,36.0177393 C64.760431,36.0177393 64.6971207,36.0012041 64.6398621,35.9662966 C64.4755345,35.8666262 64.4247931,35.6544248 64.5258103,35.4922883 C67.8719483,30.1385669 65.1561207,26.0369255 64.3042241,25.3089186 C64.1585172,25.1844455 64.1426897,24.9667324 64.2693103,24.8229683 C64.395931,24.6792041 64.6165862,24.6635876 64.7618276,24.7880607 C65.7026379,25.5927724 68.7229138,30.0903393 65.1207414,35.8537655 C65.0546379,35.9594069 64.9401207,36.0177393 64.8228103,36.0177393 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73862,7 +73740,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.875,14.16384 C7.79724,14.16384 7.7202,14.13036 7.66692,14.06592 C7.05312,13.32288 5.02416,12.49488 4.12344,12.38832 C3.30876,12.29364 2.24928,12.55284 0.87768,13.1832 C0.74232,13.24512 0.58212,13.18644 0.51948,13.05072 C0.4572,12.91536 0.5166,12.7548 0.65196,12.69252 C2.11608,12.01896 3.2706,11.74428 4.18644,11.85228 C5.21532,11.9736 7.37064,12.85992 8.08272,13.72212 C8.17776,13.83696 8.16156,14.00724 8.04636,14.10228 C7.99668,14.14368 7.93584,14.16384 7.875,14.16384 Z",
+                                "M10.1831897,18.0711062 C10.0826379,18.0711062 9.98301724,18.0283903 9.91412069,17.9461738 C9.12041379,16.9981572 6.49675862,15.9417434 5.33203448,15.8057876 C4.27856897,15.684989 2.90855172,16.0156924 1.13493103,16.8199448 C0.959896552,16.8989462 0.752741379,16.8240786 0.671741379,16.6509186 C0.591206897,16.4782179 0.668017241,16.2733655 0.843051724,16.1939048 C2.73631034,15.3345352 4.22922414,14.9840814 5.4135,15.1218745 C6.74394828,15.2766621 9.531,16.4074841 10.4517931,17.5075324 C10.5746897,17.6540524 10.5537414,17.8713062 10.4047759,17.9925641 C10.3405345,18.0453848 10.2618621,18.0711062 10.1831897,18.0711062 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73871,7 +73749,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.63884,18.46116 C7.52868,18.46116 7.42536,18.39348 7.3854,18.2844 C7.19424,17.76384 5.64912,16.97868 4.33188,16.8894 C2.97684,16.7994 1.485,18.27 1.47024,18.28476 C1.36512,18.39024 1.19412,18.3906 1.08828,18.28512 C0.9828,18.17964 0.9828,18.00864 1.08828,17.90316 C1.15596,17.83548 2.76804,16.2414 4.36824,16.35048 C5.70672,16.4412 7.57728,17.24076 7.89228,18.09792 C7.94376,18.23796 7.87176,18.39312 7.73208,18.4446 C7.70148,18.45612 7.6698,18.46116 7.63884,18.46116 Z",
+                                "M9.87781034,23.5538938 C9.73536207,23.5538938 9.60175862,23.4675434 9.55008621,23.3283724 C9.30289655,22.6642097 7.30489655,21.6624538 5.60156897,21.5485448 C3.84936207,21.4337172 1.92025862,23.31 1.90117241,23.3288317 C1.76524138,23.4634097 1.54412069,23.463869 1.40725862,23.329291 C1.27086207,23.1947131 1.27086207,22.9765407 1.40725862,22.8419628 C1.49477586,22.7556124 3.57936207,20.7217862 5.64858621,20.8609572 C7.37937931,20.9767034 9.7982069,21.9968317 10.2055345,23.0904497 C10.2721034,23.2691214 10.179,23.4670841 9.99837931,23.5327655 C9.95881034,23.5474634 9.91784483,23.5538938 9.87781034,23.5538938 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73880,7 +73758,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.68892,25.92396 C12.59136,25.92396 12.49704,25.87104 12.44916,25.77816 C12.38076,25.64604 12.43224,25.48296 12.56436,25.4142 C12.59172,25.3998 15.34824,23.9328 16.16256,20.59092 C16.61832,18.71964 16.22844,16.74432 15.63948,15.6168 C15.57072,15.48468 15.62184,15.3216 15.75396,15.25248 C15.88644,15.18372 16.04916,15.23484 16.11828,15.36696 C16.70724,16.49484 17.2098,18.57348 16.68708,20.71908 C15.813,24.3072 12.93444,25.83108 12.8124,25.89408 C12.7728,25.91424 12.73032,25.92396 12.68892,25.92396 Z",
+                                "M16.4080862,33.0753972 C16.281931,33.0753972 16.1599655,33.0078786 16.0980517,32.8893766 C16.0096034,32.7208097 16.0761724,32.5127421 16.2470172,32.4250138 C16.2823966,32.4066414 19.8468621,30.5349517 20.8998621,26.2711738 C21.4892069,23.8836786 20.9850517,21.3634428 20.2234655,19.9248828 C20.1345517,19.7563159 20.2006552,19.5482483 20.3715,19.4600607 C20.5428103,19.3723324 20.7532241,19.4375545 20.8426034,19.6061214 C21.6041897,21.0451407 22.2540517,23.6971986 21.5781207,26.4346883 C20.4478448,31.0126345 16.725569,32.9568952 16.5677586,33.0372745 C16.5165517,33.0629959 16.4616207,33.0753972 16.4080862,33.0753972 Z",
                               id: "Path",
                               fill: "#AD7CF7"
                             }
@@ -73893,7 +73771,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "completed",
-                            transform: "translate(192.960000, 126.000000)",
+                            transform: "translate(249.000000, 162.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73902,16 +73780,16 @@ var render = function() {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-146)",
-                              cx: "7.11",
-                              cy: "7.21296",
-                              r: "7.07976"
+                              cx: "9.006",
+                              cy: "9.136416",
+                              r: "8.967696"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M11.2752,3.36276 C10.86048,3.0744 10.2906,3.17664 10.00188,3.59136 L6.624,8.44668 L2.87748,5.23584 C2.61648,5.01192 2.2248,5.00004 1.9494,5.22504 C1.64052,5.47776 1.5948,5.93316 1.84752,6.2424 L5.94648,11.25396 C6.0408,11.36808 6.15996,11.47068 6.29748,11.54664 C6.88284,11.87064 7.62012,11.65896 7.94412,11.07396 L7.96644,11.034 L11.55348,4.55688 C11.7756,4.15224 11.66292,3.63276 11.2752,3.36276 Z",
+                                "M14.28192,4.259496 C13.756608,3.89424 13.03476,4.023744 12.669048,4.549056 L8.3904,10.699128 L3.644808,6.632064 C3.314208,6.348432 2.81808,6.333384 2.46924,6.618384 C2.077992,6.938496 2.02008,7.515336 2.340192,7.90704 L7.532208,14.255016 C7.65168,14.399568 7.802616,14.529528 7.976808,14.625744 C8.718264,15.036144 9.652152,14.768016 10.062552,14.027016 L10.090824,13.9764 L14.634408,5.772048 C14.91576,5.259504 14.773032,4.601496 14.28192,4.259496 Z",
                               id: "Path",
                               fill: "url(#linearGradient-147)"
                             }
@@ -73924,7 +73802,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "cup",
-                            transform: "translate(217.080000, 141.120000)",
+                            transform: "translate(280.000000, 181.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73932,7 +73810,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.27012,7.16004 C12.86784,7.16004 10.92024,8.87868 10.92024,11.00016 C10.92024,13.12164 12.86784,14.84028 15.27012,14.84028 C17.6724,14.84028 19.62,13.12164 19.62,11.00016 C19.62,8.87868 17.6724,7.16004 15.27012,7.16004 Z M15.02244,12.68028 C14.09472,12.68028 13.34232,11.92824 13.34232,11.00016 C13.34232,10.07208 14.09472,9.32004 15.02244,9.32004 C15.95016,9.32004 16.70256,10.07208 16.70256,11.00016 C16.70256,11.92824 15.95052,12.68028 15.02244,12.68028 Z",
+                                "M19.851156,9.308052 C16.728192,9.308052 14.196312,11.542284 14.196312,14.300208 C14.196312,17.058132 16.728192,19.292364 19.851156,19.292364 C22.97412,19.292364 25.506,17.058132 25.506,14.300208 C25.506,11.542284 22.97412,9.308052 19.851156,9.308052 Z M19.529172,16.484364 C18.323136,16.484364 17.345016,15.506712 17.345016,14.300208 C17.345016,13.093704 18.323136,12.116052 19.529172,12.116052 C20.735208,12.116052 21.713328,13.093704 21.713328,14.300208 C21.713328,15.506712 20.735676,16.484364 19.529172,16.484364 Z",
                               id: "Shape",
                               fill: "url(#linearGradient-148)"
                             }
@@ -73943,7 +73821,7 @@ var render = function() {
                               id: "Path",
                               fill: "url(#linearGradient-149)",
                               points:
-                                "12.85524 19.62 2.94012 19.62 0.24012 4.12164 15.55524 4.12164"
+                                "16.711812 25.506 3.822156 25.506 0.312156 5.358132 20.221812 5.358132"
                             }
                           }),
                           _vm._v(" "),
@@ -73951,10 +73829,10 @@ var render = function() {
                             attrs: {
                               id: "Oval",
                               fill: "#FF9BBB",
-                              cx: "7.90632",
-                              cy: "4.12164",
-                              rx: "7.6662",
-                              ry: "4.09824"
+                              cx: "10.278216",
+                              cy: "5.358132",
+                              rx: "9.96606",
+                              ry: "5.327712"
                             }
                           }),
                           _vm._v(" "),
@@ -73962,10 +73840,10 @@ var render = function() {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-150)",
-                              cx: "7.90632",
-                              cy: "3.825",
-                              rx: "5.64588",
-                              ry: "2.59488"
+                              cx: "10.278216",
+                              cy: "4.9725",
+                              rx: "7.339644",
+                              ry: "3.373344"
                             }
                           })
                         ]
@@ -73976,7 +73854,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "vapour",
-                            transform: "translate(211.680000, 125.640000)",
+                            transform: "translate(273.000000, 162.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -73984,7 +73862,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M15.03036,18.74988 C15.04512,18.20988 13.34988,17.93988 13.74012,16.40988 C14.13036,14.87988 15.90012,13.91976 18.45036,13.32 C20.52576,12.83184 23.1084,12.0888 23.19012,9.92988 C23.25024,8.33976 21.81024,8.06976 20.91024,7.88976 C20.01024,7.70976 18.96012,7.16976 19.23012,6.23988 C19.50012,5.31 20.52396,3.62592 19.17396,2.66616 C17.46504,1.45116 12.51,1.55988 11.13012,4.82976 C9.75024,8.09964 12.98988,8.60976 13.65012,8.78976 C14.31036,8.96976 15.73092,9.34956 15.12036,10.64988 C14.43024,12.11976 10.6128,13.88988 10.56024,16.38 C10.50012,19.215 14.99436,20.06532 15.03036,18.74988 Z",
+                                "M19.414215,24.374844 C19.43328,23.672844 17.243595,23.321844 17.747655,21.332844 C18.251715,19.343844 20.537655,18.095688 23.831715,17.316 C26.51244,16.681392 29.84835,15.71544 29.953905,12.908844 C30.03156,10.841688 28.17156,10.490688 27.00906,10.256688 C25.84656,10.022688 24.490155,9.320688 24.838905,8.111844 C25.187655,6.903 26.510115,4.713696 24.766365,3.466008 C22.55901,1.886508 16.15875,2.027844 14.376405,6.278688 C12.59406,10.529532 16.778595,11.192688 17.631405,11.426688 C18.484215,11.660688 20.319105,12.154428 19.530465,13.844844 C18.63906,15.755688 13.7082,18.056844 13.64031,21.294 C13.562655,24.9795 19.367715,26.084916 19.414215,24.374844 Z",
                               id: "Path",
                               fill: "url(#linearGradient-151)"
                             }
@@ -73993,7 +73871,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M5.52024,0.27 C6.61536,0.405 7.08012,1.51488 6.84036,2.90988 C6.56784,4.4946 5.8806,5.4 6.75036,6.53976 C7.62012,7.67952 9.1206,8.18964 8.64036,8.93988 C8.16012,9.69012 4.26024,9 2.85012,6.17976 C1.42776,3.33576 3.01932,-0.03816 5.52024,0.27 Z",
+                                "M7.13031,0.351 C8.54484,0.5265 9.145155,1.969344 8.835465,3.782844 C8.48346,5.84298 7.595775,7.02 8.719215,8.501688 C9.842655,9.983376 11.780775,10.646532 11.160465,11.621844 C10.540155,12.597156 5.50281,11.7 3.681405,8.033688 C1.84419,4.336488 3.899955,-0.049608 7.13031,0.351 Z",
                               id: "Path",
                               fill: "url(#linearGradient-152)"
                             }
@@ -74002,7 +73880,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M2.07756,10.26 C2.8314,10.63116 3.43872,11.925 4.23756,12.08268 C4.79664,12.19284 5.57784,12.26268 5.56524,12.91536 C5.55408,13.4892 4.55256,13.81536 2.89908,13.69152 C1.29744,13.57164 -0.13572,12.21228 0.39024,10.94652 C0.75024,10.08 1.74744,10.09728 2.07756,10.26 Z",
+                                "M2.683515,13.338 C3.657225,13.820508 4.44168,15.5025 5.473515,15.707484 C6.19566,15.850692 7.20471,15.941484 7.188435,16.789968 C7.17402,17.53596 5.88039,17.959968 3.744645,17.798976 C1.67586,17.643132 -0.175305,15.875964 0.50406,14.230476 C0.96906,13.104 2.25711,13.126464 2.683515,13.338 Z",
                               id: "Path",
                               fill: "url(#linearGradient-153)"
                             }
@@ -74015,7 +73893,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "table",
-                            transform: "translate(159.120000, 160.200000)",
+                            transform: "translate(205.000000, 206.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74023,26 +73901,27 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M87.10488,1.91988 L41.34024,1.91988 L41.34024,6.17976 C41.34024,9.162 43.758,11.57976 46.74024,11.57976 L87.30828,11.57976 C87.40836,10.28088 87.46812,8.94312 87.48,7.55964 C87.4962,5.64336 87.36192,3.76488 87.10488,1.91988 Z",
+                                "M111.850585,2.39985 L53.0846264,2.39985 L53.0846264,7.7247 C53.0846264,11.4525 56.18925,14.4747 60.0187173,14.4747 L112.111769,14.4747 C112.24028,12.8511 112.317018,11.1789 112.332273,9.44955 C112.353075,7.0542 112.180647,4.7061 111.850585,2.39985 Z",
                               id: "Path",
                               fill: "url(#linearGradient-154)"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "#5265F9",
-                              cx: "59.76",
-                              cy: "7.56",
-                              r: "1.68012"
+                              cx: "76.7372727",
+                              cy: "9.45",
+                              rx: "2.15742682",
+                              ry: "2.10015"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M77.64012,11.85012 C77.49108,11.85012 77.37012,11.72916 77.37012,11.58012 L77.37012,3.582 C77.37012,3.43296 77.49108,3.312 77.64012,3.312 C77.78916,3.312 77.91012,3.43296 77.91012,3.582 L77.91012,11.58012 C77.91012,11.72916 77.78916,11.85012 77.64012,11.85012 Z",
+                                "M99.6969723,14.81265 C99.5055914,14.81265 99.3502677,14.66145 99.3502677,14.47515 L99.3502677,4.4775 C99.3502677,4.2912 99.5055914,4.14 99.6969723,4.14 C99.8883532,4.14 100.043677,4.2912 100.043677,4.4775 L100.043677,14.47515 C100.043677,14.66145 99.8883532,14.81265 99.6969723,14.81265 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74051,7 +73930,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.10512,0.18 L0.10512,3.58236 L87.29928,3.58236 C87.18984,2.43468 87.03,1.30068 86.82264,0.18 L0.10512,0.18 Z",
+                                "M0.134983636,0.225 L0.134983636,4.47795 L112.100212,4.47795 C111.959681,3.04335 111.754432,1.62585 111.488163,0.225 L0.134983636,0.225 Z",
                               id: "Path",
                               fill: "url(#linearGradient-155)"
                             }
@@ -74064,7 +73943,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "armchair",
-                            transform: "translate(66.960000, 150.480000)",
+                            transform: "translate(86.000000, 194.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74072,7 +73951,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M47.475,54.315 C47.55456,57.96036 47.40012,82.79964 47.09988,86.33988 C48.24432,87.77088 50.27976,86.22 50.27976,86.22 C50.27976,86.22 51.92964,79.47 52.67988,70.31988 C53.32896,62.40384 53.51976,54.54 53.51976,54.54 L47.475,54.315 Z",
+                                "M61.321875,69.9733784 C61.42464,74.669653 61.225155,106.669806 60.837345,111.230656 C62.31558,113.074197 64.94469,111.076216 64.94469,111.076216 C64.94469,111.076216 67.075785,102.38027 68.044845,90.5922778 C68.88324,80.3941362 69.12969,70.2632432 69.12969,70.2632432 L61.321875,69.9733784 Z",
                               id: "Path",
                               fill: "url(#linearGradient-156)"
                             }
@@ -74081,7 +73960,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M48.64212,71.45712 C48.02472,71.45712 47.5344,71.41572 47.32632,71.3574 C47.13516,71.3034 47.02356,71.10468 47.07756,70.91316 C47.13156,70.722 47.331,70.61076 47.5218,70.6644 C48.0618,70.8174 51.33924,70.79976 52.4772,70.02288 C52.64172,69.91164 52.86564,69.9534 52.9776,70.11756 C53.08992,70.28172 53.04744,70.50564 52.88328,70.61796 C51.94116,71.2602 49.98924,71.45712 48.64212,71.45712 Z",
+                                "M62.829405,92.0573708 C62.03193,92.0573708 61.3986,92.0040357 61.12983,91.9289027 C60.882915,91.8593351 60.738765,91.6033265 60.808515,91.3565935 C60.878265,91.1103243 61.135875,90.9670151 61.382325,91.0361189 C62.079825,91.233227 66.313185,91.2105016 67.78305,90.2096562 C67.995555,90.066347 68.284785,90.1201459 68.4294,90.3316314 C68.57448,90.5431168 68.51961,90.8315903 68.30757,90.9762908 C67.090665,91.8036811 64.569435,92.0573708 62.829405,92.0573708 Z",
                               id: "Path",
                               fill: "#7B7BEF"
                             }
@@ -74090,7 +73969,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.56,0 C13.1292,0.46512 1.57968,4.2696 0.19116,12.18996 C0.14688,12.44232 0.594,13.07088 0.675,13.32 C3.465,21.915 16.065,33.48 20.88,34.29 C21.0924,34.326 21.3948,34.55064 21.60792,34.46784 C24.92676,33.183 28.38276,26.80812 31.23,24.75 C32.46768,23.8554 16.56,0 16.56,0 Z",
+                                "M21.39,0 C16.95855,0.599208649 2.04042,5.50047568 0.246915,15.7041827 C0.18972,16.0292951 0.76725,16.8390616 0.871875,17.16 C4.475625,28.2328378 20.750625,43.1318919 26.97,44.1754054 C27.24435,44.2217838 27.63495,44.5111849 27.91023,44.4045146 C32.197065,42.7492703 36.661065,34.536587 40.33875,31.8851351 C41.93742,30.7326324 21.39,0 21.39,0 Z",
                               id: "Path",
                               fill: "url(#linearGradient-157)"
                             }
@@ -74099,7 +73978,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M1.52424,8.76996 C0.747,10.02348 0.22608,11.4174 0.09,12.96 C-0.54,20.10024 15.984,35.5446 20.97,34.65 C21.53268,34.5492 22.10076,34.281 22.67064,33.89508 C12.36384,29.86632 3.00816,14.82876 1.52424,8.76996 Z",
+                                "M1.96881,11.2982368 C0.964875,12.9131319 0.29202,14.7089027 0.11625,16.6962162 C-0.6975,25.8949038 20.646,45.7916919 27.08625,44.6391892 C27.813045,44.5093297 28.546815,44.1638108 29.28291,43.6666346 C15.96996,38.4764303 3.88554,19.1037178 1.96881,11.2982368 Z",
                               id: "Path",
                               fill: "url(#linearGradient-158)"
                             }
@@ -74108,7 +73987,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M46.53,40.5 C49.77,40.49352 66.15864,40.79628 68.94,42.48 C71.21988,43.86024 71.71272,46.14912 70.35336,48.30912 C68.994,50.46912 62.55,54.495 49.59,54.585 C36.63,54.675 28.35,51.93 28.26,48.78 C28.17,45.63 29.6352,40.91868 37.62,40.14 C42.54012,39.66012 44.73,40.5036 46.53,40.5 Z",
+                                "M60.10125,52.1756757 C64.28625,52.1673276 85.45491,52.5573697 89.0475,54.7264865 C91.992345,56.5046335 92.62893,59.4533708 90.87309,62.2360735 C89.11725,65.0187762 80.79375,70.2052703 64.05375,70.3212162 C47.31375,70.4371622 36.61875,66.9008108 36.5025,62.8427027 C36.38625,58.7845946 38.2788,52.7150562 48.5925,51.7118919 C54.947655,51.0936681 57.77625,52.1803135 60.10125,52.1756757 Z",
                               id: "Path",
                               fill: "url(#linearGradient-159)"
                             }
@@ -74117,7 +73996,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M49.86,55.89 C62.82,55.8 68.99364,50.46912 70.35336,48.30912 C70.94952,47.3616 71.18928,46.38924 71.0784,45.47988 C67.58712,47.9142 59.83164,50.3964 49.50036,50.82012 C39.35268,51.23628 30.87864,49.70772 28.26,48.75084 C28.26,48.7602 28.26,48.77064 28.26,48.78 C28.35,51.93 36.9,55.98 49.86,55.89 Z",
+                                "M64.4025,72.0024324 C81.1425,71.8864865 89.116785,65.0187762 90.87309,62.2360735 C91.64313,61.0153946 91.95282,59.7627146 91.8096,58.5911968 C87.30003,61.7273027 77.282535,64.9250919 63.937965,65.4709654 C50.830545,66.0070995 39.88491,64.0378735 36.5025,62.8051362 C36.5025,62.8171946 36.5025,62.8306443 36.5025,62.8427027 C36.61875,66.9008108 47.6625,72.1183784 64.4025,72.0024324 Z",
                               id: "Path",
                               fill: "url(#linearGradient-160)"
                             }
@@ -74126,7 +74005,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M20.37816,104.59548 C21.35988,101.76012 27.495,91.44 40.14,86.88024 C52.06428,82.5804 61.47972,86.20272 63.9198,88.0416 C66.35988,89.88048 62.3448,93.16548 60.29568,91.50912 C58.095,89.73036 52.335,87.97536 45.67788,89.81928 C36.93024,92.24208 29.02536,99.54036 28.97352,105.0282 C22.86,108.78012 20.37816,104.59548 20.37816,104.59548 Z",
+                                "M26.32179,134.749132 C27.589845,131.096371 35.514375,117.801081 51.8475,111.926796 C67.249695,106.387362 79.411305,111.053955 82.563075,113.422962 C85.714845,115.79197 80.5287,120.023997 77.88192,117.890128 C75.039375,115.598572 67.599375,113.337626 59.000595,115.713126 C47.70156,118.834391 37.49109,128.23668 37.42413,135.3066 C29.5275,140.140155 26.32179,134.749132 26.32179,134.749132 Z",
                               id: "Path",
                               fill: "url(#linearGradient-161)"
                             }
@@ -74135,36 +74014,38 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M45.58788,88.56936 C37.88568,90.58212 27.52056,96.18336 25.91244,106.38072 C26.81028,106.155 27.828,105.73056 28.97316,105.02784 C29.025,99.54 36.92988,92.24172 45.67752,89.81892 C52.335,87.975 58.095,89.73 60.29532,91.50876 C61.09056,92.15172 62.181,92.0484 63.07632,91.57644 C59.2398,87.48072 53.05896,86.61744 45.58788,88.56936 Z",
+                                "M58.884345,114.102869 C48.93567,116.695884 35.54739,123.911896 33.470235,137.049036 C34.629945,136.758243 35.9445,136.211442 37.423665,135.306136 C37.490625,128.236216 47.701095,118.833928 59.00013,115.712663 C67.599375,113.337162 75.039375,115.598108 77.881455,117.889664 C78.90864,118.717982 80.317125,118.584876 81.47358,117.976855 C76.518075,112.700387 68.53449,111.588234 58.884345,114.102869 Z",
                               id: "Path",
                               fill: "#665EDB"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-162)",
-                              cx: "24.59988",
-                              cy: "106.31988",
-                              r: "4.56012"
+                              cx: "31.774845",
+                              cy: "136.970656",
+                              rx: "5.890155",
+                              ry: "5.87474919"
                             }
                           }),
                           _vm._v(" "),
-                          _c("circle", {
+                          _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "url(#linearGradient-163)",
-                              cx: "63.9198",
-                              cy: "91.67364",
-                              r: "3.6324"
+                              cx: "82.563075",
+                              cy: "118.102077",
+                              rx: "4.69185",
+                              ry: "4.67957838"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.59988,107.73 C23.82228,107.73 23.18976,107.09748 23.18976,106.31988 C23.18976,105.54228 23.82228,104.90976 24.59988,104.90976 C25.37748,104.90976 26.01,105.54228 26.01,106.31988 C26.01,107.09748 25.37748,107.73 24.59988,107.73 Z M24.59988,105.44976 C24.12,105.44976 23.72976,105.84 23.72976,106.31988 C23.72976,106.79976 24.12,107.19 24.59988,107.19 C25.07976,107.19 25.47,106.79976 25.47,106.31988 C25.47,105.84 25.07976,105.44976 24.59988,105.44976 Z",
+                                "M31.774845,138.787297 C30.770445,138.787297 29.95344,137.972429 29.95344,136.970656 C29.95344,135.968883 30.770445,135.154015 31.774845,135.154015 C32.779245,135.154015 33.59625,135.968883 33.59625,136.970656 C33.59625,137.972429 32.779245,138.787297 31.774845,138.787297 Z M31.774845,135.849691 C31.155,135.849691 30.65094,136.352432 30.65094,136.970656 C30.65094,137.58888 31.155,138.091622 31.774845,138.091622 C32.39469,138.091622 32.89875,137.58888 32.89875,136.970656 C32.89875,136.352432 32.39469,135.849691 31.774845,135.849691 Z",
                               id: "Shape",
                               fill: "#7B7BEF"
                             }
@@ -74173,7 +74054,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M63.9198,93.08376 C63.1422,93.08376 62.50968,92.45124 62.50968,91.67364 C62.50968,90.89604 63.1422,90.26352 63.9198,90.26352 C64.6974,90.26352 65.32992,90.89604 65.32992,91.67364 C65.32992,92.45124 64.6974,93.08376 63.9198,93.08376 Z M63.9198,90.80352 C63.43992,90.80352 63.04968,91.19376 63.04968,91.67364 C63.04968,92.15352 63.43992,92.54376 63.9198,92.54376 C64.39968,92.54376 64.78992,92.15352 64.78992,91.67364 C64.78992,91.19376 64.39968,90.80352 63.9198,90.80352 Z",
+                                "M82.563075,119.918718 C81.558675,119.918718 80.74167,119.10385 80.74167,118.102077 C80.74167,117.100304 81.558675,116.285436 82.563075,116.285436 C83.567475,116.285436 84.38448,117.100304 84.38448,118.102077 C84.38448,119.10385 83.567475,119.918718 82.563075,119.918718 Z M82.563075,116.981111 C81.94323,116.981111 81.43917,117.483853 81.43917,118.102077 C81.43917,118.720301 81.94323,119.223042 82.563075,119.223042 C83.18292,119.223042 83.68698,118.720301 83.68698,118.102077 C83.68698,117.483853 83.18292,116.981111 82.563075,116.981111 Z",
                               id: "Shape",
                               fill: "#7B7BEF"
                             }
@@ -74186,7 +74067,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "head",
-                            transform: "translate(78.120000, 63.720000)",
+                            transform: "translate(101.000000, 82.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74194,7 +74075,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.77924,56.41488 C16.94988,58.71024 16.31988,68.28012 12.98988,72.96012 C14.17032,75.62268 20.52684,75.84516 22.68,75.66012 C27.56988,75.24 31.02012,72.54 31.02012,72.54 C31.02012,72.54 29.16,62.70012 27.06012,59.4 C25.4358,58.8834 23.25024,58.65012 21.21012,57.98988 C19.17,57.32964 16.77924,56.41488 16.77924,56.41488 Z",
+                                "M21.7143106,72.7455032 C21.9351388,75.7053095 21.1198447,88.0454179 16.8104329,94.0801547 C18.3380612,97.5134558 26.5641459,97.8003379 29.3505882,97.5617337 C35.6786682,97.02 40.1436847,93.5384211 40.1436847,93.5384211 C40.1436847,93.5384211 37.7364706,80.8501547 35.0189788,76.5947368 C32.9169176,75.9285947 30.0885459,75.6277863 27.4483906,74.7764242 C24.8082353,73.9250621 21.7143106,72.7455032 21.7143106,72.7455032 Z",
                               id: "Path",
                               fill: "url(#linearGradient-164)"
                             }
@@ -74203,7 +74084,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M29.94012,45.11988 C27.35712,40.77648 23.53284,37.54476 22.92012,36.9 C22.92012,36.9 11.80512,34.7976 8.76024,43.26012 C6.99012,48.18024 12.30012,53.64 12.30012,53.64 C12.30012,53.64 12.78576,53.82468 13.52412,54.21024 C12.98376,54.66708 12.63996,55.34892 12.63996,56.11176 C12.63996,57.48696 13.75488,58.60188 15.13008,58.60188 C16.18236,58.60188 17.0802,57.94848 17.44452,57.02616 C17.48664,57.0672 17.52948,57.10536 17.57124,57.14712 C19.37988,58.95036 26.29656,62.59824 30.36852,58.86108 C33.90012,55.62 32.16132,48.8556 29.94012,45.11988 Z",
+                                "M38.7460376,58.1808979 C35.4033318,52.5801979 30.4542635,48.41298 29.6613318,47.5815789 C29.6613318,47.5815789 15.2772141,44.8705895 11.3367812,55.7827863 C9.04603765,62.1271516 15.9178024,69.1673684 15.9178024,69.1673684 C15.9178024,69.1673684 16.5462776,69.4055084 17.5018024,69.9026779 C16.8025129,70.4917611 16.3575953,71.3709758 16.3575953,72.3546379 C16.3575953,74.1279221 17.8004329,75.5655821 19.5801035,75.5655821 C20.9418776,75.5655821 22.1037882,74.72304 22.5752612,73.5337326 C22.6297694,73.5866526 22.6852094,73.6358589 22.7392518,73.6897074 C25.0798447,76.0149379 34.0308424,80.7187832 39.3004376,75.8998137 C43.8707435,71.7205263 41.6205318,62.9980105 38.7460376,58.1808979 Z",
                               id: "Path",
                               fill: "url(#linearGradient-165)"
                             }
@@ -74212,7 +74093,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M29.04012,26.73 C27.6894,25.82928 24.81012,27.45 23.28012,29.00988 C21.75012,30.56976 19.64988,31.73976 19.08,31.10976 C18.51012,30.47976 19.9692,29.8188 19.28988,28.94976 C18.54,27.98964 14.4,29.18988 12.51,32.42988 C10.62,35.66988 9.12024,40.01976 7.53012,40.5 C5.94,40.98024 6.39,38.49012 4.74012,38.43 C3.09024,38.36988 0.99,40.5 0.48024,42.18012 C-0.27756,44.67708 0.45036,46.47024 1.62036,46.56024 C3.72636,46.72224 4.95036,43.47036 6.42024,44.22024 C7.42464,44.73252 6.75036,46.89 6.21036,48.75012 C5.67036,50.61024 6.36048,53.1 8.52048,54.81 C10.13616,56.08908 11.68164,56.35656 12.65364,56.36988 C12.645,56.28492 12.64032,56.19852 12.64032,56.1114 C12.64032,54.79056 13.6692,53.71308 14.96916,53.6292 C15.12684,52.99812 15.16428,52.33752 14.94036,51.74964 C14.22036,49.85964 9.16236,45.73512 10.11024,43.58952 C10.68012,42.29964 12.21012,42.2694 14.97024,42.1794 C17.73036,42.0894 19.42848,42.32484 19.71036,41.24952 C20.04048,39.98952 17.56224,40.4514 17.73036,39.77964 C18.00036,38.69964 22.54896,39.5586 26.43048,35.45964 C30.17988,31.5 30.39012,27.63 29.04012,26.73 Z",
+                                "M37.5813318,34.4676316 C35.8333412,33.3061768 32.1072141,35.3960526 30.1272141,37.4074768 C28.1472141,39.4189011 25.4292565,40.9275853 24.6917647,40.1152168 C23.9542729,39.3028484 25.8424941,38.4505579 24.9633741,37.3299537 C23.9929412,36.0919042 18.6352941,37.6395821 16.1894118,41.8174768 C13.7435294,45.9953716 11.8026635,51.6044274 9.74486118,52.2236842 C7.68705882,52.8429411 8.26941176,49.6319968 6.13427294,49.5544737 C3.99913412,49.4769505 1.28117647,52.2236842 0.621487059,54.3901547 C-0.359195294,57.6099189 0.582818824,59.9221516 2.09693647,60.0382042 C4.82234824,60.2470989 6.40634824,56.0538853 8.30854588,57.0208358 C9.60835765,57.6814074 8.73576,60.4634211 8.03693647,62.8619968 C7.33811294,65.2605726 8.23120941,68.4710526 11.0265035,70.6760526 C13.1173835,72.3253926 15.1174165,72.6703011 16.3752988,72.6874768 C16.3641176,72.5779232 16.3580612,72.4665126 16.3580612,72.3541737 C16.3580612,70.6509853 17.6895529,69.2616032 19.3718541,69.1534421 C19.5759106,68.3396811 19.6243624,67.4878547 19.3345835,66.7297989 C18.4028188,64.2926937 11.8571718,58.9742337 13.08384,56.2075389 C13.8213318,54.5442726 15.8013318,54.5052789 19.3732518,54.3892263 C22.9451718,54.2731737 25.1427388,54.5767674 25.5075247,53.1901705 C25.9347388,51.5654337 22.7276047,52.1610158 22.9451718,51.2947989 C23.2945835,49.9021674 29.1810071,51.0097737 34.2041506,45.7242726 C39.0563153,40.6184211 39.3283906,35.6281579 37.5813318,34.4676316 Z",
                               id: "Path",
                               fill: "url(#linearGradient-166)"
                             }
@@ -74221,7 +74102,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M23.85,53.52012 C23.85,53.52012 25.71012,53.37 26.73,53.25012 C27.74988,53.13024 30.30012,52.95024 30.30012,52.95024 C30.30012,52.95024 29.40012,55.77012 27.33012,56.01024 C25.26012,56.25036 23.85,53.52012 23.85,53.52012 Z",
+                                "M30.8647059,69.0127863 C30.8647059,69.0127863 33.27192,68.8192105 34.5917647,68.6646284 C35.9116094,68.5100463 39.21192,68.2779411 39.21192,68.2779411 C39.21192,68.2779411 38.0472141,71.9141021 35.3683906,72.2237305 C32.6895671,72.5333589 30.8647059,69.0127863 30.8647059,69.0127863 Z",
                               id: "Path",
                               fill: "#FFFFFF"
                             }
@@ -74230,7 +74111,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.80568,49.26816 C18.74268,49.26816 18.68184,49.23504 18.64872,49.17636 C18.19872,48.37716 18.29988,47.43648 18.9,46.836 C19.43928,46.29672 20.27412,46.15668 21.0276,46.47996 C21.11904,46.5192 21.16152,46.62504 21.12228,46.71612 C21.08304,46.80756 20.97648,46.85004 20.88612,46.8108 C20.26872,46.54584 19.58904,46.656 19.15452,47.09052 C18.6696,47.57544 18.59256,48.34296 18.96228,48.99996 C19.01124,49.08672 18.98028,49.19616 18.89388,49.24512 C18.8658,49.26096 18.83556,49.26816 18.80568,49.26816 Z",
+                                "M24.3367624,63.5299958 C24.2552329,63.5299958 24.1764988,63.4872884 24.1336376,63.4116221 C23.5512847,62.3810747 23.6821976,61.1680926 24.4588235,60.3937895 C25.1567153,59.6984021 26.2370965,59.5178242 27.2121882,59.9346853 C27.3305224,59.9852842 27.3854965,60.1217621 27.3347153,60.2392074 C27.2839341,60.3571168 27.1460329,60.4118937 27.0290965,60.3612947 C26.2301082,60.0196358 25.3505224,60.1616842 24.7882024,60.7219863 C24.1606588,61.3472779 24.06096,62.3369747 24.5394212,63.1841589 C24.6027812,63.2960337 24.5627153,63.4371537 24.4509035,63.5002863 C24.4145647,63.5207116 24.3754306,63.5299958 24.3367624,63.5299958 Z",
                               id: "Path",
                               fill: "#212F66"
                             }
@@ -74239,7 +74120,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M25.80876,43.87464 C25.72812,43.87464 25.65504,43.82028 25.63452,43.73856 C25.48548,43.1478 25.6104,42.59844 25.97688,42.23196 C26.40816,41.80068 27.10152,41.7078 27.78552,41.99004 C27.87732,42.02784 27.92124,42.13296 27.88344,42.22512 C27.84564,42.31728 27.74088,42.36048 27.64836,42.32304 C27.1008,42.09732 26.55792,42.16032 26.23104,42.48684 C25.95636,42.76152 25.866,43.18596 25.98336,43.65108 C26.00748,43.74756 25.94916,43.84548 25.85268,43.8696 C25.83828,43.87284 25.82352,43.87464 25.80876,43.87464 Z",
+                                "M33.3995718,56.5751937 C33.2952141,56.5751937 33.20064,56.5050979 33.1740847,56.3997221 C32.9812094,55.6379526 33.1428706,54.9295674 33.6171388,54.4570011 C34.1752659,53.9008768 35.0725553,53.7811105 35.9577318,54.1450516 C36.0765318,54.1937937 36.1333694,54.3293432 36.0844518,54.4481811 C36.0355341,54.5670189 35.8999624,54.6227242 35.7802306,54.5744463 C35.0716235,54.2833863 34.3690729,54.3646232 33.9460518,54.7856621 C33.5905835,55.1398547 33.4736471,55.6871589 33.6255247,56.2869189 C33.6567388,56.4113274 33.5812659,56.5375926 33.4564094,56.5686947 C33.4377741,56.5728726 33.4186729,56.5751937 33.3995718,56.5751937 Z",
                               id: "Path",
                               fill: "#212F66"
                             }
@@ -74248,7 +74129,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.56988,1.39284 C18.64476,1.67868 18.67428,1.863 18.70416,2.061 C18.73404,2.25396 18.75132,2.43936 18.76896,2.62332 C18.79884,2.99088 18.81396,3.35124 18.81432,3.7116 C18.81324,4.4316 18.78192,5.14656 18.74844,5.86044 C18.6786,7.28784 18.54504,8.71236 18.45432,10.134 C18.3384,11.55672 18.28332,12.97548 18.26748,14.39172 C18.26208,14.74596 18.26424,15.09984 18.27648,15.453 C18.28116,15.80652 18.30024,16.15932 18.32112,16.51212 C18.34092,16.86456 18.37296,17.217 18.41112,17.56728 C18.45108,17.91072 18.49716,18.28332 18.5724,18.58572 C18.67788,19.00944 18.41976,19.43856 17.99604,19.54404 C17.57232,19.64952 17.14284,19.3914 17.03736,18.96732 C17.019,18.89316 17.0118,18.81864 17.01468,18.74592 L17.0154,18.73332 C17.03268,18.33048 17.04888,17.9964 17.05212,17.63352 C17.05572,17.27748 17.05536,16.92288 17.04348,16.569 C17.03268,16.21512 17.0208,15.86124 16.99488,15.50808 C16.97652,15.15492 16.94844,14.80176 16.9128,14.44932 C16.776,13.03884 16.6014,11.63052 16.3602,10.22652 L15.66252,6.02136 C15.55488,5.3226 15.44544,4.62492 15.35436,3.933 C15.30936,3.5874 15.2766,3.24216 15.24996,2.90484 C15.23916,2.736 15.2262,2.56896 15.2208,2.4102 C15.2136,2.25684 15.20784,2.08872 15.21756,2.0268 L15.28956,1.56168 C15.4314,0.6462 16.28856,0.01872 17.2044,0.16056 C17.88408,0.2664 18.405,0.76752 18.56988,1.39284 Z",
+                                "M24.0316094,1.79603053 C24.1285129,2.16461368 24.1667153,2.40228947 24.2053835,2.65760526 C24.2440518,2.90642211 24.2664141,3.14549053 24.2892424,3.38270211 C24.3279106,3.85666105 24.3474776,4.32133579 24.3479435,4.78601053 C24.3465459,5.71443158 24.3060141,6.63635368 24.2626871,7.55688316 C24.1723059,9.39747789 23.9994635,11.2343589 23.8820612,13.0675263 C23.7320471,14.9020863 23.6607671,16.73154 23.6402682,18.5577442 C23.63328,19.0145274 23.6360753,19.4708463 23.6519153,19.9262368 C23.6579718,20.3820916 23.6826635,20.8370179 23.7096847,21.2919442 C23.7353082,21.7464063 23.7767718,22.2008684 23.8261553,22.6525453 C23.8778682,23.0954021 23.9375012,23.57586 24.0348706,23.9657968 C24.1713741,24.5121726 23.8373365,25.0655116 23.2889929,25.2015253 C22.7406494,25.3375389 22.1848518,25.0047 22.0483482,24.45786 C22.0245882,24.3622326 22.0152706,24.2661411 22.0189976,24.1723705 L22.0199294,24.1561232 C22.0422918,23.6366716 22.0632565,23.2058842 22.0674494,22.73796 C22.0721082,22.2788558 22.0716424,21.8216084 22.0562682,21.3652895 C22.0422918,20.9089705 22.0269176,20.4526516 21.9933741,19.9972611 C21.9696141,19.5418705 21.9332753,19.08648 21.8871529,18.6320179 C21.7101176,16.8132411 21.4841647,14.9972495 21.1720235,13.1868284 L20.2691435,7.76438526 C20.1298447,6.86335263 19.9882165,5.96371263 19.8703482,5.0715 C19.8121129,4.62585789 19.7697176,4.18068 19.7352424,3.74571474 C19.7212659,3.528 19.7044941,3.31260632 19.6975059,3.10788947 C19.6881882,2.91013579 19.6807341,2.69334947 19.6933129,2.61350526 L19.7864894,2.01374526 C19.9700471,0.833257895 21.0793129,0.0241389474 22.2645176,0.207037895 C23.1441035,0.343515789 23.8182353,0.989696842 24.0316094,1.79603053 Z",
                               id: "Path",
                               fill: "url(#linearGradient-167)"
                             }
@@ -74257,7 +74138,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.6312,9.38016 C6.687,9.64404 6.83856,10.10772 6.98652,10.54224 L7.47252,11.9052 C7.80588,12.82968 8.1666,13.75956 8.46324,14.72436 L8.93844,16.16292 C9.10836,16.63776 9.29088,17.10792 9.49464,17.56548 C9.6948,18.0252 9.90648,18.47916 10.14048,18.9144 C10.25748,19.13148 10.37232,19.34964 10.49904,19.55268 C10.62504,19.7514 10.75896,19.95984 10.8828,20.09412 L10.88784,20.09952 C11.12508,20.35656 11.10924,20.75796 10.85184,20.9952 C10.59444,21.2328 10.1934,21.2166 9.95616,20.9592 C9.95292,20.95596 9.94788,20.9502 9.945,20.9466 C9.73044,20.70144 9.57672,20.48904 9.42048,20.26584 C9.26676,20.04552 9.11556,19.8306 8.97192,19.61172 L8.12052,18.306 C7.84296,17.86932 7.55712,17.43732 7.26912,17.00532 C6.97608,16.5762 6.68268,16.14564 6.40188,15.70752 C5.82516,14.8374 5.34816,13.91544 4.9068,12.96144 C4.6872,12.483 4.48308,11.99412 4.30056,11.47932 C4.20912,11.2212 4.1238,10.95624 4.04892,10.67148 C4.00968,10.52964 3.97656,10.38132 3.94488,10.22076 C3.92868,10.14084 3.915,10.05768 3.9024,9.96516 L3.88188,9.79668 L3.87576,9.70092 C3.82824,8.93592 4.40964,8.2764 5.175,8.22888 C5.8716,8.18532 6.48,8.66376 6.61968,9.32688 L6.6312,9.38016 Z",
+                                "M8.58155294,12.0954695 C8.65376471,12.4357358 8.84990118,13.0336389 9.04137882,13.5939411 L9.67032,15.3514421 C10.1017271,16.5435347 10.5685412,17.7425905 10.9524282,18.9866747 L11.5673929,20.84166 C11.7872894,21.4539537 12.0234918,22.0602126 12.2871812,22.6502242 C12.5462118,23.2430211 12.8201506,23.8283905 13.1229741,24.3896211 C13.2743859,24.66954 13.4230024,24.9508516 13.5869929,25.2126663 C13.7500518,25.4689105 13.92336,25.7376884 14.0836235,25.9108389 L14.0901459,25.9178021 C14.3971624,26.2492484 14.3766635,26.7668432 14.0435576,27.0727579 C13.7104518,27.3791368 13.1914588,27.3582474 12.8844424,27.0263368 C12.8802494,27.0221589 12.8737271,27.0147316 12.87,27.0100895 C12.5923341,26.6939621 12.3934024,26.4200779 12.1912094,26.1322674 C11.9922776,25.8481705 11.7966071,25.5710368 11.61072,25.2887968 L10.5089082,23.6051053 C10.1497129,23.0420179 9.77980235,22.4849653 9.40709647,21.9279126 C9.02786824,21.3745737 8.64817412,20.8193779 8.28478588,20.2544337 C7.53844235,19.1324368 6.92114824,17.9435937 6.34997647,16.7134358 C6.06578824,16.0965 5.80163294,15.4661021 5.56543059,14.8022811 C5.44709647,14.4694421 5.33668235,14.1277832 5.23977882,13.7605926 C5.18899765,13.5776937 5.14613647,13.3864389 5.10513882,13.1794011 C5.08417412,13.0763463 5.06647059,12.9691137 5.05016471,12.8498116 L5.02360941,12.6325611 L5.01568941,12.5090811 C4.95419294,11.5226337 5.70659294,10.6722 6.69705882,10.6109242 C7.59854118,10.5547547 8.38588235,11.1716905 8.56664471,12.0267663 L8.58155294,12.0954695 Z",
                               id: "Path",
                               fill: "url(#linearGradient-168)"
                             }
@@ -74266,7 +74147,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M28.53468,5.61312 L28.24704,7.21008 C28.14192,7.75044 28.0314,8.29224 27.90936,8.83368 C27.66024,9.91584 27.34236,10.9926 26.90604,12.05424 C26.79552,12.3192 26.67348,12.582 26.53848,12.84192 C26.47296,12.97188 26.39844,13.10112 26.3268,13.22856 L26.12376,13.57164 C25.85556,14.02992 25.57872,14.48244 25.3278,14.94324 C25.074,15.40188 24.83496,15.86556 24.64416,16.32996 C24.45408,16.78608 24.30792,17.27352 24.32916,17.62848 C24.35472,18.05976 24.02604,18.42984 23.59512,18.45576 C23.16384,18.48132 22.7934,18.15264 22.76784,17.72136 C22.76496,17.66916 22.76676,17.61804 22.7736,17.56836 L22.779,17.53128 C22.88052,16.821 23.12316,16.29864 23.33844,15.777 C23.5638,15.26292 23.79456,14.77188 24.01992,14.2812 L24.6906,12.81996 L24.85764,12.45708 C24.90516,12.34692 24.95376,12.24036 24.99696,12.12768 C25.08588,11.9052 25.1658,11.67588 25.23672,11.4408 C25.53012,10.50336 25.6788,9.49536 25.77924,8.48124 C25.884,7.45884 25.89264,6.44796 25.89264,5.36652 C25.89264,4.63068 26.48952,4.03416 27.22536,4.03416 C27.9612,4.03416 28.55772,4.63104 28.55772,5.36688 C28.55772,5.445 28.55088,5.52168 28.53792,5.59584 L28.53468,5.61312 Z",
+                                "M36.9272329,7.23797053 L36.5549929,9.29720842 C36.4189553,9.99398842 36.2759294,10.6926253 36.1179953,11.3907979 C35.7956047,12.7862147 35.3842306,14.1746684 34.8195812,15.5436253 C34.6765553,15.8852842 34.5186212,16.2241579 34.3439153,16.5593179 C34.2591247,16.7268979 34.1626871,16.8935495 34.0699765,17.05788 L33.8072188,17.5002726 C33.4601365,18.0912126 33.1018729,18.6747253 32.7771529,19.2689147 C32.4487059,19.8603189 32.13936,20.4582221 31.8924424,21.0570537 C31.6464565,21.6452084 31.4573082,22.2737495 31.4847953,22.7314611 C31.5178729,23.2875853 31.0925224,23.7647937 30.5348612,23.7982168 C29.9767341,23.8311758 29.4973412,23.4073516 29.4642635,22.8512274 C29.4605365,22.7839168 29.4628659,22.7179989 29.4717176,22.6539379 L29.4787059,22.6061242 C29.6100847,21.6902368 29.9240894,21.0166674 30.2026871,20.3440263 C30.4943294,19.6811337 30.79296,19.0479505 31.0846024,18.4152316 L31.9525412,16.5310011 L32.1687106,16.0630768 C32.2302071,15.9210284 32.2931012,15.7836221 32.3490071,15.6383242 C32.46408,15.3514421 32.5675059,15.05574 32.6592847,14.7526105 C33.0389788,13.5438063 33.2313882,12.2440168 33.3613694,10.9363358 C33.4969412,9.61797789 33.5081224,8.31447474 33.5081224,6.91998632 C33.5081224,5.97114 34.2805553,5.20194316 35.2328188,5.20194316 C36.1850824,5.20194316 36.9570494,5.97160421 36.9570494,6.92045053 C36.9570494,7.02118421 36.9481976,7.12006105 36.9314259,7.21568842 L36.9272329,7.23797053 Z",
                               id: "Path",
                               fill: "url(#linearGradient-169)"
                             }
@@ -74275,7 +74156,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.98032,14.50476 C32.67072,15.15852 32.24736,15.5916 31.8438,15.99948 C31.4352,16.40448 31.01112,16.76304 30.60324,17.12484 C30.19608,17.48628 29.78856,17.83728 29.42136,18.2052 C29.2392,18.38916 29.0664,18.57708 28.9188,18.76788 C28.77408,18.95688 28.65816,19.15956 28.6308,19.32012 L28.62396,19.36008 C28.59264,19.54332 28.41876,19.66644 28.23552,19.63512 C28.07712,19.60812 27.96336,19.4742 27.9558,19.32012 C27.93636,18.92844 28.06632,18.61812 28.19304,18.33876 C28.32552,18.0594 28.48284,17.80992 28.64592,17.57088 C28.97316,17.09388 29.32344,16.65576 29.67336,16.22952 C30.02328,15.804 30.36456,15.38172 30.68208,14.96952 C30.9942,14.55696 31.29012,14.14476 31.43628,13.80024 C31.6188,13.3686 32.11704,13.16664 32.54868,13.34952 C32.98032,13.5324 33.18228,14.03064 32.9994,14.46192 C32.99508,14.472 32.99076,14.48172 32.98644,14.49144 L32.98032,14.50476 Z",
+                                "M42.6804141,18.7035063 C42.2797553,19.5465126 41.7318776,20.1049579 41.2096235,20.6309084 C40.6808471,21.1531453 40.1320376,21.6154989 39.6041929,22.0820305 C39.07728,22.5480979 38.5499012,23.0007032 38.0747012,23.4751263 C37.8389647,23.7123379 37.6153412,23.9546558 37.4243294,24.2006874 C37.2370447,24.4443979 37.0870306,24.7057484 37.0516235,24.9127863 L37.0427718,24.9643137 C37.00224,25.2005968 36.7772188,25.3593568 36.5400847,25.3189705 C36.3350965,25.2841547 36.1878776,25.1114684 36.1780941,24.9127863 C36.1529365,24.4077253 36.32112,24.0075758 36.4851106,23.6473484 C36.6565553,23.2871211 36.8601459,22.9654232 37.0711906,22.6571874 C37.4946776,22.0421084 37.9479812,21.4771642 38.4008188,20.9275389 C38.8536565,20.3788421 39.2953129,19.8343232 39.7062212,19.3028021 C40.1101412,18.7708168 40.4930965,18.2392958 40.6822447,17.7950463 C40.9184471,17.2384579 41.5632282,16.9780358 42.1218212,17.2138547 C42.6804141,17.4496737 42.9417741,18.0921411 42.7051059,18.6482653 C42.6995153,18.6612632 42.6939247,18.6737968 42.6883341,18.6863305 L42.6804141,18.7035063 Z",
                               id: "Path",
                               fill: "url(#linearGradient-170)"
                             }
@@ -74284,7 +74165,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M29.68128,40.54428 C28.85904,39.38076 27.59364,38.65824 26.37864,38.65824 C25.7958,38.65824 25.24968,38.82636 24.79896,39.14496 C23.51772,40.05036 23.27472,41.96556 24.13944,43.63668 C23.36868,43.7724 22.7088,44.37684 22.2966,44.91072 C21.57228,44.1252 20.53872,43.62948 19.38852,43.62948 C17.20476,43.62948 15.42852,45.40608 15.42852,47.58948 C15.42852,48.48696 15.732,49.3128 16.23708,49.97736 C15.40332,50.85396 13.7718,53.01 13.08204,54.54288 L13.1688,54.58176 C13.46112,54.20772 13.85712,53.92044 14.31432,53.76168 C15.08184,52.4844 16.15212,51.12468 16.72452,50.51052 C17.42904,51.15348 18.36252,51.54948 19.38924,51.54948 C21.573,51.54948 23.34924,49.77288 23.34924,47.58948 C23.34924,46.82556 23.1282,46.1142 22.75236,45.50904 C23.08176,45.03888 23.8176,44.24256 24.58692,44.33976 C25.40952,45.42696 26.62128,46.10088 27.79056,46.10088 C28.3734,46.10088 28.91952,45.9324 29.37024,45.6138 C30.80124,44.60184 30.94092,42.32772 29.68128,40.54428 Z M19.38852,50.82912 C17.60184,50.82912 16.14852,49.37544 16.14852,47.58912 C16.14852,45.8028 17.6022,44.34912 19.38852,44.34912 C21.17484,44.34912 22.62852,45.8028 22.62852,47.58912 C22.62852,49.37544 21.1752,50.82912 19.38852,50.82912 Z M28.95408,45.0252 C28.6254,45.2574 28.22292,45.38016 27.78984,45.38016 C26.80488,45.38016 25.76484,44.77392 25.07544,43.79832 C24.0444,42.33924 24.10704,40.51512 25.2144,39.73284 C25.5474,39.4974 25.93908,39.37824 26.37828,39.37824 C27.36324,39.37824 28.40328,39.98448 29.09268,40.96008 C30.12408,42.4188 30.06144,44.24256 28.95408,45.0252 Z",
+                                "M38.4110682,52.2807821 C37.3469929,50.7804537 35.7094165,49.8487832 34.1370635,49.8487832 C33.3828,49.8487832 32.6760565,50.0655695 32.0927718,50.4763958 C30.4346965,51.6438853 30.1202259,54.1134853 31.2392753,56.2683505 C30.2418212,56.4433579 29.3878588,57.2227674 28.8544235,57.9111916 C27.9170682,56.8982842 26.57952,56.2590663 25.0910259,56.2590663 C22.2649835,56.2590663 19.96632,58.5499453 19.96632,61.3653821 C19.96632,62.5226589 20.3590588,63.5875579 21.0126918,64.4444905 C19.9337082,65.5748432 17.8223294,68.355 16.9296988,70.3316084 L17.0419765,70.3817432 C17.4202729,69.8994284 17.9327435,69.5289884 18.5244141,69.3242716 C19.5176753,67.6772526 20.9027435,65.9239295 21.6434965,65.1319863 C22.5552282,65.9610663 23.7632612,66.4716979 25.0919576,66.4716979 C27.918,66.4716979 30.2166635,64.1808189 30.2166635,61.3653821 C30.2166635,60.3803274 29.9306118,59.4630474 29.4442306,58.6827095 C29.8705129,58.0764505 30.8227765,57.0496168 31.8183671,57.1749537 C32.8829082,58.5768695 34.4510682,59.4458716 35.9642541,59.4458716 C36.7185176,59.4458716 37.4252612,59.2286211 38.0085459,58.8177947 C39.8604282,57.5128989 40.0411906,54.5804811 38.4110682,52.2807821 Z M25.0910259,65.5428126 C22.7788518,65.5428126 20.8980847,63.6683305 20.8980847,61.3649179 C20.8980847,59.0615053 22.7793176,57.1870232 25.0910259,57.1870232 C27.4027341,57.1870232 29.2839671,59.0615053 29.2839671,61.3649179 C29.2839671,63.6683305 27.4032,65.5428126 25.0910259,65.5428126 Z M37.4699859,58.0588105 C37.0446353,58.3582263 36.5237788,58.5165221 35.9633224,58.5165221 C34.6886682,58.5165221 33.3427341,57.7347916 32.4505694,56.4767811 C31.1162824,54.5953358 31.1973459,52.2431811 32.6304,51.2344516 C33.0613412,50.9308579 33.5682212,50.7772042 34.1365976,50.7772042 C35.4112518,50.7772042 36.7571859,51.5589347 37.6493506,52.8169453 C38.9841035,54.6979263 38.90304,57.0496168 37.4699859,58.0588105 Z",
                               id: "Shape",
                               fill: "url(#linearGradient-171)"
                             }
@@ -74293,7 +74174,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.23016,44.8668 C6.22188,44.8668 6.21396,44.8668 6.20568,44.86644 C5.80824,44.85312 5.49684,44.52012 5.51016,44.12268 C5.55912,42.6582 5.98752,40.57668 6.59412,39.76776 C6.83316,39.44988 7.28424,39.38544 7.60212,39.62376 C7.92,39.86244 7.9848,40.31388 7.74612,40.63176 C7.42428,41.06052 6.99732,42.73488 6.94944,44.17056 C6.93648,44.56008 6.61644,44.8668 6.23016,44.8668 Z",
+                                "M8.06256,57.8545579 C8.05184471,57.8545579 8.04159529,57.8545579 8.03088,57.8540937 C7.51654588,57.8369179 7.11355765,57.4075232 7.13079529,56.8950347 C7.19415529,55.0066263 7.74855529,52.3225611 8.53356706,51.27948 C8.84291294,50.8695821 9.42666353,50.7864884 9.83803765,51.0937958 C10.2494118,51.4015674 10.3332706,51.9836874 10.0243906,52.3935853 C9.60789176,52.94646 9.05535529,55.1055032 8.99339294,56.9567747 C8.97662118,57.4590505 8.56245176,57.8545579 8.06256,57.8545579 Z",
                               id: "Path",
                               fill: "#FF57BC"
                             }
@@ -74302,7 +74183,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.58584,44.33724 C26.18568,44.9424 29.85516,47.28204 30.06,48.51 C30.21012,49.41 27.42012,50.33988 27.20988,50.04 C26.99964,49.74012 26.24976,48.12012 25.29,46.73988 C24.57576,45.7128 23.82804,44.98488 23.73624,44.55324 C23.8824,44.47476 24.27768,44.27244 24.58584,44.33724 Z",
+                                "M31.8169694,57.1717042 C33.8873506,57.9520421 38.6360894,60.9689463 38.9011765,62.5523684 C39.0954494,63.7128947 35.4848612,64.9119505 35.2127859,64.5252632 C34.9407106,64.1385758 33.9702776,62.0496284 32.7282353,60.2698453 C31.8039247,58.9454526 30.8362871,58.0068189 30.7174871,57.4502305 C30.9066353,57.3490326 31.4181741,57.0881463 31.8169694,57.1717042 Z",
                               id: "Path",
                               fill: "url(#linearGradient-172)"
                             }
@@ -74315,7 +74196,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "body",
-                            transform: "translate(65.160000, 66.600000)",
+                            transform: "translate(84.000000, 86.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74323,7 +74204,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.2314,32.4666 C6.8904,23.42772 7.71444,17.84448 7.83,15.885 C8.01,12.825 9.945,10.27512 10.8,8.01 C11.5038,6.14628 12.49488,4.95 11.835,4.5 C10.85904,3.83472 9.09,6.14988 9.09,6.14988 C9.09,6.14988 9.37512,0.11988 8.055,0.18 C6.93,0.23112 7.65,3.735 7.02,3.915 C6.39,4.095 5.32512,0.63 4.365,0.765 C3.84516,0.83808 3.76488,2.09988 3.76488,2.09988 C3.76488,2.09988 3.48588,1.86552 3.195,2.115 C2.77488,2.475 3.14316,4.59864 2.79,5.445 C2.64168,5.23548 2.529,5.0832 2.31012,5.13 C0.62244,5.49 0.91548,14.23656 0.66024,16.2 C0.25092,19.3446 -0.06732,25.578 0.3222,33.07212 C1.9206,33.25176 4.89348,33.35544 8.2314,32.4666 Z",
+                                "M10.5656776,41.7050634 C8.84439403,30.0941444 9.90211701,22.9221776 10.0504478,20.405122 C10.2814925,16.4743902 12.7652239,13.1989346 13.8626866,10.2892683 C14.7660716,7.89522146 16.0382042,6.35853659 15.191194,5.7804878 C13.9384693,4.92590049 11.6677612,7.89984585 11.6677612,7.89984585 C11.6677612,7.89984585 12.0337361,0.153992195 10.3392537,0.231219512 C8.89522388,0.296885854 9.81940299,4.79780488 9.01074627,5.02902439 C8.20208955,5.2602439 6.83522866,0.809268293 5.60283582,0.982682927 C4.93557851,1.07655805 4.83253254,2.69740683 4.83253254,2.69740683 C4.83253254,2.69740683 4.47441313,2.39635902 4.10104478,2.71682927 C3.56178627,3.17926829 4.03450388,5.9071961 3.58119403,6.99439024 C3.39081313,6.72525073 3.2461791,6.52963902 2.96522866,6.5897561 C0.798952836,7.05219512 1.17509373,18.2876137 0.847472239,20.8097561 C0.322076418,24.849161 -0.0864107463,32.8562927 0.413570149,42.4828859 C2.46524776,42.7136429 6.28118328,42.8468254 10.5656776,41.7050634 Z",
                               id: "Path",
                               fill: "url(#linearGradient-173)"
                             }
@@ -74332,7 +74213,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M64.93896,27.1854 C64.59588,23.88528 64.31256,21.40488 64.26,20.57976 C64.08,17.75988 63.96012,15.41988 63.65988,12.77964 C63.35964,10.1394 62.33976,7.25976 62.15976,6.29964 C61.97976,5.33952 62.31492,4.03236 61.85232,2.94696 C61.46244,2.03184 60.98976,2.3994 60.98976,2.3994 C60.98976,2.3994 60.95808,1.09512 60.38964,1.1394 C59.71464,1.19196 58.81464,5.33196 58.34952,5.39928 C58.0824,5.43816 58.40964,0.67428 57.59964,0.58428 C57.01824,0.51948 56.58696,1.32696 56.02464,3.93696 C55.53936,6.18912 56.25252,10.16964 55.88964,10.16964 C55.48464,10.16964 55.25964,8.36964 54.85464,7.19964 C54.44964,6.02964 53.97696,4.88196 53.36964,4.94964 C52.76556,5.01696 52.66332,6.44148 52.93332,8.46648 C53.14788,10.0746 55.70964,18.17964 56.78964,21.86964 C57.21048,23.30784 57.48048,25.59492 57.61656,28.19016 C59.11272,28.40256 61.81128,28.45368 64.93896,27.1854 Z",
+                                "M83.354486,34.9210829 C82.9141146,30.6819044 82.5504501,27.4956995 82.4829851,26.4357893 C82.2519403,22.8135044 82.0980645,19.8076507 81.7126818,16.4161229 C81.3272991,13.0245951 80.0181994,9.32554537 79.7871546,8.09222049 C79.5561099,6.85889561 79.9863152,5.17977951 79.3925301,3.78552585 C78.8920872,2.61000585 78.2853636,3.0821561 78.2853636,3.0821561 C78.2853636,3.0821561 78.2446997,1.40673951 77.5150603,1.46361951 C76.6486424,1.53113561 75.4934185,6.84918439 74.8963988,6.93566049 C74.5535284,6.9856039 74.9735678,0.866148293 73.9338663,0.750538537 C73.1875916,0.667299512 72.6340084,1.70455024 71.9122245,5.05723317 C71.2893278,7.95025171 72.2047272,13.06344 71.7389409,13.06344 C71.2190901,13.06344 70.9302842,10.7512449 70.4104334,9.24831805 C69.8905827,7.74539122 69.2838591,6.27113561 68.504314,6.35807415 C67.7289278,6.44455024 67.5976943,8.27442146 67.9442615,10.875641 C68.2196669,12.9413561 71.5078961,23.3527083 72.8941648,28.0927083 C73.4343475,29.9401522 73.7809146,32.8780273 73.9555845,36.2117502 C75.8760287,36.4845893 79.3398519,36.5502556 83.354486,34.9210829 Z",
                               id: "Path",
                               fill: "url(#linearGradient-174)"
                             }
@@ -74341,7 +74222,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M2.73888,5.2128 C2.89296,5.42628 3.0006,5.68296 3.051,5.95044 C3.0762,6.08436 3.08988,6.22116 3.0906,6.35904 C3.09024,6.49944 3.08304,6.6294 3.05136,6.78204 C3.03084,6.8796 2.93508,6.9426 2.83716,6.92208 C2.7396,6.90156 2.6766,6.8058 2.69712,6.70788 C2.69928,6.69744 2.70252,6.687 2.70648,6.67728 L2.70828,6.67296 C2.74716,6.57828 2.7792,6.45264 2.799,6.33672 C2.81952,6.21792 2.82888,6.0966 2.82744,5.97456 C2.82384,5.73048 2.77092,5.48604 2.66076,5.25744 C2.64996,5.23476 2.65932,5.20812 2.68164,5.19732 C2.7018,5.1876 2.72664,5.19552 2.73888,5.2128 Z",
+                                "M3.51557731,6.69611707 C3.71335164,6.97034341 3.85151642,7.30006244 3.91620896,7.64365463 C3.94855522,7.81568195 3.96611463,7.99140878 3.96703881,8.16852293 C3.96657672,8.34887415 3.95733493,8.51581463 3.91667104,8.71188878 C3.89033194,8.83720976 3.76741612,8.91813659 3.64172776,8.89177756 C3.51650149,8.86541854 3.43563582,8.74240976 3.46197493,8.61662634 C3.46474746,8.60321561 3.46890627,8.58980488 3.47398925,8.57731902 L3.4762997,8.57176976 C3.52620537,8.45014829 3.56733134,8.28875707 3.59274627,8.13985171 C3.61908537,7.98724683 3.6310997,7.83140488 3.62925134,7.67463805 C3.62463045,7.36110439 3.55670328,7.04710829 3.41530388,6.75345951 C3.40144119,6.72432585 3.41345552,6.69010537 3.44210507,6.6762322 C3.46798209,6.66374634 3.49986627,6.67392 3.51557731,6.69611707 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74350,7 +74231,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M3.82392,1.68012 C3.77244,2.1564 3.83616,2.63592 3.9204,3.10824 C3.9636,3.34476 4.01508,3.5802 4.06944,3.816 C4.12308,4.05324 4.18356,4.28436 4.22892,4.5378 C4.24656,4.63572 4.1814,4.72932 4.08348,4.74696 C3.98556,4.7646 3.89196,4.69944 3.87432,4.60152 C3.87324,4.59612 3.87252,4.59108 3.87216,4.58604 L3.8718,4.5828 C3.85164,4.35492 3.81132,4.11048 3.77856,3.87 C3.74472,3.62844 3.71376,3.38472 3.69072,3.14028 C3.64752,2.65284 3.6252,2.15244 3.72132,1.66572 C3.72672,1.63764 3.75336,1.61892 3.7818,1.62396 C3.80844,1.62828 3.82644,1.65348 3.82392,1.68012 Z",
+                                "M4.90831522,2.15820293 C4.84223642,2.77000976 4.92402627,3.38597854 5.03215522,3.99269854 C5.08760597,4.29652098 5.15368478,4.5989561 5.2234603,4.90185366 C5.29231164,5.20660098 5.36994269,5.50348683 5.42816597,5.8290439 C5.45080836,5.95482732 5.36717015,6.07506146 5.24148179,6.09772098 C5.11579343,6.12038049 4.99565015,6.03667902 4.97300776,5.91089561 C4.97162149,5.90395902 4.97069731,5.89748488 4.97023522,5.89101073 L4.96977313,5.88684878 C4.94389612,5.59412488 4.89214209,5.28012878 4.85009194,4.97121951 C4.80665552,4.66092293 4.76691582,4.34785171 4.73734209,4.03385561 C4.68189134,3.40771317 4.65324179,2.76492293 4.7766197,2.13970537 C4.78355104,2.10363512 4.81774567,2.07958829 4.85425075,2.08606244 C4.88844537,2.09161171 4.91154985,2.12398244 4.90831522,2.15820293 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74359,7 +74240,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M7.31988,2.92644 C7.32888,3.34728 7.30512,3.76776 7.27416,4.18716 C7.25796,4.39704 7.23852,4.60656 7.21584,4.81608 C7.19172,5.0274 7.16976,5.23188 7.12656,5.45364 C7.10748,5.5512 7.0128,5.61528 6.91524,5.5962 C6.81768,5.57712 6.7536,5.48244 6.77268,5.38488 C6.77376,5.37804 6.77556,5.37156 6.77772,5.36508 L6.77916,5.36076 C6.83712,5.17716 6.88464,4.96908 6.93036,4.76856 C6.97572,4.56588 7.01784,4.36212 7.05744,4.158 C7.13484,3.74904 7.20468,3.33792 7.24248,2.9232 C7.24428,2.9016 7.26336,2.88576 7.28496,2.88792 C7.3044,2.89008 7.31952,2.90664 7.31988,2.92644 Z",
+                                "M9.39566687,3.75916683 C9.4072191,4.29975805 9.37672119,4.83988683 9.33698149,5.37862829 C9.31618746,5.64823024 9.29123463,5.91736976 9.26212299,6.18650927 C9.23116299,6.45796098 9.20297552,6.72062634 9.14752478,7.00548878 C9.12303403,7.13080976 9.00150448,7.2131239 8.87627821,7.18861463 C8.75105194,7.16410537 8.6688,7.0424839 8.69329075,6.91716293 C8.69467701,6.90837659 8.69698746,6.90005268 8.69976,6.89172878 L8.70160836,6.88617951 C8.77600478,6.65033561 8.8370006,6.38304585 8.89568597,6.12546732 C8.95390925,5.86511415 9.00797373,5.60337366 9.05880358,5.34117073 C9.15815284,4.81584 9.24779821,4.28773463 9.29631761,3.75500488 C9.29862806,3.72725854 9.32311881,3.70691122 9.35084418,3.70968585 C9.37579701,3.71246049 9.39520478,3.73373268 9.39566687,3.75916683 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74368,7 +74249,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.62532,5.50188 C9.30708,5.8338 9.1044,6.26796 8.88408,6.67872 L8.24724,7.938 C8.0298,8.35668 7.80372,8.7732 7.53948,9.17352 C7.26876,9.56592 6.984,9.97236 6.51636,10.24092 C6.43032,10.2906 6.32016,10.26072 6.27048,10.17432 C6.2208,10.08792 6.25068,9.97812 6.33708,9.92844 C6.33996,9.92664 6.34356,9.92484 6.34644,9.9234 L6.35328,9.92016 C6.72156,9.73836 7.03008,9.37224 7.30296,9.00828 C7.57656,8.63676 7.82064,8.23752 8.05716,7.8336 L8.75628,6.60924 C8.99964,6.20748 9.22176,5.78232 9.5742,5.4486 C9.58932,5.43456 9.61236,5.43528 9.6264,5.45004 C9.64008,5.46444 9.63972,5.48676 9.6264,5.5008 L9.62532,5.50188 Z",
+                                "M12.3548884,7.06745561 C11.9464012,7.49382439 11.6862448,8.05152585 11.403446,8.57916878 L10.5860096,10.1967805 C10.3069075,10.7345971 10.0167152,11.269639 9.67754149,11.7838712 C9.33005015,12.2879298 8.96453731,12.8100234 8.36428299,13.1550029 C8.25384358,13.2188195 8.11244418,13.1804371 8.04867582,13.0694517 C7.98490746,12.9584663 8.0232609,12.8174224 8.13416239,12.7536059 C8.1378591,12.7512937 8.14248,12.7489815 8.14617672,12.7471317 L8.15495642,12.7429698 C8.62767403,12.509438 9.02368478,12.0391376 9.37394866,11.5716117 C9.72513672,11.0943746 10.0384334,10.5815298 10.3420263,10.0626732 L11.2394042,8.48991805 C11.5517767,7.9738361 11.836886,7.42769561 12.2892716,6.99901463 C12.3086794,6.98097951 12.3382531,6.98190439 12.3562746,7.00086439 C12.373834,7.01936195 12.3733719,7.04803317 12.3562746,7.06606829 L12.3548884,7.06745561 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74377,7 +74258,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M55.67148,9.5832 C55.76688,9.88092 55.96452,10.1286 56.1852,10.3554 C56.40768,10.58112 56.655,10.78524 56.90916,10.98396 C57.16296,11.1834 57.42468,11.37528 57.68028,11.5866 C57.80772,11.69316 57.93444,11.80332 58.05324,11.93292 C58.167,12.06468 58.2948,12.2094 58.33404,12.44628 C58.35024,12.54456 58.284,12.63744 58.18572,12.65364 C58.08744,12.66984 57.99456,12.6036 57.97836,12.50532 C57.97764,12.49884 57.97692,12.49272 57.9762,12.4866 L57.9762,12.48372 C57.9708,12.39408 57.89448,12.2652 57.80088,12.15252 C57.70656,12.03732 57.59316,11.92716 57.47688,11.81952 C57.24288,11.60424 56.99088,11.39796 56.745,11.18268 C56.4984,10.96812 56.25468,10.74528 56.03364,10.49616 C55.8162,10.24884 55.611,9.96228 55.52352,9.6318 L55.52208,9.62676 C55.51128,9.585 55.53612,9.54252 55.57752,9.53136 C55.61784,9.52092 55.65888,9.54396 55.67148,9.5832 Z",
+                                "M71.4589146,12.3101268 C71.5813684,12.6925639 71.8350555,13.010722 72.1183164,13.3020585 C72.4038878,13.5920078 72.7213433,13.8542107 73.0475785,14.1094771 C73.3733516,14.3656683 73.7092907,14.6121483 74.0373743,14.8836 C74.200954,15.020482 74.3636096,15.1619883 74.5160991,15.3284663 C74.6621194,15.497719 74.8261612,15.6836195 74.876529,15.9879044 C74.897323,16.1141502 74.8122985,16.2334595 74.6861481,16.2542693 C74.5599976,16.275079 74.4407785,16.1899902 74.4199845,16.0637444 C74.4190603,16.0554205 74.4181361,16.047559 74.4172119,16.0396976 L74.4172119,16.035998 C74.4102806,15.9208507 74.3123176,15.7552976 74.1921743,15.6105541 C74.0711069,15.4625737 73.9255487,15.3210673 73.7762937,15.182798 C73.4759355,14.9062595 73.1524728,14.641282 72.8368657,14.3647434 C72.5203343,14.0891298 72.2074997,13.80288 71.9237767,13.4828722 C71.6446746,13.1651766 71.3812836,12.7970751 71.2689958,12.3725561 L71.2671475,12.366082 C71.2532848,12.312439 71.285169,12.2578712 71.3383093,12.2435356 C71.3900633,12.2301249 71.4427415,12.259721 71.4589146,12.3101268 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74386,7 +74267,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M61.09632,2.1762 C61.12872,2.47248 61.12548,2.76336 61.12656,3.05496 C61.12548,3.34656 61.119,3.63744 61.11036,3.92832 C61.09056,4.51152 61.06896,5.0886 61.01892,5.67792 C61.01064,5.77692 60.92316,5.85036 60.82416,5.84208 C60.72516,5.8338 60.65136,5.74632 60.65964,5.64732 C60.66,5.64372 60.66036,5.63976 60.66108,5.63652 L60.66144,5.63184 C60.74604,5.06844 60.80616,4.4874 60.86268,3.91284 C60.88968,3.62484 60.91488,3.33612 60.93468,3.04812 C60.95232,2.76048 60.97356,2.46996 60.9606,2.18736 C60.95844,2.14992 60.98724,2.11788 61.02468,2.11536 C61.06068,2.11356 61.09164,2.14092 61.09632,2.1762 Z",
+                                "M78.4221421,2.7954439 C78.4637301,3.17603122 78.4595713,3.54968195 78.4609576,3.92425756 C78.4595713,4.29883317 78.4512537,4.6724839 78.4401636,5.04613463 C78.4147487,5.79528585 78.3870233,6.53657561 78.3227928,7.29358829 C78.3121648,7.42075902 78.199877,7.51509659 78.0728024,7.50446049 C77.9457278,7.49382439 77.8509994,7.38145171 77.8616275,7.25428098 C77.8620896,7.24965659 77.8625516,7.24456976 77.8634758,7.2404078 L77.8639379,7.2343961 C77.972529,6.51067902 78.0496979,5.76430244 78.122246,5.02624976 C78.1569027,4.65629854 78.189249,4.28542244 78.2146639,3.91547122 C78.2373063,3.54598244 78.2645696,3.17279415 78.2479343,2.80977951 C78.2451618,2.76168585 78.282129,2.72052878 78.3301863,2.71729171 C78.3763952,2.71497951 78.4161349,2.75012488 78.4221421,2.7954439 Z",
                               id: "Path",
                               fill: "#C66C50"
                             }
@@ -74395,7 +74276,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M54.36,99.9 C53.55,93.15 54.05832,83.95452 56.79,76.86 C58.79988,71.64 64.73988,62.34012 66.06,53.73 C66.9474,47.94156 65.7684,35.16516 64.93896,27.1854 C61.81128,28.45332 59.11236,28.4022 57.61692,28.19052 C57.83004,32.2542 57.71448,37.07496 57.33,40.59 C56.7,46.35 52.92,57.33 48.15,63.45 C43.38,69.57 38.97,70.11 35.28,70.11 C29.835,70.11 19.665,69.12 13.05,50.94 C10.41768,43.70616 8.98452,37.54332 8.2314,32.4666 C4.89348,33.35544 1.9206,33.25212 0.32148,33.07212 C0.64512,39.30408 1.458,46.40724 3.1194,53.34012 C5.21748,62.09388 9.0594,71.1 12.6594,77.88024 C15.90804,83.99844 17.60148,94.53204 21.05928,103.32036 C23.26068,108.91476 26.22348,117.19728 31.6386,122.7528 C32.1912,114.77916 42.6006,106.79976 54.36,99.9 Z",
+                                "M69.7755224,128.326829 C68.7358209,119.656098 69.3882913,107.844018 72.8946269,98.7307317 C75.4744728,92.0253659 83.0989504,80.0791785 84.7934328,69.0190244 C85.9324836,61.5834673 84.4191403,45.1715063 83.354486,34.9210829 C79.3398519,36.5497932 75.8755666,36.4841268 73.9560466,36.2122127 C74.2296036,41.4322244 74.0812728,47.6247454 73.5877612,52.14 C72.7791045,59.5390244 67.9271642,73.6434146 61.8044776,81.504878 C55.681791,89.3663415 50.021194,90.06 45.2847761,90.06 C38.2956716,90.06 25.2416418,88.7882927 16.7507463,65.435122 C13.3719475,56.1428722 11.532369,48.2263785 10.5656776,41.7050634 C6.28118328,42.8468254 2.46524776,42.7141054 0.41264597,42.4828859 C0.828064478,50.4881678 1.87146269,59.6125522 4.00400597,68.5182029 C6.69706388,79.7628702 11.6284836,91.3317073 16.2493791,100.041284 C20.4192752,107.900435 22.5929445,121.431401 27.0313146,132.720462 C29.8569922,139.906765 33.6599893,150.5461 40.6107403,157.682459 C41.3200478,147.439897 54.6813672,137.189936 69.7755224,128.326829 Z",
                               id: "Path",
                               fill: "url(#linearGradient-175)"
                             }
@@ -74404,7 +74285,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M2.34756,44.44416 C2.00124,44.44416 1.6668,44.42472 1.34712,44.38476 C1.19916,44.3664 1.09404,44.23176 1.1124,44.0838 C1.13076,43.93584 1.26684,43.83036 1.41336,43.84908 C3.81636,44.14752 7.10748,43.23456 10.00368,41.4684 C10.13112,41.39064 10.29708,41.43096 10.37484,41.5584 C10.4526,41.68584 10.41228,41.8518 10.28484,41.92956 C7.67016,43.52436 4.72788,44.44416 2.34756,44.44416 Z",
+                                "M3.01328597,57.0908722 C2.56875582,57.0908722 2.13947463,57.0659005 1.7291391,57.0145698 C1.5392203,56.9909854 1.40429015,56.8180332 1.42785672,56.6279707 C1.45142328,56.4379083 1.62609313,56.3024137 1.81416358,56.3264605 C4.89861134,56.7098224 9.12303403,55.5370771 12.8405445,53.2683512 C13.0041242,53.1684644 13.2171475,53.2202576 13.3169588,53.383961 C13.4167701,53.5476644 13.3650161,53.7608488 13.2014364,53.8607356 C9.84528,55.9093405 6.06862209,57.0908722 3.01328597,57.0908722 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74413,7 +74294,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M4.5864,58.91904 C4.45644,58.91904 4.34196,58.82472 4.32036,58.6926 C4.2966,58.54536 4.39632,58.40676 4.54356,58.38264 C6.15744,58.1202 12.0168,54.7488 13.59864,52.74828 C13.69116,52.63128 13.86108,52.61184 13.97808,52.704 C14.09508,52.79652 14.11488,52.96644 14.02236,53.08344 C12.34476,55.20456 6.35184,58.63572 4.63032,58.9158 C4.6152,58.91796 4.6008,58.91904 4.5864,58.91904 Z",
+                                "M5.8870209,75.6846205 C5.72020657,75.6846205 5.57326209,75.5634615 5.54553672,75.3937463 C5.51503881,75.2046088 5.64303761,75.0265698 5.83203224,74.9955863 C7.9035797,74.6584683 15.4245493,70.3277268 17.4549707,67.7579532 C17.5737278,67.6076605 17.791834,67.5826888 17.9420131,67.7010732 C18.0921922,67.81992 18.1176072,68.0381912 17.9988501,68.1884839 C15.8455128,70.9131746 8.15310806,75.320681 5.94339582,75.6804585 C5.92398806,75.6832332 5.90550448,75.6846205 5.8870209,75.6846205 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74422,7 +74303,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.5392,69.54516 C8.4078,69.54516 8.2926,69.44904 8.27244,69.31512 C8.25048,69.16752 8.352,69.03 8.4996,69.00804 C10.20312,68.75352 17.25876,63.55116 18.31212,61.488 C18.3798,61.35516 18.54288,61.30224 18.67536,61.37028 C18.8082,61.43796 18.86112,61.60068 18.79308,61.73352 C17.66304,63.94716 10.4094,69.26904 8.57952,69.54228 C8.56584,69.54408 8.55252,69.54516 8.5392,69.54516 Z",
+                                "M10.9607642,89.3344332 C10.7921015,89.3344332 10.6442328,89.210962 10.6183558,89.0389346 C10.5901684,88.8493346 10.7204776,88.6726829 10.9099343,88.6444741 C13.0965421,88.3175298 22.1530352,81.6348234 23.5051093,78.9845854 C23.5919821,78.8139454 23.8013087,78.7459668 23.9713576,78.8333678 C24.1418687,78.9203063 24.2097958,79.1293288 24.1224609,79.2999688 C22.6719618,82.1435063 13.3613194,88.9797424 11.0125182,89.3307337 C10.9949588,89.3330459 10.9778615,89.3344332 10.9607642,89.3344332 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74431,7 +74312,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.65976,78.14988 C12.53592,78.14988 12.42432,78.0642 12.3966,77.93856 C12.3642,77.79312 12.456,77.64876 12.60144,77.61636 C14.1264,77.2776 23.45688,70.87104 25.09452,67.6512 C25.1622,67.518 25.32456,67.46508 25.4574,67.53276 C25.59024,67.60044 25.64352,67.7628 25.57584,67.89564 C23.8734,71.24256 14.43276,77.76216 12.7188,78.14304 C12.69864,78.14808 12.6792,78.14988 12.65976,78.14988 Z",
+                                "M16.2498412,100.387651 C16.0908824,100.387651 15.9476346,100.27759 15.9120537,100.116199 C15.8704657,99.9293737 15.9882985,99.7439356 16.1749827,99.7023161 C18.132394,99.267161 30.108831,91.0375961 32.2108764,86.9015415 C32.2977493,86.730439 32.5061516,86.6624605 32.6766627,86.749399 C32.8471737,86.8363376 32.915563,87.0448976 32.8286901,87.2155376 C30.6434687,91.5148332 18.5256322,99.8896039 16.3256239,100.378864 C16.2997469,100.385339 16.274794,100.387651 16.2498412,100.387651 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74440,7 +74321,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M61.3692,40.92768 C59.7114,40.92768 58.12344,40.75236 57.28932,40.50756 C57.1464,40.46544 57.06432,40.31532 57.10644,40.1724 C57.14856,40.02912 57.29904,39.94776 57.4416,39.98952 C59.14512,40.49028 64.04472,40.6566 65.93364,39.67308 C66.0654,39.60432 66.2292,39.6558 66.2976,39.78792 C66.36636,39.92004 66.31524,40.08312 66.18276,40.15188 C65.09952,40.71564 63.19188,40.92768 61.3692,40.92768 Z",
+                                "M78.772406,52.5737678 C76.6444836,52.5737678 74.6062066,52.34856 73.5355451,52.0341015 C73.3520955,51.9799961 73.2467391,51.787159 73.3008036,51.6035707 C73.3548681,51.41952 73.5480215,51.3150088 73.731009,51.3686517 C75.9176167,52.0119044 82.2066555,52.2255512 84.6312394,50.9621678 C84.8003642,50.873842 85.0106149,50.9399707 85.0984119,51.1096859 C85.186671,51.279401 85.1210543,51.4888859 84.9510054,51.5772117 C83.5605779,52.3013912 81.1119654,52.5737678 78.772406,52.5737678 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74449,7 +74330,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M64.242,52.26768 C60.6996,52.26768 56.08584,50.72364 54.90036,50.12604 C54.76716,50.05872 54.71352,49.89636 54.78048,49.76352 C54.84744,49.63032 55.01088,49.57704 55.143,49.64364 C56.457,50.30604 62.08884,52.16472 65.56752,51.63696 C65.71404,51.61572 65.85264,51.71616 65.87496,51.8634 C65.89728,52.01064 65.79576,52.14852 65.64852,52.17084 C65.2086,52.2378 64.73556,52.26768 64.242,52.26768 Z",
+                                "M82.4598806,67.1405971 C77.9129194,67.1405971 71.9907797,65.1571961 70.4691188,64.3895473 C70.2981457,64.3030712 70.2292943,64.0945112 70.315243,63.9238712 C70.4011916,63.7527688 70.6109803,63.6843278 70.7805672,63.769879 C72.467194,64.6207668 79.696123,67.0083395 84.1612943,66.3304039 C84.3493648,66.30312 84.5272693,66.4321405 84.5559188,66.621278 C84.5845684,66.8104156 84.4542591,66.9875298 84.2652645,67.016201 C83.700591,67.1022146 83.0934054,67.1405971 82.4598806,67.1405971 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74458,7 +74339,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M63.10512,63.6588 C63.10368,63.6588 63.10224,63.6588 63.1008,63.6588 C57.19392,63.5652 52.5384,59.3442 51.5106,57.81708 C51.42744,57.69324 51.4602,57.52548 51.58368,57.44232 C51.70716,57.35916 51.87564,57.39192 51.95844,57.5154 C52.94412,58.97988 57.41784,63.02844 63.10908,63.11844 C63.25848,63.12096 63.37728,63.24372 63.3747994,63.39276 C63.37296,63.54036 63.25236,63.6588 63.10512,63.6588 Z",
+                                "M81.0006018,81.7730927 C80.9987534,81.7730927 80.9969051,81.7730927 80.9950567,81.7730927 C73.4130913,81.6528585 67.4373493,76.230761 66.1180836,74.2690946 C66.0113409,74.1100156 66.053391,73.894519 66.2118878,73.7876956 C66.3703845,73.6808722 66.5866424,73.7229541 66.692923,73.8815707 C67.9581242,75.7627727 73.700511,80.963362 81.0056848,81.0789717 C81.1974519,81.0822088 81.3499415,81.2399005 81.3467574,81.4313502 C81.3443964,81.6209502 81.1895964,81.7730927 81.0006018,81.7730927 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74467,7 +74348,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M57.47292,75.51216 C57.46428,75.51216 57.45564,75.5118 57.447,75.51108 C52.3116,75.01896 45.03492,69.21108 44.244,67.2948 C44.18712,67.15692 44.25264,66.99924 44.39052,66.94236 C44.52876,66.88548 44.68608,66.95136 44.74296,67.08888 C45.47988,68.87448 52.63596,74.50776 57.49812,74.9736 C57.6468,74.988 57.75552,75.11976 57.74112,75.26808 C57.72816,75.40776 57.61044,75.51216 57.47292,75.51216 Z",
+                                "M73.7712107,96.99936 C73.7601206,96.99936 73.7490304,96.9988976 73.7379403,96.9979727 C67.1462328,96.3658185 57.8060167,88.9052898 56.790806,86.4437268 C56.7177958,86.2666127 56.8018961,86.0640644 56.9788764,85.990999 C57.1563188,85.9179337 57.3582519,86.00256 57.4312621,86.1792117 C58.3771594,88.4729093 67.5625755,95.7091551 73.803557,96.3075512 C73.9944,96.3260488 74.133951,96.4953015 74.1154675,96.6858263 C74.0988322,96.8652527 73.947729,96.99936 73.7712107,96.99936 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74476,7 +74357,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M27.765,79.8426 C20.3706,79.8426 14.41548,79.45668 13.03848,79.04772 C12.89556,79.00524 12.81384,78.85476 12.85668,78.71184 C12.89952,78.56892 13.05036,78.48828 13.1922,78.52968 C16.32312,79.45884 43.36092,80.26164 56.71836,76.59936 C56.86344,76.55868 57.01068,76.64472 57.04992,76.78836 C57.08952,76.932 57.00492,77.08068 56.86092,77.11992 C49.28688,79.19712 37.32408,79.8426 27.765,79.8426 Z",
+                                "M35.6386567,102.562039 C26.1473373,102.562039 18.5034519,102.066304 16.7359594,101.540974 C16.5525099,101.486406 16.4476155,101.293106 16.5026042,101.109518 C16.5575928,100.92593 16.7512084,100.822343 16.9332716,100.875524 C20.9520645,102.069079 55.6573003,103.100318 72.802671,98.3959259 C72.9888931,98.3436702 73.1778878,98.4541932 73.2282555,98.6387063 C73.2790854,98.8232195 73.1704943,99.0142068 72.9856585,99.0646127 C63.2637564,101.732886 47.9085206,102.562039 35.6386567,102.562039 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74485,7 +74366,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M17.56332,92.66508 C17.46756,92.66508 17.37468,92.61396 17.32572,92.5236 C17.25444,92.39256 17.30304,92.22876 17.43444,92.15748 C22.50216,89.40852 36.80676,84.3408 54.67212,84.84264 C54.82116,84.8466 54.93852,84.9708 54.9346573,85.1202 C54.9306,85.2696 54.80892,85.3974 54.657,85.38264 C36.90576,84.88836 22.71528,89.90748 17.69148,92.63268 C17.6508,92.65464 17.60688,92.66508 17.56332,92.66508 Z",
+                                "M22.543963,119.033192 C22.4210472,119.033192 22.3018281,118.967526 22.2389839,118.851454 C22.1474901,118.683126 22.2098722,118.472716 22.3785349,118.381153 C28.8833696,114.849969 47.2444979,108.340215 70.176154,108.984855 C70.3674591,108.989941 70.5181003,109.149483 70.5131423,109.341395 C70.5079343,109.533307 70.3517481,109.697473 70.1567463,109.678513 C47.3715725,109.043584 29.1569266,115.490909 22.7084669,118.991573 C22.6562507,119.019781 22.5998758,119.033192 22.543963,119.033192 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74494,7 +74375,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M20.48328,102.0654 C20.4012,102.0654 20.3202,102.02796 20.26728,101.95776 C20.17764,101.8386 20.2014,101.66904 20.32056,101.5794 C28.60776,95.3442 39.94884,92.06424 54.0288,91.83096 C54.18504,91.83204 54.30096,91.9476 54.3031594,92.09664 C54.30564,92.24568 54.18684,92.36844 54.03744,92.37096 C40.07412,92.60244 28.83924,95.84568 20.64492,102.01104 C20.59668,102.04776 20.5398,102.0654 20.48328,102.0654 Z",
+                                "M26.2919713,131.1084 C26.1866149,131.1084 26.0826448,131.060306 26.0147176,130.970131 C25.8996573,130.817063 25.9301552,130.599255 26.0831069,130.484107 C36.7204084,122.474663 51.2776155,118.261381 69.3504,117.961721 C69.5509469,117.963108 69.6997397,118.111551 69.7025628,118.303001 C69.7057469,118.494451 69.5532573,118.652142 69.3614901,118.65538 C51.4384227,118.952728 37.0175319,123.118841 26.4994496,131.038572 C26.4375296,131.08574 26.3645194,131.1084 26.2919713,131.1084 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74503,7 +74384,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.10776,111.09564 C24.04512,111.09564 23.98176,111.07368 23.93064,111.0294 C23.81796,110.93148 23.80608,110.76084 23.904,110.64816 C24.91776,109.48176 40.58208,98.95212 54.12276,97.46496 C54.27108,97.44264 54.40428,97.55568 54.42084,97.70364 C54.43704,97.85196 54.33012,97.98516 54.1818,98.00136 C41.42592,99.40248 25.56432,109.56096 24.31152,111.0024 C24.2586,111.06432 24.18336,111.09564 24.10776,111.09564 Z",
+                                "M30.944289,142.70822 C30.8638854,142.70822 30.7825576,142.680012 30.7169409,142.623132 C30.5723069,142.497348 30.5570579,142.278152 30.6827463,142.133409 C31.9839904,140.635106 52.090431,127.109227 69.4710054,125.198892 C69.6613863,125.17022 69.8323594,125.315426 69.8536155,125.505489 C69.8744096,125.696014 69.737169,125.867116 69.5467881,125.887926 C53.173569,127.687739 32.8139033,140.736843 31.2058316,142.588449 C31.1379045,142.667988 31.0413278,142.70822 30.944289,142.70822 Z",
                               id: "Path",
                               fill: "#FFA2BA"
                             }
@@ -74512,7 +74393,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M66.37284,47.5794 C61.22772,51.29748 63.95868,57.5964 64.79424,58.89744 C65.35296,57.17232 65.79828,55.43784 66.06036,53.73 C66.30516,52.13088 66.39192,49.9968 66.37284,47.5794 Z",
+                                "M85.1949887,61.1182537 C78.5908048,65.8943239 82.0962161,73.9856195 83.168726,75.6568741 C83.885889,73.4408663 84.4574937,71.2128351 84.7938949,69.0190244 C85.1081158,66.9648702 85.2194794,64.2235317 85.1949887,61.1182537 Z",
                               id: "Path",
                               fill: "url(#linearGradient-176)"
                             }
@@ -74521,7 +74402,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M2.09052,48.44988 C2.39148,50.08032 2.73024,51.71508 3.11976,53.34012 C3.54276,55.10592 4.03992,56.88108 4.58856,58.64724 C8.93772,54.83952 5.88132,48.78432 2.09052,48.44988 Z",
+                                "M2.68335403,62.2364312 C3.0696609,64.3308176 3.50448716,66.4307532 4.00446806,68.5182029 C4.54742328,70.7864663 5.18556896,73.0667532 5.88979343,75.335479 C11.4722973,70.4442615 7.54915701,62.6660371 2.68335403,62.2364312 Z",
                               id: "Path",
                               fill: "url(#linearGradient-177)"
                             }
@@ -74534,7 +74415,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "left_leg",
-                            transform: "translate(117.720000, 178.560000)",
+                            transform: "translate(152.000000, 230.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74542,7 +74423,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M22.47048,0.17856 C22.47048,0.17856 -2.16,11.39976 0.54,13.07988 C3.24,14.76 10.47132,16.96392 16.31988,19.01988 C22.93164,21.34404 28.98,24.23988 28.98,24.23988 C28.98,24.23988 24.705,28.395 20.58012,33.3 C20.24964,33.69312 19.90188,34.12548 19.54296,34.58628 C20.95452,36.61272 24.51096,40.10004 29.72772,41.3172 C36.00108,37.00836 46.61892,29.3364 47.25,22.94964 C48.11292,14.21604 24.41088,1.03644 22.47048,0.17856 Z",
+                                "M29.02437,0.229152 C29.02437,0.229152 -2.79,14.629692 0.6975,16.785846 C4.185,18.942 13.525455,21.770364 21.079845,24.408846 C29.620035,27.391518 37.4325,31.107846 37.4325,31.107846 C37.4325,31.107846 31.910625,36.44025 26.582655,42.735 C26.155785,43.239504 25.706595,43.794366 25.24299,44.385726 C27.066255,46.986324 31.65999,51.461718 38.398305,53.02374 C46.501395,47.494062 60.216105,37.64838 61.03125,29.452038 C62.145855,18.243918 31.53072,1.330098 29.02437,0.229152 Z",
                               id: "Path",
                               fill: "url(#linearGradient-178)"
                             }
@@ -74551,7 +74432,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M44.06148,15.88284 C42.53544,17.97804 40.52628,23.72868 44.62164,28.59768 C46.08432,26.68248 47.07108,24.7644 47.25036,22.95 C47.4642,20.78244 46.1646,18.34164 44.06148,15.88284 Z",
+                                "M56.912745,20.382978 C54.94161,23.071818 52.346445,30.451806 57.636285,36.700356 C59.52558,34.242516 60.800145,31.78098 61.031715,29.4525 C61.307925,26.670798 59.629275,23.538438 56.912745,20.382978 Z",
                               id: "Path",
                               fill: "url(#linearGradient-179)"
                             }
@@ -74560,7 +74441,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M19.54296,34.58628 C15.957,39.19212 11.23488,46.70748 11.01672,47.47104 C10.7766,48.31092 11.22012,50.87988 11.99988,52.80012 C12.77964,54.72036 17.1,60.615 17.87976,59.87988 C18.93168,58.8888 17.69976,51.54012 18.11988,50.15988 C18.54,48.77964 21.87,46.8 26.46,43.56 C27.26244,42.99336 28.39824,42.23088 29.72772,41.31756 C24.51096,40.1004 20.95452,36.61272 19.54296,34.58628 Z",
+                                "M25.24299,44.385726 C20.611125,50.296554 14.51172,59.941266 14.22993,60.921168 C13.919775,61.999014 14.492655,65.295846 15.499845,67.760154 C16.507035,70.224462 22.0875,77.78925 23.09469,76.845846 C24.45342,75.57396 22.86219,66.143154 23.404845,64.371846 C23.9475,62.600538 28.24875,60.06 34.1775,55.902 C35.213985,55.174812 36.68106,54.196296 38.398305,53.024202 C31.65999,51.46218 27.066255,46.986324 25.24299,44.385726 Z",
                               id: "Path",
                               fill: "url(#linearGradient-180)"
                             }
@@ -74569,7 +74450,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M31.7772,40.16268 C31.76208,40.16268 31.74696,40.1616 31.73148,40.15872 C28.14156,39.54636 21.92868,34.6896 20.71152,33.04944 C20.6226,32.92956 20.6478,32.76036 20.76732,32.67144 C20.88756,32.58288 21.0564,32.60772 21.14532,32.72724 C22.20228,34.15176 28.32228,39.0294 31.8222,39.62628 C31.96908,39.65112 32.06808,39.7908 32.04288,39.93768 C32.0202,40.0698 31.90608,40.16268 31.7772,40.16268 Z",
+                                "M41.04555,51.542106 C41.02602,51.542106 41.00649,51.54072 40.986495,51.537024 C36.349515,50.751162 28.324545,44.51832 26.75238,42.413448 C26.637525,42.259602 26.670075,42.042462 26.824455,41.928348 C26.979765,41.814696 27.19785,41.846574 27.312705,41.999958 C28.677945,43.828092 36.582945,50.08773 41.103675,50.853726 C41.293395,50.885604 41.42127,51.06486 41.38872,51.253356 C41.359425,51.42291 41.21202,51.542106 41.04555,51.542106 Z",
                               id: "Path",
                               fill: "#6022B6"
                             }
@@ -74578,7 +74459,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M24.9534,36.66276 C24.87816,36.66276 24.80328,36.63144 24.75036,36.57024 C24.65244,36.45792 24.6636,36.28764 24.77592,36.18936 C24.86304,36.11304 33.50988,28.50336 33.50988,23.70024 C33.50988,17.487 11.44656,10.13976 5.98536,8.65404 C5.84136,8.61516 5.7564,8.46648 5.79564,8.32248 C5.83488,8.17884 5.98356,8.09424 6.12684,8.13312 C6.4062,8.20908 34.04952,16.0722 34.04952,23.70024 C34.04952,28.7478 25.49484,36.27792 25.13088,36.5958 C25.08012,36.6408 25.01676,36.66276 24.9534,36.66276 Z",
+                                "M32.231475,47.050542 C32.13429,47.050542 32.03757,47.010348 31.969215,46.931808 C31.842735,46.787664 31.85715,46.569138 32.00223,46.443012 C32.11476,46.345068 43.283595,36.579312 43.283595,30.415308 C43.283595,22.44165 14.78514,13.012692 7.73109,11.106018 C7.54509,11.056122 7.43535,10.865316 7.486035,10.680516 C7.53672,10.496178 7.728765,10.387608 7.913835,10.437504 C8.274675,10.534986 43.98063,20.62599 43.98063,30.415308 C43.98063,36.89301 32.930835,46.556664 32.46072,46.96461 C32.395155,47.02236 32.313315,47.050542 32.231475,47.050542 Z",
                               id: "Path",
                               fill: "#6022B6"
                             }
@@ -74587,7 +74468,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M12.249,45.26748 C11.54196,46.42524 11.08116,47.24496 11.01672,47.47104 C10.86696,47.99556 10.9836,49.19364 11.28204,50.48748 C13.14504,49.10688 12.75552,46.62324 12.249,45.26748 Z",
+                                "M15.821625,58.093266 C14.908365,59.579058 14.313165,60.631032 14.22993,60.921168 C14.03649,61.594302 14.18715,63.131838 14.572635,64.792266 C16.97901,63.020496 16.47588,59.833158 15.821625,58.093266 Z",
                               id: "Path",
                               fill: "url(#linearGradient-181)"
                             }
@@ -74600,7 +74481,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "left_slipper",
-                            transform: "translate(126.720000, 225.360000)",
+                            transform: "translate(163.000000, 290.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74608,7 +74489,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M3.15,7.02 C3.69,6.75 9.07704,5.7888 10.01988,6.81012 C10.40328,7.2252 10.19988,13.61988 9.18,14.10012 C8.28972,14.51916 5.58648,11.50632 4.93416,10.58076 C4.28184,9.6552 3.15,7.02 3.15,7.02 Z",
+                                "M4.00909091,8.892 C4.69636364,8.55 11.5525964,7.33248 12.7525745,8.626152 C13.2405382,9.15192 12.9816655,17.251848 11.6836364,17.860152 C10.5505527,18.390936 7.11006545,14.574672 6.27984,13.402296 C5.44961455,12.22992 4.00909091,8.892 4.00909091,8.892 Z",
                               id: "Path",
                               fill: "url(#linearGradient-182)"
                             }
@@ -74617,7 +74498,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M8.63928,14.625 C8.52048,14.625 8.39988,14.59584 8.28864,14.53356 C1.70064,10.85292 0.1998,1.09476 0.18648,0.9972 C0.13284,0.603 0.4086,0.24012 0.80244,0.18648 C1.19628,0.1314 1.55952,0.4086 1.6128,0.80244 C1.6254,0.8928 3.10968,9.99072 8.99064,13.27608 C9.33768,13.47012 9.46224,13.9086 9.2682,14.256 C9.1368,14.49216 8.89164,14.625 8.63928,14.625 Z",
+                                "M10.9954473,18.525 C10.8442473,18.525 10.6907564,18.488064 10.5491782,18.409176 C2.16445091,13.747032 0.254290909,1.386696 0.237338182,1.26312 C0.169069091,0.7638 0.520036364,0.304152 1.02128727,0.236208 C1.52253818,0.16644 1.98484364,0.51756 2.05265455,1.016424 C2.06869091,1.13088 3.95777455,12.654912 11.4426327,16.816368 C11.88432,17.062152 12.0428509,17.61756 11.7958909,18.0576 C11.6286545,18.356736 11.3166327,18.525 10.9954473,18.525 Z",
                               id: "Path",
                               fill: "url(#linearGradient-183)"
                             }
@@ -74630,7 +74511,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "right_leg",
-                            transform: "translate(96.480000, 156.960000)",
+                            transform: "translate(124.000000, 202.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74638,7 +74519,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M79.86204,14.56308 C73.10988,7.82388 63.62712,0.47556 53.37,0.27 C39.90024,5.55111512e-17 26.39988,8.1 23.04,9.54 C11.2806,16.43976 0.8712,24.41916 0.31896,32.39244 C3.852,36.01728 8.42832,38.48184 14.51988,38.27988 C34.44012,37.62 40.68,20.16 54.77976,20.04012 C60.40332,19.99224 65.99016,22.10436 70.929,24.63876 C72.86868,23.16672 77.27184,18.15156 79.86204,14.56308 Z",
+                                "M103.022032,18.6706154 C94.3117452,10.0306154 82.0789848,0.609692308 68.8473,0.346153846 C51.4713096,-5.55111512e-17 34.0558452,10.3846154 29.7216,12.2307692 C14.551974,21.0766154 1.123848,31.3066154 0.4114584,41.5287692 C4.96908,46.176 10.8725328,49.3356923 18.7306452,49.0767692 C44.4277548,48.2307692 52.4772,25.8461538 70.6658904,25.6924615 C77.9202828,25.6310769 85.1273064,28.3389231 91.49841,31.5881538 C94.0005972,29.7009231 99.6806736,23.2712308 103.022032,18.6706154 Z",
                               id: "Path",
                               fill: "url(#linearGradient-184)"
                             }
@@ -74647,7 +74528,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M14.08392,32.04684 C6.97068,32.04684 2.54844,27.5508 2.02284,26.9874 C1.92096,26.87832 1.92708,26.70768 2.03616,26.6058 C2.14488,26.50356 2.31552,26.50968 2.41776,26.61876 C2.97936,27.22032 8.14068,32.46588 16.34436,31.3524 C20.58768,30.77712 24.7698,27.94104 29.61252,24.65748 C36.2556,20.15316 43.785,15.048 53.56872,14.60988 C65.5812,14.0706 73.28664,19.76652 73.36296,19.82412 C73.48212,19.91376 73.50552,20.08296 73.41588,20.20212 C73.32588,20.32092 73.15632,20.34504 73.03788,20.25504 C72.96264,20.19888 65.40408,14.62284 53.59212,15.1488 C43.96068,15.58008 36.4986,20.63988 29.91492,25.10424 C25.01604,28.42596 20.78496,31.29444 16.416,31.887 C15.60996,31.99716 14.83164,32.04684 14.08392,32.04684 Z",
+                                "M18.1682568,41.0856923 C8.9921772,41.0856923 3.2874876,35.3215385 2.6094636,34.5992308 C2.4780384,34.4593846 2.4859332,34.2406154 2.6266464,34.11 C2.7668952,33.9789231 2.9870208,33.9867692 3.1189104,34.1266154 C3.8433744,34.8978462 10.5014772,41.6229231 21.0842244,40.1953846 C26.5581072,39.4578462 31.953042,35.8218462 38.2001508,31.6121538 C46.769724,25.8373846 56.48265,19.2923077 69.1036488,18.7306154 C84.599748,18.0392308 94.5397656,25.3416923 94.6382184,25.4155385 C94.7919348,25.5304615 94.8221208,25.7473846 94.7064852,25.9001538 C94.5903852,26.0524615 94.3716528,26.0833846 94.2188652,25.968 C94.1218056,25.896 84.3712632,18.7472308 69.1338348,19.4215385 C56.7092772,19.9744615 47.083194,26.4613846 38.5902468,32.1849231 C32.2706916,36.4435385 26.8125984,40.1210769 21.17664,40.8807692 C20.1368484,41.022 19.1328156,41.0856923 18.1682568,41.0856923 Z",
                               id: "Path",
                               fill: "#00E2EC"
                             }
@@ -74656,7 +74537,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.19944,31.3002 C9.11124,31.3002 9.02484,31.257 8.973,31.17744 C8.89164,31.05216 8.92728,30.88476 9.0522,30.80376 C9.76896,30.33756 10.22544,29.16108 10.37232,27.40104 C10.647,24.11172 9.74304,19.82088 9.06264,19.1952 C8.95284,19.0944 8.94564,18.9234 9.0468,18.8136 C9.14796,18.70416 9.3186,18.69696 9.4284,18.79776 C10.28448,19.58508 11.19096,24.0894 10.91088,27.44568 C10.74708,29.40552 10.22076,30.68784 9.34704,31.25628 C9.30096,31.28616 9.24984,31.3002 9.19944,31.3002 Z",
+                                "M11.8672776,40.1284615 C11.7534996,40.1284615 11.6420436,40.0730769 11.57517,39.9710769 C11.4702156,39.8104615 11.5161912,39.5958462 11.677338,39.492 C12.6019584,38.8943077 13.1908176,37.386 13.3802928,35.1295385 C13.73463,30.9124615 12.5685216,25.4113846 11.6908056,24.6092308 C11.5491636,24.48 11.5398756,24.2607692 11.670372,24.12 C11.8008684,23.9796923 12.020994,23.9704615 12.162636,24.0996923 C13.2669792,25.1090769 14.4363384,30.8838462 14.0750352,35.1867692 C13.8637332,37.6993846 13.1847804,39.3433846 12.0576816,40.0721538 C11.9982384,40.1104615 11.9322936,40.1284615 11.8672776,40.1284615 Z",
                               id: "Path",
                               fill: "#00E2EC"
                             }
@@ -74665,7 +74546,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M99.78012,25.98012 C99.18036,25.26012 91.845,26.55 89.91,25.65 C89.17344,25.30764 85.45392,20.14416 79.86204,14.56308 C77.27184,18.15156 72.86868,23.16636 70.92936,24.63876 C78.156,28.34712 83.99628,32.95872 86.5368,33.03216 C91.125,33.165 100.37988,26.70012 99.78012,25.98012 Z",
+                                "M128.716355,33.3078462 C127.942664,32.3847692 118.48005,34.0384615 115.9839,32.8846154 C115.033738,32.4456923 110.235557,25.8258462 103.022032,18.6706154 C99.6806736,23.2712308 94.0005972,29.7004615 91.4988744,31.5881538 C100.82124,36.3424615 108.355201,42.2547692 111.632472,42.3489231 C117.55125,42.5192308 129.490045,34.2309231 128.716355,33.3078462 Z",
                               id: "Path",
                               fill: "url(#linearGradient-185)"
                             }
@@ -74674,7 +74555,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M69.24888,24.07752 C69.15456,24.07752 69.06312,24.0282 69.01344,23.94036 C68.94036,23.81076 68.98608,23.64588 69.11568,23.57244 C70.32816,22.88736 76.48776,16.83 77.9418,12.85092 C77.99292,12.71052 78.14844,12.63888 78.28812,12.69036 C78.42816,12.74148 78.50016,12.89628 78.44868,13.03668 C76.92516,17.20728 70.66872,23.3154 69.38136,24.04296 C69.3396,24.06636 69.29388,24.07752 69.24888,24.07752 Z",
+                                "M89.3310552,30.8686154 C89.2093824,30.8686154 89.0914248,30.8053846 89.0273376,30.6927692 C88.9330644,30.5266154 88.9920432,30.3152308 89.1592272,30.2210769 C90.7233264,29.3427692 98.6692104,21.5769231 100.544922,16.4755385 C100.610867,16.2955385 100.811488,16.2036923 100.991675,16.2696923 C101.172326,16.3352308 101.265206,16.5336923 101.198797,16.7136923 C99.2334564,22.0606154 91.1626488,29.8915385 89.5019544,30.8243077 C89.448084,30.8543077 89.3891052,30.8686154 89.3310552,30.8686154 Z",
                               id: "Path",
                               fill: "#00E2EC"
                             }
@@ -74683,7 +74564,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M54.72,5.51988 C58.16484,5.4792 60.6276,3.33648 61.84188,1.9836 C59.10948,0.95832 56.27052,0.32796 53.37,0.27 C50.94036,0.2214 48.51036,0.44784 46.13832,0.85572 C47.42856,2.8602 50.47956,5.57028 54.72,5.51988 Z",
+                                "M70.5888,7.07676923 C75.0326436,7.02461538 78.209604,4.27753846 79.7760252,2.54307692 C76.2512292,1.22861538 72.5889708,0.420461538 68.8473,0.346153846 C65.7130644,0.283846154 62.5783644,0.574153846 59.5184328,1.09707692 C61.1828424,3.66692308 65.1186324,7.14138462 70.5888,7.07676923 Z",
                               id: "Path",
                               fill: "url(#linearGradient-186)"
                             }
@@ -74692,7 +74573,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M87.17976,30.78 C85.62348,30.7116 84.53016,31.53708 84.09312,32.23584 C85.0878,32.72148 85.9122,33.01452 86.53644,33.03252 C87.45732,33.05916 88.5672,32.81688 89.74656,32.41188 C89.37684,31.734 88.6212,30.84372 87.17976,30.78 Z",
+                                "M112.46189,39.4615385 C110.454289,39.3738462 109.043906,40.4321538 108.480125,41.328 C109.763262,41.9506154 110.826738,42.3263077 111.632008,42.3493846 C112.819943,42.3835385 114.251688,42.0729231 115.773062,41.5536923 C115.296124,40.6846154 114.321348,39.5432308 112.46189,39.4615385 Z",
                               id: "Path",
                               fill: "url(#linearGradient-187)"
                             }
@@ -74705,7 +74586,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "right_slipper",
-                            transform: "translate(186.120000, 179.640000)",
+                            transform: "translate(240.000000, 231.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74713,7 +74594,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M6.39,1.215 C5.61672,1.4598 4.194,5.78592 6.552,9.08064 C7.2216,8.43624 9.67752,5.97132 10.40436,5.1336 C11.1312,4.29588 13.635,0.855 13.81284,0.55656 C13.99068,0.25812 9.51768,0.225 6.39,1.215 Z",
+                                "M8.094,1.539 C7.114512,1.84908 5.3124,7.328832 8.2992,11.502144 C9.14736,10.685904 12.258192,7.563672 13.178856,6.50256 C14.09952,5.441448 17.271,1.083 17.496264,0.704976 C17.721528,0.326952 12.055728,0.285 8.094,1.539 Z",
                               id: "Path",
                               fill: "url(#linearGradient-188)"
                             }
@@ -74722,7 +74603,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.99072,14.67 C0.76608,14.67 0.54468,14.56524 0.40392,14.36832 C0.1728,14.04504 0.24768,13.5954 0.57168,13.36392 C1.26216,12.87072 10.05516,5.60124 12.8754,0.67716 C13.07268,0.33264 13.51296,0.2124 13.85784,0.4104 C14.20272,0.60804 14.32224,1.04796 14.1246,1.39284 C11.133,6.61608 2.15136,14.00508 1.40832,14.53608 C1.28196,14.62644 1.13544,14.67 0.99072,14.67 Z",
+                                "M1.254912,18.582 C0.970368,18.582 0.689928,18.449304 0.511632,18.199872 C0.21888,17.790384 0.313728,17.22084 0.724128,16.927632 C1.598736,16.302912 12.736536,7.094904 16.30884,0.857736 C16.558728,0.421344 17.116416,0.26904 17.553264,0.51984 C17.990112,0.770184 18.141504,1.327416 17.89116,1.764264 C14.1018,8.380368 2.725056,17.739768 1.783872,18.412368 C1.623816,18.526824 1.438224,18.582 1.254912,18.582 Z",
                               id: "Path",
                               fill: "url(#linearGradient-189)"
                             }
@@ -74735,7 +74616,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "movement",
-                            transform: "translate(57.960000, 145.440000)",
+                            transform: "translate(75.000000, 187.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -74743,7 +74624,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M68.1624,67.63572 L68.19228,67.62564 C68.4378,67.53168 68.56236,67.25304 68.46768,67.005 C68.39676,66.8196 68.21604,66.69576 68.01804,66.69576 C67.95936,66.69576 67.90176,66.7062 67.84596,66.72744 C66.73392,67.1526 65.5218,67.5432 63.91656,67.99392 C62.71776,68.32044 61.4376,68.61672 59.88564,68.92776 C57.35592,69.43572 54.67248,69.79716 51.68196,70.03188 C49.57092,70.18668 47.46024,70.26516 45.4068,70.26516 C41.91192,70.26516 38.47824,70.03836 35.20152,69.5916 C32.24412,69.18624 29.64096,68.63256 27.24336,67.8978 C25.82244,67.46076 24.6168,66.99132 23.55732,66.46248 C22.94712,66.15684 22.39704,65.835 21.9222,65.50524 C21.79584,65.41776 21.672,65.32668 21.55428,65.23668 L21.3894,65.10636 L21.20544,64.95444 C20.95668,64.74672 20.71908,64.53504 20.4984,64.32372 C19.53324,63.40032 18.82728,62.4258 18.40032,61.4268 C17.94996,60.37776 17.79336,59.274 17.93592,58.14612 C18.06984,57.0816 18.49608,55.97064 19.16856,54.93384 C19.49364,54.42912 19.86192,53.96616 20.2626,53.55936 C20.6046,53.21016 21.10788,52.78788 21.4596,52.6338 L21.49524,52.6176 C21.8664,52.44408 22.1472,52.13592 22.28652,51.75108 C22.42584,51.36588 22.40676,50.94936 22.23288,50.57892 C21.98124,50.04288 21.43584,49.6962 20.84364,49.6962 C20.61864,49.6962 20.40012,49.74516 20.1942,49.84164 C19.23588,50.29092 18.6408,50.8392 18.06588,51.40872 C17.51544,51.97176 17.02908,52.58592 16.58376,53.28144 C15.67872,54.71172 15.13188,56.23308 14.9598,57.80232 C14.86836,58.64616 14.89212,59.47956 15.03108,60.27912 C15.17256,61.08552 15.42528,61.87536 15.7824,62.6256 C16.41204,63.9522 17.37648,65.20032 18.64872,66.33612 C18.92736,66.58416 19.22076,66.82788 19.52064,67.05972 L19.74744,67.23 L19.99692,67.40748 C20.15568,67.5162 20.31624,67.6206 20.48148,67.7232 C21.08592,68.09688 21.74328,68.43744 22.49028,68.76432 C23.71896,69.29856 25.03296,69.73416 26.62488,70.13592 C29.06676,70.74036 31.734,71.13564 35.01828,71.38008 C36.7974,71.51148 38.65104,71.5752 40.68432,71.5752 C41.562,71.5752 42.45624,71.56368 43.41816,71.5392 C46.026,71.48052 48.75768,71.29188 51.76944,70.96356 C57.91464,70.28352 63.2772,69.1956 68.1624,67.63572 Z",
+                                "M87.9379111,87.1460238 L87.97646,87.1330362 C88.2932111,87.0119723 88.4539089,86.6529554 88.33176,86.3333654 C88.2402644,86.0944846 88.0071133,85.9349215 87.7516689,85.9349215 C87.6759644,85.9349215 87.6016533,85.9483731 87.5296644,85.97574 C86.0949956,86.5235423 84.5312111,87.0268154 82.4602533,87.6075508 C80.9136533,88.0282592 79.2620889,88.4100046 77.2598689,88.8107677 C73.9962178,89.4652546 70.5342489,89.9309562 66.6761089,90.2333838 C63.9526067,90.4328377 61.2295689,90.5339562 58.5803778,90.5339562 C54.0715511,90.5339562 49.64168,90.2417331 45.4143067,89.6661 C41.5988956,89.1438092 38.2404978,88.4304138 35.1472978,87.4837038 C33.3141356,86.9205946 31.7587111,86.3157392 30.3918511,85.6343492 C29.6046178,85.2405438 28.8949467,84.8258654 28.2823444,84.4009823 C28.1193244,84.2882677 27.9595556,84.1709146 27.8076822,84.0549531 L27.5949667,83.8870408 L27.3576356,83.6912977 C27.0367044,83.4236585 26.7301711,83.1509169 26.4454667,82.8786392 C25.2002911,81.6888738 24.2895156,80.4332423 23.7386844,79.1460692 C23.1576644,77.7944215 22.9556311,76.3722692 23.1395511,74.9190392 C23.3123244,73.5474462 23.8622267,72.1160169 24.7298089,70.78014 C25.1492022,70.1298277 25.6243289,69.5333215 26.1412556,69.0091754 C26.5824778,68.5592446 27.2317711,68.0151531 27.6855333,67.8166269 L27.7315133,67.7957538 C28.2103556,67.57218 28.5726222,67.1751277 28.7523622,66.6792762 C28.9321022,66.1829608 28.9074867,65.6462908 28.68316,65.1689931 C28.3585133,64.4783262 27.65488,64.0316423 26.8908689,64.0316423 C26.6005911,64.0316423 26.3186733,64.0947254 26.0530111,64.2190362 C24.81666,64.7979162 24.0489333,65.5043538 23.3072156,66.2381585 C22.59708,66.9636138 21.9696156,67.7549354 21.3950978,68.6510862 C20.2274844,70.4939469 19.5219933,72.4541608 19.2999889,74.4760662 C19.18202,75.5633215 19.2126733,76.6371254 19.3919489,77.6673277 C19.5744756,78.7063431 19.9005156,79.7240215 20.3612444,80.6906769 C21.1735578,82.39995 22.4178044,84.0081046 24.0591511,85.4715392 C24.4186311,85.7911292 24.7971533,86.1051531 25.1840356,86.40387 L25.4766356,86.6232692 L25.7984956,86.8519454 C26.0033156,86.9920269 26.2104578,87.1265423 26.4236378,87.2587385 C27.20344,87.7402108 28.0515156,88.1790092 29.0152378,88.6001815 C30.6003867,89.2885292 32.2956089,89.8497831 34.3493822,90.3674354 C37.4997089,91.1462331 40.9407778,91.6555362 45.1779044,91.9704877 C47.4731889,92.1397915 49.8646133,92.2218923 52.4877956,92.2218923 C53.6201111,92.2218923 54.7737911,92.2070492 56.0147867,92.1755077 C59.3792222,92.0999008 62.9034267,91.8568454 66.7889689,91.4338177 C74.7170356,90.5576123 81.6354,89.1558692 87.9379111,87.1460238 Z",
                               id: "Path",
                               fill: "url(#linearGradient-190)"
                             }
@@ -74752,7 +74633,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M84.73212,101.14524 C86.94576,100.41768 88.88616,99.52992 90.66456,98.42976 C92.83428,97.06824 94.43916,95.5188 95.56848,93.6954 C96.903,91.54476 97.49448,88.8606 97.15068,86.5152 C97.05312,85.88592 96.88788,85.2624 96.65928,84.66408 C96.43428,84.0546 96.129,83.45628 95.75136,82.88172 C95.3226,82.24848 94.84956,81.7272 94.30848,81.29196 C94.00464,81.04752 93.67524,80.83224 93.32964,80.65188 C93.16188,80.56476 92.97972,80.48268 92.77236,80.40204 C92.68164,80.36748 92.58336,80.33292 92.45484,80.29296 L92.35944,80.2638 L92.3184,80.25336 L92.22876,80.23104 C92.07072,80.19216 91.90728,80.17236 91.7442,80.17236 C90.88272,80.17236 90.1098,80.71272 89.82036,81.5166 C89.44056,82.57248 89.99064,83.74032 91.04616,84.11976 L91.13904,84.1536 C91.18548,84.1698 91.24488,84.19104 91.30068,84.24288 C91.32984,84.25944 91.35792,84.27672 91.38672,84.29616 C91.48428,84.35448 91.57536,84.42756 91.67148,84.50496 L91.6758,84.5082 L91.69164,84.52116 C91.92384,84.71952 92.14632,84.96504 92.33532,85.23144 C92.72628,85.75524 93.07224,86.47812 93.33144,87.3144 C93.61728,88.19856 93.75552,89.02656 93.74112,89.77104 C93.7314,89.99352 93.71916,90.20304 93.68028,90.41688 C93.66336,90.5148 93.64428,90.61668 93.62232,90.71712 L93.58992,90.85464 L93.5874,90.86472 L93.58452,90.87444 L93.5316,91.05336 C93.42072,91.43712 93.2508,91.87452 93.0528,92.2824 C92.32668,93.79152 91.05624,95.27508 89.37864,96.57108 C87.96708,97.67412 86.2524,98.64576 84.13812,99.53928 C80.61624,100.99044 76.57668,101.9412 72.12852,102.36636 C70.40988,102.52656 68.65704,102.60828 66.91788,102.60828 C64.50552,102.60828 62.06544,102.45204 59.66496,102.14496 C59.64768,102.14244 59.63328,102.14172 59.61888,102.14172 C59.4432,102.14172 59.29488,102.27348 59.27364,102.4488 C59.26212,102.54132 59.28768,102.63276 59.34492,102.7062 C59.40252,102.77964 59.48496,102.82608 59.57748,102.8376 C62.77644,103.2282 65.88324,103.42656 68.81076,103.42656 C69.9516,103.42656 71.09136,103.39668 72.19872,103.33764 C74.48868,103.21488 76.554,102.99312 78.5124,102.65976 C80.70768,102.29652 82.79964,101.78712 84.73212,101.14524 Z",
+                                "M109.314896,130.321752 C112.170764,129.384318 114.67412,128.240474 116.968476,126.82296 C119.767682,125.068694 121.838176,123.0723 123.295138,120.722919 C125.016833,117.951902 125.779916,114.493465 125.336371,111.471508 C125.210507,110.660705 124.997327,109.857323 124.702404,109.086411 C124.412127,108.301119 124.018278,107.530207 123.531076,106.789908 C122.977922,105.974003 122.367642,105.302354 121.669582,104.741564 C121.277591,104.426612 120.852624,104.149232 120.406758,103.916845 C120.190327,103.804595 119.955318,103.698838 119.687798,103.594936 C119.570758,103.550407 119.443964,103.505878 119.278158,103.454391 L119.15508,103.416819 L119.102133,103.403368 L118.986487,103.374609 C118.782596,103.324514 118.571738,103.299002 118.361344,103.299002 C117.249929,103.299002 116.252767,103.995235 115.879353,105.031004 C115.389364,106.391465 116.099036,107.896182 117.460787,108.385075 L117.580613,108.428677 C117.640527,108.44955 117.71716,108.476917 117.789149,108.543711 C117.826769,108.565048 117.862996,108.587312 117.900151,108.61236 C118.026016,108.687503 118.14352,108.781664 118.267527,108.881391 L118.2731,108.885565 L118.293536,108.902264 C118.593102,109.157843 118.880129,109.474186 119.123962,109.817432 C119.628349,110.492328 120.07468,111.423732 120.40908,112.501246 C120.777849,113.640452 120.956196,114.707298 120.937618,115.666532 C120.925078,115.953189 120.909287,116.223148 120.859127,116.498672 C120.837298,116.624838 120.812682,116.756107 120.784351,116.88552 L120.742551,117.062709 L120.7393,117.075697 L120.735584,117.088221 L120.667311,117.318752 C120.524262,117.813212 120.305044,118.376785 120.0496,118.902323 C119.112816,120.846766 117.473791,122.758276 115.30948,124.428122 C113.488393,125.849347 111.276244,127.101268 108.548562,128.252534 C104.004902,130.122298 98.7933711,131.347315 93.0546956,131.895118 C90.8374378,132.101529 88.5760578,132.206822 86.3323267,132.206822 C83.2200844,132.206822 80.07208,132.005513 76.9751644,131.609852 C76.9528711,131.606605 76.9342933,131.605678 76.9157156,131.605678 C76.6890667,131.605678 76.4977156,131.775445 76.4703133,132.001338 C76.4554511,132.120547 76.4884267,132.238364 76.5622733,132.332988 C76.6365844,132.427613 76.7429422,132.487449 76.8623044,132.502292 C80.9893578,133.005565 84.9975133,133.261145 88.7743756,133.261145 C90.2462,133.261145 91.7166311,133.222645 93.1452622,133.146575 C96.0995933,132.988403 98.7641111,132.702674 101.290689,132.273152 C104.122871,131.805132 106.821758,131.148789 109.314896,130.321752 Z",
                               id: "Path",
                               fill: "url(#linearGradient-191)"
                             }
@@ -74761,7 +74642,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M103.18644,89.38188 C103.09536,89.38188 103.01832,89.45316 103.01112,89.54424 C102.95352,90.24624 102.82608,90.92808 102.6324,91.5804 C102.45528,92.17332 102.2058,92.78856 101.86956,93.46104 C101.30904,94.56588 100.51164,95.65776 99.49716,96.7068 C98.54784,97.67772 97.50348,98.50284 96.39144,99.1602 C95.83056,99.48996 95.24952,99.7668 94.70448,100.017 C94.39956,100.15308 94.104,100.2762 93.88008,100.368 L93.4776,100.52424 L93.30984,100.5912 C93.27852,100.60524 93.23208,100.62396 93.17196,100.64268 L93.05208,100.683 C92.58804,100.84068 92.27268,101.29212 92.286,101.78136 C92.3022,102.39732 92.79684,102.87972 93.41244,102.87972 L93.44304,102.879 L93.57732,102.8754 C93.6144,102.8754 93.64968,102.8736 93.6936,102.86748 L93.69648,102.86712 L93.717,102.8646 C93.82572,102.85164 93.92868,102.8394 94.02048,102.8232 C94.24224,102.78576 94.4352,102.744 94.61268,102.69504 C94.9788,102.59748 95.3532,102.46248 95.7294,102.29148 C96.35472,102.01284 96.9624,101.63988 97.70112,101.08116 C98.90064,100.17 99.96804,99.08424 100.87236,97.85484 C101.77632,96.62724 102.46788,95.29308 102.92868,93.8898 C103.40316,92.42244 103.55364,90.91584 103.36284,89.53524 C103.35168,89.45352 103.28364,89.39016 103.20192,89.38332 L103.19436,89.2044 C103.19184,89.20404 103.18968,89.20296 103.1868,89.2026 L103.1868,89.38188 L103.18644,89.38188 Z",
+                                "M133.123247,115.165115 C133.005742,115.165115 132.906351,115.256956 132.897062,115.374309 C132.822751,116.278809 132.658338,117.157334 132.408467,117.997823 C132.17996,118.761778 131.8581,119.554491 131.424309,120.420955 C130.701169,121.844499 129.672424,123.251345 128.36362,124.602992 C127.13888,125.853985 125.791527,126.917121 124.356858,127.764104 C123.633253,128.188987 122.88364,128.545685 122.180471,128.868058 C121.787087,129.043392 121.405778,129.202027 121.116893,129.320308 L120.597644,129.521617 L120.381213,129.607892 C120.340807,129.625982 120.280893,129.650102 120.203331,129.674222 L120.048671,129.726173 C119.450002,129.929338 119.043149,130.511001 119.060333,131.141368 C119.081233,131.935008 119.71938,132.556562 120.51358,132.556562 L120.553058,132.555635 L120.726296,132.550996 C120.774133,132.550996 120.819649,132.548677 120.876311,132.540792 L120.880027,132.540328 L120.9065,132.537081 C121.046762,132.520382 121.179593,132.504612 121.298027,132.483738 C121.584124,132.435498 121.833067,132.381692 122.062038,132.318609 C122.534378,132.192907 123.0174,132.018965 123.502744,131.798638 C124.309484,131.439621 125.093467,130.959076 126.046507,130.239187 C127.594036,129.065192 128.971113,127.666232 130.137798,126.082198 C131.304018,124.500482 132.196216,122.781468 132.790704,120.973396 C133.402842,119.082759 133.59698,117.141563 133.350824,115.362713 C133.336427,115.25742 133.248647,115.175783 133.143218,115.16697 L133.133464,114.936438 C133.130213,114.935975 133.127427,114.934583 133.123711,114.934119 L133.123711,115.165115 L133.123247,115.165115 Z",
                               id: "Path",
                               fill: "url(#linearGradient-192)"
                             }
@@ -74770,7 +74651,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M152.05536,40.5108 C151.3278,40.5108 150.73092,41.103 150.72516,41.83056 C150.71832,42.65928 150.56892,43.62264 150.26796,44.77572 C150.00732,45.76608 149.66496,46.75572 149.24952,47.71764 C148.39956,49.68432 147.33288,51.52104 146.07972,53.17848 C144.7956,54.87516 143.31672,56.4372 141.6852,57.82068 C139.9176,59.32944 138.07404,60.4854 136.20636,61.25508 C136.2006,61.25724 136.1916,61.26192 136.18368,61.26588 C136.1322,61.29468 136.0962,61.34076 136.08036,61.3962 C136.06488,61.45164 136.07208,61.50996 136.10016,61.56036 C136.13832,61.62876 136.21104,61.67124 136.28916,61.67124 C136.3266,61.67124 136.36152,61.66224 136.39464,61.64352 C138.43332,60.50304 140.26284,59.46012 142.01064,58.24224 C143.80704,56.98764 145.47024,55.52964 146.95416,53.90892 C148.52772,52.18128 149.85216,50.37408 150.88896,48.53808 C151.49808,47.45232 151.98408,46.45512 152.37324,45.48996 C152.8848,44.2044 153.18936,43.16256 153.35964,42.11424 L153.37116,42.04548 C153.38016,41.98572 153.38556,41.91948 153.386327,41.85288 C153.3924,41.1192 152.8002,40.51728 152.06652,40.51116 L152.06076,40.33188 C152.0586,40.33188 152.0568,40.33116 152.05464,40.33116 L152.05464,40.5108 L152.05536,40.5108 Z",
+                                "M196.170187,52.1966077 C195.231544,52.1966077 194.461496,52.9596346 194.454064,53.8970677 C194.44524,54.9648415 194.252496,56.2060938 193.86422,57.6917931 C193.527962,58.9678338 193.086276,60.2429469 192.550307,61.4823438 C191.453753,64.0163354 190.077604,66.3828785 188.460873,68.5184262 C186.8042,70.7045331 184.896262,72.7171615 182.7914,74.4997223 C180.510978,76.4437015 178.132558,77.9331115 175.72302,78.9248146 C175.715589,78.9275977 175.703978,78.9336277 175.69376,78.93873 C175.627344,78.9758377 175.5809,79.03521 175.560464,79.1066423 C175.540493,79.1780746 175.549782,79.2532177 175.586009,79.3181562 C175.63524,79.4062869 175.729058,79.4610208 175.829842,79.4610208 C175.878144,79.4610208 175.923196,79.4494246 175.965924,79.4253046 C178.596073,77.95584 180.95638,76.6120777 183.211258,75.0428862 C185.528836,73.4263823 187.674569,71.5478054 189.589009,69.45957 C191.619096,67.2335723 193.327787,64.9050646 194.665387,62.5394492 C195.451227,61.1404892 196.078227,59.8556354 196.580291,58.6120638 C197.240267,56.9556692 197.633187,55.6132985 197.852869,54.2625785 L197.867731,54.1739838 C197.879342,54.0969854 197.886309,54.0116377 197.887298,53.9258262 C197.895133,52.9805077 197.131122,52.2049569 196.184584,52.1970715 L196.177153,51.9660762 C196.174367,51.9660762 196.172044,51.9651485 196.169258,51.9651485 L196.169258,52.1966077 L196.170187,52.1966077 Z",
                               id: "Path",
                               fill: "url(#linearGradient-193)"
                             }
@@ -74779,7 +74660,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M13.34016,6.8184 L13.35996,6.80652 C13.53168,6.69564 13.58136,6.46668 13.47084,6.29568 C13.4028,6.18984 13.28652,6.12648 13.16016,6.12648 C13.0896,6.12648 13.02048,6.147 12.96072,6.18552 C12.06072,6.76548 11.12292,7.31592 10.21572,7.84836 C9.90072,8.0334 9.585,8.21844 9.26964,8.40564 C7.8138,9.25596 6.66108,10.00836 5.6394,10.77552 C4.46184,11.68416 3.32208,12.61332 2.36376,13.94964 C1.81656,14.73048 1.45656,15.5016 1.26612,16.30368 C1.0098,17.3304 1.12896,18.43884 1.22256,19.00872 L1.24308,19.13616 C1.26144,19.2438 1.29276,19.3536 1.33524,19.46016 C1.58076,20.07432 2.16684,20.47104 2.8278,20.47104 C3.03192,20.47104 3.23244,20.43252 3.42396,20.35584 C4.24656,20.0268 4.64832,19.08936 4.31928,18.2664 C4.10904,17.74116 3.97836,17.30844 3.9762,16.776 C3.97152,16.28964 4.10904,15.73272 4.37364,15.16644 C4.83552,14.175 5.6214,13.10976 6.70968,12.00024 C7.5744,11.11248 8.59104,10.19916 9.81648,9.20916 C11.04156,8.23896 12.1932,7.45776 13.34016,6.8184 Z",
+                                "M17.2104533,8.78524615 L17.2359978,8.76993923 C17.4575378,8.62707462 17.5216311,8.33206846 17.3790467,8.11174154 C17.2912667,7.97537077 17.1412511,7.89373385 16.9782311,7.89373385 C16.8872,7.89373385 16.7980267,7.92017308 16.7209289,7.96980462 C15.5598178,8.71706077 14.34994,9.42628154 13.17954,10.11231 C12.7731511,10.3507269 12.3658333,10.5891438 11.95898,10.8303438 C10.0807667,11.9259485 8.59361556,12.8953869 7.27552222,13.8838431 C5.75632444,15.0545908 4.28589333,16.2517777 3.04954222,17.9735746 C2.34358667,18.9796569 1.87914222,19.9732154 1.63345111,21.0066646 C1.30276667,22.3295538 1.45649778,23.7577362 1.57725333,24.4920046 L1.60372667,24.6562062 C1.62741333,24.7948962 1.66782,24.9363692 1.72262444,25.0736677 C2.03937556,25.8649892 2.79549111,26.3761477 3.64821111,26.3761477 C3.91155111,26.3761477 4.17024667,26.3265162 4.41733111,26.2277169 C5.47858667,25.8037615 5.99690667,24.5959062 5.57240444,23.5355538 C5.30116889,22.8588023 5.13257556,22.3012592 5.12978889,21.6152308 C5.12375111,20.9885746 5.30116889,20.2710046 5.64253556,19.5413746 C6.23841778,18.2639423 7.2523,16.8914215 8.65631556,15.4618477 C9.77191111,14.3180031 11.0835022,13.1412254 12.6644711,11.8656485 C14.2449756,10.6155831 15.7307333,9.60903692 17.2104533,8.78524615 Z",
                               id: "Path",
                               fill: "url(#linearGradient-194)"
                             }
@@ -74788,7 +74669,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M161.16444,39.04884 C161.03376,38.89116 160.88868,38.81736 160.70868,38.81736 C160.66692,38.81736 160.62264,38.82168 160.57728,38.8296 C159.84576,38.95776 159.80472,39.73284 159.88788,41.34852 C159.921,41.99364 159.95556,42.66108 159.88248,43.2864 C159.759,44.34732 159.23916,45.16704 158.85936,45.765 C158.65272,46.0908 158.39604,46.49508 158.47128,46.58688 C158.47164,46.58688 158.47236,46.58652 158.4738,46.58652 C158.47812,46.58652 158.4882,46.58796 158.50368,46.58796 C159.14016,46.58796 161.01108,44.93664 161.42112,42.77268 C161.74116,41.08572 161.64036,39.62376 161.16444,39.04884 Z",
+                                "M207.922024,50.3129285 C207.753431,50.1097638 207.56626,50.0146754 207.334038,50.0146754 C207.280162,50.0146754 207.223036,50.0202415 207.164516,50.0304462 C206.220764,50.1955754 206.167818,51.1942362 206.275104,53.2759777 C206.317833,54.10719 206.36242,54.9671608 206.268138,55.7728615 C206.108833,57.1398162 205.438176,58.1959938 204.948187,58.9664423 C204.681596,59.3862231 204.350447,59.9071223 204.447516,60.0254031 C204.44798,60.0254031 204.448909,60.0249392 204.450767,60.0249392 C204.45634,60.0249392 204.469344,60.0267946 204.489316,60.0267946 C205.310453,60.0267946 207.724171,57.8991323 208.253173,55.1109531 C208.666064,52.93737 208.53602,51.0536908 207.922024,50.3129285 Z",
                               id: "Path",
                               fill: "url(#linearGradient-195)"
                             }
@@ -74797,7 +74678,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M116.40672,51.24996 C116.17056,50.92236 115.86024,50.76288 115.45812,50.76288 C115.39044,50.76288 115.31952,50.76792 115.24716,50.77692 C114.12648,50.91948 114.18444,52.20108 114.37092,54.27972 C114.45012,55.15848 114.53184,56.06712 114.4656,56.90196 C114.354,58.30452 113.70456,59.4162 113.22972,60.228 C112.83012,60.91164 112.59396,61.33968 112.77612,61.50888 C112.80636,61.53696 112.83552,61.54812 112.88052,61.54812 C113.55084,61.54812 115.23204,59.54508 116.2386,56.52576 C117.01332,54.20268 117.07776,52.18092 116.40672,51.24996 Z",
+                                "M150.17904,66.0336023 C149.874364,65.6115023 149.474013,65.4060185 148.955229,65.4060185 C148.867913,65.4060185 148.776418,65.4125123 148.683064,65.4241085 C147.237249,65.6077915 147.312024,67.2590838 147.552607,69.9373315 C147.654784,71.06958 147.760213,72.2403277 147.674756,73.3159869 C147.530778,75.1231315 146.69292,76.5554885 146.080318,77.6014615 C145.564784,78.4823054 145.260109,79.0338185 145.495118,79.2518262 C145.534131,79.2880062 145.571751,79.3023854 145.629807,79.3023854 C146.494602,79.3023854 148.663558,76.7215454 149.962144,72.8312677 C150.961629,69.8380685 151.044764,67.2331085 150.17904,66.0336023 Z",
                               id: "Path",
                               fill: "url(#linearGradient-196)"
                             }
@@ -74806,7 +74687,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M9.96120454,1.22652 C9.96192,0.9198 9.87696,0.67896 9.70812,0.5094 C9.48312,0.28404 9.09576,0.16452 8.58744,0.16452 C7.39872,0.16452 5.74416,0.80316 4.16124,1.87344 C2.14812,3.23424 0.76392,4.47948 0.1206,5.20812 C0.14616,5.193 0.17172,5.17788 0.19692,5.16276 C1.05768,4.6512 2.358,3.87792 3.95748,3.4542 C4.86828,3.213 5.80176,3.0798 6.62472,2.9628 C8.75304,2.65932 9.9576,2.42928 9.96120454,1.22652 Z",
+                                "M12.8511836,1.58032385 C12.8521067,1.18512692 12.7424978,0.874813846 12.5246733,0.656342308 C12.2343956,0.365974615 11.7346533,0.211977692 11.0788578,0.211977692 C9.54526222,0.211977692 7.41067556,1.03484077 5.36851333,2.41385538 C2.77134,4.16719385 0.985551111,5.77163769 0.155588889,6.71046231 C0.188564444,6.69098077 0.22154,6.67149923 0.254051111,6.65201769 C1.36453778,5.99289231 3.04211111,4.99655077 5.10563778,4.45060385 C6.28068222,4.13982692 7.48498667,3.96820385 8.54670667,3.81745385 C11.2925022,3.42643154 12.8465333,3.13003385 12.8511836,1.58032385 Z",
                               id: "Path",
                               fill: "url(#linearGradient-197)"
                             }
@@ -74815,7 +74696,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M36.83124,61.72344 C36.53676,61.34076 35.78076,61.0776 34.8084,61.01928 C34.6572,61.01028 34.47612,61.00596 34.27164,61.00056 C32.89392,60.96636 30.58776,60.90948 28.9224,59.44536 C26.8362,57.61116 26.64576,55.65996 26.55432,54.72252 C26.54856,54.66456 26.54244,54.60156 26.53596,54.54252 C26.50068,54.57996 26.46324,54.6336 26.42544,54.70884 C25.96104,55.63584 26.2512,58.32036 27.60336,60.12972 C28.71324,61.61436 30.96576,63.16164 33.49548,63.27072 C33.79896,63.28368 34.06824,63.29016 34.3188,63.29016 C36.46152,63.29016 36.85176,62.7876 36.95076,62.2962 C36.99612,62.07048 36.95832,61.88832 36.83124,61.72344 Z",
+                                "M47.5168467,79.5282785 C47.1369311,79.03521 46.1615978,78.6961385 44.9071333,78.6209954 C44.7120667,78.6093992 44.4784511,78.6038331 44.2146467,78.5968754 C42.4372178,78.55281 39.4619867,78.4795223 37.3134667,76.59306 C34.6220111,74.2297638 34.37632,71.7157177 34.2583511,70.5078623 C34.25092,70.4331831 34.2430244,70.35201 34.2346644,70.2759392 C34.1891489,70.3241792 34.1408467,70.3932923 34.09208,70.4902362 C33.4929467,71.68464 33.8672889,75.1435408 35.6117422,77.4748315 C37.0436244,79.3877331 39.9496533,81.3813438 43.2133044,81.5218892 C43.6048311,81.5385877 43.9522356,81.5469369 44.2754889,81.5469369 C47.0398622,81.5469369 47.54332,80.8994077 47.6710422,80.2662577 C47.7295622,79.9754262 47.6807956,79.74072 47.5168467,79.5282785 Z",
                               id: "Path",
                               fill: "url(#linearGradient-198)"
                             }
@@ -75344,7 +75225,7 @@ var render = function() {
                     {
                       attrs: {
                         id: "Delivery",
-                        transform: "translate(342.000000, -3.000000)"
+                        transform: "translate(285.000000, -74.000000)"
                       }
                     },
                     [
@@ -75353,7 +75234,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "left_drone_arm",
-                            transform: "translate(104.040000, 64.800000)",
+                            transform: "translate(151.000000, 94.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -75361,7 +75242,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.3312,0.3402 C-0.27036,0.61092 1.57644,4.14828 2.16504,5.14008 C2.75364,6.13188 10.13184,13.33728 12.98016,19.23624 C15.8292,25.1352 15.86268,32.9526 15.6582,34.71372 C15.45408,36.47484 20.01852,37.20168 20.01852,37.20168 C20.01852,37.20168 22.26024,27.41184 17.94384,18.76644 C14.3964,11.66112 6.9948,5.589 5.47128,4.2192 C3.66624,2.5956 0.95796,0.05796 0.3312,0.3402 Z",
+                                "M0.481745455,0.49425283 C-0.393250909,0.887563019 2.29300364,6.02674642 3.14914909,7.4676634 C4.00529455,8.90858038 14.7372218,19.376803 18.8802327,27.9469902 C23.0242909,36.5171774 23.0729891,47.8745321 22.7755636,50.4331404 C22.4786618,52.9917487 29.1178473,54.0477238 29.1178473,54.0477238 C29.1178473,54.0477238 32.3785309,39.8247487 26.1001309,27.2644506 C20.9402182,16.9416272 10.1742545,8.11986792 7.95822545,6.12978113 C5.33271273,3.77096604 1.39339636,0.0842060377 0.481745455,0.49425283 Z",
                               id: "Path",
                               fill: "url(#linearGradient-217)"
                             }
@@ -75370,7 +75251,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M16.73136,16.60284 C17.16912,17.3106 17.57808,18.0324 17.94456,18.76608 C18.0882,19.05408 18.22356,19.34352 18.35352,19.63368 C17.77536,19.42524 14.73048,19.74024 13.81932,21.16224 C13.56012,20.50524 13.28184,19.85976 12.98052,19.23624 C12.90456,19.07892 12.82392,18.92016 12.74148,18.7614 C13.43988,17.26488 15.91488,16.54488 16.73136,16.60284 Z",
+                                "M24.3365236,24.1211072 C24.9732655,25.1493623 25.5681164,26.1980151 26.1011782,27.2639275 C26.3101091,27.6823426 26.5069964,28.1028498 26.6960291,28.524403 C25.8550691,28.2215751 21.4261527,28.6792166 20.1008291,30.7451411 C19.7238109,29.7906317 19.31904,28.8528589 18.8807564,27.9469902 C18.7702691,27.7184309 18.6529745,27.4877796 18.5330618,27.2571283 C19.5489164,25.0829389 23.1489164,24.0369011 24.3365236,24.1211072 Z",
                               id: "Path",
                               fill: "url(#linearGradient-218)"
                             }
@@ -75379,7 +75260,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M20.51172,33.48252 C20.349,35.75268 20.01888,37.20132 20.01888,37.20132 C20.01888,37.20132 15.45408,36.47448 15.65856,34.71336 C15.71076,34.26516 15.72804,33.40476 15.74352,32.30928 C17.47512,31.86 19.36512,32.55012 20.51172,33.48252 Z",
+                                "M29.8352291,48.6444158 C29.5985455,51.9425728 29.1183709,54.0472008 29.1183709,54.0472008 C29.1183709,54.0472008 22.4786618,52.9912257 22.7760873,50.4326174 C22.8520145,49.7814589 22.8771491,48.5314438 22.8996655,46.9398974 C25.4183564,46.2871698 28.1674473,47.289797 29.8352291,48.6444158 Z",
                               id: "Path",
                               fill: "url(#linearGradient-219)"
                             }
@@ -75388,7 +75269,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M18.35208,34.91172 C17.01216,34.23132 13.63572,33.06672 10.476,37.58976 C7.31628,42.1128 6.33312,46.66284 8.42688,49.5918 C10.52028,52.52076 15.22944,54.04464 17.56188,51.97104 C20.34108,49.49964 22.21956,42.03 20.97252,37.98792 C20.37024,36.03816 18.75636,35.11692 18.35208,34.91172 Z",
+                                "M26.6939345,50.7208008 C24.74496,49.7322951 19.8337745,48.0403291 15.2378182,54.6115381 C10.6418618,61.1827472 9.21181091,67.7931826 12.25728,72.0484642 C15.3022255,76.3037457 22.1519127,78.5176845 25.5445527,75.5050958 C29.5870255,71.9145713 32.31936,61.0624528 30.5054836,55.189997 C29.62944,52.3573268 27.2819782,51.0189215 26.6939345,50.7208008 Z",
                               id: "Path",
                               fill: "url(#linearGradient-220)"
                             }
@@ -75397,7 +75278,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M10.47564,37.58976 C12.70656,34.39656 15.04404,34.03908 16.69788,34.34364 L16.69788,34.34364 C15.12144,35.00676 9.126,43.1982 8.9802,50.26788 L8.9802,50.26788 C8.78076,50.05188 8.59428,49.82688 8.42616,49.5918 C6.33276,46.66284 7.31556,42.1128 10.47564,37.58976 Z",
+                                "M15.2372945,54.6115381 C18.4822691,49.9723608 21.88224,49.453003 24.2878255,49.895477 L24.2878255,49.895477 C21.9948218,50.8588777 13.2741818,62.7596491 13.0621091,73.0306936 L13.0621091,73.0306936 C12.7720145,72.7168823 12.5007709,72.3899955 12.2562327,72.0484642 C9.21128727,67.7931826 10.6408145,61.1827472 15.2372945,54.6115381 Z",
                               id: "Path",
                               fill: "url(#linearGradient-221)"
                             }
@@ -75410,7 +75291,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "box",
-                            transform: "translate(72.720000, 103.320000)"
+                            transform: "translate(106.000000, 150.000000)"
                           }
                         },
                         [
@@ -75420,7 +75301,7 @@ var render = function() {
                               fill: "url(#linearGradient-222)",
                               "fill-rule": "nonzero",
                               points:
-                                "0 50.04 47.88 52.08012 47.88 13.92012 0 13.92012"
+                                "0 72.6996226 69.7911864 75.6635706 69.7911864 20.2235706 0 20.2235706"
                             }
                           }),
                           _vm._v(" "),
@@ -75439,7 +75320,7 @@ var render = function() {
                             [
                               _c(
                                 "tspan",
-                                { attrs: { x: "13.8694922", y: "34" } },
+                                { attrs: { x: "24.1661024", y: "48.9433962" } },
                                 [_vm._v("TAHI26")]
                               )
                             ]
@@ -75448,7 +75329,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M34.31988,43.98012 C34.317,43.98012 34.31412,43.98012 34.3116,43.98012 L12.7116,43.47 C12.51612,43.46532 12.35988,43.30548 12.35988,43.11 L12.35988,21.12012 C12.35988,21.024 12.39804,20.9322 12.46644,20.86452 C12.53448,20.79684 12.63456,20.7612 12.72276,20.76012 L34.32276,20.94012 C34.5204,20.94156 34.67988,21.10248 34.67988,21.30012 L34.67988,43.62012 C34.67988,43.71732 34.641,43.80984 34.57152,43.87752 C34.5042,43.9434 34.41384,43.98012 34.31988,43.98012 Z M13.07988,42.75828 L33.95988,43.25148 L33.95988,21.65724 L13.07988,21.48336 L13.07988,42.75828 L13.07988,42.75828 Z",
+                                "M50.0255878,63.895646 C50.0213898,63.895646 50.0171919,63.895646 50.0135186,63.895646 L18.5287729,63.1545283 C18.2438359,63.1477291 18.0160963,62.9155087 18.0160963,62.6315094 L18.0160963,30.6839479 C18.0160963,30.5443019 18.0717193,30.4109321 18.171421,30.3126045 C18.270598,30.214277 18.4164773,30.1624981 18.54504,30.1609291 L50.0297858,30.4224385 C50.3178712,30.4245306 50.5503336,30.65832 50.5503336,30.9454574 L50.5503336,63.3726272 C50.5503336,63.5138423 50.493661,63.6482581 50.3923851,63.7465857 C50.2942576,63.8422981 50.1625464,63.895646 50.0255878,63.895646 Z M19.0655878,62.12052 L49.500842,62.8370558 L49.500842,31.4642921 L19.0655878,31.211674 L19.0655878,62.12052 L19.0655878,62.12052 Z",
                               id: "Shape",
                               fill: "#FFFFFF",
                               "fill-rule": "nonzero"
@@ -75461,7 +75342,7 @@ var render = function() {
                               fill: "url(#linearGradient-223)",
                               "fill-rule": "nonzero",
                               points:
-                                "58.07988 35.64 47.88 52.08012 47.88 13.92012 58.07988 0"
+                                "84.6588081 51.7788679 69.7911864 75.6635706 69.7911864 20.2235706 84.6588081 0"
                             }
                           }),
                           _vm._v(" "),
@@ -75471,14 +75352,14 @@ var render = function() {
                               fill: "url(#linearGradient-224)",
                               "fill-rule": "nonzero",
                               points:
-                                "58.07988 0 16.65 0 0 13.92012 47.88 13.92012"
+                                "84.6588081 0 24.2694915 0 0 20.2235706 69.7911864 20.2235706"
                             }
                           }),
                           _vm._v(" "),
                           _c("path", {
                             attrs: {
                               d:
-                                "M52.57872,45.01188 C52.38,45.01188 52.21872,44.8506 52.21872,44.65188 L52.21872,7.5078 C52.21872,7.30908 52.38,7.1478 52.57872,7.1478 C52.77744,7.1478 52.93872,7.30908 52.93872,7.5078 L52.93872,44.65188 C52.93872,44.8506 52.77744,45.01188 52.57872,45.01188 Z",
+                                "M76.6401681,65.3946181 C76.3505085,65.3946181 76.1154224,65.1603057 76.1154224,64.8715992 L76.1154224,10.9075585 C76.1154224,10.6188521 76.3505085,10.3845396 76.6401681,10.3845396 C76.9298278,10.3845396 77.1649139,10.6188521 77.1649139,10.9075585 L77.1649139,64.8715992 C77.1649139,65.1603057 76.9298278,65.3946181 76.6401681,65.3946181 Z",
                               id: "Path",
                               fill: "#FBC881",
                               "fill-rule": "nonzero"
@@ -75492,7 +75373,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "Layer_4",
-                            transform: "translate(57.240000, 37.080000)",
+                            transform: "translate(83.000000, 54.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -75500,7 +75381,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M0.36,31.77 C0.50544,29.87712 2.99988,7.56 17.01,2.79 C20.57004,1.57788 27.81,1.73988 32.78988,4.07988 C41.00904,7.94196 49.6656,14.7132 52.02,20.16 C55.08,27.24012 54.31428,43.6716 53.829,44.91828 C53.199,46.53828 48.87,50.445 43.83,51.66 C39.81492,52.62804 25.65,53.55 20.34,51.66 C15.03,49.77 -0.18,38.79 0.36,31.77 Z",
+                                "M0.523636364,46.1564151 C0.735185455,43.4063819 4.36346182,10.9833962 24.7418182,4.05339623 C29.9200582,2.2923917 40.4509091,2.52775019 47.6943709,5.92737283 C59.6495127,11.5383192 72.2408727,21.3757811 75.6654545,29.2890566 C80.1163636,39.5752687 79.0025891,63.4474189 78.2967273,65.2586332 C77.3803636,67.6122181 71.0836364,73.2880189 63.7527273,75.0532075 C57.9126109,76.4596053 37.3090909,77.7990566 29.5854545,75.0532075 C21.8618182,72.3073585 -0.261818182,56.355283 0.523636364,46.1564151 Z",
                               id: "Path",
                               fill: "url(#linearGradient-225)"
                             }
@@ -75509,7 +75390,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M32.64984,7.1784 C34.02432,8.32644 35.41464,9.59976 36.52308,11.10132 C37.6434,12.59352 38.50848,14.2542 39.18672,15.96204 C40.54176,19.39032 41.21172,22.99248 41.73228,26.55684 C42.2424,30.13164 42.579,33.71868 42.80472,37.314 C43.02072,40.91076 43.14276,44.51148 43.0182,48.141 L41.31144,48.069 C41.4648,44.53596 41.37768,40.96368 41.19588,37.40652 C41.00472,33.84792 40.70268,30.29076 40.23216,26.766 C39.75228,23.24664 39.12372,19.74204 37.86696,16.48044 C37.23804,14.85504 36.44424,13.30344 35.42328,11.9178 C34.41024,10.52136 33.15096,9.34056 31.79016,8.18172 L32.64984,7.1784 Z",
+                                "M47.4906764,10.4289962 C49.48992,12.0969034 51.5122036,13.9468211 53.12448,16.1283328 C54.7540364,18.296246 56.0123345,20.7089321 56.9988655,23.1901336 C58.9698327,28.1708423 59.94432,33.4041691 60.7014982,38.5825789 C61.4434909,43.7761562 61.9330909,48.9875162 62.2614109,54.2109057 C62.5755927,59.4363872 62.7531055,64.6676219 62.5719273,69.9406981 L60.0893673,69.8360943 C60.3124364,64.7031872 60.1857164,59.5132709 59.92128,54.3453215 C59.6432291,49.17528 59.2038982,44.0073306 58.5195055,38.8864528 C57.8214982,33.7734204 56.9072291,28.6818317 55.0792145,23.9432808 C54.1644218,21.5818506 53.0098036,19.3276392 51.5247709,17.3145396 C50.0512582,15.2857494 48.2195782,13.5702475 46.2402327,11.8866498 L47.4906764,10.4289962 Z",
                               id: "Path",
                               fill: "url(#linearGradient-226)"
                             }
@@ -75518,7 +75399,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M41.04,24.3 C34.87248,24.45552 27.54,22.07988 26.32356,20.54088 C26.32356,20.54088 25.515,29.025 26.28,35.16012 C28.8,39.96 36.351,42.61608 42.05988,42.18012 C48.735,41.67 53.21988,36.84024 54.24408,34.3836 L54.24408,34.3836 C54.0972,29.31876 53.5158,23.62176 52.01964,20.16036 C51.696,19.41084 51.24888,18.63612 50.70384,17.84772 C50.26212,21.2418 46.3932,24.165 41.04,24.3 Z",
+                                "M59.6945455,35.3037736 C50.7236073,35.5297177 40.0581818,32.0783162 38.2888145,29.8424106 C38.2888145,29.8424106 37.1127273,42.1683962 38.2254545,51.0816838 C41.8909091,58.0550943 52.8741818,61.9139275 61.1780073,61.2805517 C70.8872727,60.539434 77.4107345,53.5226128 78.90048,49.9535321 L78.90048,49.9535321 C78.6868364,42.5951796 77.8411636,34.318406 75.6649309,29.2895796 C75.1941818,28.2006543 74.5438255,27.0751177 73.75104,25.9297064 C73.1085382,30.8607283 67.4810182,35.1076415 59.6945455,35.3037736 Z",
                               id: "Path",
                               fill: "#FDE1A7"
                             }
@@ -75527,7 +75408,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M25.56,48.51 C26.64,46.98 27.0234,30.59892 26.64,23.67 C26.21988,16.08012 23.67,10.755 18.11988,8.34012 C14.47524,6.75432 9.567,7.8354 7.14636,10.97424 C1.69848,19.27368 0.46116,30.4542 0.35964,31.77 C-0.18036,38.79 15.02964,49.77 20.33964,51.66 C20.57724,51.7446 20.83788,51.82164 21.10932,51.89508 C23.15664,51.02676 24.74388,49.66596 25.56,48.51 Z",
+                                "M37.1781818,70.4767925 C38.7490909,68.2539623 39.3067636,44.4550347 38.7490909,34.3884906 C38.1380073,23.3616838 34.4290909,15.6251887 26.3561891,12.1167781 C21.0548945,9.81288 13.9156364,11.3835057 10.3947055,15.9437072 C2.47051636,28.0013842 0.670778182,44.2447811 0.523112727,46.1564151 C-0.262341818,56.355283 21.8612945,72.3073585 29.5849309,75.0532075 C29.9305309,75.176117 30.3096436,75.288043 30.7044655,75.3947389 C33.6823855,74.1332174 35.9910982,72.156206 37.1781818,70.4767925 Z",
                               id: "Path",
                               fill: "url(#linearGradient-227)"
                             }
@@ -75536,16 +75417,7 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M21.62268,5.83884 C23.94108,7.93296 28.58004,11.31516 34.08012,9.72 C38.57256,8.41716 33.54192,3.78072 31.44384,2.9502 C26.69364,1.40724 20.95524,1.77012 18.51012,1.90512 C17.7426,1.9476 15.31152,2.66436 14.517,2.94768 C14.32728,3.01536 14.31036,3.53268 14.34888,3.97296 C15.3324,3.46788 18.41904,2.94516 21.62268,5.83884 Z",
-                              id: "Path",
-                              fill: "url(#linearGradient-228)"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M5.94,37.215 C6.075,35.055 6.60708,20.3148 14.355,22.365 C19.73988,23.78988 18.80424,34.35444 18.585,38.115 C18.41472,41.0364 17.865,45.945 17.865,45.945 L5.94,37.215 Z",
+                                "M8.64,54.0670755 C8.83636364,50.9289623 9.61029818,29.5139547 20.88,32.4925472 C28.7125527,34.5626558 27.3516218,49.9111675 27.0327273,55.3746226 C26.7850473,59.6189208 25.9854545,66.750283 25.9854545,66.750283 L8.64,54.0670755 Z",
                               id: "Path",
                               fill: "#FDE1A7"
                             }
@@ -75554,7 +75426,16 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M14.355,22.365 C13.89924,22.2444 13.4694,22.18392 13.06188,22.17348 C17.6616,24.30036 16.80444,34.07724 16.59528,37.66572 C16.47072,39.8016 16.14384,42.99732 15.9768,44.56296 L17.865,45.94536 C17.865,45.94536 18.41472,41.03676 18.585,38.11536 C18.80424,34.35444 19.73988,23.78988 14.355,22.365 Z",
+                                "M20.88,32.4925472 C20.2170764,32.3173358 19.5918545,32.2294687 18.9990982,32.2143011 C25.6896,35.3042966 24.4428218,49.508443 24.1385891,54.7218951 C23.9574109,57.824966 23.4819491,62.4678045 23.2389818,64.7424136 L25.9854545,66.750806 C25.9854545,66.750806 26.7850473,59.6194438 27.0327273,55.3751457 C27.3516218,49.9111675 28.7125527,34.5626558 20.88,32.4925472 Z",
+                              id: "Path",
+                              fill: "url(#linearGradient-228)"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("path", {
+                            attrs: {
+                              d:
+                                "M38.7490909,34.3884906 C38.1380073,23.3616838 34.4290909,15.6251887 26.3561891,12.1167781 C25.6576582,11.8129042 24.9256145,11.5812068 24.1757673,11.4096566 C32.0826764,14.9661849 35.7313745,22.6519472 36.3361745,33.569443 C36.8938473,43.6359872 36.3361745,67.4349147 34.7652655,69.6577449 C33.60384,71.3010702 31.6035491,73.4083132 28.8418909,74.7665932 C29.1021382,74.8738121 29.3503418,74.9700475 29.5849309,75.0532075 C29.9305309,75.176117 30.3096436,75.288043 30.7044655,75.3947389 C33.6818618,74.1332174 35.9910982,72.156206 37.1776582,70.4767925 C38.7490909,68.2539623 39.3067636,44.4550347 38.7490909,34.3884906 Z",
                               id: "Path",
                               fill: "url(#linearGradient-229)"
                             }
@@ -75563,53 +75444,22 @@ var render = function() {
                           _c("path", {
                             attrs: {
                               d:
-                                "M26.64,23.67 C26.21988,16.08012 23.67,10.755 18.11988,8.34012 C17.63964,8.13096 17.13636,7.97148 16.62084,7.8534 C22.05684,10.3014 24.56532,15.5916 24.98112,23.10624 C25.36452,30.03516 24.98112,46.41624 23.90112,47.94624 C23.10264,49.07736 21.72744,50.5278 19.8288,51.46272 C20.00772,51.53652 20.17836,51.60276 20.33964,51.66 C20.57724,51.7446 20.83788,51.82164 21.10932,51.89508 C23.15628,51.02676 24.74388,49.66596 25.55964,48.51 C26.64,46.98 27.0234,30.59892 26.64,23.67 Z",
+                                "M78.5229382,64.0216936 C78.4580073,64.0787026 78.3920291,64.1341426 78.3276218,64.1916747 L77.7516218,64.7146936 L77.4740945,64.9725419 C77.4044509,65.0358272 77.3316655,65.0991125 77.2515491,65.1603057 C76.6032873,65.6550815 75.7152,66.0321781 74.8182109,66.3397132 C72.9985745,66.9490302 71.04384,67.3303109 69.0859636,67.6394151 C67.1218036,67.9391049 65.1366982,68.1728943 63.1442618,68.3512438 C61.1513018,68.5311623 59.1504873,68.6577328 57.1470545,68.7544913 C55.1446691,68.8632792 53.1391418,68.9365019 51.1330909,68.9757283 C47.12832,69.0295992 43.0916073,69.0698717 39.1528145,68.7916257 C38.1704727,68.7131728 37.2111709,68.6279208 36.3435055,68.4312657 C35.4365673,68.2403638 34.5228218,67.9626408 33.6169309,67.6404611 C31.8035782,66.9893026 30.0200727,66.1519494 28.2732218,65.2319592 C24.77376,63.3904098 21.4088727,61.2209275 18.1288145,58.93272 C14.8456145,56.6445125 11.6577164,54.2009683 8.58973091,51.6219623 C7.05128727,50.338474 5.53169455,49.0304038 4.07703273,47.6642785 C3.35074909,46.9806928 2.63808,46.2845547 1.96363636,45.5659268 C1.54106182,45.1145615 1.11063273,44.6427985 0.745134545,44.1710355 C0.615272727,45.15588 0.547723636,45.8457419 0.523636364,46.1558921 C0.518923636,46.2197004 0.518923636,46.2845547 0.515258182,46.348886 C0.593803636,46.4461675 0.671301818,46.5444951 0.751418182,46.6402075 C1.41957818,47.4320581 2.11496727,48.1862513 2.82292364,48.926846 C4.24145455,50.4028053 5.70711273,51.8228015 7.21361455,53.1967721 C10.2428509,55.9248385 13.392,58.5143049 16.6605382,60.9620332 C19.9385018,63.396686 23.3458036,65.6775713 26.9725091,67.6603358 C28.7921455,68.6409962 30.6678109,69.548434 32.6539636,70.2843215 C33.6483491,70.6488657 34.6704873,70.9726143 35.7397527,71.2095419 C36.8472436,71.4543147 37.9102255,71.5400898 38.9412655,71.6227268 C43.0727564,71.8946966 47.1346036,71.8931275 51.21216,71.738837 C53.2485818,71.6629992 55.2829091,71.5536883 57.3161891,71.407766 C59.3484218,71.2477223 61.3790836,71.04636 63.4071273,70.795834 C65.4351709,70.5432158 67.4616436,70.2471872 69.4792145,69.8408015 C71.4967855,69.4307547 73.5106909,68.9553306 75.4994618,68.1948611 C75.8010764,68.0740438 76.1026909,67.9479962 76.4032582,67.8114883 C77.3824582,66.8093842 78.0453818,65.9076996 78.2977745,65.2591562 C78.3700364,65.0713925 78.4475345,64.643563 78.5229382,64.0216936 Z",
                               id: "Path",
                               fill: "url(#linearGradient-230)"
                             }
                           }),
                           _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M21.77244,4.41 C24.40332,6.0948 28.08468,10.55016 33.58512,8.955 C38.07756,7.65216 32.96844,3.23064 30.87,2.40012 C27.24012,0.69012 20.33928,0.65844 17.25012,1.71 C16.25184,2.04984 15.31404,2.48148 14.42916,2.98584 C15.5988,2.43072 18.66312,2.4192 21.77244,4.41 Z",
-                              id: "Path",
-                              fill: "url(#linearGradient-231)"
-                            }
-                          }),
-                          _vm._v(" "),
                           _c("ellipse", {
                             attrs: {
                               id: "Oval",
                               fill: "#9F36AD",
                               transform:
-                                "translate(26.987108, 3.126230) rotate(22.086556) translate(-26.987108, -3.126230) ",
-                              cx: "26.9871082",
-                              cy: "3.12622956",
-                              rx: "3.61505413",
-                              ry: "1.63041029"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M53.98452,44.06688 C53.93988,44.10612 53.89452,44.14428 53.85024,44.18388 L53.45424,44.54388 L53.26344,44.72136 C53.21556,44.76492 53.16552,44.80848 53.11044,44.8506 C52.66476,45.19116 52.0542,45.45072 51.43752,45.6624 C50.18652,46.0818 48.84264,46.34424 47.4966,46.557 C46.14624,46.76328 44.78148,46.9242 43.41168,47.04696 C42.04152,47.1708 40.66596,47.25792 39.2886,47.32452 C37.91196,47.3994 36.53316,47.4498 35.154,47.4768 C32.40072,47.51388 29.62548,47.5416 26.91756,47.35008 C26.2422,47.29608 25.58268,47.2374 24.98616,47.10204 C24.36264,46.97064 23.73444,46.77948 23.11164,46.55772 C21.86496,46.10952 20.6388,45.53316 19.43784,44.89992 C17.03196,43.63236 14.7186,42.13908 12.46356,40.56408 C10.20636,38.98908 8.01468,37.30716 5.90544,35.532 C4.84776,34.64856 3.80304,33.7482 2.80296,32.80788 C2.30364,32.33736 1.81368,31.8582 1.35,31.36356 C1.05948,31.05288 0.76356,30.72816 0.51228,30.40344 C0.423,31.08132 0.37656,31.55616 0.36,31.76964 C0.35676,31.81356 0.35676,31.8582 0.35424,31.90248 C0.40824,31.96944 0.46152,32.03712 0.5166,32.103 C0.97596,32.64804 1.45404,33.16716 1.94076,33.67692 C2.916,34.69284 3.92364,35.67024 4.95936,36.61596 C7.04196,38.49372 9.207,40.27608 11.45412,41.96088 C13.70772,43.63668 16.05024,45.20664 18.5436,46.5714 C19.7946,47.2464 21.08412,47.871 22.4496,48.37752 C23.13324,48.62844 23.83596,48.85128 24.57108,49.01436 C25.33248,49.18284 26.06328,49.24188 26.77212,49.29876 C29.61252,49.48596 32.40504,49.48488 35.20836,49.37868 C36.6084,49.32648 38.007,49.25124 39.40488,49.1508 C40.80204,49.04064 42.19812,48.90204 43.5924,48.7296 C44.98668,48.55572 46.37988,48.35196 47.76696,48.07224 C49.15404,47.79 50.5386,47.46276 51.90588,46.93932 C52.11324,46.85616 52.3206,46.7694 52.52724,46.67544 C53.20044,45.98568 53.6562,45.36504 53.82972,44.91864 C53.8794,44.7894 53.93268,44.49492 53.98452,44.06688 Z",
-                              id: "Path",
-                              fill: "url(#linearGradient-232)"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("ellipse", {
-                            attrs: {
-                              id: "Oval",
-                              fill: "#9F36AD",
-                              transform:
-                                "translate(10.960373, 34.916416) rotate(98.412904) translate(-10.960373, -34.916416) ",
-                              cx: "10.9603727",
-                              cy: "34.9164157",
-                              rx: "4.58837721",
-                              ry: "2.57677735"
+                                "translate(15.942360, 50.727623) rotate(98.412904) translate(-15.942360, -50.727623) ",
+                              cx: "15.9423602",
+                              cy: "50.7276229",
+                              rx: "6.6663014",
+                              ry: "3.74794535"
                             }
                           })
                         ]
@@ -75620,7 +75470,7 @@ var render = function() {
                         {
                           attrs: {
                             id: "drone_monitor",
-                            transform: "translate(84.960000, 61.920000)",
+                            transform: "translate(123.000000, 90.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -75629,7 +75479,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M25.57836,4.72032 C25.57836,1.755 23.79744,0.3402 21.37824,0.3402 C20.4066,0.3402 19.51164,0.6606 18.78552,1.19592 L18.78192,1.19304 C18.78192,1.19304 17.23752,2.56248 13.61844,2.7 C9.92484,2.8404 7.63308,1.84212 6.7986,1.39356 C6.68772,1.32264 6.57396,1.25568 6.4566,1.19484 C6.44724,1.18872 6.43644,1.18152 6.43644,1.18152 C6.43644,1.18152 6.43356,1.18332 6.4332,1.18368 C5.83452,0.87696 5.15844,0.70056 4.43952,0.70056 C2.02068,0.70056 0.0594,2.66148 0.0594,5.08068 C0.0594,5.67756 0.17964,6.24564 0.396,6.76404 C0.396,6.7644 0.39564,6.76476 0.39564,6.76512 C0.67464,7.83 4.65552,14.7042 13.58964,14.7301795 C21.73104,14.75388 25.57836,7.65 25.57836,4.72032 Z",
+                                  "M37.3837569,6.923136 C37.3837569,2.574 34.7808738,0.49896 31.24512,0.49896 C29.8250308,0.49896 28.5170123,0.96888 27.45576,1.754016 L27.4504985,1.749792 C27.4504985,1.749792 25.1932985,3.758304 19.9038738,3.96 C14.5055354,4.16592 11.15604,2.701776 9.93641538,2.043888 C9.77436,1.939872 9.60809538,1.841664 9.43656923,1.752432 C9.42288923,1.743456 9.40710462,1.732896 9.40710462,1.732896 C9.40710462,1.732896 9.40289538,1.735536 9.40236923,1.736064 C8.52737538,1.286208 7.53925846,1.027488 6.48852923,1.027488 C2.95330154,1.027488 0.0868153846,3.903504 0.0868153846,7.451664 C0.0868153846,8.327088 0.262550769,9.160272 0.578769231,9.920592 C0.578769231,9.92112 0.578243077,9.921648 0.578243077,9.922176 C0.986012308,11.484 6.80422154,21.56616 19.8617815,21.6042632 C31.7607508,21.639024 37.3837569,11.22 37.3837569,6.923136 Z",
                                 id: "Path",
                                 fill: "#C7A0F6"
                               }
@@ -75638,7 +75488,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M4.4064,7.2 L3.36816,6.20244 C4.21344,5.32296 5.35068,4.8384 6.57,4.8384 C7.5798,4.8384 8.53128,5.16888 9.32184,5.79384 L8.42904,6.92352 C7.89516,6.5016 7.2522,6.2784 6.57,6.2784 C5.74596,6.27804 4.97772,6.60528 4.4064,7.2 Z",
+                                  "M6.44012308,10.56 L4.92269538,9.096912 C6.15810462,7.807008 7.82022462,7.09632 9.60230769,7.09632 C11.0781692,7.09632 12.4687938,7.581024 13.6242277,8.497632 L12.3193662,10.154496 C11.53908,9.53568 10.5993692,9.20832 9.60230769,9.20832 C8.39794154,9.207792 7.27512923,9.687744 6.44012308,10.56 Z",
                                 id: "Path",
                                 fill: "#212F66"
                               }
@@ -75647,7 +75497,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M18.33444,6.3738 L17.2962,5.37624 C18.14148,4.49676 19.27872,4.0122 20.49804,4.0122 C21.50784,4.0122 22.45932,4.34268 23.24988,4.96764 L22.35708,6.09732 C21.8232,5.6754 21.18024,5.4522 20.49804,5.4522 C19.67436,5.4522 18.90576,5.77944 18.33444,6.3738 Z",
+                                  "M26.7964892,9.34824 L25.2790615,7.885152 C26.5144708,6.595248 28.1765908,5.88456 29.9586738,5.88456 C31.4345354,5.88456 32.82516,6.369264 33.9805938,7.285872 L32.6757323,8.942736 C31.8954462,8.32392 30.9557354,7.99656 29.9586738,7.99656 C28.7548338,7.99656 27.6314954,8.476512 26.7964892,9.34824 Z",
                                 id: "Path",
                                 fill: "#212F66"
                               }
@@ -75656,7 +75506,7 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M13.51116,12.51 C11.8386,12.51 10.33596,11.50092 9.85716,10.0566 L10.54044,9.83016 C10.92312,10.98432 12.1446,11.79 13.51116,11.79 C14.94108,11.79 16.1766,10.93716 16.51644,9.7164 L17.21016,9.90936 C16.78428,11.44044 15.26292,12.51 13.51116,12.51 Z",
+                                  "M19.74708,18.348 C17.3025692,18.348 15.1064031,16.868016 14.4066185,14.74968 L15.4052585,14.417568 C15.96456,16.110336 17.7498,17.292 19.74708,17.292 C21.8369631,17.292 23.6427231,16.041168 24.1394123,14.25072 L25.1533108,14.533728 C24.5308708,16.779312 22.3073446,18.348 19.74708,18.348 Z",
                                 id: "Path",
                                 fill: "#9F36AD"
                               }
@@ -75669,169 +75519,8 @@ var render = function() {
                         "g",
                         {
                           attrs: {
-                            id: "propeller",
-                            transform: "translate(63.360000, 20.160000)",
-                            "fill-rule": "nonzero"
-                          }
-                        },
-                        [
-                          _c("polygon", {
-                            attrs: {
-                              id: "Path",
-                              fill: "#C7A0F6",
-                              points:
-                                "20.84328 5.64192 33.50052 1.93788 33.9246 3.68712 20.97684 6.19308"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("polygon", {
-                            attrs: {
-                              id: "Path",
-                              fill: "#C7A0F6",
-                              points:
-                                "20.8296 6.16284 9.37944 3.08268 9.94068 1.37232 20.99052 5.67216"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("polygon", {
-                            attrs: {
-                              id: "Path",
-                              fill: "#C7A0F6",
-                              points:
-                                "21.0096 6.23304 8.13096 10.89324 7.58916 9.17676 20.81052 5.60196"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("polygon", {
-                            attrs: {
-                              id: "Path",
-                              fill: "#C7A0F6",
-                              points:
-                                "21.03336 5.6358 32.7906 10.13292 32.06952 11.78208 20.78676 6.1992"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M21.84012,5.4954 L19.98,5.4954 L19.98,20.09988 L19.9818,20.09988 C19.9818,20.10276 19.98,20.10564 19.98,20.10852 C19.98,20.34864 20.39652,20.5434 20.90988,20.5434 C21.42324,20.5434 21.83976,20.34864 21.83976,20.10852 C21.83976,20.10564 21.83796,20.10276 21.83796,20.09988 L21.83976,20.09988 L21.83976,5.4954 L21.84012,5.4954 Z",
-                              id: "Path",
-                              fill: "url(#linearGradient-233)"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("ellipse", {
-                            attrs: {
-                              id: "Oval",
-                              fill: "#FF58B8",
-                              cx: "20.90988",
-                              cy: "5.91768",
-                              rx: "2.385",
-                              ry: "1.19268"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("ellipse", {
-                            attrs: {
-                              id: "Oval",
-                              fill: "#9F36AD",
-                              cx: "20.90988",
-                              cy: "4.90788",
-                              rx: "1.33956",
-                              ry: "1.12212"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M20.95488,0.27 C9.39816,0.27 0.02988,3.33252 0.02988,7.11 C0.02988,10.88748 9.39816,13.95 20.95488,13.95 C32.5116,13.95 41.87988,10.88748 41.87988,7.11 C41.87988,3.33252 32.5116,0.27 20.95488,0.27 Z M21.051,10.8 C12.2562,10.8 5.12676,8.84556 5.12676,6.435 C5.12676,4.02444 12.2562,2.07 21.051,2.07 C29.8458,2.07 36.97524,4.02444 36.97524,6.435 C36.97524,8.84556 29.84544,10.8 21.051,10.8 Z",
-                              id: "Shape",
-                              fill: "url(#linearGradient-234)"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M31.64364,9.69408 C31.63284,9.68868 31.0968,9.83304 31.09104,9.82224 C30.42288,9.97128 29.70864,10.1052 28.95696,10.22328 C29.0088,10.26828 29.06532,10.30932 29.12796,10.34388 C29.10672,10.32588 29.14848,10.3446 29.16576,10.3518 C29.1888,10.36188 29.21436,10.37448 29.23956,10.38852 C29.29068,10.41624 29.34216,10.44936 29.39184,10.48536 C29.4912,10.55772 29.58408,10.64232 29.66508,10.73664 C29.8278,10.92528 29.94768,11.15604 30.00996,11.42784 C30.13992,11.97288 30.01608,12.66156 29.75472,13.31568 C30.1716,13.25232 31.48452,13.01544 31.88592,12.94344 C32.32116,12.66768 33.04116,10.37268 31.64364,9.69408 Z",
-                              id: "Path",
-                              fill: "#F9A449"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M9.87264,12.74184 C9.61056,12.08736 9.48636,11.39796 9.61668,10.8522 C9.67896,10.58004 9.79884,10.34964 9.96156,10.161 C10.04292,10.06632 10.13544,9.98208 10.2348,9.90972 C10.28448,9.87372 10.33596,9.84096 10.38708,9.81288 C10.41228,9.79884 10.43784,9.78624 10.46088,9.77616 C10.47816,9.76896 10.51992,9.75024 10.49868,9.76824 C10.52424,9.7542 10.54548,9.73548 10.56924,9.71964 C9.8496,9.54684 8.244,8.9964 8.19756,9.01224 C6.67116,9.52884 7.32384,12.02652 7.67016,12.3948 C8.06472,12.4884 9.4932,12.834 9.90792,12.9186 C9.90684,12.86136 9.89712,12.80376 9.8748,12.7476 L9.87264,12.74184 Z",
-                              id: "Path",
-                              fill: "#F9A449"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M10.23732,3.231 C10.8072,3.0996 12.23064,2.799 12.8646,2.69028 C12.8646,2.69028 12.27024,1.17 10.9062,1.10988 C9.97128,1.27728 8.51976,1.61244 7.6788,1.82304 C9.35244,1.60488 10.22292,3.204 10.23732,3.231 Z",
-                              id: "Path",
-                              fill: "#F9A449"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M30.33756,2.88864 C30.95244,3.02508 32.95872,3.55068 33.49332,3.71052 C33.49908,3.6828 34.02792,2.30256 35.92944,2.33424 C34.8822,1.98324 33.72156,1.66932 32.46552,1.39824 C31.02768,1.44 30.35268,2.84256 30.33756,2.88864 Z",
-                              id: "Path",
-                              fill: "#F9A449"
-                            }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "g",
-                        {
-                          attrs: {
-                            id: "movement",
-                            transform: "translate(54.000000, 14.760000)",
-                            fill: "#00FFFF",
-                            "fill-rule": "nonzero"
-                          }
-                        },
-                        [
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M45.34668,20.99592 C46.9152,20.50272 48.46752,20.00808 49.98852,19.45116 C51.50736,18.8946 52.99848,18.28224 54.40176,17.55288 C55.09872,17.181 55.78416,16.79904 56.412,16.35588 C57.03948,15.91488 57.61584,15.42564 58.1004,14.90364 C58.57884,14.37732 58.96404,13.81536 59.13432,13.20336 C59.18184,13.05612 59.21568,12.88476 59.23512,12.74508 L59.25312,12.49164 C59.25744,12.40956 59.25924,12.32676 59.25528,12.24288 C59.24052,11.90808 59.175,11.55816 59.067,11.19636 L59.0616,11.17836 C58.98816,10.9332 59.12784,10.67472 59.373,10.60128 C59.55804,10.54584 59.751,10.61208 59.86584,10.7532 C60.15348,11.1078 60.39036,11.53008 60.5268,12.00132 C60.56244,12.11868 60.5916,12.23856 60.61644,12.36024 C60.64128,12.47364 60.6546,12.63492 60.66504,12.72024 C60.68448,12.99024 60.68016,13.22856 60.65316,13.48344 C60.52536,14.49252 60.02604,15.38424 59.42052,16.07508 C58.81464,16.77816 58.09608,17.31528 57.3642,17.78436 C56.62836,18.24948 55.872,18.65376 55.09332,18.99216 C53.54028,19.67652 51.93864,20.17692 50.32008,20.5596 C48.70116,20.94012 47.06316,21.20652 45.41796,21.34836 C45.31824,21.35736 45.2304,21.28428 45.22104,21.18456 C45.21276,21.09924 45.26784,21.02148 45.34668,20.99592 Z",
-                              id: "Path"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M6.00156,17.71164 C6.17004,18.24012 6.46344,18.61524 6.86448,18.945 C7.2612,19.27188 7.749,19.5264 8.26452,19.74816 C9.30564,20.18016 10.45692,20.47716 11.62368,20.72736 C12.79224,20.98872 13.9914,21.17448 15.19848,21.33504 L18.8442,21.78036 C18.9432,21.7926 19.01412,21.8826 19.00188,21.98196 C18.99144,22.06872 18.91944,22.13388 18.83592,22.14036 C17.60508,22.23792 16.37028,22.27536 15.13188,22.25304 C13.89312,22.23504 12.65004,22.16484 11.4012,22.00932 C10.15776,21.83148 8.89956,21.56652 7.6986,20.99304 C7.10136,20.70756 6.51384,20.33172 6.02928,19.8018 C5.7888,19.53792 5.57928,19.2294 5.43492,18.89028 C5.36148,18.72144 5.30676,18.54396 5.26968,18.3654 C5.23224,18.19404 5.21352,17.97552 5.21856,17.83944 L5.21928,17.81928 C5.22756,17.59824 5.41368,17.42544 5.63472,17.43372 C5.80788,17.43912 5.95152,17.5554 6.00156,17.71164 Z",
-                              id: "Path"
-                            }
-                          }),
-                          _vm._v(" "),
-                          _c("path", {
-                            attrs: {
-                              d:
-                                "M22.7574,0.53604 C20.79324,0.86076 18.84384,1.2258 16.9128,1.6452 C15.948,1.85796 14.99004,2.09484 14.04036,2.3508 C13.08924,2.60136 12.14712,2.87784 11.21904,3.1842 C9.36036,3.78612 7.5528,4.52016 5.87412,5.42124 C4.20552,6.32736 2.6424,7.4106 1.53252,8.8326 L1.52532,8.8416 C1.26468,9.17532 0.78264,9.23472 0.44856,8.97408 C0.13824,8.7318 0.06696,8.29512 0.26748,7.96716 C0.84168,7.03584 1.59408,6.24024 2.41488,5.56956 C3.23892,4.89888 4.131,4.34052 5.05188,3.86496 C6.89652,2.91204 8.84556,2.2734 10.80144,1.75608 C11.7828,1.5048 12.7692,1.29024 13.75848,1.10196 C14.7492,0.92088 15.74352,0.77256 16.73856,0.64332 C18.7272,0.38124 20.72628,0.2358 22.72212,0.1782 C22.82184,0.17496 22.905,0.25308 22.9086904,0.35244 C22.91148,0.44316 22.84524,0.52128 22.7574,0.53604 Z",
-                              id: "Path"
-                            }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "g",
-                        {
-                          attrs: {
                             id: "right_drone_arm",
-                            transform: "translate(56.160000, 70.200000)",
+                            transform: "translate(82.000000, 102.000000)",
                             "fill-rule": "nonzero"
                           }
                         },
@@ -75840,27 +75529,27 @@ var render = function() {
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M11.76012,0.29988 C12.41532,0.37908 12.56616,4.0374 12.30012,5.15988 C12.03408,6.28236 7.14024,15.35976 6.18012,21.83976 C5.22,28.31976 6.66,36.05976 7.38,37.67976 C8.1,39.29976 3.96,41.35464 3.96,41.35464 C3.96,41.35464 -1.09908,32.67864 0.4428,23.13936 C1.71,15.29964 6.96384,7.29648 8.01,5.53464 C9.24948,3.44736 11.07756,0.21744 11.76012,0.29988 Z",
+                                  "M17.1878677,0.435309677 C18.1454677,0.550277419 18.3659262,5.86074194 17.9770985,7.49014839 C17.5882708,9.11955484 10.4357354,22.2964258 9.03248308,31.7028774 C7.62923077,41.109329 9.73384615,52.3448129 10.7861538,54.6964258 C11.8384615,57.0480387 5.78769231,60.030929 5.78769231,60.030929 C5.78769231,60.030929 -1.60634769,47.4367355 0.647169231,33.5893935 C2.49923077,22.2091548 10.17792,10.5916645 11.7069231,8.03415484 C13.5184708,5.00423226 16.19028,0.31563871 17.1878677,0.435309677 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-235)"
+                                fill: "url(#linearGradient-231)"
                               }
                             }),
                             _vm._v(" "),
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M2.77056,20.60208 C2.15892,20.59344 1.5552,20.63376 0.95544,20.71368 C0.74844,21.51972 0.57312,22.3308 0.44244,23.14008 C0.39096,23.45796 0.34812,23.7744 0.31104,24.09012 C0.51408,24.0102 0.72324,23.93424 0.93816,23.86764 C1.5642,23.6754 2.21724,23.53968 2.86236,23.47884 C3.96936,23.37156 5.05764,23.4918 5.95368,23.92848 C6.00516,23.22396 6.0786,22.52484 6.17976,21.84012 C6.20532,21.66732 6.2352,21.49164 6.26616,21.31524 C5.9778,21.1878 5.6862,21.07296 5.38992,20.98476 C4.52088,20.7252 3.63708,20.61504 2.77056,20.60208 Z",
+                                  "M4.04928,29.9062452 C3.15534462,29.8937032 2.27298462,29.9522323 1.39641231,30.0682452 C1.09387385,31.2383032 0.837636923,32.4156774 0.646643077,33.5904387 C0.571403077,34.0518774 0.508790769,34.5112258 0.454596923,34.969529 C0.751347692,34.8535161 1.05704308,34.7432516 1.37115692,34.6465742 C2.28613846,34.3675161 3.24058154,34.1705032 4.18344923,34.0821871 C5.80137231,33.9264581 7.39193538,34.101 8.70153231,34.7348903 C8.77677231,33.7122 8.88410769,32.6973484 9.03195692,31.7034 C9.06931385,31.4525613 9.11298462,31.1975419 9.15823385,30.9414774 C8.73678462,30.7564839 8.3106,30.5897806 7.87757538,30.4617484 C6.60744,30.0849677 5.31573231,29.9250581 4.04928,29.9062452 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-236)"
+                                fill: "url(#linearGradient-232)"
                               }
                             }),
                             _vm._v(" "),
                             _c("path", {
                               attrs: {
                                 d:
-                                  "M2.38068,37.95264 C3.213,40.07088 3.96,41.355 3.96,41.355 C3.96,41.355 8.1,39.30012 7.38,37.68012 C7.19676,37.26792 6.96708,36.45828 6.74244,35.37576 C4.95576,35.721 3.32424,36.96444 2.38068,37.95264 Z",
+                                  "M3.47945538,55.0925419 C4.69592308,58.1674065 5.78769231,60.0314516 5.78769231,60.0314516 C5.78769231,60.0314516 11.8384615,57.0485613 10.7861538,54.6969484 C10.5183415,54.0985935 10.1826554,52.9233097 9.85433538,51.3519097 C7.24303385,51.8530645 4.85850462,53.6580581 3.47945538,55.0925419 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-237)"
+                                fill: "url(#linearGradient-233)"
                               }
                             })
                           ]),
@@ -75870,14 +75559,50 @@ var render = function() {
                             {
                               attrs: {
                                 id: "Group",
-                                transform: "translate(3.240000, 36.720000)"
+                                transform: "translate(4.735385, 53.303226)"
                               }
                             },
                             [
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M1.62828,1.95228 C2.70432,0.90324 5.58,-1.215 9.945,2.16 C14.31,5.535 16.605,9.585 15.48,13.005 C14.355,16.425 10.31472,19.28376 7.47,18 C4.07988,16.47 0.06012,9.9 0.0449694068,5.67 C0.0378,3.62952 1.30356,2.26908 1.62828,1.95228 Z",
+                                    "M2.37979385,2.83395484 C3.95246769,1.31115484 8.15538462,-1.76370968 14.535,3.13548387 C20.9146154,8.03467742 24.2688462,13.9137097 22.6246154,18.8782258 C20.9803846,23.8427419 15.07536,27.9925548 10.9176923,26.1290323 C5.96290154,23.9080645 0.0878676923,14.3709677 0.0657245176,8.23064516 C0.0552461538,5.26865806 1.90520308,3.29382581 2.37979385,2.83395484 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-234)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M12.1452092,5.57436774 C10.8734954,6.22759355 6.51115385,11.7146903 6.44538462,13.8050129 C6.38908615,15.5901484 7.85547692,16.9885742 8.95145538,16.7272839 C10.0474338,16.4659935 14.2061538,10.3862903 15.9603508,9.18905806 C17.05896,8.43863226 12.1452092,5.57436774 12.1452092,5.57436774 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-235)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M23.5127631,10.0926 C23.1507692,10.6481032 22.92084,14.3061677 23.61168,14.8287484 C24.30252,15.351329 26.1866769,13.9685806 27.7551415,13.6529419 C29.48724,13.3043806 31.0115077,13.3655226 31.4713662,12.921329 C31.9312246,12.4771355 32.1601015,9.41951613 29.7929354,8.69469677 C27.4257692,7.96987742 23.9836708,9.36882581 23.5127631,10.0926 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-236)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M23.7100708,21.5240516 C24.7655354,21.2016194 29.4067385,25.7783806 29.4319938,26.8805032 C29.4651415,28.3176 26.7028338,32.0519613 24.3788123,32.0519613 C22.0547908,32.0519613 19.0404554,28.0239097 18.9089169,26.8151806 C18.8142092,25.9492645 23.13972,21.698071 23.7100708,21.5240516 Z",
+                                  id: "Path",
+                                  fill: "url(#linearGradient-237)"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M10.7861538,29.3951613 C11.0392338,28.8130065 15.5215385,27.4354839 16.1792308,28.0233871 C16.8369231,28.6112903 19.9649077,31.7143742 19.7965385,33.0532258 C19.665,34.0983871 17.5272369,36.0909871 15.8830062,35.5684065 C14.2387754,35.0458258 10.1616092,30.8322581 10.7861538,29.3951613 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-238)"
                                 }
@@ -75886,7 +75611,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M8.30988,3.84012 C7.43976,4.29012 4.455,8.07012 4.41,9.51012 C4.37148,10.73988 5.3748,11.70324 6.12468,11.52324 C6.87456,11.34324 9.72,7.155 10.92024,6.33024 C11.67192,5.81328 8.30988,3.84012 8.30988,3.84012 Z",
+                                    "M29.8687015,8.72396129 C30.4458923,9.87154839 30.2480585,11.3002839 29.9449938,11.5934516 C29.4851354,12.0376452 27.9608677,11.9765032 26.2287692,12.3250645 C25.2143446,12.528871 24.0694338,13.1773935 23.1991754,13.4700387 C23.2533692,14.1180387 23.3796462,14.6521161 23.61168,14.8277032 C24.30252,15.3502839 26.1866769,13.9675355 27.7551415,13.6518968 C29.48724,13.3033355 31.0115077,13.3644774 31.4713662,12.9202839 C31.9254369,12.4818387 32.1501046,9.4932 29.8687015,8.72396129 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-239)"
                                 }
@@ -75895,7 +75620,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M16.08768,6.95268 C15.84,7.33536 15.68268,9.85536 16.15536,10.21536 C16.62804,10.57536 17.9172,9.6228 18.99036,9.40536 C20.17548,9.16524 21.2184,9.20736 21.53304,8.90136 C21.84768,8.59536 22.00428,6.489 20.38464,5.98968 C18.765,5.49036 16.40988,6.45408 16.08768,6.95268 Z",
+                                    "M23.4622523,23.0348323 C24.4361631,22.7374839 28.4528215,26.6035355 29.09052,28.0704194 C29.3099262,27.6084581 29.4388338,27.1893484 29.4314677,26.8805032 C29.4062123,25.7783806 24.7650092,21.2016194 23.7095446,21.5240516 C23.13972,21.698071 18.8142092,25.9492645 18.9083908,26.8151806 C18.9257538,26.973 18.9941538,27.1804645 19.1014892,27.4187613 C20.1979938,25.8750581 23.00976,23.1727935 23.4622523,23.0348323 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-240)"
                                 }
@@ -75904,7 +75629,7 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M16.22268,14.82768 C16.94484,14.60556 20.1204,17.75844 20.13768,18.51768 C20.16036,19.50768 18.27036,22.08024 16.68024,22.08024 C15.09012,22.08024 13.02768,19.30536 12.93768,18.47268 C12.87288,17.87616 15.83244,14.94756 16.22268,14.82768 Z",
+                                    "M16.1792308,28.0233871 C15.5215385,27.4354839 11.0392338,28.8130065 10.7861538,29.3951613 C10.6882892,29.619871 10.7161754,29.9172194 10.82088,30.2521935 C12.2625415,29.6778774 14.6402308,29.1087871 15.1058769,29.5252839 C15.7635692,30.1131871 18.8915538,33.216271 18.7231846,34.5551226 C18.7189754,34.5896129 18.7068738,34.6272387 18.6984554,34.6638194 C19.3056369,34.1365355 19.7397138,33.5063032 19.7970646,33.0532258 C19.9649077,31.7143742 16.8369231,28.6112903 16.1792308,28.0233871 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-241)"
                                 }
@@ -75913,45 +75638,9 @@ var render = function() {
                               _c("path", {
                                 attrs: {
                                   d:
-                                    "M7.38,20.25 C7.55316,19.84896 10.62,18.9 11.07,19.305 C11.52,19.71 13.6602,21.84768 13.545,22.77 C13.455,23.49 11.99232,24.86268 10.86732,24.50268 C9.74232,24.14268 6.95268,21.24 7.38,20.25 Z",
+                                    "M14.535,3.13548387 C10.0311231,-0.323477419 6.61428,0.193354839 4.43968615,1.33153548 L4.43968615,1.33153548 C6.92786769,1.56774194 18.8620892,10.3225355 22.1463415,20.0550774 L22.1463415,20.0550774 C22.3304954,19.6694129 22.4925508,19.2769548 22.6246154,18.8787484 C24.2688462,13.9137097 20.9146154,8.03467742 14.535,3.13548387 Z",
                                   id: "Path",
                                   fill: "url(#linearGradient-242)"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("path", {
-                                attrs: {
-                                  d:
-                                    "M20.43648,6.00984 C20.8314,6.8004 20.69604,7.78464 20.48868,7.9866 C20.17404,8.2926 19.13112,8.25048 17.946,8.4906 C17.25192,8.631 16.46856,9.07776 15.87312,9.27936 C15.9102,9.72576 15.9966,10.09368 16.15536,10.21464 C16.62804,10.57464 17.9172,9.62208 18.99036,9.40464 C20.17548,9.16452 21.2184,9.20664 21.53304,8.90064 C21.84372,8.5986 21.99744,6.53976 20.43648,6.00984 Z",
-                                  id: "Path",
-                                  fill: "url(#linearGradient-243)"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("path", {
-                                attrs: {
-                                  d:
-                                    "M16.05312,15.86844 C16.71948,15.6636 19.46772,18.32688 19.90404,19.3374 C20.05416,19.01916 20.14236,18.73044 20.13732,18.51768 C20.12004,17.75844 16.94448,14.60556 16.22232,14.82768 C15.83244,14.94756 12.87288,17.87616 12.93732,18.47268 C12.9492,18.5814 12.996,18.72432 13.06944,18.88848 C13.81968,17.82504 15.74352,15.96348 16.05312,15.86844 Z",
-                                  id: "Path",
-                                  fill: "url(#linearGradient-244)"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("path", {
-                                attrs: {
-                                  d:
-                                    "M11.07,19.305 C10.62,18.9 7.55316,19.84896 7.38,20.25 C7.31304,20.4048 7.33212,20.60964 7.40376,20.8404 C8.39016,20.44476 10.017,20.05272 10.3356,20.33964 C10.7856,20.74464 12.9258,22.88232 12.8106,23.80464 C12.80772,23.8284 12.79944,23.85432 12.79368,23.87952 C13.20912,23.51628 13.50612,23.08212 13.54536,22.77 C13.6602,21.84768 11.52,19.71 11.07,19.305 Z",
-                                  id: "Path",
-                                  fill: "url(#linearGradient-245)"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("path", {
-                                attrs: {
-                                  d:
-                                    "M9.945,2.16 C6.8634,-0.22284 4.52556,0.1332 3.03768,0.91728 L3.03768,0.91728 C4.74012,1.08 12.90564,7.11108 15.15276,13.81572 L15.15276,13.81572 C15.27876,13.55004 15.38964,13.27968 15.48,13.00536 C16.605,9.585 14.31,5.535 9.945,2.16 Z",
-                                  id: "Path",
-                                  fill: "url(#linearGradient-246)"
                                 }
                               })
                             ]
@@ -75985,7 +75674,7 @@ var render = function() {
                               d:
                                 "M155.16,0.18036 C177.12,0.54036 208.26,9.54036 216.72,31.86036 C225.81432,55.85292 224.739,60.98436 239.58,87.12036 C254.40048,113.21964 246.48048,149.93964 230.64048,165.53952 C208.20384,187.63596 188.69832,182.15172 148.86,181.98036 C120.96,181.86048 89.78436,202.09248 73.98,207.36036 C63.36,210.90024 40.68,214.74036 26.28,199.98036 C10.37844,183.68136 13.92012,153.54036 11.16,142.02036 C8.26884,129.9528 -10.87704,87.2838 9.72,54.00036 C34.56,13.86036 89.9928,-0.88812 155.16,0.18036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-247)"
+                              fill: "url(#linearGradient-243)"
                             }
                           }),
                           _vm._v(" "),
@@ -75994,7 +75683,7 @@ var render = function() {
                               d:
                                 "M188.08092,242.78688 C196.0074,241.34832 225.36144,235.47132 226.68048,247.38048 C227.79,257.40036 203.99004,256.563 192.6,256.02048 C178.11,255.33036 148.54212,258.48576 147.42828,252.48276 C146.76048,248.88024 155.58048,246.96036 164.68308,246.42288 C172.1664,245.9808 176.47164,244.89396 188.08092,242.78688 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-248)"
+                              fill: "url(#linearGradient-244)"
                             }
                           }),
                           _vm._v(" "),
@@ -76003,7 +75692,7 @@ var render = function() {
                               d:
                                 "M55.1304,251.83692 C47.88036,251.01864 17.217,246.30696 18.72,258.18048 C19.91988,267.66072 42.54084,263.95236 52.80012,264.78072 C67.29012,265.95072 92.02824,264.411 92.51352,258.34356 C92.80476,254.70288 84.7098,253.4742 76.47912,253.64448 C69.71328,253.78452 65.74896,253.03572 55.1304,251.83692 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-249)"
+                              fill: "url(#linearGradient-245)"
                             }
                           })
                         ]
@@ -76024,7 +75713,7 @@ var render = function() {
                                 d:
                                   "M0.28512,0.82584 C0.28512,0.45072 0.58932,0.14652 0.96444,0.14652 L8.60616,0.14652 C8.98128,0.14652 9.28548,0.45072 9.28548,0.82584 L9.28548,8.46756 C9.28548,8.84268 8.98128,9.14688 8.60616,9.14688 L0.96444,9.14688 C0.58932,9.14688 0.28512,8.84268 0.28512,8.46756 L0.28512,0.82584 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-250)"
+                                fill: "url(#linearGradient-246)"
                               }
                             }),
                             _vm._v(" "),
@@ -76052,7 +75741,7 @@ var render = function() {
                                   d:
                                     "M0.28512,0.77508 C0.28512,0.39996 0.58932,0.09576 0.96444,0.09576 L8.60616,0.09576 C8.98128,0.09576 9.28548,0.39996 9.28548,0.77508 L9.28548,8.4168 C9.28548,8.79192 8.98128,9.09612 8.60616,9.09612 L0.96444,9.09612 C0.58932,9.09612 0.28512,8.79192 0.28512,8.4168 L0.28512,0.77508 Z",
                                   id: "Path",
-                                  fill: "url(#linearGradient-251)"
+                                  fill: "url(#linearGradient-247)"
                                 }
                               }),
                               _vm._v(" "),
@@ -76081,7 +75770,7 @@ var render = function() {
                                   d:
                                     "M0.28512,0.72468 C0.28512,0.34956 0.58932,0.04536 0.96444,0.04536 L8.60616,0.04536 C8.98128,0.04536 9.28548,0.34956 9.28548,0.72468 L9.28548,8.3664 C9.28548,8.74152 8.98128,9.04572 8.60616,9.04572 L0.96444,9.04572 C0.58932,9.04572 0.28512,8.74152 0.28512,8.3664 L0.28512,0.72468 Z",
                                   id: "Path",
-                                  fill: "url(#linearGradient-252)"
+                                  fill: "url(#linearGradient-248)"
                                 }
                               }),
                               _vm._v(" "),
@@ -76110,7 +75799,7 @@ var render = function() {
                           _c("rect", {
                             attrs: {
                               id: "Rectangle",
-                              fill: "url(#linearGradient-253)",
+                              fill: "url(#linearGradient-249)",
                               x: "0.29268",
                               y: "0.31536",
                               width: "50.85",
@@ -76121,7 +75810,7 @@ var render = function() {
                           _c("rect", {
                             attrs: {
                               id: "Rectangle",
-                              fill: "url(#linearGradient-254)",
+                              fill: "url(#linearGradient-250)",
                               x: "5.46768",
                               y: "4.17024",
                               width: "19.05012",
@@ -76151,7 +75840,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M6.00768,0.72036 C6.00768,0.32292 5.68548,0.00036 5.28768,0.00036 L0.96768,0.00036 C0.57024,0.00036 0.24768,0.32292 0.24768,0.72036 L0.24768,34.92036 L6.00768,34.92036 L6.00768,0.72036 Z",
-                                      fill: "url(#linearGradient-255)"
+                                      fill: "url(#linearGradient-251)"
                                     }
                                   }),
                                   _vm._v(" "),
@@ -76159,7 +75848,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M6.00768,13.74048 L6.00768,0.72036 C6.00768,0.32292 5.68548,0.00036 5.28768,0.00036 L0.96768,0.00036 C0.57024,0.00036 0.24768,0.32292 0.24768,0.72036 L0.24768,13.74048 L6.00768,13.74048 Z",
-                                      fill: "url(#linearGradient-256)"
+                                      fill: "url(#linearGradient-252)"
                                     }
                                   })
                                 ]
@@ -76178,7 +75867,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.91768,0.81036 C5.91768,0.41292 5.59512,0.09036 5.19768,0.09036 L0.87768,0.09036 C0.48024,0.09036 0.15768,0.41292 0.15768,0.81036 L0.15768,27.36036 L5.91768,27.36036 L5.91768,0.81036 Z",
-                                      fill: "url(#linearGradient-257)"
+                                      fill: "url(#linearGradient-253)"
                                     }
                                   }),
                                   _vm._v(" "),
@@ -76186,7 +75875,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.91768,16.14024 L5.91768,0.81036 C5.91768,0.41292 5.59512,0.09036 5.19768,0.09036 L0.87768,0.09036 C0.48024,0.09036 0.15768,0.41292 0.15768,0.81036 L0.15768,16.14024 L5.91768,16.14024 L5.91768,16.14024 Z",
-                                      fill: "url(#linearGradient-258)"
+                                      fill: "url(#linearGradient-254)"
                                     }
                                   })
                                 ]
@@ -76206,7 +75895,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.96268,0.81036 C5.96268,0.41292 5.64012,0.09036 5.24268,0.09036 L0.92268,0.09036 C0.52524,0.09036 0.20268,0.41292 0.20268,0.81036 L0.20268,22.32036 L5.96268,22.32036 L5.96268,0.81036 Z",
-                                      fill: "url(#linearGradient-259)"
+                                      fill: "url(#linearGradient-255)"
                                     }
                                   }),
                                   _vm._v(" "),
@@ -76214,7 +75903,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.96268,11.10024 L5.96268,0.81036 C5.96268,0.41292 5.64012,0.09036 5.24268,0.09036 L0.92268,0.09036 C0.52524,0.09036 0.20268,0.41292 0.20268,0.81036 L0.20268,11.10024 L5.96268,11.10024 L5.96268,11.10024 Z",
-                                      fill: "url(#linearGradient-260)"
+                                      fill: "url(#linearGradient-256)"
                                     }
                                   })
                                 ]
@@ -76233,7 +75922,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.87268,0.99036 C5.87268,0.59292 5.55012,0.27036 5.15268,0.27036 L0.83268,0.27036 C0.43524,0.27036 0.11268,0.59292 0.11268,0.99036 L0.11268,32.40036 L5.87268,32.40036 L5.87268,0.99036 Z",
-                                      fill: "url(#linearGradient-261)"
+                                      fill: "url(#linearGradient-257)"
                                     }
                                   }),
                                   _vm._v(" "),
@@ -76241,7 +75930,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.87268,12.12048 L5.87268,0.99036 C5.87268,0.59292 5.55012,0.27036 5.15268,0.27036 L0.83268,0.27036 C0.43524,0.27036 0.11268,0.59292 0.11268,0.99036 L0.11268,12.12048 L5.87268,12.12048 Z",
-                                      fill: "url(#linearGradient-262)"
+                                      fill: "url(#linearGradient-258)"
                                     }
                                   })
                                 ]
@@ -76260,7 +75949,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.82768,0.99036 C5.82768,0.59292 5.50512,0.27036 5.10768,0.27036 L0.78768,0.27036 C0.39024,0.27036 0.06768,0.59292 0.06768,0.99036 L0.06768,16.56036 L5.82768,16.56036 L5.82768,0.99036 Z",
-                                      fill: "url(#linearGradient-263)"
+                                      fill: "url(#linearGradient-259)"
                                     }
                                   }),
                                   _vm._v(" "),
@@ -76268,7 +75957,7 @@ var render = function() {
                                     attrs: {
                                       d:
                                         "M5.82768,10.08036 L5.82768,0.99036 C5.82768,0.59292 5.50512,0.27036 5.10768,0.27036 L0.78768,0.27036 C0.39024,0.27036 0.06768,0.59292 0.06768,0.99036 L0.06768,10.08036 L5.82768,10.08036 Z",
-                                      fill: "url(#linearGradient-264)"
+                                      fill: "url(#linearGradient-260)"
                                     }
                                   })
                                 ]
@@ -76300,7 +75989,7 @@ var render = function() {
                             _c("rect", {
                               attrs: {
                                 id: "Rectangle",
-                                fill: "url(#linearGradient-265)",
+                                fill: "url(#linearGradient-261)",
                                 x: "0.18",
                                 y: "0.00036",
                                 width: "51.03",
@@ -76347,7 +76036,7 @@ var render = function() {
                             _c("rect", {
                               attrs: {
                                 id: "Rectangle",
-                                fill: "url(#linearGradient-266)",
+                                fill: "url(#linearGradient-262)",
                                 x: "27.99",
                                 y: "3.96036",
                                 width: "19.53",
@@ -76428,7 +76117,7 @@ var render = function() {
                                 d:
                                   "M15.4386,47.94552 C13.03884,44.24652 11.63988,39.83796 11.63988,35.10036 C11.63988,28.13832 14.65056,21.88008 19.44,17.55396 L12.39156,8.56836 C4.94964,14.994 0.2394,24.49692 0.2394,35.10036 C0.2394,42.40404 2.475,49.18464 6.29748,54.79812 L15.4386,47.94552 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-267)"
+                                fill: "url(#linearGradient-263)"
                               }
                             }),
                             _vm._v(" "),
@@ -76437,7 +76126,7 @@ var render = function() {
                                 d:
                                   "M21.98736,15.55128 C25.77528,12.97044 30.35088,11.46024 35.28036,11.46024 C42.43176,11.46024 48.83652,14.64012 53.17128,19.65816 L62.31312,12.80448 C55.88604,5.02092 46.16244,0.06012 35.28036,0.06012 C27.69588,0.06012 20.67444,2.47032 14.93964,6.56604 L21.98736,15.55128 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-268)"
+                                fill: "url(#linearGradient-264)"
                               }
                             }),
                             _vm._v(" "),
@@ -76446,7 +76135,7 @@ var render = function() {
                                 d:
                                   "M64.25784,15.39612 L55.11708,22.24872 C57.51936,25.94916 58.92012,30.35988 58.92012,35.10036 C58.92012,48.15648 48.33612,58.74048 35.28,58.74048 C28.12572,58.74048 21.7188,55.55808 17.38368,50.53644 L8.24184,57.38976 C14.66892,65.17692 24.39468,70.14024 35.27964,70.14024 C54.6318,70.14024 70.3195202,54.45216 70.3195202,35.1 C70.32024,27.79416 68.08284,21.01068 64.25784,15.39612 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-269)"
+                                fill: "url(#linearGradient-265)"
                               }
                             })
                           ]),
@@ -76456,7 +76145,7 @@ var render = function() {
                               d:
                                 "M21.57516,40.25268 C23.66028,45.7956 29.00844,49.74048 35.28,49.74048 C39.78072,49.74048 43.80552,47.70792 46.49112,44.5122 L35.28,35.10036 L21.57516,40.25268 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-270)"
+                              fill: "url(#linearGradient-266)"
                             }
                           }),
                           _vm._v(" "),
@@ -76465,7 +76154,7 @@ var render = function() {
                               d:
                                 "M40.47264,21.41136 L35.28,35.10036 L46.49112,44.5122 C48.62988,41.967 49.92012,38.68488 49.92012,35.10036 C49.92012,28.84392 45.99396,23.50692 40.47264,21.41136 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-271)"
+                              fill: "url(#linearGradient-267)"
                             }
                           }),
                           _vm._v(" "),
@@ -76474,7 +76163,7 @@ var render = function() {
                               d:
                                 "M40.47264,21.41136 C38.8584,20.79864 37.10916,20.46024 35.28036,20.46024 C27.19512,20.46024 20.64024,27.01476 20.64024,35.10036 C20.64024,36.91404 20.97216,38.6496 21.57516,40.25268 L35.28,35.10036 L40.47264,21.41136 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-272)"
+                              fill: "url(#linearGradient-268)"
                             }
                           })
                         ]
@@ -76492,7 +76181,7 @@ var render = function() {
                           _c("rect", {
                             attrs: {
                               id: "Rectangle",
-                              fill: "url(#linearGradient-273)",
+                              fill: "url(#linearGradient-269)",
                               x: "0.03996",
                               y: "0.31536",
                               width: "78.51024",
@@ -76541,7 +76230,7 @@ var render = function() {
                               _c("rect", {
                                 attrs: {
                                   id: "Rectangle",
-                                  fill: "url(#linearGradient-274)",
+                                  fill: "url(#linearGradient-270)",
                                   x: "0.29448",
                                   y: "7.44012",
                                   width: "24.63552",
@@ -76556,7 +76245,7 @@ var render = function() {
                               d:
                                 "M72.53496,12.45744 C71.34228,10.10952 69.5538,7.95744 67.01472,8.04024 C61.4952,8.22024 57.89448,22.62024 54.05472,22.80024 C50.21496,22.98024 51.53472,8.28036 46.61496,8.40024 C40.4352,8.55108 40.19472,37.02024 32.45472,37.68012 C24.71472,38.34 22.97448,22.38012 19.49472,22.62024 C16.01496,22.86036 14.5188,35.1342 13.91472,37.80036 C13.31064,40.46652 10.25496,40.98024 10.25496,40.98024 L72.53496,40.98024 L72.53496,12.45744 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-275)"
+                              fill: "url(#linearGradient-271)"
                             }
                           }),
                           _vm._v(" "),
@@ -76565,7 +76254,7 @@ var render = function() {
                               d:
                                 "M72.53496,12.30012 L72.53496,12.30012 C64.01448,12.66012 62.21448,35.58024 53.45496,35.04024 C46.188,34.5924 47.39472,22.26024 41.03496,21.90024 C34.67448,21.54024 31.67496,36.48024 23.99472,36.96012 C20.26044,37.1934 17.27496,34.86024 13.85496,35.16012 C10.43496,35.46 6.89472,40.02012 6.05448,40.98024 L72.53496,40.98024 L72.53496,12.30012 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-276)"
+                              fill: "url(#linearGradient-272)"
                             }
                           })
                         ]
@@ -76583,7 +76272,7 @@ var render = function() {
                           _c("rect", {
                             attrs: {
                               id: "Rectangle",
-                              fill: "url(#linearGradient-277)",
+                              fill: "url(#linearGradient-273)",
                               x: "0.11844",
                               y: "0.15048",
                               width: "31.79988",
@@ -76635,7 +76324,7 @@ var render = function() {
                               d:
                                 "M10.61568,22.31568 C10.899,22.79916 11.52,22.96152 12.00348,22.67892 L28.5318,15.21648 C29.01564,14.93388 29.178,14.31288 28.8954,13.82904 L21.38616,1.32948 C21.10356,0.846 20.48256,0.68364 19.99872,0.96624 L1.61136,6.0624 C1.12752,6.345 0.96444,6.966 1.24704,7.44984 L10.61568,22.31568 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-278)"
+                              fill: "url(#linearGradient-274)"
                             }
                           }),
                           _vm._v(" "),
@@ -76644,7 +76333,7 @@ var render = function() {
                               d:
                                 "M29.79504,14.03712 L21.79764,0.72468 C21.49596,0.20952 20.83428,0.03672 20.31984,0.33768 L0.73584,5.7654 C0.22104,6.06636 0.04752,6.72804 0.34848,7.24284 L10.3266,23.07528 C10.62828,23.59008 11.28996,23.76324 11.8044,23.46228 L29.4084,15.51456 C29.92284,15.2136 30.09672,14.55192 29.79504,14.03712 Z M11.6964,20.82492 L3.24,7.15536 L20.43,1.98036 L27.765,13.99536 L11.6964,20.82492 Z",
                               id: "Shape",
-                              fill: "url(#linearGradient-279)"
+                              fill: "url(#linearGradient-275)"
                             }
                           }),
                           _vm._v(" "),
@@ -76703,7 +76392,7 @@ var render = function() {
                               d:
                                 "M18.66024,19.68012 C18.2376,12.4902 19.854,3.67344 19.79424,0.91368 L8.04024,0.24012 C8.04024,0.24012 7.8138,8.65044 7.92,15.93036 C8.04024,24.1506 9.75024,47.7306 9.24048,51.42024 C8.9226,53.71992 7.04448,55.20384 5.30568,56.29932 C6.14088,56.727 7.62048,57.02148 9.7362,55.9746 C12.12948,54.7902 14.82552,53.46648 16.72668,53.4006 C16.65,52.15896 16.5726,50.99688 16.56,50.22072 C16.50024,46.47024 19.17,28.35036 18.66024,19.68012 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-280)"
+                              fill: "url(#linearGradient-276)"
                             }
                           }),
                           _vm._v(" "),
@@ -76712,7 +76401,7 @@ var render = function() {
                               d:
                                 "M9.7362,55.97424 C7.62048,57.02112 6.14124,56.727 5.30568,56.29896 C4.8528,56.58408 4.40928,56.84436 4.00572,57.08412 C2.46744,57.9978 0.0036,58.35672 0.27072,59.31036 C0.48024,60.06024 6.29172,60.40116 9.40572,59.51412 C10.87596,59.09544 13.39524,57.744 13.39524,57.744 L13.4928,59.58144 C13.4928,59.58144 16.2864,59.78952 16.58664,59.4594 C17.0424,58.95756 16.88616,56.00232 16.72668,53.39988 C14.82552,53.46648 12.12948,54.78984 9.7362,55.97424 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-281)"
+                              fill: "url(#linearGradient-277)"
                             }
                           })
                         ]
@@ -76732,7 +76421,7 @@ var render = function() {
                               d:
                                 "M9.27072,54.42048 C11.7702,53.18316 14.5998,51.79536 16.50852,51.84648 C16.4304,50.60628 16.33896,49.44168 16.29,48.66048 C16.14024,46.26072 16.08048,42.12072 16.38072,33.4206 C16.68096,24.72048 15.12072,18.60084 14.58072,13.4406 C14.04072,8.28036 14.04072,2.8206 13.98024,0.06084 L2.79,1.44036 C2.79,1.44036 3.65076,9.67968 4.41,16.92036 C5.12784,23.76072 9.48024,45.69048 8.97048,49.38012 C8.65692,51.64812 6.41124,53.50536 4.74408,54.69588 C5.55948,55.14912 7.07328,55.50768 9.27072,54.42048 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-282)"
+                              fill: "url(#linearGradient-278)"
                             }
                           }),
                           _vm._v(" "),
@@ -76741,7 +76430,7 @@ var render = function() {
                               d:
                                 "M0,58.14036 C0,58.65048 5.82624,58.8474 8.94024,57.96036 C10.41048,57.54168 12.92976,56.19024 12.92976,56.19024 L13.02732,58.02768 C13.02732,58.02768 16.02,58.14036 16.31988,57.81024 C16.77348,57.31056 16.67016,54.41508 16.50816,51.84648 C14.59908,51.79536 11.76984,53.18352 9.27036,54.42048 C7.07292,55.50804 5.55912,55.14912 4.74372,54.69588 C4.2804,55.02672 3.8592,55.3086 3.53988,55.53036 C2.07,56.55024 0,57.15036 0,58.14036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-283)"
+                              fill: "url(#linearGradient-279)"
                             }
                           })
                         ]
@@ -76761,7 +76450,7 @@ var render = function() {
                               d:
                                 "M32.04,0.24048 C33.3,2.16036 36.72072,8.28072 37.98,14.67036 C39.14244,20.56464 39.06,23.94036 39.69,28.53036 C40.32,33.12036 43.56,43.20036 43.38,43.83036 C43.2,44.46036 41.76,45.40536 38.94048,45.4806 C36.83304,45.53676 35.28072,45.36072 31.50072,46.62072 C27.72072,47.88072 23.46048,48.60072 18.30024,48.06072 C13.14072,47.52072 9.06048,45.36072 6.48072,45.3006 C3.90024,45.24048 0.48024,45.24048 0.12024,44.52048 C-0.23976,43.80048 2.10312,38.232 2.61,34.74036 C3.18312,30.79872 4.44024,23.28012 7.2,15.84036 C9.78696,8.86716 13.44024,0.84024 13.44024,0.84024 C13.44024,0.84024 18.81,0.81036 22.68,0.72036 C26.55,0.63036 32.04,0.24048 32.04,0.24048 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-284)"
+                              fill: "url(#linearGradient-280)"
                             }
                           }),
                           _vm._v(" "),
@@ -76799,7 +76488,7 @@ var render = function() {
                               d:
                                 "M4.35024,1.57536 C3.80304,1.75752 2.88,2.25036 3.06,3.15036 C3.24,4.05036 4.86144,5.63076 5.40144,5.87052 C5.94144,6.11028 5.58072,4.68036 5.10048,4.05036 C4.62024,3.42036 5.9598,4.85388 6.39,4.71024 C6.705,4.60512 6.81048,4.00536 6.46524,3.06036 C6.1578,2.21976 7.53048,1.44036 6.93,1.32048 C6.33024,1.20024 5.07024,1.33524 4.35024,1.57536 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-285)"
+                              fill: "url(#linearGradient-281)"
                             }
                           }),
                           _vm._v(" "),
@@ -76808,7 +76497,7 @@ var render = function() {
                               d:
                                 "M12.79188,11.98872 C12.9474,11.78496 17.32428,8.75088 17.649,8.63208 C18.10548,8.4654 25.2,17.73 26.19,18.765 C27.18,19.8 24.8814,24.96456 22.9914,25.32456 C21.1014,25.68456 12.38256,12.52548 12.79188,11.98872 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-286)"
+                              fill: "url(#linearGradient-282)"
                             }
                           }),
                           _vm._v(" "),
@@ -76817,7 +76506,7 @@ var render = function() {
                               d:
                                 "M0.27,1.17036 C0.90648,0.53388 4.08024,0.90036 4.5,1.02024 C4.92048,1.14012 5.97024,0.27036 6.60024,0.24012 C7.23024,0.20988 9.15768,0.56268 10.29024,1.20024 C11.5452,1.90692 17.82,8.82036 17.82,8.82036 C17.82,8.82036 17.73072,10.62036 16.155,11.70036 C14.57568,12.78288 13.56264,12.28788 13.56264,12.28788 C13.56264,12.28788 11.34,8.23536 10.575,7.74036 C9.81,7.24536 7.92,8.07804 6.36408,7.69644 C4.89672,7.3368 2.85768,5.44536 3.42072,4.95036 C4.01832,4.42476 5.44716,5.6376 6.09048,5.85036 C7.04268,6.16536 8.82792,5.78736 8.865,5.06268 C8.91,4.185 6.066,3.37104 3.915,2.72268 C2.394,2.2644 -0.24732,1.68768 0.27,1.17036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-287)"
+                              fill: "url(#linearGradient-283)"
                             }
                           }),
                           _vm._v(" "),
@@ -76846,7 +76535,7 @@ var render = function() {
                               d:
                                 "M19.20024,0.18036 C20.16,2.16036 23.76,9.06012 23.52024,14.40036 C23.28048,19.7406 21.83976,25.26048 21.65976,29.40048 C21.47976,33.54048 21.6,36.24048 21.6,36.24048 C21.6,36.24048 17.64072,38.70036 11.64024,38.52036 C5.82264,38.34612 3.00024,36.84024 3.00024,36.84024 C3.00024,36.84024 2.8278,30.48948 2.10024,26.16048 C1.53,22.77036 0.135,20.79036 0.120200894,16.98048 C0.10044,12.105 7.605,5.80536 9.84024,2.40048 C11.67768,-0.39852 19.20024,0.18036 19.20024,0.18036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-288)"
+                              fill: "url(#linearGradient-284)"
                             }
                           }),
                           _vm._v(" "),
@@ -76867,7 +76556,7 @@ var render = function() {
                           attrs: {
                             id: "girl_x5F_hairs",
                             transform: "translate(245.520000, 119.520000)",
-                            fill: "url(#linearGradient-289)"
+                            fill: "url(#linearGradient-285)"
                           }
                         },
                         [
@@ -76895,7 +76584,7 @@ var render = function() {
                               d:
                                 "M15.06024,23.34024 C14.82768,25.42536 15.96024,31.50036 15.96024,31.50036 C15.96024,31.50036 13.14,34.42536 9,34.62048 C6.96852,34.71624 6.60024,33.72048 6.60024,33.72048 L7.44048,25.38036 C7.44048,25.38036 8.70552,23.00688 11.28024,22.02048 C13.85424,21.03372 14.82048,21.96036 14.82048,21.96036 L15.06024,23.34024 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-290)"
+                              fill: "url(#linearGradient-286)"
                             }
                           }),
                           _vm._v(" "),
@@ -76904,7 +76593,7 @@ var render = function() {
                               d:
                                 "M13.92048,8.22024 C10.26,6.66036 7.53336,6.72804 7.53336,6.72804 C4.68,8.28 -2.90592,22.46868 1.86048,25.92 C4.8024,28.05048 9.84924,25.87716 13.20336,22.98096 C13.40856,23.0454 13.62744,23.08068 13.8546,23.08068 C15.02316,23.08068 15.9696,22.16412 15.9696,21.033 C15.9696,20.71008 15.89004,20.40588 15.75288,20.13408 C16.06212,19.647 16.30008,19.17 16.44048,18.71964 C17.26668,16.06644 17.58024,9.78048 13.92048,8.22024 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-291)"
+                              fill: "url(#linearGradient-287)"
                             }
                           }),
                           _vm._v(" "),
@@ -76949,7 +76638,7 @@ var render = function() {
                               d:
                                 "M5.49072,12.84012 C4.07268,14.01768 0.13716,15.9606 0.03024,16.65 C-0.11232,17.57268 1.9962,18.08676 2.47644,18.08676 C2.95668,18.08676 3.30768,16.785 4.59072,14.99976 C5.3136,13.99428 6.24456,12.21408 5.49072,12.84012 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-292)"
+                              fill: "url(#linearGradient-288)"
                             }
                           }),
                           _vm._v(" "),
@@ -76985,7 +76674,7 @@ var render = function() {
                               d:
                                 "M13.27932,19.06416 C12.89736,19.15776 12.35052,18.99 12.39048,18.21024 C12.465,16.74036 14.98788,14.4864 14.92596,12.40524 C14.85,9.87768 10.10268,9.315 6.84,8.04024 C3.32712,6.66756 3.375,2.60964 4.25232,1.28268 C5.22,-0.18 6.93,0.30024 7.65,1.02024 C8.37,1.74024 8.69976,2.5398 9.33048,2.52036 C10.05768,2.49768 9.78768,1.08036 10.89,1.08036 C12.00672,1.08036 12.97332,3.13992 13.74048,3.99024 C15.05268,5.44536 21.93948,7.71588 22.28976,12.66012 C22.77072,19.44 16.02072,24.7201201 15.27048,24.7201201 C13.99284,24.72048 14.06052,23.24196 14.60592,22.94604 C15.1524,22.65012 16.18092,22.02552 15.92064,20.59776 C15.66,19.17036 14.13,18.85536 13.27932,19.06416 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-293)"
+                              fill: "url(#linearGradient-289)"
                             }
                           }),
                           _vm._v(" "),
@@ -77014,7 +76703,7 @@ var render = function() {
                               d:
                                 "M4.54356,0.23832 C5.27184,0.09612 6.09732,2.47536 6.45732,3.82536 C6.81732,5.17536 7.07832,7.46064 8.39988,8.97048 C9.60732,10.35036 13.47012,11.61036 13.47012,11.61036 C13.47012,11.61036 13.88988,13.86036 12.86964,15.12036 C11.85012,16.38036 10.3446,16.31664 10.3446,16.31664 C10.3446,16.31664 5.91012,11.91024 4.04964,10.62036 C2.18988,9.33048 1.05012,7.59024 0.76464,6.34536 C0.45936,5.01336 0.24012,4.35024 0.38988,2.88036 C0.47088,2.0826 0.78444,1.02312 0.78444,1.02312 C0.78444,1.02312 3.54636,5.40576 4.25988,6.54048 C5.01012,6.39036 4.65012,4.32036 4.56012,3.48048 C4.47012,2.6406 3.80268,0.38268 4.54356,0.23832 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-294)"
+                              fill: "url(#linearGradient-290)"
                             }
                           }),
                           _vm._v(" "),
@@ -77023,7 +76712,7 @@ var render = function() {
                               d:
                                 "M43.56072,1.35612 C46.71,0.81036 48.55932,2.22876 49.545,4.36536 C50.625,6.70536 50.4,9.60048 48.72024,11.28024 C47.04048,12.96 36.22284,25.81524 30.52476,25.65216 C24.165,25.47 10.10232,17.44272 9.96048,16.62012 C9.81792,15.79752 12.44268,11.24532 12.81096,11.3778 C13.17852,11.51028 27.71928,17.00352 29.88,16.42176 C32.04,15.84036 41.37192,1.73556 43.56072,1.35612 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-295)"
+                              fill: "url(#linearGradient-291)"
                             }
                           }),
                           _vm._v(" "),
@@ -77052,7 +76741,7 @@ var render = function() {
                               d:
                                 "M0.93528,16.40988 C0.93528,16.96752 1.38744,17.41932 1.94508,17.41932 L24.32448,17.41932 C24.88212,17.41932 25.33428,16.96752 25.33428,16.40988 L25.33428,1.602 C25.33428,1.04436 24.88212,0.59256 24.32448,0.59256 L1.94508,0.59256 C1.38744,0.59256 0.93528,1.04436 0.93528,1.602 L0.93528,16.40988 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-296)"
+                              fill: "url(#linearGradient-292)"
                             }
                           }),
                           _vm._v(" "),
@@ -77061,7 +76750,7 @@ var render = function() {
                               d:
                                 "M25.1046,0.00612 L1.1646,0.00612 C0.56808,0.00612 0.0846,0.4896 0.0846,1.08612 L0.0846,16.92612 C0.0846,17.52264 0.56808,18.00612 1.1646,18.00612 L25.1046,18.00612 C25.70112,18.00612 26.1846,17.52264 26.1846,16.92612 L26.1846,1.08612 C26.1846,0.48924 25.70112,0.00612 25.1046,0.00612 Z M24.3846,16.20612 L1.8846,16.20612 L1.8846,1.80612 L24.3846,1.80612 L24.3846,16.20612 Z",
                               id: "Shape",
-                              fill: "url(#linearGradient-297)"
+                              fill: "url(#linearGradient-293)"
                             }
                           }),
                           _vm._v(" "),
@@ -77111,7 +76800,7 @@ var render = function() {
                               d:
                                 "M8.667,97.78932 C9.33048,99.45036 12.16872,100.1466 14.55012,100.71036 C17.11656,101.31804 18.94464,101.66868 18.84024,102.69036 C18.72036,103.86036 13.14036,104.25024 9.09036,104.13036 C5.04036,104.01048 2.10636,103.53312 1.5066,103.08312 C0.873,102.60792 0.90072,98.31024 1.05048,97.35048 C1.20024,96.39072 8.667,97.78932 8.667,97.78932 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-298)"
+                              fill: "url(#linearGradient-294)"
                             }
                           }),
                           _vm._v(" "),
@@ -77120,7 +76809,7 @@ var render = function() {
                               d:
                                 "M4.44024,0.24048 C3.90024,2.22048 2.52036,6.7806 2.04012,15.4206 C1.55988,24.0606 2.16,50.58072 2.16,57.06072 C2.16,63.54072 0.60012,75.06036 0.47988,82.86048 C0.35964,90.6606 0.2052,97.99524 0.65988,98.28036 C1.665,98.91036 7.425,99.36036 9.36,98.28036 C9.69768,98.09208 12.84012,70.8606 15.00012,59.46048 C16.425,51.93936 21.96,11.09988 22.32,5.10012 C22.68,-0.89964 4.44024,0.24048 4.44024,0.24048 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-299)"
+                              fill: "url(#linearGradient-295)"
                             }
                           }),
                           _vm._v(" "),
@@ -77149,7 +76838,7 @@ var render = function() {
                               d:
                                 "M29.25,99.15048 C29.81988,100.17072 32.35824,101.43684 34.74,102.0006 C37.30644,102.60828 39.13452,102.95892 39.03012,103.9806 C38.91024,105.1506 33.33024,105.54048 29.28024,105.4206 C25.23024,105.30072 22.50036,105.1506 21.90024,104.7006 C21.26664,104.2254 20.94012,100.83024 21.09024,99.87048 C21.24036,98.91072 29.25,99.15048 29.25,99.15048 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-300)"
+                              fill: "url(#linearGradient-296)"
                             }
                           }),
                           _vm._v(" "),
@@ -77158,7 +76847,7 @@ var render = function() {
                               d:
                                 "M24.39,3.78036 C24.66,7.38036 27.09,51.03036 27.63,58.23036 C28.17,65.43036 30.53952,98.66556 30.24,99.3006 C29.745,100.35036 22.095,101.52036 20.925,100.48536 C20.17656,99.82332 17.75988,82.98072 15.84,71.9406 C13.92012,60.90048 9.72,41.3406 7.56,33.66072 C5.4,25.98084 1.44,13.41036 3.69,2.25036 C5.76,-0.08964 10.3518,-0.03708 15.39,0.90036 C20.5776,1.86552 24.39,3.78036 24.39,3.78036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-301)"
+                              fill: "url(#linearGradient-297)"
                             }
                           }),
                           _vm._v(" "),
@@ -77197,7 +76886,7 @@ var render = function() {
                           attrs: {
                             id: "guy_x5F_left_hand",
                             transform: "translate(80.640000, 86.040000)",
-                            fill: "url(#linearGradient-302)"
+                            fill: "url(#linearGradient-298)"
                           }
                         },
                         [
@@ -77225,7 +76914,7 @@ var render = function() {
                               d:
                                 "M20.85012,22.23036 C14.45472,20.4354 15.08472,21.4074 14.38668,21.09528 C13.62096,20.3292 14.56848,9.91656 16.10496,3.69792 C12.6756,3.0996 9.82908,1.59336 7.6986,0.09936 C3.177,11.11788 0.61956,25.155 0.45,36.18036 C0.27,47.88036 0.72,59.58036 0.81,60.12036 C0.9,60.66036 9.0864,65.7 18.18,65.79036 C27.24012,65.88036 30.51,63.54036 30.51,63.54036 C30.51,63.54036 32.32584,31.46508 32.0328,30.5676 C31.73976,29.67012 27.24552,24.02532 20.85012,22.23036 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-303)"
+                              fill: "url(#linearGradient-299)"
                             }
                           }),
                           _vm._v(" "),
@@ -77282,7 +76971,7 @@ var render = function() {
                                 d:
                                   "M17.41176,10.84536 C18.78264,13.11552 21.51,13.54536 21.735,14.31036 C21.96,15.07536 20.475,16.60536 20.025,16.87536 C19.575,17.14536 17.415,12.73536 17.235,12.24036 C17.055,11.74536 17.41176,10.84536 17.41176,10.84536 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-304)"
+                                fill: "url(#linearGradient-300)"
                               }
                             }),
                             _vm._v(" "),
@@ -77291,7 +76980,7 @@ var render = function() {
                                 d:
                                   "M13.61268,6.09804 C13.61268,6.09804 7.38,7.92036 4.32,12.1806 C2.63052,14.53284 4.72788,18.67608 6.94512,21.9168 C6.20244,22.55112 5.82012,23.28048 5.82012,23.28048 L5.535,24.07536 C5.37012,25.89048 3.3948,32.13972 2.6748,33.99984 C2.40696,34.69176 4.28256,37.23588 8.37,37.44036 C11.97,37.62036 14.37012,35.91036 14.37012,35.91036 L14.715,28.01268 C14.715,28.01268 14.83596,27.5184 14.96628,26.84556 C16.70724,26.6238 18.68688,25.94124 20.34,24.24024 C24.48,19.98036 15.93,7.96536 13.61268,6.09804 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-305)"
+                                fill: "url(#linearGradient-301)"
                               }
                             }),
                             _vm._v(" "),
@@ -77300,7 +76989,7 @@ var render = function() {
                                 d:
                                   "M12.36024,17.04024 C12.81636,16.73172 12.69036,15.78024 11.61036,14.70024 C10.53036,13.62024 9.39024,12.66012 9.60048,11.52036 C9.80892,10.3896 13.53204,9.18432 15.27984,7.88868 C18.15048,5.76036 19.08036,0.60012 17.34048,0.27036 C14.95332,-0.18216 14.1912,3.09024 13.56048,3.09024 C12.8106,3.09024 13.19436,1.341 12.11868,1.46736 C10.56024,1.65024 9.96012,3.87036 9.06048,4.56012 C7.71192,5.59404 0.54036,7.80012 0.09036,13.14 C-0.27612,17.487 2.44656,19.95876 3.64536,21.51 C4.92048,23.15988 5.31396,24.0084 5.53536,24.075 C5.9328,24.19452 7.68276,23.93388 9.18036,23.31 C10.80036,22.635 11.79036,21.78 11.47536,21.375 C11.16036,20.97 8.80524,20.51784 8.64036,18.54 C8.52048,17.1 9.49536,16.47 10.26036,16.605 C11.02536,16.74 11.85012,17.38548 12.36024,17.04024 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-306)"
+                                fill: "url(#linearGradient-302)"
                               }
                             }),
                             _vm._v(" "),
@@ -77309,7 +76998,7 @@ var render = function() {
                                 d:
                                   "M13.455,18.49536 C13.73688,18.504 13.95,20.41524 15.05268,20.67804 C15.78708,20.85264 18.15012,19.21536 19.21536,18.74304 C19.86228,18.45612 21.01572,18.25956 21.08988,18.55548 C21.16404,18.8514 21.33036,19.93572 21.73536,20.90304 C22.07736,21.71988 22.86036,22.47048 22.47804,24.14304 C21.91644,26.59932 17.64036,28.44072 14.71536,28.01304 C14.64768,27.31536 14.55012,26.23356 14.06268,24.27804 C13.5,22.02048 12.62412,19.9656 12.645,19.55304 C12.67524,18.96048 12.97512,18.48024 13.455,18.49536 Z",
                                 id: "Path",
-                                fill: "url(#linearGradient-307)"
+                                fill: "url(#linearGradient-303)"
                               }
                             }),
                             _vm._v(" "),
@@ -77344,7 +77033,7 @@ var render = function() {
                                   attrs: {
                                     d:
                                       "M6.21,6.12036 C9.81,6.30036 12.21012,4.59036 12.21012,4.59036 L12.33576,1.71288 C11.42928,2.20032 9.47268,3.03876 6.89472,2.90988 C3.7656,2.75328 1.93752,1.2276 1.37016,0.20952 C1.03032,1.25424 0.72108,2.1474 0.51516,2.67984 C0.24732,3.37176 2.12256,5.91588 6.21,6.12036 Z",
-                                    fill: "url(#linearGradient-308)"
+                                    fill: "url(#linearGradient-304)"
                                   }
                                 }),
                                 _vm._v(" "),
@@ -77375,7 +77064,7 @@ var render = function() {
                               d:
                                 "M18.69768,53.03268 C17.67744,49.91112 16.60248,29.63736 14.7798,15.5376 C9.72108,15.67152 5.60592,16.93908 3.4236,17.98236 C3.93732,20.35476 4.67712,23.45904 5.85036,27.54036 C9.06048,38.70828 13.36536,51.43536 13.44024,54.18036 C13.48452,55.79964 12.10608,57.70044 11.9304,60.09192 C11.81268,61.69536 12.465,64.30536 13.08024,64.26036 C13.86036,64.20348 13.7952,61.82784 14.10768,60.70536 C14.60268,58.92768 15.66036,58.32036 15.66036,58.32036 C15.66036,58.32036 17.91036,58.32612 21.70404,58.32612 C21.17124,56.41344 19.14228,54.39384 18.69768,53.03268 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-309)"
+                              fill: "url(#linearGradient-305)"
                             }
                           }),
                           _vm._v(" "),
@@ -77384,7 +77073,7 @@ var render = function() {
                               d:
                                 "M11.58012,2.10024 C7.98012,-1.73988 1.08,2.28024 0.42012,7.32024 C0.279,8.39772 1.26,9.6606 1.98,11.52036 C2.40696,12.62304 2.6748,14.52528 3.42324,17.98236 C5.60556,16.93908 9.72072,15.67152 14.77944,15.5376 C13.90896,8.802 12.86784,3.47364 11.58012,2.10024 Z",
                               id: "Path",
-                              fill: "url(#linearGradient-310)"
+                              fill: "url(#linearGradient-306)"
                             }
                           }),
                           _vm._v(" "),
