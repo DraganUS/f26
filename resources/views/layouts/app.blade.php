@@ -21,8 +21,8 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
-    <script defer src="face-api.min.js"></script>
-    <script defer src="script.js"></script>
+    <script defer src="/js/face-api.min.js"></script>
+    <script defer src="/js/script.js"></script>
     <!-- Styles -->
     <style>
         html, body {
