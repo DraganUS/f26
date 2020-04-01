@@ -77647,7 +77647,7 @@ var render = function() {
                             staticClass: "circular",
                             style: {
                               backgroundImage:
-                                "url(http://142.93.168.134/storage/" +
+                                "url(https://tahi26.de/storage/" +
                                 _vm.products[0].img_path +
                                 ")"
                             },
