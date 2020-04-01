@@ -1,8 +1,7 @@
 <template>
     <div class="container">
 <!--        <h3>Here's how it works</h3>-->
-<!--        <img style="width: 100%" src="/storage/Hero-sofunktionierts_2x-min.jpg" alt="">-->
-        <img style="width: 100%" src="https://tahi26.de//storage/Hero-sofunktionierts_2x-min.jpg" alt="">
+        <img style="width: 100%" src="https://tahi26.de/storage/Hero-sofunktionierts_2x-min.jpg" alt="">
 
         <div id="exp2" class="d-flex justify-content-around align-items-center">
             <div>

@@ -1972,7 +1972,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Home2Component",
   data: function data() {
@@ -40693,7 +40692,7 @@ var staticRenderFns = [
       _c("img", {
         staticStyle: { width: "100%" },
         attrs: {
-          src: "https://tahi26.de//storage/Hero-sofunktionierts_2x-min.jpg",
+          src: "https://tahi26.de/storage/Hero-sofunktionierts_2x-min.jpg",
           alt: ""
         }
       }),
