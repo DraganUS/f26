@@ -1,7 +1,8 @@
 <template>
     <div class="container">
 <!--        <h3>Here's how it works</h3>-->
-        <img style="width: 100%" src="http://142.93.168.134/storage/Hero-sofunktionierts_2x-min.jpg" alt="">
+<!--        <img style="width: 100%" src="/storage/Hero-sofunktionierts_2x-min.jpg" alt="">-->
+        <img style="width: 100%" src="https://tahi26.de//storage/Hero-sofunktionierts_2x-min.jpg" alt="">
 
         <div id="exp2" class="d-flex justify-content-around align-items-center">
             <div>
@@ -42,7 +43,7 @@
  div#exp2{
      padding:20px;
      background: #f5f6fa;
-     margin-bottom: 70px;
+     margin-bottom: 200px;
  }
  .fa-check-square{
      font-size: 19px;
@@ -60,6 +61,10 @@
  @media only screen and (max-width: 994px) {
      .justify-content-around{
          flex-wrap: wrap;
+     }
+     div#exp2{
+         padding:15px;
+         margin-bottom: 80px;
      }
  }
 </style>
