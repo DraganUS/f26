@@ -9042,7 +9042,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px !important;\n}\n.fa-play-circle[data-v-59ad00fa]:hover {\n    cursor: pointer !important;\n}\ncanvas[data-v-59ad00fa] {\n    position: absolute !important;\n}\n\n", ""]);
+exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover {\n    cursor: pointer;\n}\ncanvas[data-v-59ad00fa] {\n    position: absolute;\n}\n\n", ""]);
 
 // exports
 
