@@ -21,7 +21,7 @@
                         <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'url(https://tahi26.de/storage/' + products[0].img_path + ')' }"></div>
                     </div>
                     </div>
-                    <div class="card-footer d-flex justify-content-center ">
+                    <div style=" background: #323a45; padding: 7px; display: flex; justify-content: center;" class="card-footer d-flex justify-content-center ">
                         <i @click="showImage(products[0].id)" class="fas fa-play-circle"></i>
                     </div>
                 </div>
@@ -103,5 +103,4 @@
     canvas {
         position: absolute;
     }
-
 </style>
