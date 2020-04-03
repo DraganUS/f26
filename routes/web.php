@@ -2,7 +2,7 @@
 
 
 
-//Auth::routes();
+Auth::routes();
 //
 Route::get('/tachistoskop-facial', 'HomeController@index')->name('home');
 
