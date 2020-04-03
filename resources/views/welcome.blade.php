@@ -17,8 +17,6 @@
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
-        {{ Voyager::setting('site.google_analytics_tracking_id') }}
-
         <!-- Styles -->
         <style>
             html, body {
