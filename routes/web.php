@@ -31,8 +31,5 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 
-//Route::get('/voyager/gravy', function () {
-//    return  view('/voyager/gravy');
-//});
-Route::get('/voyager/gravy','ProductTestingController@index');
+//Route::get('/voyager/gravy','ProductTestingController@index');
 
