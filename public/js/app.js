@@ -77617,7 +77617,7 @@ var render = function() {
             _c("br"),
             _vm._v(" "),
             _vm.counter
-              ? _c("h4", [
+              ? _c("h4", { staticStyle: { color: "red" } }, [
                   _vm._v("remaining tests: " + _vm._s(this.products.length))
                 ])
               : _vm._e()
