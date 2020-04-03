@@ -95,13 +95,13 @@
         background-size: cover;
     }
     .fa-play-circle{
-        font-size: 40px;
+        font-size: 40px !important;
     }
     .fa-play-circle:hover {
-        cursor: pointer;
+        cursor: pointer !important;
     }
     canvas {
-        position: absolute;
+        position: absolute !important;
     }
 
 </style>
