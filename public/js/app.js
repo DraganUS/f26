@@ -77628,7 +77628,14 @@ var render = function() {
           ? _c("div", { staticClass: "card dark mb-5" }, [
               _c(
                 "div",
-                { staticClass: "card-header d-flex justify-content-center" },
+                {
+                  staticClass: "card-header d-flex justify-content-center",
+                  staticStyle: {
+                    background: "#313945",
+                    padding: "8px",
+                    "text-align": "center"
+                  }
+                },
                 [_vm._v("Product ID: " + _vm._s(_vm.products[0].id))]
               ),
               _vm._v(" "),

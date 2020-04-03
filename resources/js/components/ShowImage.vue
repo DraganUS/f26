@@ -13,7 +13,7 @@
                     </span>
                 </div>
                 <div class="card dark mb-5" v-if="isVisible">
-                    <div class="card-header d-flex justify-content-center">Product ID: {{products[0].id}}</div>
+                    <div style="background: #313945; padding: 8px; text-align: center;" class="card-header d-flex justify-content-center">Product ID: {{products[0].id}}</div>
                     <div style="min-height: 380px">
                         <div class="d-flex justify-content-center align-items-center" v-if="imageId === products[0].id">
                     </div>
