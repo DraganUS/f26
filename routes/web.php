@@ -30,4 +30,8 @@ Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
 
-Route::get('/voyager/gravy','Voyager@gravy');
+//Route::get('/voyager/gravy','Voyager@gravy');
+Route::get('/voyager/gravy', function () {
+    return  view('/voyager/gravy');
+});
+
