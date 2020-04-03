@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="voyager-character" uuid="70bee535-e042-4fda-9956-3a4d7ce52c12">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/vendor/tcg/voyager/publishable/assets/images/voyager-character.sketch</jdbc-url>
+    </data-source>
+  </component>
+</project>
