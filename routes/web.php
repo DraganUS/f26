@@ -17,7 +17,7 @@ Route::get('/tachistoskop-facial', 'HomeController@index')->name('home');
 |
 */
 
-Route::get('/', function () {
+Route::get('/asd', function () {
     return view('welcome');
 });
 
@@ -31,5 +31,5 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 
-//Route::get('/voyager/gravy','ProductTestingController@index');
+Route::get('/voyager/gravy','ProductTestingController@index');
 
