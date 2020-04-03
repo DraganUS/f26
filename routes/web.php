@@ -20,6 +20,7 @@ Route::get('/tachistoskop-facial', 'HomeController@index')->name('home');
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('/home', function () {
     return view('welcome');
 });
@@ -28,3 +29,5 @@ Route::get('/home', function () {
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
+
+Route::get('/voyager/gravy','Voyager@gravy');
