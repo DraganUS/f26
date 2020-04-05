@@ -4401,6 +4401,9 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
+    var recaptchaScript = document.createElement('script');
+    recaptchaScript.setAttribute('src', "/js/face-api.min.js");
+    document.head.appendChild(recaptchaScript);
     var video = document.getElementById('video');
     Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'), faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'), faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'), faceapi.nets.faceExpressionNet.loadFromUri('/js/models')]).then(startVideo);
 

@@ -46,6 +46,11 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             console.log(this.products)
+
+            let recaptchaScript = document.createElement('script')
+            recaptchaScript.setAttribute('src', "/js/face-api.min.js")
+            document.head.appendChild(recaptchaScript)
+
             const video = document.getElementById('video');
 
             Promise.all([
