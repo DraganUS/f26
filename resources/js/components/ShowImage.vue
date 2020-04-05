@@ -38,9 +38,7 @@
         data: () => ({
             isVisible: true,
             counter: true,
-            products: [
-                id = 0
-            ],
+            products: [ ],
             imageId: 0,
             countDown : 4,
             testedID: 0,
