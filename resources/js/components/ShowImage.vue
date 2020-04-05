@@ -38,7 +38,9 @@
         data: () => ({
             isVisible: true,
             counter: true,
-            products: [],
+            products: [
+                id = 0
+            ],
             imageId: 0,
             countDown : 4,
             testedID: 0,
@@ -47,9 +49,6 @@
             this.products = JSON.parse(this.productsDb);
             console.log(this.products)
 
-            let recaptchaScript = document.createElement('script')
-            recaptchaScript.setAttribute('src', "https://tahi26.de/js/face-api.min.js")
-            document.head.appendChild(recaptchaScript)
 
             const video = document.getElementById('video');
 

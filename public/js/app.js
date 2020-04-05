@@ -4392,7 +4392,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
     return {
       isVisible: true,
       counter: true,
-      products: [],
+      products: [id = 0],
       imageId: 0,
       countDown: 4,
       testedID: 0
@@ -4401,9 +4401,6 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-    var recaptchaScript = document.createElement('script');
-    recaptchaScript.setAttribute('src', "https://tahi26.de/js/face-api.min.js");
-    document.head.appendChild(recaptchaScript);
     var video = document.getElementById('video');
     Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'), faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'), faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'), faceapi.nets.faceExpressionNet.loadFromUri('/js/models')]).then(startVideo);
 
@@ -90701,6 +90698,7 @@ module.exports = function(module) {
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
+Vue.loadScript("/js/face-api.min.js");
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue
