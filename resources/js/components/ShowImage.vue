@@ -48,7 +48,7 @@
             console.log(this.products)
 
             let recaptchaScript = document.createElement('script')
-            recaptchaScript.setAttribute('src', "/js/face-api.min.js")
+            recaptchaScript.setAttribute('src', "https://tahi26.de/js/face-api.min.js")
             document.head.appendChild(recaptchaScript)
 
             const video = document.getElementById('video');
