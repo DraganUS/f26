@@ -4364,7 +4364,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -77644,17 +77643,6 @@ var render = function() {
           _c("h3", [_vm._v("Testing instructions:")]),
           _vm._v(" "),
           _c("div", [
-            _c("video", {
-              attrs: {
-                id: "video",
-                width: "720",
-                height: "560",
-                autoplay: "",
-                muted: ""
-              },
-              domProps: { muted: true }
-            }),
-            _vm._v(" "),
             _c("span", [
               _vm._v(
                 "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "

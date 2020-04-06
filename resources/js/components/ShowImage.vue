@@ -4,7 +4,6 @@
             <div class="col-md-8" >
                 <h3>Testing instructions:</h3>
                 <div>
-                    <video id="video" width="720" height="560" autoplay muted></video>
                     <span>
                         Stand straight for the duration of the test and look straight at the screen.
                         <br>
