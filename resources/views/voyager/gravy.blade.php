@@ -3,10 +3,13 @@
     <style>
         canvas {
             position: absolute;
-            top: 68px;
-            left: 244px;
-            /*698*/
-            /*left: 41px;*/
+            top: 61px;
+            left: 266px;
+        }
+        @media only screen and (max-width: 700px) {
+            canvas{
+                left: 41px;
+            }
         }
     </style>
     <script defer src="/js/face-api.min.js"></script>
