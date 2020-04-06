@@ -15,3 +15,4 @@
     <script src="{{ asset('js/app.js') }}"></script>
     <video id="video" width="720" height="560" autoplay muted></video>
 @stop
+    
