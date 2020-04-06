@@ -5,6 +5,8 @@
             position: absolute;
             top: 68px;
             left: 244px;
+            /*698*/
+            /*left: 41px;*/
         }
     </style>
     <script defer src="/js/face-api.min.js"></script>
