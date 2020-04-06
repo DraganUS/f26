@@ -4381,19 +4381,24 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-    this.isVisible = true;
-    var video = document.getElementById('video');
-    Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'), faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'), faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'), faceapi.nets.faceExpressionNet.loadFromUri('/js/models')]).then(startVideo);
-
-    function startVideo() {
-      navigator.getUserMedia({
-        video: {}
-      }, function (stream) {
-        return video.srcObject = stream;
-      }, function (err) {
-        return console.error(err);
-      });
-    } // video.addEventListener('playing', () => {
+    this.isVisible = true; // const video = document.getElementById('video');
+    //
+    // Promise.all([
+    //     faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'),
+    //     faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'),
+    //     faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'),
+    //     faceapi.nets.faceExpressionNet.loadFromUri('/js/models')
+    // ]).then(startVideo);
+    //
+    // function startVideo() {
+    //     navigator.getUserMedia(
+    //         { video: {} },
+    //         stream => video.srcObject = stream,
+    //         err => console.error(err)
+    //     )
+    // }
+    //
+    // video.addEventListener('playing', () => {
     //     const canvas = faceapi.createCanvasFromMedia(video);
     //     document.body.append(canvas);
     //     const displaySize = { width: video.width, height: video.height };
@@ -4407,7 +4412,6 @@ __webpack_require__.r(__webpack_exports__);
     //         faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
     //     }, 100)
     // });
-
   },
   methods: {
     showImage: function showImage(id) {
