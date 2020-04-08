@@ -1,4 +1,5 @@
 const video = document.getElementById('video');
+import Vue from 'vue';
 
 Promise.all([
     faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'),
