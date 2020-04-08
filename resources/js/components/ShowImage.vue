@@ -48,7 +48,7 @@
             this.isVisible = true;
             EventBus.$on('showImage',  ()=>{i
              // this.showImage();
-                console.log(data);
+              
             })
             // const video = document.getElementById('video');
             //
