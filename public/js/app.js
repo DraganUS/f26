@@ -4380,7 +4380,12 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-    this.isVisible = true; // const video = document.getElementById('video');
+    this.isVisible = true;
+    EventBus.$on('showImage', function () {
+      i; // this.showImage();
+
+      console.log(data);
+    }); // const video = document.getElementById('video');
     //
     // Promise.all([
     //     faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'),
@@ -4441,9 +4446,9 @@ __webpack_require__.r(__webpack_exports__);
       } else {
         console.log(this.products.length);
 
-        for (var i = 0; i < this.products.length; i++) {
-          if (this.products[i].id == this.testedID) {
-            this.products.splice(i, 1);
+        for (var _i = 0; _i < this.products.length; _i++) {
+          if (this.products[_i].id == this.testedID) {
+            this.products.splice(_i, 1);
             break;
           }
         }
@@ -9054,7 +9059,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\ndiv.howContainer[data-v-2c1b2bd2]{\n    margin-top: 130px;\n    margin-bottom: 70px;\n    background: #f2f7fc;\n    padding: 30px;\n}\nh2[data-v-2c1b2bd2]{\n    padding: 61px;\n    text-align: center;\n    font-size: 2rem;\n    font-weight: 700;\n}\ndiv#exp2[data-v-2c1b2bd2]{\n    padding:20px;\n    margin-bottom: 70px;\n}\nh4[data-v-2c1b2bd2]{\n    text-align: center;\n    width: 100%;\n}\np[data-v-2c1b2bd2]{\n    padding: 5px 85px;\n    text-align:center;\n}\ni[data-v-2c1b2bd2]{\n    color:#2a69dd;\n    font-size: 48px;\n    text-align: center;\n    width: 100%;\n}\n@media only screen and (max-width: 994px) {\n.justify-content-around[data-v-2c1b2bd2]{\n        flex-wrap: wrap;\n}\ndiv.howContainer[data-v-2c1b2bd2]{\n        margin-top: 50px;\n        margin-bottom: 30px;\n        background: #f2f7fc;\n        padding: 30px;\n}\nh2[data-v-2c1b2bd2]{\n        padding: 61px;\n        text-align: center;\n        font-size: 2rem;\n        font-weight: 700;\n}\ndiv#exp2[data-v-2c1b2bd2]{\n        padding:3px;\n        margin-bottom: 70px;\n}\np[data-v-2c1b2bd2]{\n        padding: 3px;\n}\n}\n", ""]);
+exports.push([module.i, "\ndiv.howContainer[data-v-2c1b2bd2]{\n     margin-top: 130px;\n     margin-bottom: 70px;\n     background: #f2f7fc;\n     padding: 30px;\n}\nh2[data-v-2c1b2bd2]{\n     padding: 61px;\n     text-align: center;\n     font-size: 2rem;\n     font-weight: 700;\n}\ndiv#exp2[data-v-2c1b2bd2]{\n     padding:20px;\n     margin-bottom: 70px;\n}\nh4[data-v-2c1b2bd2]{\n     text-align: center;\n     width: 100%;\n}\np[data-v-2c1b2bd2]{\n     padding: 5px 85px;\n     text-align:center;\n}\ni[data-v-2c1b2bd2]{\n     color:#2a69dd;\n     font-size: 48px;\n     text-align: center;\n     width: 100%;\n}\n@media only screen and (max-width: 994px) {\n.justify-content-around[data-v-2c1b2bd2]{\n         flex-wrap: wrap;\n}\ndiv.howContainer[data-v-2c1b2bd2]{\n         margin-top: 50px;\n         margin-bottom: 30px;\n         background: #f2f7fc;\n         padding: 30px;\n}\nh2[data-v-2c1b2bd2]{\n         padding: 61px;\n         text-align: center;\n         font-size: 2rem;\n         font-weight: 700;\n}\ndiv#exp2[data-v-2c1b2bd2]{\n         padding:3px;\n         margin-bottom: 70px;\n}\np[data-v-2c1b2bd2]{\n         padding: 3px;\n}\n}\n", ""]);
 
 // exports
 

@@ -13,7 +13,7 @@
             <div>
                 <i class="fas fa-plus-square"></i>
                 <h4>
-                    <span style="color: #d6d6d6;font-size: 2rem;">2.</span>
+                 <span style="color: #d6d6d6;font-size: 2rem;">2.</span>
                     Add all your products
                 </h4>
                 <p>Through your admin panel you can add images of your product to be tested for free.</p>
@@ -55,8 +55,7 @@
     }
     h4{
         text-align: center;
-        width: 100%;
-    }
+        width: 100%; }
     p{
         padding: 5px 85px;
         text-align:center;
@@ -90,5 +89,5 @@
         p{
             padding: 3px;
         }
-    }
+   }
 </style>
