@@ -46,10 +46,10 @@
             this.products = JSON.parse(this.productsDb);
             console.log(this.products);
             this.isVisible = true;
-            // EventBus.$on('showImage',  ()=>{i
+            EventBus.$on('showImage',  ()=>{i
              // this.showImage();
-            // })
-
+                console.log('eventbusssss');
+            })
         },
         methods: {
             showImage(id){
