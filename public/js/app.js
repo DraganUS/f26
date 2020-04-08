@@ -4380,10 +4380,9 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     console.log(this.products);
-    this.isVisible = true;
-    EventBus.$on('showImage', function () {
-      i; // this.showImage();
-    });
+    this.isVisible = true; // EventBus.$on('showImage',  ()=>{i
+    // this.showImage();
+    // })
   },
   methods: {
     showImage: function showImage(id) {
@@ -4414,9 +4413,9 @@ __webpack_require__.r(__webpack_exports__);
       } else {
         console.log(this.products.length);
 
-        for (var _i = 0; _i < this.products.length; _i++) {
-          if (this.products[_i].id == this.testedID) {
-            this.products.splice(_i, 1);
+        for (var i = 0; i < this.products.length; i++) {
+          if (this.products[i].id == this.testedID) {
+            this.products.splice(i, 1);
             break;
           }
         }
