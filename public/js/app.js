@@ -4381,8 +4381,7 @@ __webpack_require__.r(__webpack_exports__);
     this.products = JSON.parse(this.productsDb);
     this.isVisible = true;
     EventBus.$on('showImage', function () {
-      i; // this.showImage();
-
+      // this.showImage();
       console.log('bla');
     });
   },
@@ -4415,9 +4414,9 @@ __webpack_require__.r(__webpack_exports__);
       } else {
         console.log(this.products.length);
 
-        for (var _i = 0; _i < this.products.length; _i++) {
-          if (this.products[_i].id == this.testedID) {
-            this.products.splice(_i, 1);
+        for (var i = 0; i < this.products.length; i++) {
+          if (this.products[i].id == this.testedID) {
+            this.products.splice(i, 1);
             break;
           }
         }

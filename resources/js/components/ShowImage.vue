@@ -45,7 +45,7 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.isVisible = true;
-            EventBus.$on('showImage',  ()=>{i
+            EventBus.$on('showImage',  ()=>{
              // this.showImage();
                 console.log('bla')
             })

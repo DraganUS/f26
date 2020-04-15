@@ -853,7 +853,6 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
 var video = document.getElementById('video');
-window.EventBus = new Vue();
 Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'), faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'), faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'), faceapi.nets.faceExpressionNet.loadFromUri('/js/models')]).then(startVideo);
 
 function startVideo() {
@@ -899,10 +898,11 @@ video.addEventListener('playing', function () {
             // to napisem na lini 2
             // gde hocu da pozovem sliku emitujem event
 
-            EventBus.$emit('showImage', detections[0].expressions); //  drugi parametar samo ako imam
+            EventBus.$emit('showImage', detections[0].expressions);
+            console.log('emitovao'); //  drugi parametar samo ako imam
             // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
 
-          case 8:
+          case 9:
           case "end":
             return _context.stop();
         }
