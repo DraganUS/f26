@@ -31,7 +31,6 @@ video.addEventListener('playing', () => {
         faceapi.draw.drawDetections(canvas, resizedDetections);
         faceapi.draw.drawFaceLandmarks(canvas, resizedDetections);
         console.log(detections[0].expressions)
-        console.log('ass');
         //
         // vde inportujem vue i pravim event bus objekat i nakacim ga na
         // pre toga inport vue nao na app.js
