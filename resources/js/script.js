@@ -1,5 +1,6 @@
 const video = document.getElementById('video');
 window.EventBus = new Vue();
+console.log(EventBus);
 
 Promise.all([
     faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'),
