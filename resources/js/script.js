@@ -34,11 +34,10 @@ video.addEventListener('playing', () => {
         // pre toga inport vue nao na app.js
         // to napisem na lini 2
         window.EventBus = new Vue();
-        console.log('aa1');
         // gde hocu da pozovem sliku emitujem event
 
         EventBus.$emit('showImage', detections[0].expressions);
-        console.log(EventBus);
+       
         //  drugi parametar samo ako imam
         // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
     }, 100)
