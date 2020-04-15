@@ -4379,12 +4379,9 @@ __webpack_require__.r(__webpack_exports__);
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
-    console.log(this.products);
     this.isVisible = true;
     EventBus.$on('showImage', function () {
       i; // this.showImage();
-
-      console.log('eventbusssss');
     });
   },
   methods: {

@@ -21,7 +21,7 @@ function startVideo() {
 video.addEventListener('playing', () => {
     const canvas = faceapi.createCanvasFromMedia(video);
     document.body.append(canvas);
-    console.log('canvas '+ canvas)
+
     const displaySize = { width: video.width, height: video.height };
     faceapi.matchDimensions(canvas, displaySize);
     setInterval(async () => {
@@ -30,7 +30,7 @@ video.addEventListener('playing', () => {
         canvas.getContext('2d').clearRect(0, 0, canvas.width, canvas.height);
         faceapi.draw.drawDetections(canvas, resizedDetections);
         faceapi.draw.drawFaceLandmarks(canvas, resizedDetections);
-        console.log(detections[0].expressions)
+        // console.log(detections[0].expressions)
         //
         // vde inportujem vue i pravim event bus objekat i nakacim ga na
         // pre toga inport vue nao na app.js

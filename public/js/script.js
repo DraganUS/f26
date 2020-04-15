@@ -13380,18 +13380,18 @@ video.addEventListener('playing', function () {
             canvas.getContext('2d').clearRect(0, 0, canvas.width, canvas.height);
             faceapi.draw.drawDetections(canvas, resizedDetections);
             faceapi.draw.drawFaceLandmarks(canvas, resizedDetections);
-            console.log(detections[0].expressions);
-            console.log('ass'); //
+            console.log(detections[0].expressions); //
             // vde inportujem vue i pravim event bus objekat i nakacim ga na
             // pre toga inport vue nao na app.js
             // to napisem na lini 2
-            // window.EventBus = new Vue();
-            // gde hocu da pozovem sliku emitujem event
 
-            EventBus.$emit('showImage', detections[0].expressions); //  drugi parametar samo ako imam
+            window.EventBus = new Vue(); // gde hocu da pozovem sliku emitujem event
+
+            EventBus.$emit('showImage', detections[0].expressions);
+            console.log(EventBus); //  drugi parametar samo ako imam
             // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
 
-          case 10:
+          case 11:
           case "end":
             return _context.stop();
         }
