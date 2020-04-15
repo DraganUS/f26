@@ -1,6 +1,5 @@
 const video = document.getElementById('video');
-window.Vue = require('vue');
-window.EventBus = new Vue();
+window.Vue = require('vue').default;
 
 
 Promise.all([
@@ -36,7 +35,7 @@ video.addEventListener('playing', () => {
         // pre toga inport vue nao na app.js
         // to napisem na lini 2
         window.EventBus = new Vue();
-
+        console.log('aa1');
         // gde hocu da pozovem sliku emitujem event
 
         EventBus.$emit('showImage', detections[0].expressions);
