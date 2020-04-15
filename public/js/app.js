@@ -4382,6 +4382,8 @@ __webpack_require__.r(__webpack_exports__);
     this.isVisible = true;
     EventBus.$on('showImage', function () {
       i; // this.showImage();
+
+      console.log('bla');
     });
   },
   methods: {
