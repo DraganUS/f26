@@ -1,5 +1,7 @@
 const video = document.getElementById('video');
 window.Vue = require('vue');
+window.EventBus = new Vue();
+
 
 Promise.all([
     faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'),
@@ -37,9 +39,10 @@ video.addEventListener('playing', () => {
         window.EventBus = new Vue();
 
         // gde hocu da pozovem sliku emitujem event
-        // \;
-        EventBus.$emit('showImage',detections[0].expressions);
-        // drugi parametar samo ako imam
+
+        EventBus.$emit('showImage', detections[0].expressions);
+        console.log(EventBus);
+        //  drugi parametar samo ako imam
         // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
     }, 100)
 });

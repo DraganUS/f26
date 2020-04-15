@@ -13339,6 +13339,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 var video = document.getElementById('video');
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
+window.EventBus = new Vue();
 Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('/js/models'), faceapi.nets.faceLandmark68Net.loadFromUri('/js/models'), faceapi.nets.faceRecognitionNet.loadFromUri('/js/models'), faceapi.nets.faceExpressionNet.loadFromUri('/js/models')]).then(startVideo);
 
 function startVideo() {
@@ -13384,14 +13385,13 @@ video.addEventListener('playing', function () {
             // vde inportujem vue i pravim event bus objekat i nakacim ga na
             // pre toga inport vue nao na app.js
             // to napisem na lini 2
+            // window.EventBus = new Vue();
+            // gde hocu da pozovem sliku emitujem event
 
-            window.EventBus = new Vue(); // gde hocu da pozovem sliku emitujem event
-            // \;
-
-            EventBus.$emit('showImage', detections[0].expressions); // drugi parametar samo ako imam
+            EventBus.$emit('showImage', detections[0].expressions); //  drugi parametar samo ako imam
             // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
 
-          case 11:
+          case 10:
           case "end":
             return _context.stop();
         }
