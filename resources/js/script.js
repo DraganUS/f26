@@ -1,5 +1,4 @@
 const video = document.getElementById('video');
-window.Vue = require('vue').default;
 
 
 Promise.all([
