@@ -12,6 +12,7 @@ class TestController extends Controller
 
     public function store(Request $request)
     {
+        return 1;
 //        $userId = Auth::user()->id;
         $userId = 1;
         $newTest = new Test();
@@ -20,7 +21,7 @@ class TestController extends Controller
         $newTest->facial_expresion = $request->facial_expresion;
         $newTest->save();
 
-        return responder()->success($request)->respond();
+//        return responder()->success($request)->respond();
 
 
     }
