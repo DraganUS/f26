@@ -48,6 +48,7 @@
             this.isVisible = true;
             EventBus.$on('showImage',  (data)=>{
                 // this.form = data;
+
                 if(data){
                     console.log(data);
                 }
