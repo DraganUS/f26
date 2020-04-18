@@ -49,7 +49,7 @@
             EventBus.$on('showImage',  (data)=>{
                 // this.form = data;
 
-                if(data){
+                if(!data || 0 === data.length){
                     console.log(data);
                 }
 

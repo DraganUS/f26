@@ -4383,7 +4383,7 @@ __webpack_require__.r(__webpack_exports__);
     this.isVisible = true;
     EventBus.$on('showImage', function (data) {
       // this.form = data;
-      if (data) {
+      if (!data || 0 === data.length) {
         console.log(data);
       }
     });
