@@ -21,3 +21,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('/testing', 'API\TestController@store');
 Route::get('/testing', 'API\TestController@index');
+
+Route::post('/postman', function(Request $request) {
+    return $request;
+});
