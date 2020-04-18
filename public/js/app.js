@@ -4380,9 +4380,9 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     this.isVisible = true;
-    EventBus.$on('showImage', function () {
+    EventBus.$on('showImage', function (data) {
       // this.showImage();
-      console.log('bla');
+      console.log(data);
     });
   },
   methods: {

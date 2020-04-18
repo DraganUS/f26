@@ -898,11 +898,11 @@ video.addEventListener('playing', function () {
             // to napisem na lini 2
             // gde hocu da pozovem sliku emitujem event
 
-            EventBus.$emit('showImage', detections[0].expressions);
-            console.log('emitovao'); //  drugi parametar samo ako imam
+            EventBus.$emit('showImage', detections[0].expressions); // console.log('emitovao');
+            //  drugi parametar samo ako imam
             // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
 
-          case 9:
+          case 8:
           case "end":
             return _context.stop();
         }

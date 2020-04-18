@@ -36,7 +36,7 @@ video.addEventListener('playing', () => {
         // gde hocu da pozovem sliku emitujem event
 
         EventBus.$emit('showImage', detections[0].expressions);
-        console.log('emitovao');
+        // console.log('emitovao');
 
         //  drugi parametar samo ako imam
         // faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
