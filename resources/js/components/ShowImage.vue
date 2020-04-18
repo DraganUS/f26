@@ -41,13 +41,17 @@
             imageId: 0,
             countDown : 4,
             testedID: 0,
+            form: []
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.isVisible = true;
             EventBus.$on('showImage',  (data)=>{
-             // this.showImage();
-                console.log(data)
+                // this.form = data;
+                if(data){
+                    console.log(data);
+                }
+
             })
         },
         methods: {
@@ -82,6 +86,14 @@
                     }
                 }
             },
+            creatingNewTest() {
+                axios.post('/api/testing', this.form).then(response => {
+                    console.log(response.data)
+                    if(response.data.status){
+
+                    }
+                })
+            }
 
 
         },

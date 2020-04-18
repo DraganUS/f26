@@ -4374,15 +4374,18 @@ __webpack_require__.r(__webpack_exports__);
       products: [],
       imageId: 0,
       countDown: 4,
-      testedID: 0
+      testedID: 0,
+      form: []
     };
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     this.isVisible = true;
     EventBus.$on('showImage', function (data) {
-      // this.showImage();
-      console.log(data);
+      // this.form = data;
+      if (data) {
+        console.log(data);
+      }
     });
   },
   methods: {
@@ -4421,6 +4424,13 @@ __webpack_require__.r(__webpack_exports__);
           }
         }
       }
+    },
+    creatingNewTest: function creatingNewTest() {
+      axios.post('/api/testing', this.form).then(function (response) {
+        console.log(response.data);
+
+        if (response.data.status) {}
+      });
     }
   }
 });
