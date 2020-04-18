@@ -20,14 +20,13 @@ class TestController extends Controller
 //        $userId = Auth::user()->id;
 //        return $userId;
         $userId = 1;
-	    return $userId;
         $newTest = new Test();
         $newTest->user_id = $userId;
         $newTest->product_id = $request->product_id;
         $newTest->facial_expresion = $request->facial_expresion;
         $newTest->save();
 
-//        return responder()->success($request)->respond();
+        return responder()->success($request)->respond();
 
 
     }
