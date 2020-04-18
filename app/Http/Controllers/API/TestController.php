@@ -22,7 +22,7 @@ class TestController extends Controller
         $userId = 1;
         $newTest = new Test();
         $newTest->user_id = $userId;
-//        $newTest->product_id = $request->product_id;
+        $newTest->product_id = $request->product_id;
         $newTest->facial_expresion = $request->facial_expresion;
         $newTest->save();
 
