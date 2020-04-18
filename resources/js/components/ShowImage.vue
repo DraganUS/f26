@@ -18,7 +18,14 @@
                         <div class="d-flex justify-content-center align-items-center" v-if="imageId === products[0].id">
                     </div>
                     <div class="card-body" v-if="countDown == 0">
-                        <div  id="productImage"  v-if="imageId === products[0].id" class="circular" v-bind:style="{ backgroundImage: 'url(https://tahi26.de/storage/' + products[0].img_path + ')' }"></div>
+                        <div  id="productImage"
+                              v-if="imageId === products[0].id"
+                              class="circular"
+                              v-bind:style = "{ backgroundImage:
+                               'url(https://tahi26.de/storage/'
+                               + products[0].img_path + ')'
+                              }"
+                        ></div>
                     </div>
                     </div>
                     <div style=" background: #323a45; padding: 7px; display: flex; justify-content: center;" class="card-footer d-flex justify-content-center ">
@@ -41,18 +48,14 @@
             imageId: 0,
             countDown : 4,
             testedID: 0,
-            form: []
+            form: {}
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.isVisible = true;
             EventBus.$on('showImage',  (data)=>{
-                // this.form = data;
-
-                if(!data || 0 === data.length){
-                    console.log(data);
-                }
-
+                this.form = data;
+                console.log(data);
             })
         },
         methods: {
@@ -62,25 +65,27 @@
                 this.countDownTimer();
             },
             countDownTimer() {
-                if(this.countDown > -2) {
+                if (this.countDown > -2) {
                     setTimeout(() => {
                         this.countDown -= 1;
                         this.countDownTimer()
                     }, 210)
-                }
-                if (this.countDown == -2){
+                } else if(this.countDown === 0) {
+                    creatingNewTest
+                    this.countDownTimer()
+                } else if (this.countDown === -2) {
                     this.countDown = 4;
                     this.removeTestedProduct();
                 }
             },
             removeTestedProduct(){
-                if (this.products.length == 1){
+                if (this.products.length === 1){
                        this.isVisible = false;
                        this.counter = false;
                 }else {
                     console.log(this.products.length);
                     for(let i = 0; i < this.products.length; i++) {
-                        if(this.products[i].id == this.testedID) {
+                        if(this.products[i].id === this.testedID) {
                             this.products.splice(i, 1);
                             break;
                         }
@@ -91,12 +96,10 @@
                 axios.post('/api/testing', this.form).then(response => {
                     console.log(response.data)
                     if(response.data.status){
-
+                        console.log('POST', this.form);
                     }
                 })
             }
-
-
         },
     }
 </script>

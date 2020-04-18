@@ -4364,6 +4364,13 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -4375,17 +4382,17 @@ __webpack_require__.r(__webpack_exports__);
       imageId: 0,
       countDown: 4,
       testedID: 0,
-      form: []
+      form: {}
     };
   },
   mounted: function mounted() {
+    var _this = this;
+
     this.products = JSON.parse(this.productsDb);
     this.isVisible = true;
     EventBus.$on('showImage', function (data) {
-      // this.form = data;
-      if (!data || 0 === data.length) {
-        console.log(data);
-      }
+      _this.form = data;
+      console.log(data);
     });
   },
   methods: {
@@ -4395,30 +4402,31 @@ __webpack_require__.r(__webpack_exports__);
       this.countDownTimer();
     },
     countDownTimer: function countDownTimer() {
-      var _this = this;
+      var _this2 = this;
 
       if (this.countDown > -2) {
         setTimeout(function () {
-          _this.countDown -= 1;
+          _this2.countDown -= 1;
 
-          _this.countDownTimer();
+          _this2.countDownTimer();
         }, 210);
-      }
-
-      if (this.countDown == -2) {
+      } else if (this.countDown === 0) {
+        creatingNewTest;
+        this.countDownTimer();
+      } else if (this.countDown === -2) {
         this.countDown = 4;
         this.removeTestedProduct();
       }
     },
     removeTestedProduct: function removeTestedProduct() {
-      if (this.products.length == 1) {
+      if (this.products.length === 1) {
         this.isVisible = false;
         this.counter = false;
       } else {
         console.log(this.products.length);
 
         for (var i = 0; i < this.products.length; i++) {
-          if (this.products[i].id == this.testedID) {
+          if (this.products[i].id === this.testedID) {
             this.products.splice(i, 1);
             break;
           }
@@ -4426,10 +4434,14 @@ __webpack_require__.r(__webpack_exports__);
       }
     },
     creatingNewTest: function creatingNewTest() {
+      var _this3 = this;
+
       axios.post('/api/testing', this.form).then(function (response) {
         console.log(response.data);
 
-        if (response.data.status) {}
+        if (response.data.status) {
+          console.log('POST', _this3.form);
+        }
       });
     }
   }
