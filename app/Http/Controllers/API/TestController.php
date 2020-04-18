@@ -11,14 +11,16 @@ class TestController extends Controller
 {
     public function index(Request $request)
     {
-        return $request;
+        return 'get';
     }
 
     public function store(Request $request)
     {
-        return $request;
+//        return $request;
 //        $userId = Auth::user()->id;
+//        return $userId;
         $userId = 1;
+	    return $userId;
         $newTest = new Test();
         $newTest->user_id = $userId;
         $newTest->product_id = $request->product_id;
