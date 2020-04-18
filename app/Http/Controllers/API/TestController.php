@@ -5,14 +5,18 @@ namespace App\Http\Controllers\API;
 use App\Http\Controllers\Controller;
 use App\Test;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
+//use Illuminate\Support\Facades\Auth;
 
 class TestController extends Controller
 {
+    public function index(Request $request)
+    {
+        return true;
+    }
 
     public function store(Request $request)
     {
-        return 1;
+        return true;
 //        $userId = Auth::user()->id;
         $userId = 1;
         $newTest = new Test();
