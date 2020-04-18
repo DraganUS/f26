@@ -11,7 +11,7 @@ class TestController extends Controller
 {
     public function index(Request $request)
     {
-        return true;
+        return $request;
     }
 
     public function store(Request $request)
