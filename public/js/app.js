@@ -4437,8 +4437,8 @@ __webpack_require__.r(__webpack_exports__);
     },
     creatingNewTest: function creatingNewTest() {
       axios.post('/api/testing', {
-        product_id: 2,
-        facial_expresion: 'Flintstone'
+        product_id: this.imageId,
+        facial_expresion: this.form
       }).then(function (response) {
         console.log(response);
       })["catch"](function (error) {
