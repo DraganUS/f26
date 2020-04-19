@@ -4,16 +4,17 @@
         canvas {
             position: absolute;
             top: 61px;
-            left: 266px;
+            right: 1px;
         }
-        @media only screen and (max-width: 700px) {
-            canvas{
-                left: 41px;
-            }
-        }
+        /*@media only screen and (max-width: 700px) {*/
+        /*    canvas{*/
+
+        /*    }*/
+        /*}*/
     </style>
     <script defer src="/js/face-api.min.js"></script>
-    <div id="app" class="container">
+    <div id="app" class="container ">
+        <h1>asd</h1>
             <video id="video" width="320" height="260" autoplay muted></video>
             <show-image-component products-db="{{json_encode($products)}}"></show-image-component>
     </div>
