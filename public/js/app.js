@@ -4436,14 +4436,13 @@ __webpack_require__.r(__webpack_exports__);
       }
     },
     creatingNewTest: function creatingNewTest() {
-      var _this3 = this;
-
-      axios.post('/api/testing', this.form).then(function (response) {
-        console.log(response.data);
-
-        if (response.data.status) {
-          console.log('POST', _this3.form);
-        }
+      axios.post('/api/testing', {
+        product_id: 2,
+        facial_expresion: 'Flintstone'
+      }).then(function (response) {
+        console.log(response);
+      })["catch"](function (error) {
+        console.log(error);
       });
     }
   }

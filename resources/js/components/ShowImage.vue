@@ -95,13 +95,16 @@
                 }
             },
             creatingNewTest() {
-                axios.post('/api/testing', this.form).then(response => {
-                    console.log(response.data)
-                    if(response.data.status){
-                        console.log('POST', this.form);
-
-                    }
+                axios.post('/api/testing', {
+                    product_id: 2,
+                    facial_expresion: 'Flintstone'
                 })
+                    .then(function (response) {
+                        console.log(response);
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    });
             }
         },
     }
