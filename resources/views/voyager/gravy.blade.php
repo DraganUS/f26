@@ -13,6 +13,7 @@
             overflow: hidden;
         }
     </style>
+    @auth
     <script defer src="/js/face-api.min.js"></script>
     <div id="app" class="container ">
             <video id="video" width="320" height="260" autoplay muted></video>
@@ -25,5 +26,6 @@
     </script>
     <script defer src="/js/script.js"></script>
     <script src="{{ asset('js/app.js') }}"></script>
+    @endauth
 @stop
 
