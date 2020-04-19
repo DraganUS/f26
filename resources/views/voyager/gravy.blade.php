@@ -21,7 +21,7 @@
     <script defer src="/js/face-api.min.js"></script>
     <div id="app" class="container ">
             <video id="video" width="320" height="260" autoplay muted></video>
-            <show-image-component products-db="{{json_encode($products)}}"></show-image-component>
+            <show-image-component style="margin-right: 241px;" products-db="{{json_encode($products)}}"></show-image-component>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script>
