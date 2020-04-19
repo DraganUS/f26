@@ -50,13 +50,14 @@
             imageId: 0,
             countDown : 4,
             testedID: 0,
-            form: []
+            form: ''
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.isVisible = true;
             EventBus.$on('showImage',  (data)=>{
                 this.form = data;
+                console.log(data)
             })
         },
         methods: {

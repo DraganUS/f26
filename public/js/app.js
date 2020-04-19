@@ -4384,7 +4384,7 @@ __webpack_require__.r(__webpack_exports__);
       imageId: 0,
       countDown: 4,
       testedID: 0,
-      form: []
+      form: ''
     };
   },
   mounted: function mounted() {
@@ -4394,6 +4394,7 @@ __webpack_require__.r(__webpack_exports__);
     this.isVisible = true;
     EventBus.$on('showImage', function (data) {
       _this.form = data;
+      console.log(data);
     });
   },
   methods: {
