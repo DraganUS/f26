@@ -50,7 +50,7 @@
             imageId: 0,
             countDown : 4,
             testedID: 0,
-            form: {}
+            form: []
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
@@ -101,6 +101,7 @@
                 })
                     .then(function (response) {
                         console.log(response);
+                        console.log(this.form);
                     })
                     .catch(function (error) {
                         console.log(error);

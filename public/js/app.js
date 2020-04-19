@@ -4384,7 +4384,7 @@ __webpack_require__.r(__webpack_exports__);
       imageId: 0,
       countDown: 4,
       testedID: 0,
-      form: {}
+      form: []
     };
   },
   mounted: function mounted() {
@@ -4441,6 +4441,7 @@ __webpack_require__.r(__webpack_exports__);
         facial_expresion: 'Flintstone'
       }).then(function (response) {
         console.log(response);
+        console.log(this.form);
       })["catch"](function (error) {
         console.log(error);
       });
