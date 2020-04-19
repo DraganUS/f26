@@ -77709,7 +77709,7 @@ var render = function() {
                     "svg",
                     {
                       staticStyle: { height: "40px" },
-                      attrs: { viewBox: "0 0 20 20" },
+                      attrs: { fill: "#fff", viewBox: "0 0 20 20" },
                       on: {
                         click: function($event) {
                           return _vm.showImage(_vm.products[0].id)
