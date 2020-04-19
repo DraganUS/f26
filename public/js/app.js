@@ -4411,7 +4411,7 @@ __webpack_require__.r(__webpack_exports__);
           _this2.countDownTimer();
         }, 210);
       } else if (this.countDown === 0) {
-        creatingNewTest;
+        this.creatingNewTest();
         this.countDownTimer();
       } else if (this.countDown === -2) {
         this.countDown = 4;
