@@ -3,12 +3,12 @@
     <style>
         canvas {
             position: absolute;
-            top: 61px;
+            top: 312px;
             right: 5px;
         }
         video{
             position: absolute;
-            top: 61px;
+            top: 312px;
             right: 5px;
             overflow: hidden;
         }
