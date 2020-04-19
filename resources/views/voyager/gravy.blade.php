@@ -8,7 +8,9 @@
         }
         video{
             position: absolute;
-            top: 1px;
+            top: 61px;
+            right: 1px;
+            overflow: hidden;
         }
         /*@media only screen and (max-width: 700px) {*/
         /*    canvas{*/
