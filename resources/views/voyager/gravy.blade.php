@@ -12,11 +12,6 @@
             right: 5px;
             overflow: hidden;
         }
-        /*@media only screen and (max-width: 700px) {*/
-        /*    canvas{*/
-
-        /*    }*/
-        /*}*/
     </style>
     <script defer src="/js/face-api.min.js"></script>
     <div id="app" class="container ">
