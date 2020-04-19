@@ -73,7 +73,7 @@
                         this.countDownTimer()
                     }, 210)
                 } else if(this.countDown === 0) {
-                    console.log(this.form);
+                    console.log('post');
                     this.creatingNewTest();
                     this.countDownTimer();
                 } else if (this.countDown === -2) {
