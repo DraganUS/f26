@@ -77631,101 +77631,101 @@ var render = function() {
       "div",
       {
         staticClass: "row justify-content-center",
-        staticStyle: { display: "flex", "justify-content": "center" }
+        staticStyle: {
+          "margin-right": "274px",
+          display: "flex",
+          "justify-content": "center"
+        }
       },
       [
-        _c(
-          "div",
-          { staticClass: "col-md-8", staticStyle: { "margin-right": "274px" } },
-          [
-            _c("h3", [_vm._v("Testing instructions:")]),
-            _vm._v(" "),
-            _c("div", [
-              _c("span", [
-                _vm._v(
-                  "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
+        _c("div", { staticClass: "col-md-8" }, [
+          _c("h3", [_vm._v("Testing instructions:")]),
+          _vm._v(" "),
+          _c("div", [
+            _c("span", [
+              _vm._v(
+                "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
+              ),
+              _c("br"),
+              _vm._v(" "),
+              _vm.counter
+                ? _c("h4", { staticStyle: { color: "red" } }, [
+                    _vm._v("remaining tests: " + _vm._s(this.products.length))
+                  ])
+                : _vm._e()
+            ])
+          ]),
+          _vm._v(" "),
+          _vm.isVisible
+            ? _c("div", { staticClass: "card dark mb-5" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "card-header d-flex justify-content-center",
+                    staticStyle: {
+                      background: "#313945",
+                      padding: "8px",
+                      "text-align": "center"
+                    }
+                  },
+                  [_vm._v("Product ID: " + _vm._s(_vm.products[0].id))]
                 ),
-                _c("br"),
-                _vm._v(
-                  "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
-                ),
-                _c("br"),
                 _vm._v(" "),
-                _vm.counter
-                  ? _c("h4", { staticStyle: { color: "red" } }, [
-                      _vm._v("remaining tests: " + _vm._s(this.products.length))
-                    ])
-                  : _vm._e()
-              ])
-            ]),
-            _vm._v(" "),
-            _vm.isVisible
-              ? _c("div", { staticClass: "card dark mb-5" }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass: "card-header d-flex justify-content-center",
-                      staticStyle: {
-                        background: "#313945",
-                        padding: "8px",
-                        "text-align": "center"
-                      }
-                    },
-                    [_vm._v("Product ID: " + _vm._s(_vm.products[0].id))]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticStyle: { "min-height": "380px" } }, [
-                    _vm.imageId === _vm.products[0].id
-                      ? _c("div", {
-                          staticClass:
-                            "d-flex justify-content-center align-items-center"
-                        })
-                      : _vm._e(),
-                    _vm._v(" "),
-                    _vm.countDown == 0
-                      ? _c("div", { staticClass: "card-body" }, [
-                          _vm.imageId === _vm.products[0].id
-                            ? _c("div", {
-                                staticClass: "circular",
-                                style: {
-                                  backgroundImage:
-                                    "url(https://tahi26.de/storage/" +
-                                    _vm.products[0].img_path +
-                                    ")"
-                                },
-                                attrs: { id: "productImage" }
-                              })
-                            : _vm._e()
-                        ])
-                      : _vm._e()
-                  ]),
-                  _vm._v(" "),
-                  _c(
-                    "div",
-                    {
-                      staticClass: "card-footer d-flex justify-content-center ",
-                      staticStyle: {
-                        background: "#323a45",
-                        padding: "7px",
-                        display: "flex",
-                        "justify-content": "center"
-                      }
-                    },
-                    [
-                      _c("i", {
-                        staticClass: "fas fa-play-circle",
-                        on: {
-                          click: function($event) {
-                            return _vm.showImage(_vm.products[0].id)
-                          }
-                        }
+                _c("div", { staticStyle: { "min-height": "380px" } }, [
+                  _vm.imageId === _vm.products[0].id
+                    ? _c("div", {
+                        staticClass:
+                          "d-flex justify-content-center align-items-center"
                       })
-                    ]
-                  )
-                ])
-              : _c("h2", [_vm._v("Test Finish ")])
-          ]
-        )
+                    : _vm._e(),
+                  _vm._v(" "),
+                  _vm.countDown == 0
+                    ? _c("div", { staticClass: "card-body" }, [
+                        _vm.imageId === _vm.products[0].id
+                          ? _c("div", {
+                              staticClass: "circular",
+                              style: {
+                                backgroundImage:
+                                  "url(https://tahi26.de/storage/" +
+                                  _vm.products[0].img_path +
+                                  ")"
+                              },
+                              attrs: { id: "productImage" }
+                            })
+                          : _vm._e()
+                      ])
+                    : _vm._e()
+                ]),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "card-footer d-flex justify-content-center ",
+                    staticStyle: {
+                      background: "#323a45",
+                      padding: "7px",
+                      display: "flex",
+                      "justify-content": "center"
+                    }
+                  },
+                  [
+                    _c("i", {
+                      staticClass: "fas fa-play-circle",
+                      on: {
+                        click: function($event) {
+                          return _vm.showImage(_vm.products[0].id)
+                        }
+                      }
+                    })
+                  ]
+                )
+              ])
+            : _c("h2", [_vm._v("Test Finish ")])
+        ])
       ]
     )
   ])
