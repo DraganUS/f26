@@ -97,6 +97,7 @@
                     console.log(response.data)
                     if(response.data.status){
                         console.log('POST', this.form);
+                        
                     }
                 })
             }
