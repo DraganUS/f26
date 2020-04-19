@@ -13,7 +13,6 @@
             overflow: hidden;
         }
     </style>
-    @auth
         @if (Route::has('login'))
 
             @auth
