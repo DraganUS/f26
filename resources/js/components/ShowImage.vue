@@ -29,8 +29,6 @@
                     </div>
                     </div>
                     <div style=" background: #323a45; padding: 7px; display: flex; justify-content: center;" class="card-footer d-flex justify-content-center ">
-<!--                        <i @click="showImage(products[0].id)" class="fas fa-play-circle"></i>-->
-
                         <svg @click="showImage(products[0].id)"  style="height: 40px" fill="#fff" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM7 6l8 4-8 4V6z"/></svg>
                     </div>
                 </div>
@@ -99,12 +97,10 @@
                 })
                 axios.post('/api/testing', {
                     product_id: this.imageId,
-                    facial_expresion: "products:"
+                    facial_expresion: JSON.stringify(this.facial)
                 })
                     .then(function (response) {
                         console.log(response);
-                        console.log(this.form)
-
                     })
                     .catch(function (error) {
                         console.log(error);
@@ -124,10 +120,7 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
-    .fa-play-circle{
-        font-size: 40px;
-    }
-    .fa-play-circle:hover, svg:hover {
+    svg:hover {
         cursor: pointer;
     }
     canvas {

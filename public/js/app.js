@@ -4371,8 +4371,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb'],
   name: "ShowImage",
@@ -4439,10 +4437,9 @@ __webpack_require__.r(__webpack_exports__);
       });
       axios.post('/api/testing', {
         product_id: this.imageId,
-        facial_expresion: "products:"
+        facial_expresion: JSON.stringify(this.facial)
       }).then(function (response) {
         console.log(response);
-        console.log(this.form);
       })["catch"](function (error) {
         console.log(error);
       });
@@ -9071,7 +9068,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n.fa-play-circle[data-v-59ad00fa]{\n    font-size: 40px;\n}\n.fa-play-circle[data-v-59ad00fa]:hover, svg[data-v-59ad00fa]:hover {\n    cursor: pointer;\n}\ncanvas[data-v-59ad00fa] {\n    position: absolute;\n}\n", ""]);
+exports.push([module.i, "\n.container[data-v-59ad00fa]{\n    font-family: 'Inconsolata', monospace;\n}\n#productImage[data-v-59ad00fa]{\n    height: 300px;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\nsvg[data-v-59ad00fa]:hover {\n    cursor: pointer;\n}\ncanvas[data-v-59ad00fa] {\n    position: absolute;\n}\n", ""]);
 
 // exports
 
@@ -77637,11 +77634,11 @@ var render = function() {
         _c("div", [
           _c("span", [
             _vm._v(
-              "\n                        Stand straight for the duration of the test and look straight at the screen.\n                        "
+              "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
             ),
             _c("br"),
             _vm._v(
-              "\n                        Press play, after countdown you will be shown a picture for a split second.\n                        "
+              "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
             ),
             _c("br"),
             _vm._v(" "),
