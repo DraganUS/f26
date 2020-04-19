@@ -4384,7 +4384,7 @@ __webpack_require__.r(__webpack_exports__);
       imageId: 0,
       countDown: 4,
       testedID: 0,
-      form: ''
+      facial: ''
     };
   },
   mounted: function mounted() {
@@ -4434,11 +4434,12 @@ __webpack_require__.r(__webpack_exports__);
       var _this2 = this;
 
       EventBus.$on('showImage', function (data) {
-        _this2.form = data;
+        _this2.facial = data;
+        console.log(_this2.facial);
       });
       axios.post('/api/testing', {
         product_id: this.imageId,
-        facial_expresion: "this.form"
+        facial_expresion: "products:"
       }).then(function (response) {
         console.log(response);
         console.log(this.form);

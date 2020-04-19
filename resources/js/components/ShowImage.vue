@@ -50,7 +50,7 @@
             imageId: 0,
             countDown : 4,
             testedID: 0,
-            form: ''
+            facial: ''
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
@@ -94,12 +94,12 @@
             },
             creatingNewTest() {
                 EventBus.$on('showImage',  (data)=>{
-                    this.form = data;
-
+                    this.facial = data;
+                    console.log(this.facial)
                 })
                 axios.post('/api/testing', {
                     product_id: this.imageId,
-                    facial_expresion: "this.form"
+                    facial_expresion: "products:"
                 })
                     .then(function (response) {
                         console.log(response);
