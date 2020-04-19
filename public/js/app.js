@@ -4388,14 +4388,8 @@ __webpack_require__.r(__webpack_exports__);
     };
   },
   mounted: function mounted() {
-    var _this = this;
-
     this.products = JSON.parse(this.productsDb);
     this.isVisible = true;
-    EventBus.$on('showImage', function (data) {
-      _this.form = data;
-      console.log(data);
-    });
   },
   methods: {
     showImage: function showImage(id) {
@@ -4404,13 +4398,13 @@ __webpack_require__.r(__webpack_exports__);
       this.countDownTimer();
     },
     countDownTimer: function countDownTimer() {
-      var _this2 = this;
+      var _this = this;
 
       if (this.countDown > -2) {
         setTimeout(function () {
-          _this2.countDown -= 1;
+          _this.countDown -= 1;
 
-          _this2.countDownTimer();
+          _this.countDownTimer();
         }, 210);
       } else if (this.countDown === 0) {
         this.creatingNewTest();
@@ -4437,12 +4431,17 @@ __webpack_require__.r(__webpack_exports__);
       }
     },
     creatingNewTest: function creatingNewTest() {
+      var _this2 = this;
+
+      EventBus.$on('showImage', function (data) {
+        _this2.form = data;
+      });
       axios.post('/api/testing', {
         product_id: this.imageId,
-        facial_expresion: 'Flintstone'
+        facial_expresion: this.data
       }).then(function (response) {
         console.log(response);
-        console.log(this.form);
+        console.log(this.data);
       })["catch"](function (error) {
         console.log(error);
       });

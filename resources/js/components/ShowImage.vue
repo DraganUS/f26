@@ -55,10 +55,7 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.isVisible = true;
-            EventBus.$on('showImage',  (data)=>{
-                this.form = data;
-                console.log(data)
-            })
+
         },
         methods: {
             showImage(id){
@@ -96,13 +93,17 @@
                 }
             },
             creatingNewTest() {
+                EventBus.$on('showImage',  (data)=>{
+                    this.form = data;
+
+                })
                 axios.post('/api/testing', {
                     product_id: this.imageId,
-                    facial_expresion: 'Flintstone'
+                    facial_expresion: this.data
                 })
                     .then(function (response) {
                         console.log(response);
-                        console.log(this.form);
+                        console.log(this.data);
                     })
                     .catch(function (error) {
                         console.log(error);
