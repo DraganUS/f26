@@ -22,18 +22,12 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::group([
     'prefix' => 'auth'
 ], function () {
-//    Route::post('login', 'AuthController@login');
+    Route::post('/testing', 'API\TestController@store');;
 //    Route::post('signup', 'AuthController@signup');
-
-    Route::group([
-        'middleware' => 'auth:api'
-    ], function() {
-        Route::post('/testing', 'API\TestController@store');
-    });
 });
 
 //Route::middleware('auth:api')->post('/testing', 'API\TestController@store');
-//Route::get('/testing', 'API\TestController@index');
+Route::get('/testing', 'API\TestController@index');
 
 Route::post('/postman', function(Request $request) {
     return $request;
