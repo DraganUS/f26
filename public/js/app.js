@@ -4394,7 +4394,6 @@ __webpack_require__.r(__webpack_exports__);
     this.isVisible = true;
     EventBus.$on('showImage', function (data) {
       _this.form = data;
-      console.log(data);
     });
   },
   methods: {
@@ -4413,12 +4412,12 @@ __webpack_require__.r(__webpack_exports__);
           _this2.countDownTimer();
         }, 210);
       } else if (this.countDown === 0) {
-        console.log('post');
         this.creatingNewTest();
         this.countDownTimer();
       } else if (this.countDown === -2) {
         this.countDown = 4;
         this.removeTestedProduct();
+        console.log('FORM: ' + this.form);
       }
     },
     removeTestedProduct: function removeTestedProduct() {

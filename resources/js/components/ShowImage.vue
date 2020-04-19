@@ -57,7 +57,6 @@
             this.isVisible = true;
             EventBus.$on('showImage',  (data)=>{
                 this.form = data;
-                console.log(data);
             })
         },
         methods: {
@@ -73,12 +72,12 @@
                         this.countDownTimer()
                     }, 210)
                 } else if(this.countDown === 0) {
-                    console.log('post');
                     this.creatingNewTest();
                     this.countDownTimer();
                 } else if (this.countDown === -2) {
                     this.countDown = 4;
                     this.removeTestedProduct();
+                    console.log( 'FORM: ' + this.form);
                 }
             },
             removeTestedProduct(){
