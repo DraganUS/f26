@@ -4438,9 +4438,10 @@ __webpack_require__.r(__webpack_exports__);
       });
       axios.post('/api/testing', {
         product_id: this.imageId,
-        facial_expresion: this.form
+        facial_expresion: "this.form"
       }).then(function (response) {
         console.log(response);
+        console.log(this.form);
       })["catch"](function (error) {
         console.log(error);
       });
