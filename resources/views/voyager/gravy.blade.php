@@ -4,12 +4,12 @@
         canvas {
             position: absolute;
             top: 61px;
-            right: 1px;
+            right: 5px;
         }
         video{
             position: absolute;
             top: 61px;
-            right: 1px;
+            right: 5px;
             overflow: hidden;
         }
         /*@media only screen and (max-width: 700px) {*/
