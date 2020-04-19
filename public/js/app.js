@@ -77626,16 +77626,12 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "container" }, [
+  return _c("div", { staticClass: "container mr-12" }, [
     _c(
       "div",
       {
         staticClass: "row justify-content-center",
-        staticStyle: {
-          "margin-right": "274px",
-          display: "flex",
-          "justify-content": "center"
-        }
+        staticStyle: { display: "flex", "justify-content": "center" }
       },
       [
         _c("div", { staticClass: "col-md-8" }, [

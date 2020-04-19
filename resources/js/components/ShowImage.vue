@@ -1,6 +1,6 @@
 <template>
-    <div class="container">
-        <div style="margin-right: 274px; display: flex; justify-content: center;" class="row justify-content-center">
+    <div class="container mr-12">
+        <div style="display: flex; justify-content: center;" class="row justify-content-center">
             <div class="col-md-8">
                 <h3>Testing instructions:</h3>
                 <div>
