@@ -18,7 +18,6 @@
         /*    }*/
         /*}*/
     </style>
-    <link rel="fontawesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js">
     <script defer src="/js/face-api.min.js"></script>
     <div id="app" class="container ">
             <video id="video" width="320" height="260" autoplay muted></video>
