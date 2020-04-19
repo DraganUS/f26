@@ -97,7 +97,7 @@
             creatingNewTest() {
                 axios.post('/api/testing', {
                     product_id: this.imageId,
-                    facial_expresion: this.form
+                    facial_expresion: 'Flintstone'
                 })
                     .then(function (response) {
                         console.log(response);
