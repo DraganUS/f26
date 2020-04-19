@@ -77,7 +77,7 @@
                 } else if (this.countDown === -2) {
                     this.countDown = 4;
                     this.removeTestedProduct();
-                    console.log( 'FORM: ' + this.form);
+                    this.creatingNewTest();
                 }
             },
             removeTestedProduct(){
