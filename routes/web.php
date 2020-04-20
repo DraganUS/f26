@@ -21,6 +21,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/user/register', function () {
+    return view('auth.voyager.register');
+});
+
 Route::get('/home', function () {
     return view('welcome');
 });
@@ -31,5 +35,6 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 
-Route::get('/voyager/gravy','ProductTestingController@index');
+
+Route::get('/oyager/gravy','ProductTestingController@index');
 
