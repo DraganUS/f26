@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Test;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Log;
 
 class TestController extends Controller
 {
@@ -16,12 +17,10 @@ class TestController extends Controller
 
     public function store(Request $request)
     {
-        return $request;
-
 //        $userId = Auth::user();
         return  Log::info(Auth::user());
 
-        
+
 
 //        $userId = 1;
         $newTest = new Test();
