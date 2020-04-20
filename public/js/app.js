@@ -4427,7 +4427,7 @@ __webpack_require__.r(__webpack_exports__);
         setTimeout(function () {
           _this3.isVisible = false;
           _this3.counter = false;
-        }, 210);
+        }, 512);
       } else {
         console.log(this.products.length);
 

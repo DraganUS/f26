@@ -86,7 +86,7 @@
                     setTimeout(() => {
                         this.isVisible = false;
                         this.counter = false;
-                    }, 210)
+                    }, 512)
                 }else {
                     console.log(this.products.length);
                     for(let i = 0; i < this.products.length; i++) {
