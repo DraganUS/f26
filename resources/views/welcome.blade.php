@@ -181,7 +181,6 @@
         <main class="py-4">
             @yield('content')
         </main>
-        <hr>
         <div style="height: 200px"></div>
         <footer>
             <a href="">AGB</a>
