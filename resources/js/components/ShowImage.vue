@@ -55,6 +55,9 @@
             this.products = JSON.parse(this.productsDb);
             this.id = JSON.parse(this.idDb);
             this.isVisible = true;
+            EventBus.$on('showImage',  (data)=>{
+                this.facial = data;
+            })
 
         },
         methods: {
@@ -93,10 +96,6 @@
                 }
             },
             creatingNewTest() {
-                EventBus.$on('showImage',  (data)=>{
-                    this.facial = data;
-                    console.log(this.facial)
-                })
                 axios.post('/api/testing', {
                     id: this.id,
                     product_id: this.imageId,
