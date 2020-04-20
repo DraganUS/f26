@@ -162,11 +162,8 @@
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
                                     </form>
-                            <li class="nav-item" id="register">
-                                <a  class="nav-link" href="">{{ __('Register') }}</a>
-                            </li>
-
-                </div>
+                                    <div><h2>test</h2></div>
+                                </div>
                             </li>
                         @endguest
                     </ul>
