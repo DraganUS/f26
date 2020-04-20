@@ -4389,7 +4389,6 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
     this.id = JSON.parse(this.idDb);
-    console.log('iderID : ' + this.id);
     this.isVisible = true;
   },
   methods: {
@@ -4439,6 +4438,7 @@ __webpack_require__.r(__webpack_exports__);
         console.log(_this2.facial);
       });
       axios.post('/api/testing', {
+        id: this.id,
         product_id: this.imageId,
         facial_expresion: JSON.stringify(this.facial)
       }).then(function (response) {

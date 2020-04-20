@@ -54,7 +54,6 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.id = JSON.parse(this.idDb);
-            console.log('idID : '+ this.id)
             this.isVisible = true;
 
         },
@@ -99,6 +98,7 @@
                     console.log(this.facial)
                 })
                 axios.post('/api/testing', {
+                    id: this.id,
                     product_id: this.imageId,
                     facial_expresion: JSON.stringify(this.facial)
                 })
