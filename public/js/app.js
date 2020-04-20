@@ -4387,9 +4387,14 @@ __webpack_require__.r(__webpack_exports__);
     };
   },
   mounted: function mounted() {
+    var _this = this;
+
     this.products = JSON.parse(this.productsDb);
     this.id = JSON.parse(this.idDb);
     this.isVisible = true;
+    EventBus.$on('showImage', function (data) {
+      _this.facial = data;
+    });
   },
   methods: {
     showImage: function showImage(id) {
@@ -4398,14 +4403,14 @@ __webpack_require__.r(__webpack_exports__);
       this.countDownTimer();
     },
     countDownTimer: function countDownTimer() {
-      var _this = this;
+      var _this2 = this;
 
       if (this.countDown > -2) {
         setTimeout(function () {
-          _this.countDown -= 1;
+          _this2.countDown -= 1;
 
-          _this.countDownTimer();
-        }, 210);
+          _this2.countDownTimer();
+        }, 410);
       } else if (this.countDown === 0) {
         this.creatingNewTest();
         this.countDownTimer();
@@ -4431,12 +4436,6 @@ __webpack_require__.r(__webpack_exports__);
       }
     },
     creatingNewTest: function creatingNewTest() {
-      var _this2 = this;
-
-      EventBus.$on('showImage', function (data) {
-        _this2.facial = data;
-        console.log(_this2.facial);
-      });
       axios.post('/api/testing', {
         id: this.id,
         product_id: this.imageId,

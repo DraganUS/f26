@@ -71,7 +71,7 @@
                     setTimeout(() => {
                         this.countDown -= 1;
                         this.countDownTimer()
-                    }, 210)
+                    }, 410)
                 } else if(this.countDown === 0) {
                     this.creatingNewTest();
                     this.countDownTimer();
