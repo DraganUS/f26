@@ -17,9 +17,9 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::middleware('auth:api')->post('/testing', 'API\TestController@store');
+//Route::middleware('auth:api')->post('/testing', 'API\TestController@store');
 
-//Route::post('/testing', 'API\TestController@store');
+Route::post('/testing', 'API\TestController@store');
 Route::get('/testing', 'API\TestController@index');
 
 Route::post('/postman', function(Request $request) {
