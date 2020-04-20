@@ -70,11 +70,8 @@
                 <form method="POST" action="{{ route('register') }}">
                     @csrf
 
-                    <div class="form-group row form-group-default">
-                        <label for="name">
-                            {{ __('Name') }}
-                        </label>
-
+                    <div class="form-group row form-group-default" id="emailGroup">
+                        <label for="name">{{ __('Name') }} </label>
                         <div class="controls">
                             <input
                                 id="name"
