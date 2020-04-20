@@ -80,7 +80,7 @@
                                 name="name"
                                 id="name"
                                 value="{{ old('name') }}"
-                                placeholder="{{ __('voyager::generic.email') }}"
+                                placeholder="{{ __('Name') }}"
                                 class="form-control @error('name') is-invalid @enderror"
                                 autocomplete="name"
                                 required
