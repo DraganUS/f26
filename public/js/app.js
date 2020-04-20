@@ -4372,10 +4372,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: ['productsDb'],
+  props: ['productsDb', 'id'],
   name: "ShowImage",
   data: function data() {
     return {
+      id: '',
       isVisible: false,
       counter: true,
       products: [],
@@ -4387,6 +4388,8 @@ __webpack_require__.r(__webpack_exports__);
   },
   mounted: function mounted() {
     this.products = JSON.parse(this.productsDb);
+    this.id = JSON.parse(this.id);
+    console.log('iderID : ' + this.id);
     this.isVisible = true;
   },
   methods: {

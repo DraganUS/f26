@@ -39,12 +39,13 @@
 </template>
 <script>
     export default {
-        props: ['productsDb'],
+        props: ['productsDb' , 'id'],
         name: "ShowImage",
         data: () => ({
+            id:'',
             isVisible: false,
             counter: true,
-            products: [ ],
+            products: [],
             imageId: 0,
             countDown : 4,
             testedID: 0,
@@ -52,6 +53,8 @@
         }),
         mounted() {
             this.products = JSON.parse(this.productsDb);
+            this.id = JSON.parse(this.id);
+            console.log('iderID : '+this.id)
             this.isVisible = true;
 
         },

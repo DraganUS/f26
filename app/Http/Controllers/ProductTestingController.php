@@ -10,6 +10,7 @@ class ProductTestingController extends Controller
     public function index()
     {
         $products = Product::all();
-        return view('/voyager/gravy', compact('products'));
+        $id = auth()-id;
+        return view('/voyager/gravy', compact('products', $id));
     }
 }
