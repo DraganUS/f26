@@ -20,7 +20,7 @@ class TestController extends Controller
 //        $userId = Auth::user();
 
         $newTest = new Test();
-        $newTest->user_id = $userId;
+        $newTest->user_id = $request->id;
         $newTest->product_id = $request->product_id;
         $newTest->facial_expresion = json_encode($request->facial_expresion);
         $newTest->save();
