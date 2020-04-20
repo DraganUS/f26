@@ -29,6 +29,10 @@ Route::get('/home', function () {
     return view('welcome');
 });
 
+Route::get('/register', function () {
+    return view('auth.voyager.register');
+});
+
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
@@ -36,5 +40,5 @@ Route::group(['prefix' => 'admin'], function () {
 
 
 
-Route::get('/oyager/gravy','ProductTestingController@index');
+Route::get('/voyager/gravy','ProductTestingController@index');
 
