@@ -19,8 +19,9 @@ class TestController extends Controller
         return $request;
 
 //        $userId = Auth::user();
-        return auth('api')->user()->id;
-return $userId;
+        return  Log::info(Auth::user());
+
+        
 
 //        $userId = 1;
         $newTest = new Test();
