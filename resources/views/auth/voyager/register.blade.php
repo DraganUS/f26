@@ -70,41 +70,19 @@
                 <form method="POST" action="{{ route('register') }}">
                     @csrf
 
-                    <div class="form-group row form-group-default" >
-                        <label for="name">{{ __('Name') }} </label>
-                        <div class="controls">
-                            <input
-                                id="name"
-                                type="text"
-                                class="form-control @error('name')
-                                    is-invalid @enderror"
-                                name="name"
-                                value="{{ old('name') }}"
-                                required
-                                autocomplete="name"
-                                autofocus
-                            >
-
-                            @error('name')
-                            <span class="invalid-feedback" role="alert">
-                                <strong>{{ $message }}</strong>
-                            </span>
-                            @enderror
-                        </div>
-                    </div>
 
 
                     <div class="form-group form-group-default" id="emailGroup">
-                        <label>{{ __('voyager::generic.email') }}</label>
+                        <label>Name</label>
                         <div class="controls">
                             <input
-                                type="email"
-                                name="email"
-                                id="email"
-                                value="{{ old('email') }}"
+                                type="name"
+                                name="name"
+                                id="name"
+                                value="{{ old('name') }}"
                                 placeholder="{{ __('voyager::generic.email') }}"
                                 class="form-control @error('name') is-invalid @enderror"
-                                autocomplete="email"
+                                autocomplete="name"
                                 required
                             >
                             @error('name')
@@ -116,16 +94,16 @@
                     </div>
 
                     <div class="form-group form-group-default" >
-                        <label>Name</label>
+                        <label>{{ __('voyager::generic.email') }}</label>
                         <div class="controls">
                             <input
-                                type="text"
-                                name="text"
-                                id="text"
-                                value="{{ old('name') }}"
+                                type="email"
+                                name="email"
+                                id="email"
+                                value="{{ old('email') }}"
                                 placeholder="{{ __('voyager::generic.email') }}"
                                 class="form-control @error('email') is-invalid @enderror"
-                                autocomplete="name"
+                                autocomplete="email"
                                 required
                             >
                             @error('email')
