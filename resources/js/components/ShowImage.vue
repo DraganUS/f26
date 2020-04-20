@@ -54,7 +54,7 @@
         mounted() {
             this.products = JSON.parse(this.productsDb);
             this.id = JSON.parse(this.idDb);
-            console.log('iderID : '+ this.id)
+            console.log('idID : '+ this.id)
             this.isVisible = true;
 
         },
