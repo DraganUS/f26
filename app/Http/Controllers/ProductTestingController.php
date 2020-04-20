@@ -11,6 +11,6 @@ class ProductTestingController extends Controller
     {
         $products = Product::all();
         $id = auth()-id;
-        return view('/voyager/gravy', compact('products', $id));
+        return view('/voyager/gravy', compact('products', 'id'));
     }
 }
