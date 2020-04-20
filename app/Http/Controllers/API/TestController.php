@@ -16,7 +16,9 @@ class TestController extends Controller
 
     public function store(Request $request)
     {
-        $userId = Auth::user();
+        return $request->user();
+
+//        $userId = Auth::user();
 return $userId;
 
 //        $userId = 1;
