@@ -29,10 +29,6 @@ Route::get('/home', function () {
     return view('welcome');
 });
 
-Route::get('/register', function () {
-    return view('auth.voyager.register');
-});
-
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
