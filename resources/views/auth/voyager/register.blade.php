@@ -98,6 +98,18 @@
                         </div>
                     </div>
 
+                    <div class="form-group form-group-default" id="emailGroup">
+                        <label>{{ __('voyager::generic.email') }}</label>
+                        <div class="controls">
+                            <input type="text" name="email" id="email" value="{{ old('email') }}" placeholder="{{ __('voyager::generic.email') }}" class="form-control" required>
+                            @error('email')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                            @enderror
+                        </div>
+                    </div>
+
                     <div class="form-group row">
                         <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
 
