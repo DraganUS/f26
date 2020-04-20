@@ -83,8 +83,10 @@
             },
             removeTestedProduct(){
                 if (this.products.length === 1){
-                       this.isVisible = false;
-                       this.counter = false;
+                    setTimeout(() => {
+                        this.isVisible = false;
+                        this.counter = false;
+                    }, 210)
                 }else {
                     console.log(this.products.length);
                     for(let i = 0; i < this.products.length; i++) {

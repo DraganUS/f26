@@ -4421,9 +4421,13 @@ __webpack_require__.r(__webpack_exports__);
       }
     },
     removeTestedProduct: function removeTestedProduct() {
+      var _this3 = this;
+
       if (this.products.length === 1) {
-        this.isVisible = false;
-        this.counter = false;
+        setTimeout(function () {
+          _this3.isVisible = false;
+          _this3.counter = false;
+        }, 210);
       } else {
         console.log(this.products.length);
 
