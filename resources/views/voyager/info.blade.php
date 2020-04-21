@@ -16,7 +16,6 @@
                 4. After you see the picture, press play again.<br>
                 5. Test procedure is over when you go through this process 5 times (see 5 pictures).<br>
                 <h3>Thank you in advance!</h3>
-                <h4 style="color: red" v-if="counter">remaining tests: {{this.products.length}}</h4>
             </div>
         </div>
         <div>
