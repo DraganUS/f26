@@ -4371,6 +4371,17 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb', 'idDb'],
   name: "ShowImage",
@@ -77635,25 +77646,24 @@ var render = function() {
   return _c("div", { staticClass: "container mr-12" }, [
     _c("div", { staticClass: "row" }, [
       _c("div", { staticClass: "col-md-8" }, [
-        _c("h3", [_vm._v("Testing instructions:")]),
+        _c("h2", [_vm._v("Testing instructions:")]),
         _vm._v(" "),
         _c("div", [
-          _c("span", [
-            _vm._v(
-              "\n                    Stand straight for the duration of the test and look straight at the screen.\n                    "
-            ),
-            _c("br"),
-            _vm._v(
-              "\n                    Press play, after countdown you will be shown a picture for a split second.\n                    "
-            ),
-            _c("br"),
-            _vm._v(" "),
-            _vm.counter
-              ? _c("h4", { staticStyle: { color: "red" } }, [
-                  _vm._v("remaining tests: " + _vm._s(this.products.length))
-                ])
-              : _vm._e()
-          ])
+          _c("h3", [_vm._v("Prerequisites:")]),
+          _vm._v(
+            "\n\n\n                1. ! NOTIFICATION ! This test will be using your web camera\n                2. Your Laptop or Computer should have web camera installed and ready for use\n                3. For the duration of the test, please position yourself (your face) in the center of the camera window\n\n                "
+          ),
+          _c("h3", [_vm._v("Test procedure:")]),
+          _vm._v(
+            "\n\n                1. Look strait at the screen\n                2. On the “Test Window” press play button once and wait for a picture to show up\n                3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.\n                4. After you see the picture, press play again\n                5. Test procedure is over when you go through this process 5 times (see 5 pictures)\n\n                "
+          ),
+          _c("h3", [_vm._v("Thank you in advance!")]),
+          _vm._v(" "),
+          _vm.counter
+            ? _c("h4", { staticStyle: { color: "red" } }, [
+                _vm._v("remaining tests: " + _vm._s(this.products.length))
+              ])
+            : _vm._e()
         ]),
         _vm._v(" "),
         _vm.isVisible

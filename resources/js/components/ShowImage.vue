@@ -2,15 +2,26 @@
     <div class="container mr-12">
         <div class="row">
             <div class="col-md-8">
-                <h3>Testing instructions:</h3>
+                <h2>Testing instructions:</h2>
                 <div>
-                    <span>
-                        Stand straight for the duration of the test and look straight at the screen.
-                        <br>
-                        Press play, after countdown you will be shown a picture for a split second.
-                        <br>
-                        <h4 style="color: red" v-if="counter">remaining tests: {{this.products.length}}</h4>
-                    </span>
+                    <h3>Prerequisites:</h3>
+
+
+                    1. ! NOTIFICATION ! This test will be using your web camera
+                    2. Your Laptop or Computer should have web camera installed and ready for use
+                    3. For the duration of the test, please position yourself (your face) in the center of the camera window
+
+                    <h3>Test procedure:</h3>
+
+                    1. Look strait at the screen
+                    2. On the “Test Window” press play button once and wait for a picture to show up
+                    3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.
+                    4. After you see the picture, press play again
+                    5. Test procedure is over when you go through this process 5 times (see 5 pictures)
+
+                    <h3>Thank you in advance!</h3>
+
+                    <h4 style="color: red" v-if="counter">remaining tests: {{this.products.length}}</h4>
                 </div>
                 <div class="card dark mb-5" v-if="isVisible">
                     <div style="background: #313945; padding: 8px; text-align: center;" class="card-header d-flex justify-content-center">Product ID: {{products[0].id}}</div>
