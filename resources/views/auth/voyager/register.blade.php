@@ -73,7 +73,7 @@
 
 
                     <div class="form-group form-group-default" id="emailGroup">
-                        <label>Full Name</label>
+                        <label>Full         Name</label>
                         <div class="controls">
                             <input
                                 type="name"
