@@ -75,7 +75,7 @@
     <nav style="height: 80px; padding: 0 16px; border-bottom: 1px solid #DADDEC; letter-spacing: 2px;" class="navbar navbar-expand-md navbar-light bg-white ">
         <div class="container">
             <a class="navbar-brand" style="color: #2b6bde; font-size: 26px" href="{{ url('/') }}">
-                {{ config('app.name', 'Laravel') }}
+                {{ config('app.name', 'The application of AI facial expressions in social media and web sites evaluation. ') }}
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                 <span class="navbar-toggler-icon"></span>
