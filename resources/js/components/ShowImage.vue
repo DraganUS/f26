@@ -5,7 +5,7 @@
                 <h2>Testing instructions:</h2>
                 <div>
                     <h3>Prerequisites:</h3>
-                    1. ! NOTIFICATION ! This test will be using your web camera.<br>
+                    1. <span style="background: #FFC107">! NOTIFICATION !</span> This test will be using your web camera.<br>
                     2. Your Laptop or Computer should have web camera installed and ready for use.<br>
                     3. For the duration of the test, please position yourself (your face) in the center of the camera window.<br>
                     <h3>Test procedure:</h3>

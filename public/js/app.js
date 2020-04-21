@@ -77644,9 +77644,11 @@ var render = function() {
         _vm._v(" "),
         _c("div", [
           _c("h3", [_vm._v("Prerequisites:")]),
-          _vm._v(
-            "\n                1. ! NOTIFICATION ! This test will be using your web camera."
-          ),
+          _vm._v("\n                1. "),
+          _c("span", { staticStyle: { background: "#FFC107" } }, [
+            _vm._v("! NOTIFICATION !")
+          ]),
+          _vm._v(" This test will be using your web camera."),
           _c("br"),
           _vm._v(
             "\n                2. Your Laptop or Computer should have web camera installed and ready for use."
