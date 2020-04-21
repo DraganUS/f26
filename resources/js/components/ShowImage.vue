@@ -5,22 +5,16 @@
                 <h2>Testing instructions:</h2>
                 <div>
                     <h3>Prerequisites:</h3>
-
-
-                    1. ! NOTIFICATION ! This test will be using your web camera
-                    2. Your Laptop or Computer should have web camera installed and ready for use
-                    3. For the duration of the test, please position yourself (your face) in the center of the camera window
-
+                    1. ! NOTIFICATION ! This test will be using your web camera <br>
+                    2. Your Laptop or Computer should have web camera installed and ready for use <br>
+                    3. For the duration of the test, please position yourself (your face) in the center of the camera window<br>
                     <h3>Test procedure:</h3>
-
-                    1. Look strait at the screen
-                    2. On the “Test Window” press play button once and wait for a picture to show up
-                    3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.
-                    4. After you see the picture, press play again
-                    5. Test procedure is over when you go through this process 5 times (see 5 pictures)
-
+                    1. Look strait at the screen<br>
+                    2. On the “Test Window” press play button once and wait for a picture to show up<br>
+                    3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.<br>
+                    4. After you see the picture, press play again<br>
+                    5. Test procedure is over when you go through this process 5 times (see 5 pictures)<br>
                     <h3>Thank you in advance!</h3>
-
                     <h4 style="color: red" v-if="counter">remaining tests: {{this.products.length}}</h4>
                 </div>
                 <div class="card dark mb-5" v-if="isVisible">

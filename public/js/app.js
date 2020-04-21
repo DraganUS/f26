@@ -4376,12 +4376,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['productsDb', 'idDb'],
   name: "ShowImage",
@@ -77651,12 +77645,38 @@ var render = function() {
         _c("div", [
           _c("h3", [_vm._v("Prerequisites:")]),
           _vm._v(
-            "\n\n\n                1. ! NOTIFICATION ! This test will be using your web camera\n                2. Your Laptop or Computer should have web camera installed and ready for use\n                3. For the duration of the test, please position yourself (your face) in the center of the camera window\n\n                "
+            "\n                1. ! NOTIFICATION ! This test will be using your web camera "
           ),
-          _c("h3", [_vm._v("Test procedure:")]),
+          _c("br"),
           _vm._v(
-            "\n\n                1. Look strait at the screen\n                2. On the “Test Window” press play button once and wait for a picture to show up\n                3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.\n                4. After you see the picture, press play again\n                5. Test procedure is over when you go through this process 5 times (see 5 pictures)\n\n                "
+            "\n                2. Your Laptop or Computer should have web camera installed and ready for use "
           ),
+          _c("br"),
+          _vm._v(
+            "\n                3. For the duration of the test, please position yourself (your face) in the center of the camera window"
+          ),
+          _c("br"),
+          _vm._v(" "),
+          _c("h3", [_vm._v("Test procedure:")]),
+          _vm._v("\n                1. Look strait at the screen"),
+          _c("br"),
+          _vm._v(
+            "\n                2. On the “Test Window” press play button once and wait for a picture to show up"
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                3. Picture will be displayed for a very short time. This is normal, and actually the point of this test."
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                4. After you see the picture, press play again"
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                5. Test procedure is over when you go through this process 5 times (see 5 pictures)"
+          ),
+          _c("br"),
+          _vm._v(" "),
           _c("h3", [_vm._v("Thank you in advance!")]),
           _vm._v(" "),
           _vm.counter
