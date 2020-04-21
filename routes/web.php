@@ -37,8 +37,8 @@ Route::get('/voyager/gravy','ProductTestingController@index');
 Route::get('/voyager/info',function (){
     return view('voyager.info');
 });
-
-Route::get('/admin',function (){
-    return view('voyager.info');
-});
+//
+//Route::get('/admin',function (){
+//    return view('voyager.info');
+//});
 
