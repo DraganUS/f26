@@ -101,7 +101,7 @@
             <div class="container">
 
                     <svg  viewBox="0 0 253 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <title> {{ config('app.name', 'Laravel') }}</title>
+                        <title> {{ config('app.name', 'The application of AI facial expressions in social media and web sites evaluation. ') }}</title>
                         <desc>Created by DraganUS</desc>
                         <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                             <g id="Desktop" transform="translate(-238.000000, -318.000000)">
