@@ -34,4 +34,7 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 Route::get('/voyager/gravy','ProductTestingController@index');
+Route::get('/voyager/info',function (){
+    return view('voyager.info');
+});
 
