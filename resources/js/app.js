@@ -18,6 +18,7 @@ window.Vue = require('vue');
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('home-main-component', require('./components/HomeMainComponent.vue').default);
+Vue.component('reg-home-main-component', require('./components/RegistredHomeMainComponent').default);
 Vue.component('show-image-component', require('./components/ShowImage.vue').default);
 Vue.component('home-2-component', require('./components/Home2Component.vue').default);
 Vue.component('home-3-component', require('./components/Home3Component.vue').default);

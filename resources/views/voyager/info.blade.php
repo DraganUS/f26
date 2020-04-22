@@ -9,6 +9,7 @@
                 1. <span style="background: #FFC107">! NOTIFICATION !</span> This test will be using your web camera.<br>
                 2. Your Laptop or Computer should have web camera installed and ready for use.<br>
                 <img style="max-height: 500px;" src="https://tahi26.de//storage/allow.jpg" alt="">
+                <br>
                 3. For the duration of the test, please position yourself (your face) in the center of the camera window.<br>
                 <h4 style="margin: 20px  5px"><strong>When you see yourself with a scheme to identify, as shown in the picture below, then you are ready for testing.</strong></h4>
                 <img style="max-height: 500px;" src="https://tahi26.de//storage/Screenshot%202020-04-22%20at%2000.54.44.png" alt="">

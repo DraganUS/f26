@@ -173,7 +173,12 @@
             </div>
         </nav>
         <div class="mx-3 "style="z-index: 1">
-            <home-main-component></home-main-component>
+            @guest
+                <home-main-component></home-main-component>
+                @if (Route::has('register'))
+                    <reg-home-main-component></reg-home-main-component>
+                @endif
+            @else
             <home-2-component></home-2-component>
             <home-3-component></home-3-component>
             <how-it-works-component></how-it-works-component>
