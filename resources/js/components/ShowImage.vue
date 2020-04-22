@@ -2,7 +2,7 @@
     <div class="container mr-12">
         <div class="row">
             <div class="col-md-8">
-                <div>
+                <div  v-if="isVisible">
                     <h2>Let's begin</h2>
                     <h4 style="color: red" v-if="counter">remaining tests: {{this.products.length}}</h4>
                 </div>
