@@ -23,6 +23,13 @@
             </div>
         </div>
         <h3>Thank you in advance!</h3>
+        <div class="form-group row mb-0">
+            <div class="col-md-6 offset-md-4">
+                <a href="https://tahi26.de/voyager/gravy" class="btn btn-primary">
+                    START TEST
+                </a>
+            </div>
+        </div>
     </div>
 @stop
 
