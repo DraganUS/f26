@@ -4263,6 +4263,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "HomeMainComponent",
   data: function data() {
@@ -77501,6 +77504,14 @@ var staticRenderFns = [
           _c("p", [
             _vm._v(
               "With the virtual tachistoscope we measure the level of memory, attention and conciseness of your advertising material, packaging, logos etc. Since motifs of this kind are viewed only very fleetingly in most cases, it is important to know what the viewer subconsciously perceives in such short time intervals and whether the first fleeting impression corresponds to your ideas."
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-item", attrs: { id: "register" } }, [
+            _c(
+              "a",
+              { staticClass: "nav-link", attrs: { href: "/user/register" } },
+              [_vm._v("GEt startet")]
             )
           ])
         ])
