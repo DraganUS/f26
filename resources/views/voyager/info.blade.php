@@ -23,7 +23,9 @@
             </div>
         </div>
         <h3>Thank you in advance!</h3>
-
+        <li class="nav-item" id="register" style="list-style-type: none">
+            <a  class="nav-link" href="/user/register">Get startet</a>
+        </li>
     </div>
 @stop
 
