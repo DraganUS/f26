@@ -8,7 +8,7 @@
                             <h2 class="mb-5">Science fiction in market research</h2>
                             <p>With the virtual tachistoscope we measure the level of memory, attention and conciseness of your advertising material, packaging, logos etc. Since motifs of this kind are viewed only very fleetingly in most cases, it is important to know what the viewer subconsciously perceives in such short time intervals and whether the first fleeting impression corresponds to your ideas.</p>
                             <li class="nav-item" id="register" style="list-style-type: none">
-                                <a  class="nav-link" href="/user/register">Get startet</a>
+                                <a  class="nav-link" href="/user/register">Get started</a>
                             </li>
                         </div>
                     </div>
