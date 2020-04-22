@@ -15,11 +15,11 @@
                 3. Picture will be displayed for a very short time. This is normal, and actually the point of this test.<br>
                 4. After you see the picture, press play again.<br>
                 5. Test procedure is over when you go through this process 5 times (see 5 pictures).<br>
-                <h4 class="mb-4"><strong> You need to allow using your camera</strong></h4>
+                <h4><strong> You need to allow using your camera</strong></h4>
             </div>
         </div>
         <img style="max-height: 500px;" src="https://tahi26.de//storage/allow.jpg" alt="">
-        <h4 class="mt-4 mb-4"><strong>When you see yourself with a scheme to identify, as shown in the picture below, then you are ready for testing.</strong></h4>
+        <h4 style="margin: 20px  5px"><strong>When you see yourself with a scheme to identify, as shown in the picture below, then you are ready for testing.</strong></h4>
         <img style="max-height: 500px;" src="https://tahi26.de//storage/Screenshot%202020-04-22%20at%2000.54.44.png" alt="">
         <h3>Thank you in advance!</h3>
     </div>
