@@ -77507,13 +77507,21 @@ var staticRenderFns = [
             )
           ]),
           _vm._v(" "),
-          _c("li", { staticClass: "nav-item", attrs: { id: "register" } }, [
-            _c(
-              "a",
-              { staticClass: "nav-link", attrs: { href: "/user/register" } },
-              [_vm._v("GEt startet")]
-            )
-          ])
+          _c(
+            "li",
+            {
+              staticClass: "nav-item",
+              staticStyle: { "list-style-type": "none" },
+              attrs: { id: "register" }
+            },
+            [
+              _c(
+                "a",
+                { staticClass: "nav-link", attrs: { href: "/user/register" } },
+                [_vm._v("Get startet")]
+              )
+            ]
+          )
         ])
       ]
     )
